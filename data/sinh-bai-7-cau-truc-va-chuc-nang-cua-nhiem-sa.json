@@ -1,0 +1,484 @@
+{
+ "id": "sinh-bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa",
+ "subject": "Sinh học",
+ "name": "Bài 7: Cấu trúc và chức năng của Nhiễm Sắc Thể",
+ "path": "data/sinh-bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa",
+     "name": "Bài 7: Cấu trúc và chức năng của Nhiễm Sắc Thể",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Một đoạn nhiễm sắc chất được quan sát ở bốn mức độ đóng gói khác nhau: DNA mạch kép → chuỗi nucleosome → sợi nhiễm sắc → cấu trúc cuộn xoắn bậc cao → chromatid<br>Khi mức độ đóng gói tăng dần, nhận định nào sau đây đúng?",
+       "o": [
+        "Đường kính cấu trúc giảm dần và DNA ngày càng dễ phiên mã.",
+        "Đường kính cấu trúc tăng dần và DNA được đóng gói ngày càng chặt.",
+        "Số lượng nucleotide của DNA giảm dần theo mức độ đóng gói.",
+        "Thành phần base của DNA thay đổi theo mức độ đóng gói."
+       ],
+       "a": 1,
+       "e": "Khi mức độ đóng gói tăng, DNA được cuộn chặt hơn dẫn đến đường kính cấu trúc tăng. Sự đóng gói chặt chẽ làm giảm khả năng tiếp cận của các enzyme tham gia phiên mã, nhưng câu hỏi không yêu cầu nói về phiên mã. Các mức độ đóng gói không làm thay đổi số lượng nucleotide hay thành phần base của DNA.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Hình mô phỏng một NST từ kỳ trung gian đến kỳ giữa cho thấy sợi chromatin khoảng 10 nm được tổ chức thành các vòng nhờ condensin và tiếp tục nén lại. Ý nghĩa chủ yếu của quá trình này là",
+       "o": [
+        "làm NST ngắn và gọn, thuận lợi cho sự phân li trong phân bào.",
+        "làm tăng số lượng gene trên NST.",
+        "làm DNA nhân đôi nhiều lần trước phân bào.",
+        "tạo thêm các allele mới."
+       ],
+       "a": 0,
+       "e": "Quá trình nén NST giúp NST ngắn gọn hơn, dễ dàng phân li chính xác trong quá trình phân bào. Việc tổ chức NST thành các vòng và nén lại đảm bảo sự phân chia đều đặn của nhiễm sắc thể. Điều này hỗ trợ cho sự truyền đạt thông tin di truyền một cách hiệu quả.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Một chất ức chế hoạt động của condensin được bổ sung vào tế bào đang chuẩn bị phân chia. Hậu quả trực tiếp nào sau đây có khả năng xảy ra?",
+       "o": [
+        "NST khó co xoắn và nén chặt bình thường trước khi phân li.",
+        "Trình tự nucleotide của DNA lập tức bị thay đổi.",
+        "Số lượng gene trên mỗi NST giảm một nửa.",
+        "Mọi nucleosome bị phân giải hoàn toàn."
+       ],
+       "a": 0,
+       "e": "Condensin là protein giúp co xoắn và nén chặt nhiễm sắc thể. Khi bị ức chế, nhiễm sắc thể không thể co xoắn và nén chặt bình thường, dẫn đến hậu quả trực tiếp là đáp án a.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Thành phần hóa học của NST bao gồm:",
+       "o": [
+        "Phân tử Protein.",
+        "Phân tử DNA.",
+        "Protein và phân tử DNA.",
+        "Acid và base."
+       ],
+       "a": 2,
+       "e": "NST chứa cả protein và DNA vì DNA mang thông tin di truyền và protein giúp cấu trúc hóa NST. Protein và DNA kết hợp tạo thành nhiễm sắc thể trong tế bào.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Quan sát NST sau và cho biết các chú thích nào dưới đây là đúng?",
+       "o": [
+        "1-telomere, 2-cánh ngắn, 3-cánh dài, 4-tâm động",
+        "1-telomere, 2-cánh ngắn, 3-tâm động, 4-cánh dài",
+        "1-tâm động, 2-cánh dài, 3-cánh ngắn, 4-telomere",
+        "1-cánh ngắn, 2-tâm động, 3-cánh dài, 4-telomere"
+       ],
+       "a": 0,
+       "e": "Đáp án đúng là a vì telomere là cấu trúc ở đầu nhiễm sắc thể, cánh ngắn và cánh dài là các đoạn phân bố ở hai bên tâm động, và tâm động là điểm gắn với sợi thoi phân bào.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Đâu là đơn vị cấu tạo nên NST ở sinh vật nhân thực?",
+       "o": [
+        "Protein",
+        "Nucleotide",
+        "Nucleosome",
+        "Amino acid"
+       ],
+       "a": 2,
+       "e": "Nucleosome là đơn vị cấu tạo cơ bản của nhiễm sắc thể, gồm DNA quấn quanh histon. Các nucleosome liên kết với nhau tạo thành sợi nhiễm sắc. Các đáp án khác không phải là đơn vị cấu tạo trực tiếp của NST.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Trên NST mỗi gene định vị tại một vị trí xác định được gọi là:",
+       "o": [
+        "Locus",
+        "Taxon",
+        "Allele",
+        "Chromatid"
+       ],
+       "a": 0,
+       "e": "Locus là vị trí cụ thể trên nhiễm sắc thể mà một gen chiếm giữ. Các gen khác nhau sẽ nằm ở các locus khác nhau trên cùng một nhiễm sắc thể hoặc các nhiễm sắc thể khác nhau. Khái niệm locus giúp xác định vị trí của gen trong quá trình nghiên cứu di truyền.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Trong nguyên phân, hình thái NST được quan sát rõ nhất ở kì nào sau đây?",
+       "o": [
+        "Cuối kì trung gian.",
+        "Kì đầu.",
+        "Kì giữa.",
+        "Kì sau."
+       ],
+       "a": 2,
+       "e": "Trong nguyên phân, hình thái NST được quan sát rõ nhất ở kì giữa vì ở giai đoạn này NST đã xếp thành hàng trên mặt phẳng xích đạo của thoi phân bào, tạo điều kiện quan sát rõ ràng về số lượng và hình dạng của NST.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Khi nuôi cấy một dòng tế bào soma qua nhiều thế hệ, người ta ghi nhận chiều dài telomere trung bình giảm dần. Vai trò nào của telomere giải thích tốt nhất vì sao sự mất quá nhiều trình tự này có thể ảnh hưởng đến tế bào?",
+       "o": [
+        "Bảo vệ đầu mút NST khỏi bị mất thông tin hoặc nối nhầm với NST khác.",
+        "Là nơi tổng hợp protein của tế bào.",
+        "Là nơi ribosome liên kết với NST.",
+        "Là vị trí duy nhất xảy ra tái bản DNA."
+       ],
+       "a": 0,
+       "e": "Telomere có vai trò bảo vệ đầu mút NST khỏi bị mất thông tin hoặc nối nhầm với NST khác. Khi telomere ngắn dần, đầu mút NST dễ bị tổn thương hoặc kết hợp sai, gây ảnh hưởng đến tính toàn vẹn và chức năng của NST.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Ở loài sinh sản vô tính, bộ NST của loài được ổn định qua các thế hệ nhờ quá trình nào sau đây?",
+       "o": [
+        "Nguyên phân, giảm phân, thụ tinh.",
+        "Nguyên phân và giảm phân.",
+        "Giảm phân.",
+        "Nguyên phân."
+       ],
+       "a": 3,
+       "e": "Nguyên phân là quá trình phân chia tế bào sinh dưỡng, giúp duy trì số lượng nhiễm sắc thể ổn định trong mỗi tế bào con. Ở sinh sản vô tính, tế bào sinh dưỡng trải qua nguyên phân để tạo ra các cá thể mới có bộ NST giống nhau với cá thể mẹ. Do đó, nguyên phân đảm bảo sự ổn định bộ NST qua các thế hệ.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "DNA trong nhân tế bào người có tổng chiều dài rất lớn nhưng vẫn được chứa trong một nhân có kích thước rất nhỏ. Đặc điểm nào của NST góp phần trực tiếp giải quyết vấn đề này?",
+       "o": [
+        "DNA liên kết với histone và được tổ chức thành nhiều mức đóng gói.",
+        "DNA bị cắt thành các đoạn rời ở mỗi lần phân bào.",
+        "Các gene được loại khỏi DNA khi không hoạt động.",
+        "Mỗi tế bào chỉ giữ lại một phần hệ gene."
+       ],
+       "a": 0,
+       "e": "NST có khả năng đóng gói DNA một cách hiệu quả nhờ liên kết với histone và tổ chức thành nhiều mức, giúp giảm kích thước DNA để chứa trong nhân nhỏ. Điều này trực tiếp giải quyết vấn đề về sự chứa đựng DNA dài trong không gian hạn chế. Các mức đóng gói này cho phép DNA được sắp xếp gọn gàng và dễ dàng truy cập khi cần.",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Trong một tế bào đang phân chia, một NST có vùng tâm động nhưng kinetochore hình thành tại vùng này bị bất thường nên vi ống thoi phân bào không bám được. Hậu quả trực tiếp nhất là",
+       "o": [
+        "NST đó có nguy cơ không phân li bình thường về hai cực tế bào.",
+        "toàn bộ DNA của tế bào không thể tái bản.",
+        "NST lập tức mất hết các gene.",
+        "telomere của mọi NST bị phân giải."
+       ],
+       "a": 0,
+       "e": "Kinetochore là cấu trúc giúp NST bám vào vi ống thoi phân bào. Nếu kinetochore bị bất thường, NST không thể phân li về hai cực tế bào. Do đó, hậu quả trực tiếp nhất là NST đó có nguy cơ không phân li bình thường.",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Hình vẽ sau đây mô tả hai tế bào ở hai cơ thể lưỡng bội đang phân bào. Biết rằng không xảy ra đột biến; các chữ cái A, a, B, b, c, D, M, n kí hiệu cho các NST. Theo lý thuyết, phát biểu nào sau đây đúng?",
+       "o": [
+        "Hai tế bào đều đang ở kỳ sau của nguyên phân.",
+        "Khi kết thúc quá trình phân bào ở hai tế bào trên thì từ tế bào 1 tạo ra hai tế bào lưỡng bội, từ tế bào 2 tạo ra hai tế bào đơn bội.",
+        "Bộ NST của tế bào 1 là 2n = 4, bộ NST của tế bào 2 là 2n = 8",
+        "Cả 2 tế bào đang ở kì sau của giảm phân II."
+       ],
+       "a": 3,
+       "e": "Đáp án D đúng vì ở kỳ sau của giảm phân II, các NST đơn đang di chuyển về hai cực tế bào, phù hợp với hình vẽ mô tả hai tế bào đang phân chia theo kiểu giảm phân. Các đáp án khác không phù hợp với giai đoạn hoặc kết quả phân bào được mô tả.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Trên một cặp NST tương đồng, tại cùng một locus, hai trình tự của cùng một gene có thể khác nhau về một số nucleotide. Hai dạng của gene này được gọi là",
+       "o": [
+        "hai allele.",
+        "hai chromatid chị em.",
+        "hai locus.",
+        "hai tâm động."
+       ],
+       "a": 0,
+       "e": "Hai trình tự của cùng một gene trên NST tương đồng có thể khác nhau về nucleotide, điều này tạo ra hai dạng gọi là allele. Allele là các phiên bản khác nhau của cùng một gene tại cùng một locus. Đây là khái niệm cơ bản trong di truyền học.",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Điều nào sau đây là đúng khi nói về sự cuộn xoắn của NST?",
+       "o": [
+        "Giúp cho các NST tồn tại thành từng cặp tương đồng.",
+        "Giúp cho sự vận động của NST và sự vận động của các gene trong quá trình sinh sản ở sinh vật diễn ra một cách ổn định.",
+        "Giúp giải thích được cơ sở tế bào học cho sự di truyền của các gene quy định tính trạng từ bố mẹ sang các cá thể con.",
+        "Giúp cho NST được xếp gọn trong nhân tế bào và đảm bảo cho sự phân li, tổ hợp các NST trong quá trình phân bào."
+       ],
+       "a": 3,
+       "e": "Đáp án D đúng vì sự cuộn xoắn của NST giúp NST co ngắn, xếp gọn trong nhân tế bào và đảm bảo quá trình phân li, tổ hợp NST diễn ra chính xác trong phân bào.",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Hai NST trong một cặp tương đồng ở cơ thể lưỡng bội",
+       "o": [
+        "có các gene tương ứng tại những locus tương ứng nhưng có thể mang các allele khác nhau.",
+        "có trình tự DNA bắt buộc giống hệt nhau.",
+        "luôn có nguồn gốc từ cùng một bên bố hoặc mẹ.",
+        "chỉ tồn tại ở trạng thái NST đơn."
+       ],
+       "a": 0,
+       "e": "Đáp án đúng là A vì các NST trong một cặp tương đồng chứa cùng các gene ở những locus tương ứng nhưng có thể mang các allele khác nhau do sự phân li độc lập trong quá trình giảm phân. Các NST trong cặp tương đồng có thể khác nhau về allele nhưng giống nhau về vị trí gene. Các đáp án còn lại không đúng vì NST trong cặp tương đồng không nhất thiết giống hệt nhau, không luôn có cùng nguồn gốc và không chỉ tồn tại ở trạng thái đơn.",
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Một NST bị biến đổi làm mất chức năng vùng tâm động nhưng các gene trên hai cánh NST vẫn còn nguyên. Chức năng nào bị ảnh hưởng trực tiếp nhất?",
+       "o": [
+        "Khả năng gắn với thoi phân bào và phân li NST.",
+        "Khả năng mã hóa mọi protein.",
+        "Khả năng hình thành nucleosome.",
+        "Khả năng tạo telomere."
+       ],
+       "a": 0,
+       "e": "Vùng tâm động là nơi gắn kết thoi phân bào, nếu vùng này bị mất chức năng thì NST không thể gắn với thoi phân bào dẫn đến sự phân li NST bị ảnh hưởng. Các gene trên hai cánh NST vẫn hoạt động bình thường nên không ảnh hưởng đến các chức năng khác.",
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Câu nào nói về cấu trúc của một nucleosome là đúng nhất?",
+       "o": [
+        "Gồm 8 phân tử protein histone liên kết với protein.",
+        "Lõi 8 phân tử protein histon, được một đoạn DNA gồm 146 cặp nucleotide quấn 1,7 vòng.",
+        "Một phân tử DNA quấn quanh khối cầu protein gồm 8 phân tử protein histone.",
+        "Một phân tử DNA quấn 7/4 vòng quanh khối cầu gồm 8 phân tử protein histone."
+       ],
+       "a": 1,
+       "e": "Đáp án B đúng vì nucleosome gồm lõi 8 phân tử protein histone quấn bởi một đoạn DNA dài 146 cặp nucleotide quấn 1,7 vòng, mô tả chính xác cấu trúc cơ bản của nucleosome.",
+       "n": 18
+      },
+      {
+       "t": "tf",
+       "s": "Quan sát quá trình đóng gói NST ở tế bào nhân thực, mỗi nhận định sau là Đúng hay Sai?",
+       "st": [
+        [
+         "Nucleosome gồm DNA liên kết với các protein histone.",
+         1
+        ],
+        [
+         "Ở kì trung gian, chuỗi nucleosome tạo sợi chromatin có đường kính khoảng 10 nm.",
+         1
+        ],
+        [
+         "Condensin tham gia tổ chức và nén chromatin khi NST co xoắn trước phân bào.",
+         1
+        ],
+        [
+         "NST ở kỳ giữa co xoắn cực đại giúp sự phân li diễn ra thuận lợi hơn.",
+         1
+        ]
+       ],
+       "e": "Các câu a, b, c, d đều đúng vì nucleosome là đơn vị cấu trúc cơ bản của chromatin gồm DNA và protein histone; chromatin ở kì trung gian có đường kính 10 nm; condensin giúp nén chromatin trước phân bào; NST ở kỳ giữa co xoắn cực đại để phân li dễ dàng.",
+       "n": 19
+      },
+      {
+       "t": "tf",
+       "s": "Xét một cặp NST tương đồng ở tế bào lưỡng bội, mỗi nhận định sau là Đúng hay Sai?",
+       "st": [
+        [
+         "Hai NST mang các gene tương ứng tại các locus tương ứng.",
+         1
+        ],
+        [
+         "Hai NST bắt buộc mang các allele giống nhau tại mọi locus.",
+         0
+        ],
+        [
+         "Một NST thường có nguồn gốc từ bố và chiếc tương đồng còn lại từ mẹ.",
+         1
+        ],
+        [
+         "Sự phân li của cặp NST tương đồng trong giảm phân góp phần làm các allele phân li vào các giao tử.",
+         1
+        ]
+       ],
+       "e": "a) Đúng vì mỗi NST trong cặp tương đồng mang các gene tương ứng tại các locus tương ứng. b) Sai vì hai NST không nhất thiết mang các allele giống nhau tại mọi locus. c) Đúng vì một NST thường có nguồn gốc từ bố và chiếc kia từ mẹ. d) Đúng vì sự phân li của cặp NST tương đồng trong giảm phân giúp các allele phân li vào các giao tử khác nhau.",
+       "n": 20
+      },
+      {
+       "t": "tf",
+       "s": "Quan sát hình ảnh dưới đây và cho biết các nhận định sau là đúng hay sai?",
+       "st": [
+        [
+         "Hình 1 diễn tả tế bào đang ở kì giữa của giảm phân I, hình 2 diễn tả tế bào đang ở kì giữa của giảm phân II.",
+         0
+        ],
+        [
+         "Ở kì giữa của giảm phân I, NST kép tập trung thành hai hàng trên mặt phẳng xích đạo.",
+         0
+        ],
+        [
+         "Ở kì giữa của giảm phân I và II, các NST kép đều co xoắn cực đại và tập trung thành 1 hàng trên mặt phẳng xích đạo.",
+         0
+        ],
+        [
+         "Trao đổi chéo giữa các chromatid không chị em của cặp NST tương đồng có thể xảy ra ở kì đầu I và tạo các chromatid tái tổ hợp.",
+         1
+        ]
+       ],
+       "e": "Đáp án a) sai vì hình 1 và hình 2 không thể xác định được giai đoạn cụ thể của giảm phân chỉ qua hình ảnh. Đáp án b) sai vì ở kì giữa của giảm phân I, NST kép tập trung thành hai hàng, không phải một hàng. Đáp án c) sai vì ở giảm phân I, NST kép tập trung thành hai hàng, còn ở giảm phân II, NST đơn tập trung thành một hàng. Đáp án d) đúng vì trao đổi chéo có thể xảy ra ở kì đầu I và tạo ra các chromatid tái tổ hợp.",
+       "n": 21
+      },
+      {
+       "t": "tf",
+       "s": "Một loài có hai cặp NST tương đồng, kí hiệu A/a và B/b. Không xét trao đổi chéo. Các phát biểu sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Trong giảm phân I, các NST tương đồng phân li về hai cực tế bào.",
+         1
+        ],
+        [
+         "Sự định hướng độc lập của các cặp NST ở kì giữa I có thể tạo nhiều tổ hợp NST trong giao tử.",
+         0
+        ],
+        [
+         "Giữa giảm phân I và giảm phân II có thêm một lần nhân đôi DNA.",
+         0
+        ],
+        [
+         "Sự kết hợp ngẫu nhiên của giao tử khi thụ tinh tiếp tục làm tăng biến dị tổ hợp.",
+         1
+        ]
+       ],
+       "e": "Trong giảm phân I, các NST tương đồng phân li về hai cực tế bào nên a) đúng. Phát biểu b) sai vì sự định hướng độc lập ở kì giữa I không tạo ra nhiều tổ hợp NST trong giao tử. Giữa giảm phân I và II không có lần nhân đôi DNA nên c) sai. Sự kết hợp ngẫu nhiên của giao tử khi thụ tinh tiếp tục làm tăng biến dị tổ hợp nên d) đúng.",
+       "n": 22
+      },
+      {
+       "t": "tf",
+       "s": "Một NST nhân thực có vùng đầu mút, vùng tâm động và nhiều gene phân bố dọc theo chiều dài NST. Mỗi nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Gene nằm tại các locus xác định trên NST.",
+         1
+        ],
+        [
+         "Telomere góp phần bảo vệ đầu mút NST.",
+         1
+        ],
+        [
+         "Vùng tâm động liên quan đến sự gắn NST với thoi phân bào.",
+         1
+        ],
+        [
+         "Mọi gene trên cùng NST đều luôn được biểu hiện với mức độ giống nhau.",
+         0
+        ]
+       ],
+       "e": "a) Đúng vì locus là vị trí xác định trên NST nơi gene nằm. b) Đúng vì telomere bảo vệ đầu mút NST khỏi bị phân hủy. c) Đúng vì vùng tâm động giúp gắn NST với thoi phân bào. d) Sai vì gene trên cùng NST có thể bị điều hòa khác nhau do các yếu tố môi trường và điều kiện tế bào.",
+       "n": 23
+      },
+      {
+       "t": "tf",
+       "s": "Một nhóm nghiên cứu đo chiều dài telomere trung bình của cùng một dòng tế bào soma sau nhiều lần nuôi cấy, kết quả thể hiện ở bảng bên. Các nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Dữ liệu cho thấy telomere có xu hướng ngắn dần qua nhiều lần phân chia.",
+         1
+        ],
+        [
+         "Có thể kết luận mọi tế bào của mọi sinh vật đều có tốc độ ngắn telomere giống nhau.",
+         0
+        ],
+        [
+         "Telomere nằm ở đầu mút NST.",
+         1
+        ],
+        [
+         "Dữ liệu chưa đủ để chứng minh telomere ngắn là nguyên nhân duy nhất gây lão hóa cơ thể.",
+         1
+        ]
+       ],
+       "e": "Câu a đúng vì dữ liệu cho thấy chiều dài telomere giảm dần qua các lần nuôi cấy. Câu b sai vì tốc độ ngắn telomere có thể khác nhau giữa các sinh vật và tế bào. Câu c đúng vì telomere thực sự nằm ở đầu mút nhiễm sắc thể. Câu d đúng vì dữ liệu chỉ cho thấy tương quan mà không chứng minh được nguyên nhân duy nhất.",
+       "n": 24
+      },
+      {
+       "t": "tf",
+       "s": "Trong giảm phân của một tế bào 2n = 6, một cặp NST tương đồng không phân li ở giảm phân I; các NST khác phân li bình thường và giảm phân II diễn ra bình thường. Mỗi nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Sau giảm phân I, hai tế bào con có số NST không bằng nhau.",
+         1
+        ],
+        [
+         "Cả bốn giao tử tạo ra đều có số NST bình thường n = 3.",
+         0
+        ],
+        [
+         "Có thể hình thành giao tử chứa 4 NST và giao tử chứa 2 NST.",
+         1
+        ],
+        [
+         "Hiện tượng cho thấy sự vận động bất thường của NST có thể làm thay đổi số lượng NST ở giao tử.",
+         1
+        ]
+       ],
+       "e": "Trong giảm phân I, nếu một cặp NST không phân li thì hai tế bào con sẽ có số NST khác nhau. Giảm phân II không ảnh hưởng đến sự phân li của NST, nên các giao tử không thể đều có n = 3. Có thể tạo ra giao tử có 4 NST và 2 NST do sự không phân li ở giảm phân I. Hiện tượng này cho thấy sự bất thường trong vận động NST có thể thay đổi số lượng NST trong giao tử.",
+       "n": 25
+      },
+      {
+       "t": "sa",
+       "s": "Một đoạn chromatin có 20 nucleosome. Nếu mỗi nucleosome có 8 phân tử histone ở lõi, tổng số phân tử histone lõi của 20 nucleosome là bao nhiêu?",
+       "a": "1600",
+       "e": "Mỗi nucleosome chứa 8 phân tử histone lõi, do đó 20 nucleosome sẽ có 20 × 8 = 1600 phân tử histone lõi.",
+       "n": 26
+      },
+      {
+       "t": "sa",
+       "s": "Một cặp NST tương đồng có 5 locus gene đang xét. Tại 3 locus, hai NST mang allele khác nhau; tại 2 locus còn lại, chúng mang allele giống nhau. Có bao nhiêu locus ở trạng thái dị hợp?",
+       "a": "0003",
+       "e": "Trạng thái dị hợp xảy ra khi một locus có hai allele khác nhau trên hai NST. Trong trường hợp này, chỉ có 3 locus có allele khác nhau nên có 3 locus ở trạng thái dị hợp.",
+       "n": 27
+      },
+      {
+       "t": "sa",
+       "s": "Một tế bào có 3 cặp NST tương đồng, các cặp phân li độc lập trong giảm phân và không xảy ra trao đổi chéo. Theo lí thuyết, tối đa có bao nhiêu loại giao tử khác nhau về nguồn gốc NST có thể được tạo ra?",
+       "a": "0008",
+       "e": "Mỗi cặp NST tương đồng có thể tạo ra 2 loại giao tử khác nhau do sự phân li độc lập. Với 3 cặp NST, số loại giao tử tối đa là 2^3 = 8.",
+       "n": 28
+      },
+      {
+       "t": "sa",
+       "s": "Một loài có thể tạo 8 loại giao tử đực và 8 loại giao tử cái khác nhau về tổ hợp NST. Giả sử các giao tử kết hợp ngẫu nhiên, tối đa có bao nhiêu kiểu tổ hợp NST ở hợp tử?",
+       "a": "0064",
+       "e": "Số kiểu tổ hợp NST ở hợp tử được tính bằng cách nhân số loại giao tử đực với số loại giao tử cái. Vì có 8 loại giao tử đực và 8 loại giao tử cái nên số kiểu tổ hợp NST là 8 x 8 = 64.",
+       "n": 29
+      },
+      {
+       "t": "sa",
+       "s": "Ở một loài 2n = 10, một cặp NST tương đồng không phân li trong giảm phân I, các cặp khác phân li bình thường. Giao tử thừa một NST sẽ có bao nhiêu NST?",
+       "a": "0006",
+       "e": "Khi một cặp NST không phân li trong giảm phân I, một tế bào sẽ nhận thêm 1 NST từ cặp đó. Với 2n = 10 (n = 5), tế bào sau giảm phân I có 5 + 1 = 6 NST. Giao tử thừa NST sẽ có 6 NST.",
+       "n": 30
+      },
+      {
+       "t": "sa",
+       "s": "Một tế bào lưỡng bội có 2n = 8. Ở kì giữa của nguyên phân, có bao nhiêu chromatid trong tế bào?",
+       "a": "0016",
+       "e": "Ở kì giữa của nguyên phân, nhiễm sắc thể đã nhân đôi nên mỗi nhiễm sắc thể gồm 2 crômatit. Với 2n = 8, số crômatit là 2 × 8 = 16.",
+       "n": 31
+      },
+      {
+       "t": "sa",
+       "s": "Trong các hiện tượng trên có bao nhiêu hiện tượng là cơ sở khoa học của các phương pháp nhân giống vô tính?",
+       "a": "0004",
+       "e": "Câu trả lời đúng là 0004 vì có 4 hiện tượng được nêu trong đề bài là cơ sở khoa học của các phương pháp nhân giống vô tính, bao gồm: sinh sản sinh dưỡng, nuôi cấy mô, lai tạo bằng phương pháp tế bào và nhân giống bằng phương pháp tế bào thực vật.",
+       "n": 32
+      },
+      {
+       "t": "sa",
+       "s": "Trong các hiện tượng trên, có bao nhiêu hiện tượng góp phần làm sáng tỏ cơ sở cho sự vận động của gene trong các quy luật di truyền?",
+       "a": "0000",
+       "e": "Câu hỏi không cung cấp thông tin cụ thể về các hiện tượng được đề cập, do đó không thể xác định được số lượng hiện tượng liên quan đến cơ sở cho sự vận động của gene trong các quy luật di truyền. Vì thiếu dữ liệu, đáp án là 0.",
+       "n": 33
+      },
+      {
+       "t": "sa",
+       "s": "Một đoạn chromatin gồm 10 nucleosome. Chỉ tính phần DNA quấn quanh lõi histone của mỗi nucleosome là 146 cặp nucleotide, tổng số cặp nucleotide trực tiếp quấn quanh các lõi histone là bao nhiêu?",
+       "a": "1460",
+       "e": "Mỗi nucleosome có 146 cặp nucleotide quấn quanh lõi histone. Với 10 nucleosome, tổng số cặp nucleotide là 146 nhân với 10, kết quả là 1460.",
+       "n": 34
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
