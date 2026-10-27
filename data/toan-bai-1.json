@@ -1,0 +1,42 @@
+{
+ "id": "toan-bai-1",
+ "subject": "Toán",
+ "name": "Bài 1",
+ "path": "data/toan-bai-1.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "bai-1",
+     "name": "Bài 1",
+     "qs": [
+      {
+       "t": "tf",
+       "s": "A = B+1, C = B/2",
+       "st": [
+        [
+         "A&gt;C",
+         1
+        ],
+        [
+         "A&lt;C",
+         0
+        ],
+        [
+         "A=C",
+         0
+        ],
+        [
+         "1+1",
+         0
+        ]
+       ],
+       "n": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

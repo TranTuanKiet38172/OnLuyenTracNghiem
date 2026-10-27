@@ -1,0 +1,42 @@
+{
+ "id": "toan-baffsaf",
+ "subject": "Toán",
+ "name": "baffsaf",
+ "path": "data/toan-baffsaf.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "baffsaf",
+     "name": "baffsaf",
+     "qs": [
+      {
+       "t": "tf",
+       "s": "A = B+1, C = B/2",
+       "st": [
+        [
+         "A&gt;C",
+         1
+        ],
+        [
+         "A&lt;C",
+         0
+        ],
+        [
+         "A=C",
+         0
+        ],
+        [
+         "1224",
+         0
+        ]
+       ],
+       "n": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
