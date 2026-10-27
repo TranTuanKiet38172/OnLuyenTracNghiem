@@ -1,0 +1,484 @@
+{
+ "id": "sinh-bai-4-dot-bien-gene",
+ "subject": "Sinh học",
+ "name": "Bài 4: Đột biến gene",
+ "path": "data/sinh-bai-4-dot-bien-gene.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "bai-4-dot-bien-gene",
+     "name": "Bài 4: Đột biến gene",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Khi giải trình tự một gene ở hai cá thể cùng loài, người ta phát hiện trình tự nucleotide của gene ở một cá thể khác với dạng ban đầu. Biến đổi đó được gọi là đột biến gene khi",
+       "o": [
+        "Tạo ra những allele mới.",
+        "Sự biến đổi của một hay một số cặp nucleotide trong gene.",
+        "Sự biến đổi của 1 nucleotide trong gene.",
+        "Tạo nên những kiểu hình mới."
+       ],
+       "a": 1,
+       "e": "Đột biến gene là những biến đổi trong cấu trúc của gene, liên quan đến một hoặc một số cặp nucleotide trong gene.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Một allele mới khác allele ban đầu tại đúng một cặp nucleotide. Dạng biến đổi này được xếp vào dạng nào sau đây?",
+       "o": [
+        "Đột biến số lượng NST.",
+        "Đột biến cấu trúc NST.",
+        "Đột biến điểm.",
+        "Thể đột biến."
+       ],
+       "a": 2,
+       "e": "Đột biến điểm là dạng đột biến gene chỉ liên quan đến biến đổi tại đúng một cặp nucleotide.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Khi so sánh cùng một đoạn gene ở hai cá thể, người ta thu được:<br>- Cá thể bình thường: 5'-ATG CCT GAA TCG-3'<br>- Cá thể biến đổi: 5'-ATG CAT GAA TCG-3'<br>Biết hai trình tự trên thuộc cùng một vị trí của gene. Nhận định nào sau đây phù hợp nhất?",
+       "o": [
+        "Cá thể biến đổi đã xảy ra đột biến gene do trình tự nucleotide của gene bị thay đổi.",
+        "Đây là đột biến nhiễm sắc thể vì số lượng nucleotide của gene không thay đổi.",
+        "Đây chỉ là biến đổi kiểu hình vì hai đoạn DNA có cùng chiều dài.",
+        "Không thể xem là đột biến gene vì chỉ có một nucleotide khác nhau."
+       ],
+       "a": 0,
+       "e": "Đoạn gene bị thay đổi bộ ba CCT thành CAT (thay thế một cặp nucleotide) làm thay đổi trình tự nucleotide của gene, do đó đây là đột biến gene.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Khi phân loại theo biến đổi xảy ra ở một hoặc một số cặp nucleotide, các dạng đột biến gene thường gặp gồm",
+       "o": [
+        "2 loại: thêm và mất cặp nucleotide.",
+        "2 loại: mất và thay thế cặp nucleotide.",
+        "3 loại: thêm, mất và thay thế cặp nucleotide.",
+        "3 loại: thêm, mất và đảo cặp nucleotide."
+       ],
+       "a": 2,
+       "e": "Các dạng đột biến điểm/đột biến gene thường gặp gồm 3 dạng chính: thêm, mất và thay thế một hoặc một số cặp nucleotide.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Ở một loài thực vật, một cá thể mang allele đột biến nhưng vẫn có kiểu hình giống cá thể bình thường. Ở thế hệ sau, một số cá thể mang allele này biểu hiện kiểu hình khác biệt rõ so với kiểu hình bình thường. Theo khái niệm thể đột biến, nhận định nào sau đây đúng?",
+       "o": [
+        "Mọi cá thể mang allele đột biến đều được gọi là thể đột biến.",
+        "Chỉ những cá thể mang đột biến và đã biểu hiện đột biến ra kiểu hình mới được gọi là thể đột biến.",
+        "Chỉ cá thể có đột biến trội mới được gọi là thể đột biến.",
+        "Cá thể chỉ được gọi là thể đột biến khi đột biến làm giảm sức sống."
+       ],
+       "a": 1,
+       "e": "Khái niệm thể đột biến: là những cá thể mang gene đột biến đã biểu hiện ra kiểu hình đột biến.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Một đoạn mRNA bình thường được dịch mã theo các codon:<br>5'-AUG-GCU-ACG-CCA-UUU-...-3'<br>Sau đột biến gene, mRNA tạo ra bị mất một nucleotide ngay sau codon mở đầu và có trình tự:<br>5'-AUG-CUA-CGC-CAU-UU...-3'<br>Nhận định nào sau đây giải thích phù hợp nhất hậu quả của biến đổi này?",
+       "o": [
+        "Chỉ một amino acid tại vị trí xảy ra biến đổi bị thay đổi.",
+        "Khung đọc từ vị trí mất nucleotide có thể bị thay đổi, làm biến đổi nhiều amino acid phía sau.",
+        "Số lượng codon của mRNA không thay đổi nên protein chắc chắn không bị ảnh hưởng.",
+        "Ribosome tự bổ sung nucleotide bị mất để duy trì trình tự amino acid ban đầu."
+       ],
+       "a": 1,
+       "e": "Mất một nucleotide gây ra đột biến dịch khung đọc mã di truyền từ vị trí đột biến trở về sau, làm thay đổi toàn bộ dãy amino acid trong chuỗi polypeptide.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Một codon trên mRNA bình thường là 5'-GAA-3', mã hóa glutamic acid. Sau các đột biến thay thế một nucleotide, người ta thu được ba trường hợp:<br>Trường hợp I: GAG (Vẫn mã hóa glutamic acid)<br>Trường hợp II: GUA (Mã hóa valine)<br>Trường hợp III: UAA (Không mã hóa amino acid)<br>Kết luận nào sau đây phù hợp nhất với dữ liệu trên?",
+       "o": [
+        "Mọi đột biến thay thế nucleotide đều làm thay đổi amino acid của protein.",
+        "Đột biến thay thế một nucleotide có thể gây những hậu quả khác nhau đối với sản phẩm của gene.",
+        "Đột biến thay thế nucleotide không ảnh hưởng đến quá trình dịch mã.",
+        "Một codon sau đột biến luôn mã hóa cùng amino acid với codon ban đầu."
+       ],
+       "a": 1,
+       "e": "Tùy thuộc vào vị trí và bản chất của việc thay thế nucleotide mà hậu quả có thể là đột biến đồng nghĩa (không đổi amino acid), đột biến sai nghĩa (thay đổi amino acid) hoặc đột biến vô nghĩa (xuất hiện codon kết thúc).",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Trong trường hợp nào một đột biến gene sẽ không trở thành thể đột biến?",
+       "o": [
+        "Gene đột biến lặn xuất hiện ở trạng thái đồng hợp tử.",
+        "Đột biến gene lặn xuất hiện ở trạng thái dị hợp tử.",
+        "Gene đột biến lặn nằm trên NST X không có allele trên NST Y, cơ thể mang đột biến là cơ thể mang cặp NST giới tính XY.",
+        "Gene đột biến trội."
+       ],
+       "a": 1,
+       "e": "Đột biến gene lặn ở trạng thái dị hợp tử (Aa) bị allele trội lấn át nên chưa biểu hiện ra kiểu hình đột biến, do đó cơ thể chưa được gọi là thể đột biến.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Tại sao dạng mất hoặc thêm một cặp nucleotide làm thay đổi nhiều nhất về cấu trúc protein?",
+       "o": [
+        "Do phá vỡ trạng thái hài hoà sẵn có ban đầu của gene.",
+        "Sắp xếp lại các bộ ba từ điểm bị đột biến đến cuối gene dẫn đến sắp xếp lại trình tự các amino acid từ mã bộ ba bị đột biến đến cuối chuỗi polypeptide.",
+        "Làm cho enzyme sửa sai không hoạt động được.",
+        "Làm cho quá trình tổng hợp protein bị rối loạn."
+       ],
+       "a": 1,
+       "e": "Đột biến thêm hoặc mất 1 cặp nucleotide làm dịch khung đọc từ vị trí đột biến cho đến cuối gene, dẫn đến sự thay đổi toàn bộ trình tự amino acid từ vị trí đó trở đi.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Một gene mã hóa protein được phát hiện có các biến đổi tại cùng một vị trí thuộc vùng mã hóa. Kết quả phân tích sản phẩm protein như sau:<br>Trường hợp I: Thay thế 1 cặp nucleotide -&gt; Thay đổi 1 amino acid<br>Trường hợp II: Mất 1 cặp nucleotide -&gt; Nhiều amino acid phía sau vị trí biến đổi bị thay đổi<br>Trường hợp III: Mất 3 cặp nucleotide -&gt; Thiếu 1 amino acid, phần phía sau hầu như không đổi<br>Trường hợp IV: Thay thế 1 cặp nucleotide -&gt; Trình tự amino acid không đổi<br>Trong các trường hợp trên, biến đổi nào có khả năng làm thay đổi mạnh nhất trình tự amino acid từ vị trí xảy ra đột biến về phía sau?",
+       "o": [
+        "I.",
+        "II.",
+        "III.",
+        "IV."
+       ],
+       "a": 1,
+       "e": "Đột biến mất 1 cặp nucleotide (Trường hợp II) làm dịch khung đọc mã di truyền, làm thay đổi toàn bộ các amino acid từ vị trí đột biến cho đến cuối chuỗi.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Ở một gene bình thường, một đoạn mRNA có codon 5'-UAU-3' mã hóa một amino acid. Sau khi gene bị đột biến, codon tương ứng trên mRNA trở thành 5'-UAA-3', làm quá trình dịch mã dừng sớm. Biến đổi nào sau đây phù hợp nhất với hiện tượng trên?",
+       "o": [
+        "Thay thế một cặp nucleotide làm xuất hiện codon kết thúc sớm.",
+        "Mất toàn bộ gene nên mRNA không được tạo ra.",
+        "Thêm ba cặp nucleotide làm protein dài thêm một amino acid.",
+        "Thay đổi nucleotide nhưng không ảnh hưởng đến sản phẩm của gene."
+       ],
+       "a": 0,
+       "e": "Codon 5'-UAA-3' là một trong ba codon kết thúc (UAA, UAG, UGA). Việc 5'-UAU-3' biến thành 5'-UAA-3' là do đột biến thay thế 1 nucleotide làm xuất hiện tín hiệu kết thúc dịch mã sớm.",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Để khảo sát ảnh hưởng của tia tử ngoại (UV) đến sự phát sinh đột biến, người ta nuôi 2 nhóm vi khuẩn trong cùng điều kiện. Kết quả thu được:<br>- Điều kiện Không chiếu UV: Số khuẩn lạc khảo sát = 5 000; Số khuẩn lạc xuất hiện đặc điểm mới = 2<br>- Điều kiện Chiếu UV: Số khuẩn lạc khảo sát = 5 000; Số khuẩn lạc xuất hiện đặc điểm mới = 21<br>Kết luận nào sau đây phù hợp nhất với kết quả thí nghiệm?",
+       "o": [
+        "Đột biến gene chỉ xảy ra khi có tác nhân gây đột biến.",
+        "Tia UV có thể làm tăng tần số xuất hiện đột biến gene.",
+        "Tia UV luôn tạo ra cùng một loại đột biến ở mọi tế bào.",
+        "Mọi tế bào tiếp xúc với tia UV đều sẽ biểu hiện kiểu hình đột biến."
+       ],
+       "a": 1,
+       "e": "Kết quả thí nghiệm cho thấy tỷ lệ xuất hiện đặc điểm mới (đột biến) tăng từ 2 lên 21 khuẩn lạc trên 5000 khuẩn lạc khi có chiếu UV, chứng tỏ tia UV làm tăng tần số đột biến.",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Đột biến ở vị trí nào trong gene làm cho quá trình dịch mã có thể không thực hiện được?",
+       "o": [
+        "Đột biến ở mã mở đầu.",
+        "Đột biến ở bộ ba ở giữa gene.",
+        "Đột biến ở mã kết thúc.",
+        "Đột biến ở bộ ba giáp mã kết thúc."
+       ],
+       "a": 0,
+       "e": "Codon mở đầu (5'-AUG-3') là tín hiệu bắt đầu dịch mã. Nếu xảy ra đột biến làm thay đổi codon mở đầu thì ribosome không thể nhận diện và khởi đầu dịch mã.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Ở Người, đột biến gây biến đổi tế bào hồng cầu bình thường thành tế bào hồng cầu hình liềm là dạng đột biến",
+       "o": [
+        "Lặp đoạn NST.",
+        "Mất hoặc thêm một cặp nucleotide",
+        "Mất đoạn NST.",
+        "Thay thế một cặp nucleotide"
+       ],
+       "a": 3,
+       "e": "Bệnh hồng cầu hình liềm do đột biến điểm dạng thay thế cặp T-A bằng cặp A-T ở codon thứ 6 của gene mã hóa chuỗi β-hemoglobin.",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Một đột biến làm thay đổi hoạt tính của một enzyme ở thực vật. Người ta so sánh cây bình thường và cây mang đột biến trong hai môi trường:<br>- Không có chất gây stress: Cây bình thường sinh trưởng tốt; Cây mang đột biến sinh trưởng chậm hơn<br>- Có chất gây stress: Cây bình thường tỉ lệ sống thấp; Cây mang đột biến tỉ lệ sống cao<br>Nhận định nào sau đây phù hợp nhất?",
+       "o": [
+        "Mọi đột biến gene đều có hại cho sinh vật.",
+        "Mọi đột biến có lợi đều làm sinh vật sinh trưởng nhanh hơn.",
+        "Ảnh hưởng của một đột biến có thể phụ thuộc vào điều kiện môi trường.",
+        "Đột biến chỉ có ý nghĩa khi làm thay đổi kích thước của gene."
+       ],
+       "a": 2,
+       "e": "Đột biến làm cây sinh trưởng chậm hơn trong điều kiện bình thường nhưng lại giúp tăng tỷ lệ sống khi có chất gây stress. Điều này chứng tỏ giá trị thích nghi (có lợi hay có hại) của đột biến phụ thuộc vào môi trường sống.",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Ở một gene bình thường, mRNA có đoạn cuối như sau: ...-GCU-ACG-UAA-3'... Sau đột biến thay thế một cặp nucleotide, codon UAA trên mRNA trở thành CAA. Ribosome tiếp tục dịch mã cho đến khi gặp một codon kết thúc khác ở phía sau. Hậu quả trực tiếp của đột biến này là",
+       "o": [
+        "chuỗi polypeptide được tạo ra ngắn hơn bình thường.",
+        "chuỗi polypeptide được kéo dài thêm do codon kết thúc ban đầu không còn chức năng kết thúc dịch mã.",
+        "toàn bộ trình tự amino acid từ đầu chuỗi bị thay đổi do lệch khung đọc.",
+        "quá trình phiên mã dừng ngay tại vị trí xảy ra đột biến."
+       ],
+       "a": 1,
+       "e": "Codon UAA là codon kết thúc. Khi bị đột biến thành CAA (mã hóa glutamine), tín hiệu kết thúc dịch mã bị mất, ribosome sẽ tiếp tục đọc các codon phía sau cho đến khi gặp codon kết thúc tiếp theo, làm chuỗi polypeptide dài hơn bình thường.",
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Nhận định nào sau đây không đúng khi phát biểu về đột biến gene?",
+       "o": [
+        "Đột biến gene khi phát sinh sẽ được tái bản qua cơ chế tự nhân đôi của DNA.",
+        "Đột biến gene có khả năng di truyền cho thế hệ sau.",
+        "Đột biến gene là những biến đổi nhỏ xảy ra trên phân tử DNA.",
+        "Đột biến gene khi phát sinh đều được biểu hiện ngay ra kiểu hình của cá thể."
+       ],
+       "a": 3,
+       "e": "Đột biến gene lặn khi ở trạng thái dị hợp tử (Aa) sẽ không biểu hiện ra kiểu hình, nên nhận định d là không đúng.",
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Người ta nuôi các quần thể vi khuẩn E. Coli trong điều kiện giống nhau nhưng bổ sung 5BrU với nồng độ khác nhau. Sau cùng một khoảng thời gian, số khuẩn lạc mang kiểu hình đột biến được ghi nhận như sau:<br>- Nồng độ 5BrU = 0 (Số khuẩn lạc đột biến = 2)<br>- Nồng độ 5BrU Thấp (Số khuẩn lạc đột biến = 9)<br>- Nồng độ 5BrU Trung bình (Số khuẩn lạc đột biến = 24)<br>- Nồng độ 5BrU Cao (Số khuẩn lạc đột biến = 41)<br>Kết luận nào sau đây phù hợp nhất với kết quả trên?",
+       "o": [
+        "5BrU có thể làm tăng tần số phát sinh đột biến gene.",
+        "5BrU làm tất cả tế bào vi khuẩn đều bị đột biến.",
+        "5BrU chỉ gây đột biến mất nucleotide.",
+        "Không có 5BrU thì đột biến gene không thể xảy ra."
+       ],
+       "a": 0,
+       "e": "Nồng độ 5BrU càng tăng thì số lượng khuẩn lạc đột biến thu được càng lớn, chứng tỏ 5BrU làm tăng tần số phát sinh đột biến gene.",
+       "n": 18
+      },
+      {
+       "t": "mc",
+       "s": "Trong quá trình tái bản DNA, một dạng hiếm của nitrogenous base bắt cặp không theo nguyên tắc bổ sung thông thường. Sau các lần tái bản tiếp theo, tại vị trí đó cặp A-T ban đầu được thay bằng cặp G-C. Biến đổi trên thuộc dạng",
+       "o": [
+        "thêm một cặp nucleotide.",
+        "mất một cặp nucleotide.",
+        "thay thế một cặp nucleotide.",
+        "đảo vị trí hai cặp nucleotide."
+       ],
+       "a": 2,
+       "e": "Việc biến đổi cặp A-T thành cặp G-C là dạng đột biến thay thế cặp nucleotide này bằng cặp nucleotide khác.",
+       "n": 19
+      },
+      {
+       "t": "mc",
+       "s": "Sau khi xử lý tế bào bằng 5BrU, người ta giải trình tự cùng một vị trí của gene ở nhiều tế bào con và phát hiện một số trường hợp có sự biến đổi: A-T -&gt; G-C. Nhận định nào sau đây giải thích phù hợp nhất?",
+       "o": [
+        "5BrU có thể tham gia bắt cặp sai trong quá trình tái bản DNA làm xuất hiện đột biến thay thế.",
+        "5BrU làm DNA polymerase tổng hợp DNA theo chiều 3' -&gt; 5'.",
+        "5BrU làm mất đồng thời hai nucleotide trên cùng một mạch DNA.",
+        "5BrU trực tiếp làm thay đổi trình tự amino acid mà không cần qua biểu hiện gene."
+       ],
+       "a": 0,
+       "e": "5BrU là chất đồng đẳng của thymine, có thể bắt cặp bổ sung với guanine (G) trong tái bản, qua nhiều lần nhân đôi dẫn đến đột biến thay thế A-T thành G-C.",
+       "n": 20
+      },
+      {
+       "t": "mc",
+       "s": "Biết 5BrU có cấu trúc tương tự thymine. Ở trạng thái thông thường, 5BrU có thể bắt cặp với A; ở trường hợp khác, 5BrU có thể bắt cặp với G. Thông tin trên giải thích trực tiếp vì sao 5BrU",
+       "o": [
+        "có thể thay thế thymine trong DNA và làm phát sinh bắt cặp sai khi DNA tái bản.",
+        "làm tăng số lượng chromosome trong tế bào.",
+        "làm ribosome đọc sai codon trên mRNA.",
+        "trực tiếp cắt đứt liên kết phosphodiester của DNA."
+       ],
+       "a": 0,
+       "e": "Do có cấu trúc tương tự thymine, 5BrU chèn vào mạch DNA và linh hoạt bắt cặp với A hoặc G trong quá trình nhân đôi, dẫn đến bắt cặp sai và phát sinh đột biến thay thế.",
+       "n": 21
+      },
+      {
+       "t": "mc",
+       "s": "Hai nhóm tế bào được xử lý bằng 5BrU trong cùng thời gian:<br>- Nhóm I: sau xử lý, tế bào được giữ trong điều kiện chưa xảy ra tái bản DNA.<br>- Nhóm II: sau xử lý, tế bào tiếp tục trải qua một số lần tái bản DNA.<br>Khi xét khả năng hình thành đột biến thay thế cặp nucleotide ổn định, nhận định nào sau đây hợp lý nhất?",
+       "o": [
+        "Nhóm I có khả năng cố định đột biến cao hơn vì DNA chưa tái bản.",
+        "Nhóm II có khả năng xuất hiện đột biến đã được cố định cao hơn do các sai cặp có thể được truyền qua quá trình tái bản.",
+        "Hai nhóm chắc chắn có tần số đột biến bằng nhau.",
+        "Tái bản DNA không liên quan đến việc hình thành đột biến do 5BrU."
+       ],
+       "a": 1,
+       "e": "Tác nhân 5BrU gây đột biến thông qua cơ chế nhân đôi DNA (tái bản). Qua các lần tái bản thì sai hỏng ban đầu mới được nhân lên và cố định thành đột biến tiền đề trên cả 2 mạch của DNA.",
+       "n": 22
+      },
+      {
+       "t": "tf",
+       "s": "Trong một thí nghiệm, người ta phát hiện một tế bào vi khuẩn xuất hiện biến đổi tại một gene. Sau nhiều lần phân chia, các tế bào thuộc cùng dòng được phân tích và thu được kết quả:<br>- Chiều dài gene: Trước biến đổi (Không đổi) - Sau biến đổi (Không đổi)<br>- Trình tự tại một vị trí: Trước biến đổi (...A-T...) - Sau biến đổi (...G-C...)<br>- Protein tạo thành: Trước biến đổi (Hoạt động bình thường) - Sau biến đổi (Hoạt tính giảm)<br>- Các tế bào con: Đều mang biến đổi trên<br>Dựa vào thông tin trên, mỗi nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Đột biến trên làm thay thế một cặp nucleotide nên không làm thay đổi chiều dài của gene.",
+         1
+        ],
+        [
+         "Việc các tế bào con đều mang biến đổi cho thấy đột biến có thể được truyền qua các thế hệ tế bào khi DNA được tái bản.",
+         1
+        ],
+        [
+         "Vì chiều dài gene không đổi nên số liên kết hydrogen của gene trước và sau đột biến chắc chắn bằng nhau.",
+         0
+        ],
+        [
+         "Sự giảm hoạt tính của protein cho thấy một đột biến gene có thể làm thay đổi sản phẩm của gene và ảnh hưởng đến hoạt động của tế bào.",
+         1
+        ]
+       ],
+       "e": "a) Đúng vì đột biến thay thế cặp A-T bằng cặp G-C không làm thay đổi tổng số cặp nucleotide. b) Đúng vì tế bào con nhận DNA nhân đôi từ tế bào mẹ mang đột biến. c) Sai vì thay thế cặp A-T (2 liên kết H) bằng G-C (3 liên kết H) sẽ làm tăng 1 liên kết hydrogen. d) Đúng vì biến đổi amino acid có thể làm giảm hoạt tính enzyme/protein.",
+       "n": 23
+      },
+      {
+       "t": "tf",
+       "s": "Cho biết trình tự nucleotide trên một đoạn ở vùng mã hóa của mạch gốc của gene quy định protein của sinh vật nhân sơ và các allele được tạo ra từ gene này gọi là đột biến điểm.<br>Gene ban đầu: 3'...TAC TTC AAA CCG...5'<br>Allele đột biến 1: 3'...TAC TTC AAA CCA...5'<br>Allele đột biến 2: 3'...TAC ATC AAA CCG...5'<br>Allele đột biến 3: 3'...TAC TTC AAA TCG...5'<br>Biết rằng các codon mã hóa các amino acid tương ứng là: 5'-AUG-3': Met; 5'-AAG-3': Lys; 5'-UUU-3': Phe; 5'-GGC-3' và 5'-GGU-3': Gly; 5'-AGC-3': Ser.<br>Phân tích dữ liệu trên, mỗi kết luận dưới đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Chuỗi polypeptide do allele đột biến 1 mã hóa không thay đổi so với chuỗi polypeptide do gene ban đầu mã hóa.",
+         1
+        ],
+        [
+         "Các phân tử mRNA được tổng hợp từ allele đột biến 2 và allele đột biến 3 có các codon bị thay đổi kể từ điểm xảy ra đột biến.",
+         1
+        ],
+        [
+         "Allele đột biến 2 gây hậu quả nghiêm trọng và có thể biểu hiện thành thể đột biến.",
+         1
+        ],
+        [
+         "Allele đột biến 3 được hình thành do gene ban đầu đột biến thay thế 1 cặp nucleotide.",
+         1
+        ]
+       ],
+       "e": "a) Đúng vì mã gốc ban đầu CCG -&gt; mRNA: GGC (Gly), mã allele 1 CCA -&gt; mRNA: GGU (Gly), không đổi amino acid. b) Sai vì đây là đột biến thay thế 1 bộ ba, không làm dịch khung nên chỉ thay đổi tại bộ ba đó chứ không phải từ điểm đột biến về sau. c) Đúng vì bộ ba đột biến 2 ATC -&gt; mRNA: UAG (codon kết thúc) làm chấm dứt sớm dịch mã. d) Đúng vì CCG biến thành TCG là đột biến thay thế 1 cặp nucleotide.",
+       "n": 24
+      },
+      {
+       "t": "tf",
+       "s": "Trong một quần thể cỏ dại, người ta phát hiện một allele mới làm cây giảm độ nhạy với một loại thuốc diệt cỏ. Kết quả theo dõi tỉ lệ sống của cây sau 14 ngày như sau:<br>- Allele bình thường: Không phun thuốc (96%), Có phun thuốc (12%)<br>- Allele mới: Không phun thuốc (82%), Có phun thuốc (78%)<br>Biết allele mới phát sinh do một biến đổi trong cấu trúc của gene. Dựa vào dữ liệu trên, mỗi nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Trong môi trường có thuốc diệt cỏ, allele mới có thể làm tăng khả năng sống sót của cây mang allele này.",
+         1
+        ],
+        [
+         "Allele mới luôn có lợi cho cây vì tỉ lệ sống của cây mang allele này cao trong mọi điều kiện khảo sát.",
+         0
+        ],
+        [
+         "Nếu allele mới có khả năng di truyền và được duy trì trong quần thể, nó góp phần làm phong phú vốn gene của quần thể.",
+         1
+        ],
+        [
+         "Kết quả thí nghiệm cho thấy ảnh hưởng có lợi hay có hại của một đột biến có thể phụ thuộc vào điều kiện môi trường.",
+         1
+        ]
+       ],
+       "e": "a) Đúng (78% vs 12%). b) Sai vì khi không phun thuốc, cây mang allele mới có tỷ lệ sống thấp hơn cây bình thường (82% vs 96%). c) Đúng vì tạo allele mới gia tăng đa dạng di truyền. d) Đúng vì giá trị thích nghi phụ thuộc vào việc có sử dụng thuốc diệt cỏ hay không.",
+       "n": 25
+      },
+      {
+       "t": "tf",
+       "s": "Khi nghiên cứu một gene ở vi khuẩn E. Coli, người ta so sánh codon trên mRNA và amino acid tương ứng trước và sau khi gene xảy ra đột biến điểm:<br>- Trường hợp I: Codon trước (GAA) -&gt; Codon sau (GAG) -&gt; Kết quả: Vẫn mã hóa glutamic acid<br>- Trường hợp II: Codon trước (GAA) -&gt; Codon sau (GUA) -&gt; Kết quả: Glutamic acid -&gt; valine<br>- Trường hợp III: Codon trước (UAU) -&gt; Codon sau (UAA) -&gt; Kết quả: Xuất hiện codon kết thúc<br>Dựa vào bảng trên, mỗi nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Cả ba trường hợp đều có thể phát sinh do đột biến thay thế một cặp nucleotide trong gene.",
+         1
+        ],
+        [
+         "Trường hợp I cho thấy đột biến gene không nhất thiết làm thay đổi trình tự amino acid của protein.",
+         1
+        ],
+        [
+         "Trường hợp II làm thay đổi khung đọc của tất cả các codon phía sau vị trí đột biến.",
+         0
+        ],
+        [
+         "Trường hợp III có thể làm quá trình dịch mã kết thúc sớm, tạo chuỗi polypeptide ngắn hơn bình thường.",
+         1
+        ]
+       ],
+       "e": "a) Đúng vì các codon chỉ thay đổi ở đúng 1 nucleotide. b) Đúng do tính thoái hóa của mã di truyền (GAA và GAG cùng mã hóa Glu). c) Sai vì đột biến thay thế không làm thay đổi khung đọc. d) Đúng vì UAA là codon kết thúc làm dừng dịch mã sớm.",
+       "n": 26
+      },
+      {
+       "t": "tf",
+       "s": "Một đoạn của gene cấu trúc ở sinh vật nhân sơ có trật tự nucleotide trên mạch bổ sung như sau:<br>Các bộ ba: [1: 3'-TAC-5'] [2: 3'-AAG-5'] [3: 3'-AAT-5'] [4: 3'-GAG-5'] ... [80: 3'-ATT-5'] [81: 3'-TAA-5'] [82: 3'-GGT-5'] [83: 3'-GTA-5'] [84: 3'-ACT-5']<br>Biết rằng các codon 5'GAG3' và 5'GAA3' cùng mã hóa cho amino acid (Glu), 5'GAU3' và 5'GAC3' cùng mã hóa cho amino acid (Asp). Hãy cho biết, mỗi nhận định sau là đúng hay sai?",
+       "st": [
+        [
+         "Vùng mã hóa trên mạch gốc của gene trên có 80 triplet.",
+         0
+        ],
+        [
+         "Đột biến thay thế một cặp nucleotide bất kỳ xảy ra tại bộ ba thứ 82 trong đoạn gene trên luôn làm biến đổi thành phần amino acid của chuỗi polypeptide do gene quy định tổng hợp.",
+         1
+        ],
+        [
+         "Đột biến thay thế một cặp nucleotide C-G thành A-T xảy ra tại nucleotide thứ 12 tính từ đầu 3' của đoạn mạch trên sẽ làm cho chuỗi polypeptide do gene quy định tổng hợp bị mất đi một amino acid so với chuỗi polypeptide bình thường.",
+         1
+        ],
+        [
+         "Đột biến thay thế một cặp nucleotide C-G thành G-C xảy ra tại nucleotide thứ 10 tính từ đầu 3' không ảnh hưởng đến số lượng, thành phần và trình tự sắp xếp của các amino acid trong chuỗi polypeptide do gene quy định tổng hợp.",
+         0
+        ]
+       ],
+       "e": "a) Sai vì đoạn mạch bổ sung hiển thị 84 bộ ba (từ bộ ba 1 đến 84). b) Sai vì bộ ba 82 là 3'-GGT-5' (mạch gốc là 5'-CCA-3', mRNA là 3'-GGU-5'), nếu thay thế nucleotide thứ 3 làm mRNA đổi từ GGU thành GGC thì đều mã hóa cho Gly (do tính thoái hóa). c) Sai vì vị trí nucleotide thứ 12 là vị trí thứ 3 của bộ ba thứ 4 (3'-GAG-5'). Đột biến thay C-G thành A-T làm thay đổi 1 amino acid chứ không làm mất 1 amino acid. d) Đúng vì nucleotide thứ 10 thuộc bộ ba thứ 4 (3'-GAG-5'), thay C-G thành G-C tạo thành 3'-GAC-5' -&gt; mRNA: 5'-CUG-3' hoặc tương ứng, hoặc đổi bộ ba GAG thành GAG/GAA vẫn mã hóa Glu không đổi chuỗi protein.",
+       "n": 27
+      },
+      {
+       "t": "tf",
+       "s": "Trong một thí nghiệm chọn giống, các nhà nghiên cứu xử lý hạt của một giống hoa bằng tác nhân gây đột biến. Ở thế hệ sau, họ phát hiện một cây có màu hoa nhạt hơn bình thường. Phân tích gene mã hóa enzyme tham gia tổng hợp sắc tố cho thấy allele bình thường và allele đột biến khác nhau như sau:<br>- Allele bình thường: ...AUG-GCU-CAA-GGA-UUU...<br>- Allele đột biến: ...AUG-GCU-ACA-AGG-AUU-U...<br>Kết quả cho thấy allele đột biến đã thêm một nucleotide A ngay sau codon thứ hai.<br>Dựa vào thông tin trên, mỗi nhận định sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Việc thêm một nucleotide có thể làm thay đổi khung đọc từ vị trí xảy ra đột biến về phía sau.",
+         1
+        ],
+        [
+         "Hai amino acid đầu tiên của chuỗi polypeptide do hai allele quy định vẫn có thể giống nhau.",
+         1
+        ],
+        [
+         "Vì chỉ thêm một nucleotide nên đột biến này chỉ có thể làm thay đổi một amino acid của chuỗi polypeptide.",
+         0
+        ],
+        [
+         "Nếu allele đột biến có mặt trong tế bào hình thành giao tử và giao tử đó tham gia thụ tinh thì allele này có thể được truyền cho thế hệ sau.",
+         1
+        ]
+       ],
+       "e": "a) Đúng vì đột biến thêm 1 nucleotide làm dịch khung đọc từ bộ ba thứ 3 trở đi. b) Đúng vì 2 bộ ba đầu tiên (AUG-GCU) không bị ảnh hưởng. c) Sai vì biến đổi lệch khung đọc làm thay đổi nhiều amino acid phía sau. d) Đúng vì đột biến giao tử di truyền được qua sinh sản hữu tính.",
+       "n": 28
+      },
+      {
+       "t": "sa",
+       "s": "Một nhóm học sinh khảo sát ảnh hưởng của tia UV đến sự phát sinh đột biến ở E. Coli. Mỗi nghiệm thức đều khảo sát 2 000 khuẩn lạc.<br>- Không chiếu UV: Số khuẩn lạc đột biến = 4<br>- UV mức thấp: Số khuẩn lạc đột biến = 10<br>- UV mức trung bình: Số khuẩn lạc đột biến = 21<br>- UV mức cao: Số khuẩn lạc đột biến = 36<br>Tần số xuất hiện khuẩn lạc đột biến ở nghiệm thức UV mức cao gấp bao nhiêu lần so với nghiệm thức không chiếu UV?",
+       "a": "0009",
+       "e": "Tần số đột biến ở UV mức cao là 36/2000, không chiếu UV là 4/2000. Tỉ lệ gấp = 36 / 4 = 9 lần.",
+       "n": 29
+      },
+      {
+       "t": "sa",
+       "s": "Một codon trên mRNA bình thường là 5'-GAA-3', mã hóa glutamic acid. Sau các đột biến thay thế một nucleotide, thu được:<br>- GAG: Glutamic acid<br>- GAC: Aspartic acid<br>- GUA: Valine<br>- UAA: Codon kết thúc<br>Có bao nhiêu trường hợp trên không làm thay đổi amino acid tại vị trí xảy ra biến đổi so với bình thường?",
+       "a": "0001",
+       "e": "Chỉ có trường hợp GAG là vẫn mã hóa cho Glutamic acid (1 trường hợp).",
+       "n": 30
+      },
+      {
+       "t": "sa",
+       "s": "Ở một gene mã hóa protein, người ta phát hiện bốn biến đổi độc lập:<br>(1) Thay đổi một nucleotide ở vùng điều hòa làm giảm lượng mRNA.<br>(2) Codon GAA biến thành GAG, vẫn mã hóa cùng amino acid.<br>(3) Codon GAA biến thành GUA, mã hóa amino acid khác.<br>(4) Codon UAU biến thành UAA, làm xuất hiện codon kết thúc.<br>Có bao nhiêu trường hợp trực tiếp làm thay đổi trình tự hoặc độ dài chuỗi polypeptide được tạo ra?",
+       "a": "0002",
+       "e": "Trường hợp (3) làm thay đổi 1 amino acid (thay đổi trình tự). Trường hợp (4) tạo codon kết thúc làm ngắn chuỗi polypeptide (thay đổi độ dài). Do đó có 2 trường hợp.",
+       "n": 31
+      },
+      {
+       "t": "sa",
+       "s": "Ở một loài cây, allele p là allele đột biến lặn hoàn toàn so với allele bình thường P. Kết quả xác định kiểu gene của 1 000 cây con:<br>- Kiểu gene PP: 700 cây<br>- Kiểu gene Pp: 240 cây<br>- Kiểu gene pp: 60 cây<br>Trong tổng số cá thể mang allele đột biến p, thể đột biến chiếm bao nhiêu phần trăm?",
+       "a": "0020",
+       "e": "Số cá thể mang allele đột biến p gồm Pp (240) + pp (60) = 300 cây.<br>Thể đột biến là cá thể mang đột biến lặn đã biểu hiện ra kiểu hình (kiểu gene pp) = 60 cây.<br>Tỉ lệ % = (60 / 300) * 100% = 20%.",
+       "n": 32
+      },
+      {
+       "t": "sa",
+       "s": "Ở một loài động vật, người ta ghi nhận các đột biến gene phát sinh độc lập trong các tế bào sau:<br>(1) Tế bào biểu bì da.<br>(2) Tế bào sinh dục sơ khai sẽ tạo tinh trùng.<br>(3) Tế bào gan.<br>(4) Tế bào sinh dục sơ khai sẽ tạo trứng.<br>(5) Tế bào cơ trường thành.<br>Giả sử các tế bào mang đột biến vẫn sống và thực hiện chức năng bình thường. Có bao nhiêu trường hợp đột biến có khả năng được truyền cho thế hệ sau qua sinh sản hữu tính?",
+       "a": "0002",
+       "e": "Đột biến giao tử hoặc đột biến tiền giao tử xuất hiện ở các tế bào sinh dục (2) và (4) mới có khả năng truyền qua giao tử cho thế hệ sau. Các tế bào xôma (1, 3, 5) đột biến không truyền qua sinh sản hữu tính. Do đó có 2 trường hợp.",
+       "n": 33
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

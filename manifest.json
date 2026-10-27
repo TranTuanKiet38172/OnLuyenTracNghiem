@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261027-2003",
+    "version":  "20261027-2013",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -49,6 +49,10 @@
                         {
                             "path":  "data/sinh-bai-5-cong-nghe-gene.json",
                             "v":  "20261027-2003"
+                        },
+                        {
+                            "path":  "data/sinh-bai-4-dot-bien-gene.json",
+                            "v":  "20261027-2013"
                         }
                     ],
     "figures":  {
