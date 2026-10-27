@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261027-1857",
+    "version":  "20261027-2002",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -40,7 +40,7 @@
                         },
                         {
                             "path":  "data/tin-on-thi-giua-ki-1.json",
-                            "v":  "20261027-1857"
+                            "v":  "20261027-2002"
                         }
                     ],
     "figures":  {
