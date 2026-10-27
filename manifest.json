@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261027-1848",
+    "version":  "20261027-1857",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -37,6 +37,10 @@
                         {
                             "path":  "data/toan-baffsaf.json",
                             "v":  "20261027-1848"
+                        },
+                        {
+                            "path":  "data/tin-on-thi-giua-ki-1.json",
+                            "v":  "20261027-1857"
                         }
                     ],
     "figures":  {
