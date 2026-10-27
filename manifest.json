@@ -45,6 +45,10 @@
                         {
                             "path":  "data/sinh-bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa.json",
                             "v":  "20261027-2003"
+                        },
+                        {
+                            "path":  "data/sinh-bai-5-cong-nghe-gene.json",
+                            "v":  "20261027-2003"
                         }
                     ],
     "figures":  {

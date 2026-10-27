@@ -1,0 +1,467 @@
+{
+ "id": "sinh-bai-5-cong-nghe-gene",
+ "subject": "Sinh học",
+ "name": "Bài 5: Công nghệ Gene",
+ "path": "data/sinh-bai-5-cong-nghe-gene.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "bai-5-cong-nghe-gene",
+     "name": "Bài 5: Công nghệ Gene",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Một nhóm nghiên cứu tách gene mã hóa một protein của người, gắn gene này vào plasmid rồi đưa plasmid tái tổ hợp vào vi khuẩn. Sau khi nuôi cấy, vi khuẩn tạo ra protein của người với số lượng lớn. Quy trình trên được xếp vào công nghệ gene chủ yếu vì",
+       "o": [
+        "làm tăng tốc độ sinh trưởng của vi khuẩn trong môi trường nuôi cấy.",
+        "sử dụng DNA tái tổ hợp để đưa gene mong muốn vào tế bào nhận và khai thác sản phẩm của gene đó.",
+        "tạo ra các đột biến ngẫu nhiên trong hệ gene của vi khuẩn.",
+        "làm thay đổi toàn bộ bộ nhiễm sắc thể của tế bào nhận."
+       ],
+       "a": 1,
+       "e": "Đáp án B đúng vì quy trình sử dụng DNA tái tổ hợp để đưa gene người vào vi khuẩn và sản xuất protein của người, đây là đặc điểm cốt lõi của công nghệ gene. Các phương pháp khác như tăng tốc độ sinh trưởng, tạo đột biến ngẫu nhiên hoặc thay đổi toàn bộ bộ nhiễm sắc thể không phản ánh đúng mục đích của công nghệ gene.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Trong một thí nghiệm, các nhà nghiên cứu cắt một đoạn DNA mang gene mong muốn và một plasmid bằng cùng loại enzyme giới hạn, sau đó dùng enzyme nối để gắn đoạn DNA này vào plasmid. Sản phẩm thu được là",
+       "o": [
+        "phân tử DNA tái tổ hợp chứa các đoạn DNA có nguồn gốc khác nhau.",
+        "một phân tử RNA có khả năng tự nhân đôi trong tế bào nhận.",
+        "một protein mới được tổng hợp trực tiếp từ hai đoạn DNA.",
+        "một nhiễm sắc thể mới được tạo ra do hai gene hợp nhất hoàn toàn."
+       ],
+       "a": 0,
+       "e": "Khi cắt DNA và plasmid bằng cùng loại enzyme giới hạn, các đoạn DNA sẽ có đầu dính tương thích. Enzyme nối sẽ gắn chúng lại tạo thành DNA tái tổ hợp. Sản phẩm này chứa các đoạn DNA có nguồn gốc khác nhau.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Trong kỹ thuật cấy gene, việc ghép (nối) đoạn DNA của tế bào cho vào DNA plasmid nhờ enzyme",
+       "o": [
+        "DNA ligase.",
+        "Enzyme cắt giới hạn.",
+        "RNA polymerase",
+        "DNA polymerase."
+       ],
+       "a": 0,
+       "e": "Enzyme DNA ligase có chức năng nối các đoạn DNA lại với nhau, giúp gắn đoạn DNA cần chuyển vào plasmid. Các enzyme khác như enzyme cắt giới hạn chỉ cắt DNA, không thực hiện việc nối. RNA polymerase và DNA polymerase không tham gia vào quá trình ghép DNA trong kỹ thuật cấy gene.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Trong quá trình tạo DNA tái tổ hợp, một plasmid và đoạn DNA mang gene cần chuyển được xử lý sao cho tạo ra các đầu tương thích. Sau đó, đoạn DNA này được gắn bền vững vào plasmid. Hai loại enzyme thực hiện trực tiếp hai bước trên lần lượt là",
+       "o": [
+        "DNA polymerase và RNA polymerase.",
+        "Enzyme cắt giới hạn và DNA ligase.",
+        "DNA ligase và enzyme cắt giới hạn.",
+        "RNA polymerase và DNA ligase."
+       ],
+       "a": 1,
+       "e": "Enzyme cắt giới hạn cắt plasmid và đoạn DNA cần chuyển tạo ra các đầu tương thích. DNA ligase nối các đầu này để gắn đoạn DNA vào plasmid một cách bền vững.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Thể truyền thường được sử dụng trong kỹ thuật cấy gene là:",
+       "o": [
+        "Động vật nguyên sinh.",
+        "Vi khuẩn E. Coli.",
+        "Plasmid hoặc thể thực khuẩn.",
+        "Nấm đơn bào."
+       ],
+       "a": 2,
+       "e": "Thể truyền thường được sử dụng trong kỹ thuật cấy gene là plasmid hoặc thể thực khuẩn vì chúng có khả năng nhân bản và chuyển gen dễ dàng trong quá trình chuyển gen vào tế bào chủ.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Để tạo chủng E. Coli sản xuất insulin người, các nhà nghiên cứu chọn một phân tử DNA có các đặc điểm: kích thước nhỏ, dạng vòng, có khả năng nhân đôi độc lập trong tế bào vi khuẩn và có vị trí thích hợp để gắn gene cần chuyển. Phân tử DNA này được sử dụng với vai trò",
+       "o": [
+        "thể truyền đưa gene insulin vào tế bào nhận.",
+        "enzyme cắt gene insulin khỏi DNA người.",
+        "gene chỉ thị tổng hợp insulin trong tế bào vi khuẩn.",
+        "khuôn trực tiếp để ribosome tổng hợp insulin."
+       ],
+       "a": 0,
+       "e": "Phân tử DNA được mô tả có khả năng nhân đôi độc lập và có vị trí gắn gene cần chuyển, đây là đặc điểm của thể truyền. Thể truyền được sử dụng để đưa gene insulin vào tế bào vi khuẩn.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Giống lúa \"gạo vàng\" có khả năng tổng hợp β-carotene (tiền tố vitamin A) trong hạt được tạo ra nhờ ứng dụng nào?",
+       "o": [
+        "Phương pháp cấy truyền phôi.",
+        "Phương pháp lai xa và đa bội hóa.",
+        "Công nghệ gene.",
+        "Phương pháp nhân bản vô tính."
+       ],
+       "a": 2,
+       "e": "Công nghệ gene cho phép con người chỉnh sửa gen để tạo ra giống lúa 'gạo vàng' có khả năng tổng hợp β-carotene. Các phương pháp khác như lai xa, nhân bản vô tính hoặc cấy truyền phôi không trực tiếp liên quan đến việc thay đổi gen để sản sinh vitamin A.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Trong kỹ thuật tạo DNA tái tổ hợp, để tạo ra đầu dính phù hợp giữa gene cần chuyển và thể truyền, người ta đã sử dụng cùng một loại enzyme cắt giới hạn có tên là",
+       "o": [
+        "DNA polymerase.",
+        "ligase.",
+        "restrictase.",
+        "RNA polymerase."
+       ],
+       "a": 2,
+       "e": "Enzyme restrictase là tên gọi chung cho các enzyme cắt giới hạn, chúng có khả năng cắt DNA tại những vị trí cụ thể tạo ra đầu dính phù hợp để kết hợp gene cần chuyển với thể truyền. Các enzyme khác như DNA polymerase, ligase và RNA polymerase không có chức năng cắt DNA tạo đầu dính.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Để tạo ra giống cà chua có gene làm chín quả bị bất hoạt giúp vận chuyển đi xa hoặc bảo quản lâu dài mà không bị hỏng, cần áp dụng phương pháp nào sau đây?",
+       "o": [
+        "Gây đột biến nhân tạo.",
+        "Công nghệ gene.",
+        "Lai hữu tính.",
+        "Công nghệ tế bào."
+       ],
+       "a": 1,
+       "e": "Công nghệ gene cho phép thay đổi hoặc bất hoạt gene cụ thể trong cây trồng, như gene làm chín quả, giúp cải thiện khả năng vận chuyển và bảo quản. Các phương pháp khác như gây đột biến, lai hữu tính hoặc công nghệ tế bào không trực tiếp tác động đến gene gây chín.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Một số con dê được chuyển gene của người để tạo ra protein antithrombin của người trong sữa, phục vụ sản xuất dược phẩm. Thành tựu này là kết quả chủ yếu của phương pháp nào?",
+       "o": [
+        "Gây đột biến.",
+        "Nhân bản vô tính.",
+        "Công nghệ gene.",
+        "Cấy truyền phôi."
+       ],
+       "a": 2,
+       "e": "Công nghệ gene là phương pháp sử dụng để chuyển gene của người vào tế bào dê, từ đó tạo ra protein antithrombin trong sữa. Đây là ứng dụng chính của công nghệ gene trong sản xuất dược phẩm.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Trong một thí nghiệm, gene mã hóa hormone sinh trưởng của chuột cống được đưa vào hợp tử chuột nhắt. Một số chuột con sinh ra mang gene này và tổng hợp được hormone tương ứng. Dấu hiệu nào sau đây là bằng chứng trực tiếp nhất cho thấy đây là sản phẩm của công nghệ gene?",
+       "o": [
+        "Chuột con được sinh ra từ hợp tử.",
+        "Chuột mang và biểu hiện một gene có nguồn gốc từ loài khác.",
+        "Chuột con có tốc độ sinh trưởng khác nhau.",
+        "Phôi chuột được nuôi trong điều kiện nhân tạo."
+       ],
+       "a": 1,
+       "e": "Đáp án B là đúng vì nó cho thấy gene từ loài khác đã được tích hợp vào genome của chuột và biểu hiện ra protein, đây là dấu hiệu trực tiếp của công nghệ gene. Các đáp án khác không chứng minh rõ ràng việc sử dụng công nghệ gene.",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Cho một số thao tác cơ bản trong quy trình chuyển gene tạo ra chủng vi khuẩn có khả năng tổng hợp insulin của người như sau:<br>(1) Tách plasmid từ tế bào vi khuẩn và tách gene mã hóa insulin từ tế bào người.<br>(2) Phân lập dòng tế bào chứa DNA tái tổ hợp mang gene mã hóa insulin của người.<br>(3) Chuyển DNA tái tổ hợp mang gene mã hóa insulin của người vào tế bào vi khuẩn.<br>(4) Tạo DNA tái tổ hợp mang gene mã hóa insulin của người.<br>Trình tự đúng của các thao tác trên là:",
+       "o": [
+        "(2) → (4) → (3) → (1).",
+        "(1) → (2) → (3) → (4).",
+        "(2) → (1) → (3) → (4).",
+        "(1) → (4) → (3) → (2)."
+       ],
+       "a": 3,
+       "e": "Đáp án đúng là D vì trước tiên cần tách gene mã hóa insulin từ tế bào người (1), sau đó tạo DNA tái tổ hợp (4), rồi chuyển vào tế bào vi khuẩn (3), cuối cùng phân lập dòng tế bào chứa DNA tái tổ hợp (2).",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Một số sản phẩm và phương pháp tạo ra chúng được mô tả dưới đây:<br>Sản phẩm | Đặc điểm tạo ra<br>I | Vi khuẩn E. Coli sản xuất insulin người<br>II | Cây trồng mang gene kháng sâu<br>III | Dưa hấu tam bội không hạt<br>IV | Vi sinh vật sản xuất protein của người<br>Sản phẩm nào không phải kết quả trực tiếp của việc đưa gene mong muốn vào tế bào nhận?",
+       "o": [
+        "I.",
+        "II.",
+        "III.",
+        "IV."
+       ],
+       "a": 2,
+       "e": "Sản phẩm III là dưa hấu tam bội không hạt được tạo ra bằng phương pháp lai giống và gây đột biến, không liên quan đến việc đưa gene mong muốn vào tế bào. Các sản phẩm còn lại đều sử dụng công nghệ gen để tạo ra.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Hai chủng vi sinh vật được tạo ra theo hai quy trình:<br>- Chủng I: xử lý nhiều thế hệ nấm bằng tác nhân gây đột biến, sau đó chọn được dòng có khả năng sản xuất kháng sinh cao hơn.<br>- Chủng II: đưa gene mã hóa insulin của người vào E. Coli, sau đó chọn các tế bào có khả năng sản xuất insulin.<br>Nhận định nào sau đây phù hợp nhất?",
+       "o": [
+        "Cả hai chủng đều được tạo ra chủ yếu bằng gây đột biến nhân tạo.",
+        "Chủng I được tạo bằng gây đột biến và chọn lọc; chủng II cần sử dụng công nghệ gene.",
+        "Chủng II có thể được tạo chỉ bằng cách tăng liều tác nhân gây đột biến.",
+        "Cả hai quy trình đều bắt buộc phải tạo sinh vật đa bội."
+       ],
+       "a": 1,
+       "e": "Chủng I được tạo ra bằng cách gây đột biến và chọn lọc để tìm dòng có khả năng sản xuất kháng sinh cao. Chủng II sử dụng công nghệ gene để đưa gene insulin vào E. Coli, do đó đáp án B là chính xác.",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "DNA tái tổ hợp mang gene mã hóa insulin tạo ra bằng kỹ thuật di truyền được đưa vào trong tế bào E. Coli nhằm mục đích gì?",
+       "o": [
+        "Ức chế hoạt động hệ gene của tế bào E. Coli.",
+        "Làm bất hoạt các enzyme cần cho sự nhân đôi DNA của E. Coli.",
+        "Làm cho DNA tái tổ hợp kết hợp với DNA vi khuẩn.",
+        "Tạo điều kiện cho gene đã ghép được biểu hiện."
+       ],
+       "a": 3,
+       "e": "Đáp án đúng là D vì mục đích của việc đưa DNA tái tổ hợp chứa gene mã hóa insulin vào tế bào E. Coli là để tạo điều kiện cho gene đã ghép được biểu hiện, từ đó sản xuất insulin.",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Trong kỹ thuật chuyển gene vào tế bào vi khuẩn, thể truyền plasmid cần phải mang gene đánh dấu nhằm mục đích gì?",
+       "o": [
+        "Để chuyển DNA tái tổ hợp vào tế bào được dễ dàng.",
+        "Vì plasmid phải có các gene này để có thể nhận DNA ngoại lai.",
+        "Để giúp cho enzyme restrictase cắt đúng vị trí trên plasmid.",
+        "Để dễ dàng phát hiện ra các tế bào vi khuẩn đã tiếp nhận DNA tái tổ hợp."
+       ],
+       "a": 3,
+       "e": "Gene đánh dấu trên plasmid giúp nhận biết các tế bào vi khuẩn đã tiếp nhận DNA tái tổ hợp thông qua việc biểu hiện đặc điểm dễ quan sát như kháng thuốc hoặc phát quang. Điều này giúp người thực hiện dễ dàng sàng lọc và chọn lọc tế bào mang DNA mục tiêu. Vì vậy, đáp án D là đúng.",
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Một giống cà chua biến đổi gene được tạo ra nhằm làm chậm quá trình chín của quả. Người ta so sánh với giống đối chứng và thu được kết quả sau 10 ngày bảo quản:<br>Chỉ tiêu | Cà chua đối chứng | Cà chua biến đổi gene<br>Mức ethylene tương đối | 100% | 35%<br>Độ cứng của quả còn lại | 42% | 78%<br>Tỉ lệ quả hư hỏng | 36% | 12%<br>Kết luận nào sau đây phù hợp nhất với kết quả trên?",
+       "o": [
+        "Biến đổi gene làm giảm quá trình liên quan đến chín quả, nhờ đó quả mềm chậm và bảo quản được lâu hơn.",
+        "Biến đổi gene làm tăng mạnh tổng hợp ethylene nên quả duy trì độ cứng lâu hơn.",
+        "Cà chua biến đổi gene không xảy ra quá trình chín nên không thể sử dụng làm thực phẩm.",
+        "Khả năng bảo quản của quả tăng vì cây được chuyển gene kháng sâu."
+       ],
+       "a": 0,
+       "e": "Đáp án A đúng vì cà chua biến đổi gene có mức ethylene thấp hơn, độ cứng cao hơn và tỉ lệ hư hỏng thấp hơn so với đối chứng, cho thấy quá trình chín bị làm chậm, giúp quả bảo quản lâu hơn.",
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Trong một phương pháp tạo động vật chuyển gene ở động vật có vú, các bước chính được thực hiện như sau:<br>(1) Chuyển phôi vào tử cung con cái nhận.<br>(2) Đưa gene cần chuyển vào hợp tử hoặc phôi ở giai đoạn sớm.<br>(3) Cho trứng thụ tinh tạo hợp tử.<br>(4) Kiểm tra con sinh ra để xác định cá thể mang và biểu hiện gene chuyển.<br>Trình tự nào sau đây là hợp lý nhất?",
+       "o": [
+        "(3) → (2) → (1) → (4).",
+        "(2) → (3) → (4) → (1).",
+        "(3) → (1) → (2) → (4).",
+        "(1) → (3) → (2) → (4)."
+       ],
+       "a": 0,
+       "e": "Đầu tiên, trứng thụ tinh tạo hợp tử (3), sau đó gene được đưa vào hợp tử hoặc phôi ở giai đoạn sớm (2), tiếp theo chuyển phôi vào tử cung con cái nhận (1), cuối cùng kiểm tra con sinh ra (4).",
+       "n": 18
+      },
+      {
+       "t": "mc",
+       "s": "Sinh vật biến đổi gene không được tạo ra bằng phương pháp nào sau đây?",
+       "o": [
+        "Tổ hợp lại các gene vốn có của bố mẹ bằng lai hữu tính.",
+        "Làm biến đổi một gene đã có sẵn trong hệ gene.",
+        "Loại bỏ hoặc làm bất hoạt một gene nào đó trong hệ gene.",
+        "Đưa thêm một gene của loài khác vào hệ gene."
+       ],
+       "a": 0,
+       "e": "Phương pháp lai hữu tính là phương pháp tự nhiên, không thuộc phương pháp biến đổi gene. Các phương pháp còn lại đều là các kỹ thuật nhân tạo để thay đổi cấu trúc gene.",
+       "n": 19
+      },
+      {
+       "t": "mc",
+       "s": "Sau khi đưa plasmid tái tổ hợp mang gene mã hóa một protein của người vào vi khuẩn E. Coli, người ta phát hiện trong tế bào vi khuẩn xuất hiện mRNA mang thông tin của gene chuyển và sau đó xuất hiện protein tương ứng. Kết quả này chứng tỏ",
+       "o": [
+        "gene chuyển đã được biểu hiện thông qua phiên mã và dịch mã trong tế bào nhận.",
+        "plasmid tái tổ hợp bắt buộc đã gắn vào nhiễm sắc thể của vi khuẩn.",
+        "gene chuyển đã làm thay đổi toàn bộ hệ gene của tế bào nhận.",
+        "plasmid tiếp tục bị cắt và nối nhiều lần sau khi vào tế bào nhận."
+       ],
+       "a": 0,
+       "e": "Kết quả cho thấy mRNA và protein được tạo ra từ gene chuyển, điều này chứng tỏ gene đã được phiên mã và dịch mã thành công trong tế bào vi khuẩn. Quá trình này xác nhận gene chuyển đã được biểu hiện đúng cách. Không cần plasmid gắn vào nhiễm sắc thể hay thay đổi toàn bộ hệ gene.",
+       "n": 20
+      },
+      {
+       "t": "mc",
+       "s": "Khi phân tích DNA của một chủng vi khuẩn, người ta phát hiện ngoài phần từ DNA chính còn có một số phân tử DNA nhỏ, dạng vòng, có khả năng nhân đôi tương đối độc lập và có thể mang thêm một số gene. Các phân tử DNA này được gọi là",
+       "o": [
+        "plasmid.",
+        "chromosome tương đồng.",
+        "mRNA.",
+        "nucleosome."
+       ],
+       "a": 0,
+       "e": "Plasmid là một phân tử DNA nhỏ, dạng vòng, có khả năng nhân đôi độc lập và mang thêm gene, điều này phù hợp với mô tả trong câu hỏi. Các plasmid thường tồn tại ngoài nhiễm sắc thể chính trong tế bào.",
+       "n": 21
+      },
+      {
+       "t": "mc",
+       "s": "Sau khi đưa một gene của người vào hợp tử dê, các phôi được cấy vào con cái để phát triển thành cá thể. Khi dê con sinh ra, người ta thu được kết quả sau:<br>Cá thể | Phát hiện gene chuyển trong tế bào | Phát hiện protein người trong sữa<br>I | Có | Có<br>II | Có | Không<br>III | Không | Không<br>Kết luận nào sau đây phù hợp nhất?",
+       "o": [
+        "Chỉ cá thể I chứng minh gene chuyển vừa có mặt vừa được biểu hiện tạo sản phẩm.",
+        "Cá thể II chắc chắn không mang gene chuyển vì không tạo protein người.",
+        "Cá thể III là động vật chuyển gene vì được sinh ra từ phôi đã xử lý.",
+        "Chỉ cần phát hiện protein trong sữa là đủ chứng minh gene đã được tích hợp vào mọi tế bào của cơ thể."
+       ],
+       "a": 0,
+       "e": "Đáp án A đúng vì cá thể I là duy nhất có cả gene chuyển trong tế bào và protein người trong sữa, chứng minh gene đã được tích hợp và biểu hiện. Các cá thể khác không có kết quả này, do đó không thể khẳng định gene được biểu hiện.",
+       "n": 22
+      },
+      {
+       "t": "tf",
+       "s": "Một nhóm nghiên cứu muốn đưa plasmid tái tổ hợp vào tế bào E. Coli. Họ xử lý tế bào bằng CaCl<sub>2</sub> hoặc sử dụng xung điện trước khi cho tiếp xúc với plasmid. Các phát biểu sau đây Đúng hay Sai?",
+       "st": [
+        [
+         "Các biện pháp trên có thể làm tăng khả năng tế bào tiếp nhận plasmid.",
+         1
+        ],
+        [
+         "Enzyme restrictase được bổ sung vào môi trường để tạo lỗ trên màng tế bào.",
+         0
+        ],
+        [
+         "Điện xung có thể làm tăng tính thấm tạm thời của màng tế bào.",
+         1
+        ],
+        [
+         "Sau khi nhận plasmid, mọi tế bào đều chắc chắn biểu hiện mạnh gene chuyển.",
+         0
+        ]
+       ],
+       "e": "Câu a đúng vì CaCl2 và xung điện giúp tế bào E. coli dễ tiếp nhận plasmid hơn. Câu b sai vì enzyme restrictase không tạo lỗ trên màng mà cắt plasmid. Câu c đúng vì xung điện làm màng tế bào thấm hơn tạm thời. Câu d sai vì không phải tất cả tế bào đều biểu hiện gene chuyển sau khi nhận plasmid.",
+       "n": 23
+      },
+      {
+       "t": "tf",
+       "s": "Một plasmid dùng làm vector mang gene kháng kháng sinh K. Sau khi chuyển plasmid vào vi khuẩn, các tế bào được nuôi trên môi trường có kháng sinh K. Các phát biểu sau đây Đúng hay Sai?",
+       "st": [
+        [
+         "Gene kháng kháng sinh có thể được dùng làm gene đánh dấu chọn lọc.",
+         1
+        ],
+        [
+         "Vi khuẩn không nhận plasmid có khả năng sinh trưởng kém trên môi trường chứa kháng sinh K.",
+         1
+        ],
+        [
+         "Việc mọc được trên môi trường K tự nó chứng minh chắc chắn gene cần chuyển đã biểu hiện thành protein chức năng.",
+         0
+        ],
+        [
+         "Bước chọn lọc giúp làm giàu nhóm tế bào đã tiếp nhận plasmid.",
+         1
+        ]
+       ],
+       "e": "Gene kháng kháng sinh thường được dùng làm gene đánh dấu chọn lọc, giúp xác định tế bào đã nhận plasmid. Tế bào không nhận plasmid sẽ không có khả năng kháng kháng sinh và không thể sinh trưởng. Việc mọc trên môi trường chứa kháng sinh chỉ chứng minh tế bào có plasmid, không đảm bảo gene cần chuyển đã biểu hiện. Chọn lọc giúp tăng tỷ lệ tế bào đã nhận plasmid.",
+       "n": 24
+      },
+      {
+       "t": "tf",
+       "s": "Một giống ngô biến đổi gene kháng sâu được khảo nghiệm. Kết quả cho thấy lượng trừ sâu sử dụng giảm 40%, năng suất tăng 8%, nhưng các nhà nghiên cứu vẫn tiếp tục theo dõi khả năng phát tán gene và ảnh hưởng đến sinh vật không mục tiêu. Các phát biểu sau đây Đúng hay Sai?",
+       "st": [
+        [
+         "Dữ liệu trên cho thấy giống ngô có thể mang lại một số lợi ích trong sản xuất.",
+         1
+        ],
+        [
+         "Việc tiếp tục đánh giá ảnh hưởng môi trường là cần thiết.",
+         1
+        ],
+        [
+         "Chỉ từ số liệu trên có thể khẳng định giống ngô hoàn toàn không có bất kỳ rủi ro nào.",
+         0
+        ],
+        [
+         "Đánh giá sản phẩm biến đổi gene nên dựa trên bằng chứng về cả lợi ích và nguy cơ.",
+         1
+        ]
+       ],
+       "e": "Câu a đúng vì dữ liệu cho thấy lợi ích về giảm sâu và tăng năng suất. Câu b đúng vì việc theo dõi tiếp tục là cần thiết để đảm bảo an toàn môi trường. Câu c sai vì không thể khẳng định không rủi ro chỉ từ số liệu hiện tại. Câu d đúng vì đánh giá cần cân nhắc cả lợi ích và nguy cơ.",
+       "n": 25
+      },
+      {
+       "t": "tf",
+       "s": "Xét một plasmid được sử dụng làm vector chuyển gene vào vi khuẩn. Các phát biểu sau đây Đúng hay Sai?",
+       "st": [
+        [
+         "Plasmid là phân tử DNA nằm ngoài nhiễm sắc thể và có thể tự nhân đôi trong tế bào nhận.",
+         1
+        ],
+        [
+         "Plasmid có thể mang gene ngoại lai vào tế bào nhận.",
+         1
+        ],
+        [
+         "Mọi plasmid tự nhiên đều có thể dùng làm vector mà không cần xem xét các đặc điểm khác.",
+         0
+        ],
+        [
+         "Vector thích hợp cần có khả năng duy trì trong tế bào nhận.",
+         1
+        ]
+       ],
+       "e": "Plasmid là phân tử DNA độc lập, có thể tự nhân đôi và mang gene ngoại lai, nên a và b đúng. Không phải mọi plasmid tự nhiên đều phù hợp làm vector nên c sai. Vector cần duy trì trong tế bào nhận nên d đúng.",
+       "n": 26
+      },
+      {
+       "t": "tf",
+       "s": "Khi tạo sinh vật chuyển gene, nhà khoa học đưa DNA tái tổ hợp vào tế bào thực vật hoặc hợp tử động vật. Các phát biểu sau đây là Đúng hay Sai?",
+       "st": [
+        [
+         "Cả hai quy trình đều dựa trên nguyên lý DNA tái tổ hợp.",
+         1
+        ],
+        [
+         "Tế bào thực vật nhận gene có thể được nuôi cấy tái sinh thành cây hoàn chỉnh.",
+         1
+        ],
+        [
+         "Ở động vật, hợp tử nhận gene có thể phát triển thành phôi rồi được cấy vào cơ thể con cái nhận.",
+         1
+        ],
+        [
+         "Tạo thực vật và động vật chuyển gene hoàn toàn không cần các công nghệ hỗ trợ khác ngoài việc cắt và nối DNA.",
+         0
+        ]
+       ],
+       "e": "Câu a đúng vì cả hai quy trình đều sử dụng DNA tái tổ hợp. Câu b đúng vì tế bào thực vật có thể tái sinh thành cây. Câu c đúng vì hợp tử động vật có thể phát triển thành phôi và được cấy ghép. Câu d sai vì tạo sinh vật chuyển gene còn cần các công nghệ hỗ trợ khác như chuyển gen, chọn lọc, v.v.",
+       "n": 27
+      },
+      {
+       "t": "sa",
+       "s": "Cho các bước:<br>(1) Tách gene cần chuyển và vector.<br>(2) Tạo DNA tái tổ hợp.<br>(3) Đưa DNA tái tổ hợp vào tế bào nhận.<br>(4) Chọn các tế bào đã nhận DNA tái tổ hợp.<br>Có bao nhiêu bước xảy ra trước khi tiến hành chọn lọc tế bào nhận?",
+       "a": "0003",
+       "e": "Các bước (1), (2) và (3) xảy ra trước bước chọn lọc tế bào nhận. Do đó, có 3 bước xảy ra trước khi tiến hành chọn lọc tế bào nhận.",
+       "n": 28
+      },
+      {
+       "t": "sa",
+       "s": "Một thí nghiệm đưa plasmid tái tổ hợp vào 5000 tế bào vi khuẩn. Sau chọn lọc thu được 400 khuẩn lạc có khả năng kháng kháng sinh đánh dấu. Giả sử mỗi khuẩn lạc có nguồn gốc từ một tế bào ban đầu, tỉ lệ tế bào được chọn lọc là bao nhiêu phần trăm?",
+       "a": "0008",
+       "e": "Tỉ lệ tế bào được chọn lọc được tính bằng số khuẩn lạc thu được chia cho số tế bào ban đầu. 400 khuẩn lạc / 5000 tế bào = 0.08, tức là 8%.",
+       "n": 29
+      },
+      {
+       "t": "sa",
+       "s": "Cho ba plasmid đều mang gene M:<br>- Plasmid I: có điểm khởi đầu tái bản và promoter phù hợp.<br>- Plasmid II: có điểm khởi đầu tái bản nhưng không có promoter phù hợp.<br>- Plasmid III: có promoter phù hợp nhưng không thể duy trì trong tế bào nhận.<br>Có bao nhiêu plasmid thỏa mãn đồng thời yêu cầu được duy trì và tạo điều kiện biểu hiện gene M trong tế bào nhận?",
+       "a": "0001",
+       "e": "Plasmid I thỏa mãn cả hai điều kiện vì có điểm khởi đầu tái bản và promoter phù hợp. Plasmid II thiếu promoter phù hợp nên không thể biểu hiện gene M. Plasmid III không thể duy trì trong tế bào nhận nên không thể biểu hiện gene M. Do đó chỉ có 1 plasmid thỏa mãn.",
+       "n": 30
+      },
+      {
+       "t": "sa",
+       "s": "Sau khi chuyển gene kháng sâu vào mô thực vật, người ta thu được:<br>- 200 cụm tế bào được xử lý chuyển gene;<br>- 80 cụm tái sinh được thành cây;<br>- Trong đó 60 cây được xác nhận có gene chuyển.<br>Có bao nhiêu cây tái sinh không mang gene chuyển?",
+       "a": "0020",
+       "e": "Tổng số cây tái sinh là 80. Trong đó 60 cây có gene chuyển, nên số cây không mang gene chuyển là 80 - 60 = 20.",
+       "n": 31
+      },
+      {
+       "t": "sa",
+       "s": "Cho các biện pháp:<br>(1) Đưa thêm một gene mới vào hệ gene.<br>(2) Làm biến đổi có chủ đích một gene đang có trong hệ gene.<br>(3) Gây đa bội bằng colchicine.<br>(4) Lai hai giống cùng loài.<br>Có bao nhiêu biện pháp thuộc nhóm làm biến đổi trực tiếp hệ gene bằng công nghệ di truyền?",
+       "a": "0002",
+       "e": "Biện pháp (1) và (2) thuộc nhóm làm biến đổi trực tiếp hệ gene bằng công nghệ di truyền vì chúng liên quan đến việc thêm hoặc thay đổi gene. Các biện pháp (3) và (4) không phải là biến đổi trực tiếp hệ gene mà là phương pháp khác trong chọn giống.",
+       "n": 32
+      },
+      {
+       "t": "sa",
+       "s": "Một giống cây biến đổi gene được xem xét trước khi đưa vào sản xuất. Các nội dung đánh giá gồm:<br>(1) Hiệu quả của tính trạng mong muốn.<br>(2) Khả năng ảnh hưởng tới sinh vật không mục tiêu.<br>(3) Khả năng phát tán gene ra quần thể khác.<br>(4) Chỉ đánh giá năng suất, không cần xem xét ảnh hưởng môi trường.<br>Có bao nhiêu nội dung phù hợp với cách đánh giá có trách nhiệm?",
+       "a": "0003",
+       "e": "Các nội dung (1), (2), (3) đều phù hợp với cách đánh giá có trách nhiệm vì chúng liên quan đến hiệu quả, an toàn sinh học và bảo vệ môi trường. Nội dung (4) không phù hợp vì bỏ qua việc xem xét ảnh hưởng môi trường.",
+       "n": 33
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
