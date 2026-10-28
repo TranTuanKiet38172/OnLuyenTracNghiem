@@ -1,778 +1,782 @@
 {
- "id": "anh-unit-2-a-multicutural-world",
- "subject": "Tiếng Anh",
- "name": "UNIT 2: A MULTICUTURAL WORLD",
- "path": "data/anh-unit-2-a-multicutural-world.json",
- "chapters": [
-  {
-   "name": "Chung",
-   "lessons": [
+  "id": "anh-unit-2-a-multicutural-world",
+  "subject": "Tiếng Anh",
+  "name": "UNIT 2: A MULTICUTURAL WORLD",
+  "chapters": [
     {
-     "id": "unit-2-a-multicutural-world",
-     "name": "UNIT 2: A MULTICUTURAL WORLD",
-     "qs": [
-      {
-       "t": "wf",
-       "s": "The orchid family of flowers is the most ______ plant family found in nature. (DIVERSITY)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "diverse",
-       "e": "Cần một tính từ đứng trước danh từ \"plant family\".",
-       "n": 1
-      },
-      {
-       "t": "wf",
-       "s": "Vietnamese ______ of weddings, funerals, holidays, and rituals all attracted the village community. (CUSTOMARY)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "costumes",
-       "e": "Cần danh từ số nhiều làm chủ ngữ cho động từ \"attracted\".",
-       "n": 2
-      },
-      {
-       "t": "wf",
-       "s": "His paintings were so unique as to require no signature for ______. (IDENTITY)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "identification",
-       "e": "Sau giới từ \"for\" cần một danh từ.",
-       "n": 3
-      },
-      {
-       "t": "wf",
-       "s": "Dying languages and urbanization are threats to cultural ______. (IDENTIFICATION)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "identity",
-       "e": "Cụm danh từ \"cultural identity\" nghĩa là bản sắc văn hóa.",
-       "n": 4
-      },
-      {
-       "t": "wf",
-       "s": "We prefer to buy regional ______ from a small supermarket. (SPECIAL)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "specialties || specialities",
-       "e": "Sau tính từ \"regional\" cần danh từ số nhiều (đặc sản).",
-       "n": 5
-      },
-      {
-       "t": "wf",
-       "s": "Cycling has been gaining in ______ in many parts of Vietnam. (POPULAR)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "popularity",
-       "e": "Cụm từ \"gain in popularity\" nghĩa là trở nên phổ biến/nổi tiếng.",
-       "n": 6
-      },
-      {
-       "t": "wf",
-       "s": "The ______ of cultural diversity is evident in art, food, and music. (INFLUENTIAL)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "influence",
-       "e": "Sau mạn từ \"The\" cần một danh từ làm chủ ngữ.",
-       "n": 7
-      },
-      {
-       "t": "wf",
-       "s": "Complaining about the customs of another culture is both ______ and disrespectful. (CHILDHOOD)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "childish || childlike",
-       "e": "Cần tính từ đứng sau động từ to be \"is\" và song song với \"disrespectful\".",
-       "n": 8
-      },
-      {
-       "t": "wf",
-       "s": "______, this festival is celebrated with family gatherings, but in modern times, communities also participate together. (TRADITION)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "Traditionally",
-       "e": "Cần trạng từ đứng đầu câu bổ nghĩa cho cả câu.",
-       "n": 9
-      },
-      {
-       "t": "wf",
-       "s": "Selling souvenirs without a permit is considered ______ at the fair. (LEGALLY)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "illegal",
-       "e": "Cấu trúc consider + sth + adj (coi cái gì như thế nào).",
-       "n": 10
-      },
-      {
-       "t": "wf",
-       "s": "The festival was a success in many ______, attracting thousands of visitors. (RESPECTFUL)",
-       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
-       "lv": 1,
-       "a": "respects",
-       "e": "Cụm từ \"in many respects\" nghĩa là trên nhiều phương diện.",
-       "n": 11
-      },
-      {
-       "t": "rw",
-       "s": "Visiting a multicultural city gives you an opportunity to taste foods from all over the world. (CULTURE)",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "lv": 1,
-       "a": "Visiting a multicultural city gives you an opportunity to taste foods from all over the world.",
-       "n": 12
-      },
-      {
-       "t": "rw",
-       "s": "There was some confusion among the tourists due to the unfamiliar customs. (CONFUSE)",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "lv": 1,
-       "a": "There was some confusion among the tourists due to the unfamiliar customs.",
-       "n": 13
-      },
-      {
-       "t": "rw",
-       "s": "We are now living in an increasingly connected world thanks to globalization. (CONNECTION)",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "lv": 1,
-       "a": "We are now living in an increasingly connected world thanks to globalization.",
-       "n": 14
-      },
-      {
-       "t": "rw",
-       "s": "When Helen moved to Japan, she had to quickly assimilate a new language into her vocabulary. (ASSIMILATION)",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "lv": 1,
-       "a": "When Helen moved to Japan, she had to quickly assimilate a new language into her vocabulary.",
-       "n": 15
-      },
-      {
-       "t": "rw",
-       "s": "I arrived by train a moment ago.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "I have ...",
-       "lv": 1,
-       "a": "I have arrived by train for a moment.",
-       "n": 16
-      },
-      {
-       "t": "rw",
-       "s": "As soon as he arrived home, it started to rain.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "No sooner ...",
-       "lv": 1,
-       "a": "No sooner had he arrived home than it started to rain.",
-       "e": "Cấu trúc No sooner + had + S + V3/ed + than + S + V2/ed.",
-       "n": 17
-      },
-      {
-       "t": "rw",
-       "s": "I had been instructed to drive out of town and I began to acquire confidence.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "After having ...",
-       "lv": 1,
-       "a": "After having been instructed I began to acquire confidence.",
-       "e": "Rút gọn hai mệnh đề cùng chủ ngữ dùng danh động词 hoàn thành (Having + V3/ed).",
-       "n": 18
-      },
-      {
-       "t": "rw",
-       "s": "I have only ever felt frightened on one occasion.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "Only on one occasion ...",
-       "lv": 1,
-       "a": "Only on one occasion have I ever felt frightened.",
-       "e": "Đảo ngữ với Only on one occasion + trợ động từ + S + V.",
-       "n": 19
-      },
-      {
-       "t": "rw",
-       "s": "I prefer reading books to watching TV.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "I would rather ...",
-       "lv": 1,
-       "a": "I would rather read books than watch TV.",
-       "e": "Cấu trúc would rather + V1 + than + V1.",
-       "n": 20
-      },
-      {
-       "t": "rw",
-       "s": "I'm thinking about my future.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "I'm giving ...",
-       "lv": 1,
-       "a": "I'm giving thought to my future.",
-       "e": "Cụm từ give thought to sth nghĩa là suy nghĩ về cái gì.",
-       "n": 21
-      },
-      {
-       "t": "rw",
-       "s": "It's your duty to report this incident.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "You are supposed ...",
-       "lv": 1,
-       "a": "You are supposed to report this incident.",
-       "e": "Cấu trúc be supposed to + V1 (có nhiệm vụ/trách nhiệm làm gì).",
-       "n": 22
-      },
-      {
-       "t": "rw",
-       "s": "Although it was raining, we went for a walk.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "Despite ...",
-       "lv": 1,
-       "a": "Despite the rain, we went for a walk.",
-       "e": "Cấu trúc Despite + N/N-phrase, S + V.",
-       "n": 23
-      },
-      {
-       "t": "rw",
-       "s": "I had never seen such a beautiful sunset before.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "Never ...",
-       "lv": 1,
-       "a": "Never had I seen such a beautiful sunset before.",
-       "e": "Đảo ngữ với Never đứng đầu câu: Never + had + S + V3/ed.",
-       "n": 24
-      },
-      {
-       "t": "rw",
-       "s": "His kindness impressed me the most.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "What impressed ...",
-       "lv": 1,
-       "a": "What impressed me the most was his kindness.",
-       "e": "Cấu trúc câu nhấn mạnh với Mệnh đề quan hệ tự do (What clause).",
-       "n": 25
-      },
-      {
-       "t": "rw",
-       "s": "I suggest that we should leave early.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "I suggest ...",
-       "lv": 1,
-       "a": "I suggest leaving early.",
-       "e": "Cấu trúc suggest + V-ing.",
-       "n": 26
-      },
-      {
-       "t": "rw",
-       "s": "I didn't arrive in time to see her.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "I wasn't ...",
-       "lv": 1,
-       "a": "I wasn't early enough to see her.",
-       "e": "Cấu trúc adj + enough + to V.",
-       "n": 27
-      },
-      {
-       "t": "rw",
-       "s": "Janet is the best tennis player in the club.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "No one ...",
-       "lv": 1,
-       "a": "No one in the club plays tennis better than Janet.",
-       "e": "Chuyển đổi từ so sánh nhất sang so sánh hơn với \"No one\".",
-       "n": 28
-      },
-      {
-       "t": "rw",
-       "s": "He didn't hurry, so he missed the train.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "If he ...",
-       "lv": 1,
-       "a": "If he had hurried, he wouldn't have missed the train.",
-       "e": "Câu điều kiện loại 3 diễn tả điều trái với thực tế trong quá khứ.",
-       "n": 29
-      },
-      {
-       "t": "rw",
-       "s": "I think it was about two in the morning when I returned home.",
-       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
-       "h": "It must ...",
-       "lv": 1,
-       "a": "It must have been two in the morning when I returned home.",
-       "e": "Động từ khuyết thiếu dự đoán quá khứ: must have + V3/ed.",
-       "n": 30
-      },
-      {
-       "t": "mc",
-       "s": "It is important to ________ misunderstandings calmly during cross-cultural events.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "deal with",
-        "find out",
-        "carry out",
-        "give up"
-       ],
-       "a": 0,
-       "e": "deal with: giải quyết, đối phó với.",
-       "n": 31
-      },
-      {
-       "t": "mc",
-       "s": "There is a growing ________ to hold multicultural fairs, which provide an opportunity to showcase global diversity and attract more young people.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "trend",
-        "belief",
-        "custom",
-        "activity"
-       ],
-       "a": 0,
-       "e": "trend: xu hướng.",
-       "n": 32
-      },
-      {
-       "t": "mc",
-       "s": "I attended the workshop to find ________ more about traditional handicrafts.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "o": [
-        "out",
-        "to",
-        "with",
-        "on"
-       ],
-       "a": 0,
-       "e": "find out: tìm hiểu, khám phá.",
-       "n": 33
-      },
-      {
-       "t": "mc",
-       "s": "________ or custom of another culture fosters mutual respect.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "Understanding the belief",
-        "The understanding belief",
-        "An understanding belief",
-        "Understanding a belief"
-       ],
-       "a": 3,
-       "e": "V-ing đứng đầu câu làm chủ ngữ.",
-       "n": 34
-      },
-      {
-       "t": "mc",
-       "s": "Because of ________, it is the local identity that we should preserve by promoting traditions and sharing them with younger generations.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "confusion",
-        "globalization",
-        "souvenirs",
-        "restrictions"
-       ],
-       "a": 1,
-       "e": "globalization: sự toàn cầu hóa.",
-       "n": 35
-      },
-      {
-       "t": "mc",
-       "s": "Despite the ________ customs, the visitors adapted quickly by learning local traditions so that they could better appreciate the experience.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "familiar",
-        "unfamiliar",
-        "confused",
-        "outdated"
-       ],
-       "a": 1,
-       "e": "unfamiliar: không quen thuộc, xa lạ.",
-       "n": 36
-      },
-      {
-       "t": "mc",
-       "s": "It was not until the professional chef shared his recipe that we realized why the dish was so ________ that everyone wanted a second serving.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "beautiful",
-        "tasty",
-        "interesting",
-        "expensive"
-       ],
-       "a": 1,
-       "e": "tasty: ngon miệng.",
-       "n": 37
-      },
-      {
-       "t": "mc",
-       "s": "While many people were familiar with the tradition of tug of war, having ________ in the game gave them a deeper understanding, and so they ________ its cultural meaning more.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "watched/ ignored",
-        "played/ forgot",
-        "participated/ appreciated",
-        "observed/ respected"
-       ],
-       "a": 2,
-       "e": "participate: tham gia; appreciate: trân trọng, đánh giá cao.",
-       "n": 38
-      },
-      {
-       "t": "mc",
-       "s": "Unless you visit the fair, you won't see performances too unique to miss, and it is organized to promote ________.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "globalization",
-        "cultural diversity",
-        "experience",
-        "diversity"
-       ],
-       "a": 1,
-       "e": "cultural diversity: sự đa dạng văn hóa.",
-       "n": 39
-      },
-      {
-       "t": "mc",
-       "s": "Respect for elders is a ________ of Asian cultures, while individualism is often seen in Western societies.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "tradition",
-        "feature",
-        "characteristic",
-        "custom"
-       ],
-       "a": 3,
-       "e": "custom: phong tục, tập quán.",
-       "n": 40
-      },
-      {
-       "t": "mc",
-       "s": "Lighting candles on special occasions is a ________ that has been followed for generations.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "fair",
-        "booth",
-        "performance",
-        "custom"
-       ],
-       "a": 3,
-       "e": "custom: phong tục.",
-       "n": 41
-      },
-      {
-       "t": "mc",
-       "s": "________ causes confusion when people from different countries communicate.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "Barrier the language",
-        "The barrier language",
-        "A barrier language",
-        "A language barrier"
-       ],
-       "a": 3,
-       "e": "language barrier: rào cản ngôn ngữ.",
-       "n": 42
-      },
-      {
-       "t": "mc",
-       "s": "The event was successful ________ the hard work of local organizers.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "because",
-        "thanks to",
-        "despite",
-        "through"
-       ],
-       "a": 1,
-       "e": "thanks to: nhờ vào, nhờ có.",
-       "n": 43
-      },
-      {
-       "t": "mc",
-       "s": "Interest in traditional crafts and cuisines is ________ among young people.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "on the rise",
-        "in decline",
-        "at its peak",
-        "on the wane"
-       ],
-       "a": 0,
-       "e": "on the rise: đang gia tăng.",
-       "n": 44
-      },
-      {
-       "t": "mc",
-       "s": "Many students struggle to ________ the unfamiliar customs in a foreign country.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "keep up with",
-        "catch on to",
-        "deal with",
-        "focus on"
-       ],
-       "a": 0,
-       "e": "keep up with: theo kịp, thích nghi với.",
-       "n": 45
-      },
-      {
-       "t": "mc",
-       "s": "When moving abroad, people sometimes ________ their sense of identity.",
-       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "gain",
-        "lose",
-        "develop",
-        "strengthen"
-       ],
-       "a": 1,
-       "e": "lose one's sense of identity: mất đi bản sắc cá nhân/văn hóa.",
-       "n": 46
-      },
-      {
-       "t": "mc",
-       "s": "The organizers ________ the event seriously to ensure it showcased every aspect of the culture.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "performed",
-        "organized",
-        "took",
-        "arranged"
-       ],
-       "a": 2,
-       "e": "take sth seriously: coi trọng/nghiêm túc với điều gì.",
-       "n": 47
-      },
-      {
-       "t": "mc",
-       "s": "Every dish has unique ________ that gives the dish and sauce its special flavor.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "seasoning",
-        "sauce",
-        "ingredients",
-        "herb"
-       ],
-       "a": 2,
-       "e": "ingredients: nguyên liệu.",
-       "n": 48
-      },
-      {
-       "t": "mc",
-       "s": "The performance ________ dance, music, and storytelling so seamlessly that the audience was mesmerized.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "reflected",
-        "included",
-        "blended",
-        "presented"
-       ],
-       "a": 2,
-       "e": "blend: hòa trộn, kết hợp.",
-       "n": 49
-      },
-      {
-       "t": "mc",
-       "s": "She is a cultural ________. She is specialised in ethnic minority culture.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "specialist",
-        "richness",
-        "identity",
-        "shock"
-       ],
-       "a": 0,
-       "e": "specialist: chuyên gia.",
-       "n": 50
-      },
-      {
-       "t": "mc",
-       "s": "My neighbor is ________ photographer, let's ask him for ________ advice about color film.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "a/ Ø",
-        "the/ the",
-        "a/ the",
-        "the/ an"
-       ],
-       "a": 3,
-       "e": "advice là danh từ không đếm được nên dùng Ø.",
-       "n": 51
-      },
-      {
-       "t": "mc",
-       "s": "In most ________ developed countries, up to 50% of ________ population enters higher education at some time in their lives.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "the/ Ø",
-        "Ø/ Ø",
-        "the/ a",
-        "Ø/ the"
-       ],
-       "a": 3,
-       "e": "Developed countries dùng mạo từ rỗng Ø; population dùng \"the population\".",
-       "n": 52
-      },
-      {
-       "t": "mc",
-       "s": "After he left ________ University of Massachusetts, he went to ________ Indiana State University.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "the/ Ø",
-        "the/ the",
-        "Ø/ the",
-        "Ø/ Ø"
-       ],
-       "a": 3,
-       "e": "Tên trường đại học có chứa \"University of...\" dùng \"the\", tên trường dạng \"Name + University\" dùng Ø.",
-       "n": 53
-      },
-      {
-       "t": "mc",
-       "s": "He spent part of ________ afternoon telling them ________ news he could not tell them by telephone.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "the/ the/ Ø",
-        "an/ Ø/ the",
-        "an/ the/ the",
-        "the/ Ø/ the"
-       ],
-       "a": 0,
-       "e": "\"in the afternoon\" và \"the news\" đã xác định.",
-       "n": 54
-      },
-      {
-       "t": "mc",
-       "s": "He teaches ________ piano and ________ violin.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "the/ Ø",
-        "a/ the",
-        "the/ a",
-        "Ø/ Ø"
-       ],
-       "a": 3,
-       "e": "Chơi nhạc cụ dùng mạo từ \"the\": the piano, the violin.",
-       "n": 55
-      },
-      {
-       "t": "mc",
-       "s": "________ professor Johns, ________ man whose new drug everyone is talking about refused ________ interview.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "Ø/ The/ An",
-        "Ø/ A/ the",
-        "The/ A/ The",
-        "The/ A/ An"
-       ],
-       "a": 3,
-       "e": "Giáo sư cụ thể dùng Ø; chỉ người đàn ông xác định dùng the.",
-       "n": 56
-      },
-      {
-       "t": "mc",
-       "s": "There isn't ________ airport near where I live, ________ nearest airport is 70 miles away.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "an/ a",
-        "an/ the",
-        "the/ a",
-        "the/ the"
-       ],
-       "a": 1,
-       "e": "Lần đầu nhắc tới dùng \"an\", so sánh nhất dùng \"the nearest\".",
-       "n": 57
-      },
-      {
-       "t": "mc",
-       "s": "Would you rather live in ________ town or in ________ country.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "a/ a",
-        "a/ the",
-        "the/ an",
-        "the/ a"
-       ],
-       "a": 1,
-       "e": "Cụm từ cố định: in a town, in the country.",
-       "n": 58
-      },
-      {
-       "t": "mc",
-       "s": "________ most lively and energetic cultural performances take place in ________ heart of New York City.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "A/ the",
-        "The/ a",
-        "The/ Ø",
-        "The/ the"
-       ],
-       "a": 3,
-       "e": "So sánh nhất dùng \"The\", cụm từ \"in the heart of\".",
-       "n": 59
-      },
-      {
-       "t": "mc",
-       "s": "________ interesting cultural shock for travellers in Spain is ________ tradition of siestas in the afternoon.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "An/ the",
-        "An/ a",
-        "An/ Ø",
-        "The/ Ø"
-       ],
-       "a": 0,
-       "e": "Một cú sốc văn hóa dùng \"An\", truyền thống cụ thể dùng \"the\".",
-       "n": 60
-      },
-      {
-       "t": "mc",
-       "s": "It is ________ unique cultural experience to attend ________ Rio de Janeiro Carnival in Brazil.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "the/ the",
-        "a/ the",
-        "an/ the",
-        "an/ Ø"
-       ],
-       "a": 1,
-       "e": "\"a unique\" (âm /j/), tên lễ hội lớn dùng \"the\".",
-       "n": 61
-      },
-      {
-       "t": "mc",
-       "s": "Taiwan is ________ island. It is ________ largest island of ________ Republic of China.",
-       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
-       "lv": 1,
-       "o": [
-        "an/ a/ Ø",
-        "the/ the/ Ø",
-        "a/ the/ the",
-        "an/ the/ the"
-       ],
-       "a": 3,
-       "e": "\"an island\", so sánh nhất \"the largest\", tên quốc gia dạng Republic dùng \"the Republic of China\".",
-       "n": 62
-      }
-     ]
+      "name": "Chung",
+      "lessons": [
+        {
+          "id": "unit-2-a-multicutural-world",
+          "name": "UNIT 2: A MULTICUTURAL WORLD",
+          "qs": [
+            {
+              "t": "wf",
+              "s": "The orchid family of flowers is the most ______ plant family found in nature. (DIVERSITY)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "diverse",
+              "e": "Cần một tính từ đứng trước danh từ \"plant family\".",
+              "n": 1
+            },
+            {
+              "t": "wf",
+              "s": "Vietnamese ______ of weddings, funerals, holidays, and rituals all attracted the village community. (CUSTOMARY)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "customs",
+              "e": "Customs là phong tục, phù hợp với weddings, funerals, holidays và rituals; costumes là trang phục.",
+              "n": 2
+            },
+            {
+              "t": "wf",
+              "s": "His paintings were so unique as to require no signature for ______. (IDENTITY)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "identification",
+              "e": "Sau giới từ \"for\" cần một danh từ.",
+              "n": 3
+            },
+            {
+              "t": "wf",
+              "s": "Dying languages and urbanization are threats to cultural ______. (IDENTIFICATION)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "identity",
+              "e": "Cụm danh từ \"cultural identity\" nghĩa là bản sắc văn hóa.",
+              "n": 4
+            },
+            {
+              "t": "wf",
+              "s": "We prefer to buy regional ______ from a small supermarket. (SPECIAL)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "specialties || specialities",
+              "e": "Sau tính từ \"regional\" cần danh từ số nhiều (đặc sản).",
+              "n": 5
+            },
+            {
+              "t": "wf",
+              "s": "Cycling has been gaining in ______ in many parts of Vietnam. (POPULAR)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "popularity",
+              "e": "Cụm từ \"gain in popularity\" nghĩa là trở nên phổ biến/nổi tiếng.",
+              "n": 6
+            },
+            {
+              "t": "wf",
+              "s": "The ______ of cultural diversity is evident in art, food, and music. (INFLUENTIAL)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "influence",
+              "e": "Sau mạn từ \"The\" cần một danh từ làm chủ ngữ.",
+              "n": 7
+            },
+            {
+              "t": "wf",
+              "s": "Complaining about the customs of another culture is both ______ and disrespectful. (CHILDHOOD)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "childish",
+              "e": "Childish mang nghĩa tiêu cực là trẻ con, thiếu chín chắn; childlike thường mang nghĩa tích cực.",
+              "n": 8
+            },
+            {
+              "t": "wf",
+              "s": "______, this festival is celebrated with family gatherings, but in modern times, communities also participate together. (TRADITION)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "Traditionally",
+              "e": "Cần trạng từ đứng đầu câu bổ nghĩa cho cả câu.",
+              "n": 9
+            },
+            {
+              "t": "wf",
+              "s": "Selling souvenirs without a permit is considered ______ at the fair. (LEGALLY)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "illegal",
+              "e": "Cấu trúc consider + sth + adj (coi cái gì như thế nào).",
+              "n": 10
+            },
+            {
+              "t": "wf",
+              "s": "The festival was a success in many ______, attracting thousands of visitors. (RESPECTFUL)",
+              "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+              "lv": 1,
+              "a": "respects",
+              "e": "Cụm từ \"in many respects\" nghĩa là trên nhiều phương diện.",
+              "n": 11
+            },
+            {
+              "t": "rw",
+              "s": "Visiting a multicultural city gives you an opportunity to taste foods from all over the world. (CULTURE)",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "lv": 1,
+              "a": "Visiting a culturally diverse city gives you an opportunity to taste foods from all over the world.",
+              "n": 12,
+              "e": "Dùng culturally diverse để diễn đạt ý multicultural và biến đổi từ CULTURE."
+            },
+            {
+              "t": "rw",
+              "s": "There was some confusion among the tourists due to the unfamiliar customs. (CONFUSE)",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "lv": 1,
+              "a": "The unfamiliar customs confused some of the tourists.",
+              "n": 13,
+              "e": "Đổi danh từ confusion thành động từ confused."
+            },
+            {
+              "t": "rw",
+              "s": "We are now living in an increasingly connected world thanks to globalization. (CONNECTION)",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "lv": 1,
+              "a": "Thanks to globalization, we are now living in a world with increasing connections.",
+              "n": 14,
+              "e": "Đổi connected thành danh từ connections; giữ ý các mối liên kết ngày càng tăng."
+            },
+            {
+              "t": "rw",
+              "s": "When Helen moved to Japan, she had to quickly assimilate a new language into her vocabulary. (ASSIMILATION)",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "lv": 1,
+              "a": "When Helen moved to Japan, she had to quickly work on the assimilation of a new language into her vocabulary.",
+              "n": 15,
+              "e": "Dùng danh từ assimilation thay cho động từ assimilate. Câu gốc hơi thiếu tự nhiên về cách diễn đạt."
+            },
+            {
+              "t": "rw",
+              "s": "I arrived by train a moment ago.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "I have ...",
+              "lv": 1,
+              "a": "I have just arrived by train.",
+              "n": 16,
+              "e": "A moment ago chuyển thành just với thì hiện tại hoàn thành; không dùng for a moment."
+            },
+            {
+              "t": "rw",
+              "s": "As soon as he arrived home, it started to rain.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "No sooner ...",
+              "lv": 1,
+              "a": "No sooner had he arrived home than it started to rain.",
+              "e": "Cấu trúc No sooner + had + S + V3/ed + than + S + V2/ed.",
+              "n": 17
+            },
+            {
+              "t": "rw",
+              "s": "I had been instructed to drive out of town and I began to acquire confidence.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "After having ...",
+              "lv": 1,
+              "a": "After having been instructed to drive out of town, I began to acquire confidence.",
+              "e": "Giữ đủ cụm to drive out of town và dùng dạng bị động hoàn thành having been instructed.",
+              "n": 18
+            },
+            {
+              "t": "rw",
+              "s": "I have only ever felt frightened on one occasion.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "Only on one occasion ...",
+              "lv": 1,
+              "a": "Only on one occasion have I ever felt frightened.",
+              "e": "Đảo ngữ với Only on one occasion + trợ động từ + S + V.",
+              "n": 19
+            },
+            {
+              "t": "rw",
+              "s": "I prefer reading books to watching TV.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "I would rather ...",
+              "lv": 1,
+              "a": "I would rather read books than watch TV.",
+              "e": "Cấu trúc would rather + V1 + than + V1.",
+              "n": 20
+            },
+            {
+              "t": "rw",
+              "s": "I'm thinking about my future.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "I'm giving ...",
+              "lv": 1,
+              "a": "I'm giving thought to my future.",
+              "e": "Cụm từ give thought to sth nghĩa là suy nghĩ về cái gì.",
+              "n": 21
+            },
+            {
+              "t": "rw",
+              "s": "It's your duty to report this incident.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "You are supposed ...",
+              "lv": 1,
+              "a": "You are supposed to report this incident.",
+              "e": "Cấu trúc be supposed to + V1 (có nhiệm vụ/trách nhiệm làm gì).",
+              "n": 22
+            },
+            {
+              "t": "rw",
+              "s": "Although it was raining, we went for a walk.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "Despite ...",
+              "lv": 1,
+              "a": "Despite the rain, we went for a walk.",
+              "e": "Cấu trúc Despite + N/N-phrase, S + V.",
+              "n": 23
+            },
+            {
+              "t": "rw",
+              "s": "I had never seen such a beautiful sunset before.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "Never ...",
+              "lv": 1,
+              "a": "Never had I seen such a beautiful sunset before.",
+              "e": "Đảo ngữ với Never đứng đầu câu: Never + had + S + V3/ed.",
+              "n": 24
+            },
+            {
+              "t": "rw",
+              "s": "His kindness impressed me the most.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "What impressed ...",
+              "lv": 1,
+              "a": "What impressed me the most was his kindness.",
+              "e": "Cấu trúc câu nhấn mạnh với Mệnh đề quan hệ tự do (What clause).",
+              "n": 25
+            },
+            {
+              "t": "rw",
+              "s": "I suggest that we should leave early.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "I suggest ...",
+              "lv": 1,
+              "a": "I suggest leaving early.",
+              "e": "Cấu trúc suggest + V-ing.",
+              "n": 26
+            },
+            {
+              "t": "rw",
+              "s": "I didn't arrive in time to see her.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "I wasn't ...",
+              "lv": 1,
+              "a": "I wasn't early enough to see her.",
+              "e": "Cấu trúc adj + enough + to V.",
+              "n": 27
+            },
+            {
+              "t": "rw",
+              "s": "Janet is the best tennis player in the club.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "No one ...",
+              "lv": 1,
+              "a": "No one in the club plays tennis better than Janet.",
+              "e": "Chuyển đổi từ so sánh nhất sang so sánh hơn với \"No one\".",
+              "n": 28
+            },
+            {
+              "t": "rw",
+              "s": "He didn't hurry, so he missed the train.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "If he ...",
+              "lv": 1,
+              "a": "If he had hurried, he wouldn't have missed the train.",
+              "e": "Câu điều kiện loại 3 diễn tả điều trái với thực tế trong quá khứ.",
+              "n": 29
+            },
+            {
+              "t": "rw",
+              "s": "I think it was about two in the morning when I returned home.",
+              "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+              "h": "It must ...",
+              "lv": 1,
+              "a": "It must have been about two in the morning when I returned home.",
+              "e": "Giữ about để bảo toàn mức độ ước lượng trong câu gốc.",
+              "n": 30
+            },
+            {
+              "t": "mc",
+              "s": "It is important to ________ misunderstandings calmly during cross-cultural events.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "deal with",
+                "find out",
+                "carry out",
+                "give up"
+              ],
+              "a": 0,
+              "e": "deal with: giải quyết, đối phó với.",
+              "n": 31
+            },
+            {
+              "t": "mc",
+              "s": "There is a growing ________ to hold multicultural fairs, which provide an opportunity to showcase global diversity and attract more young people.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "trend",
+                "belief",
+                "custom",
+                "activity"
+              ],
+              "a": 0,
+              "e": "trend: xu hướng.",
+              "n": 32
+            },
+            {
+              "t": "mc",
+              "s": "I attended the workshop to find ________ more about traditional handicrafts.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "o": [
+                "out",
+                "to",
+                "with",
+                "on"
+              ],
+              "a": 0,
+              "e": "find out: tìm hiểu, khám phá.",
+              "n": 33
+            },
+            {
+              "t": "mc",
+              "s": "________ or custom of another culture fosters mutual respect.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "Understanding the belief",
+                "The understanding belief",
+                "An understanding belief",
+                "Understanding a belief"
+              ],
+              "a": 3,
+              "e": "Understanding a belief or custom of another culture: việc hiểu một tín ngưỡng hay phong tục của nền văn hóa khác. A là phương án có mạo từ tự nhiên trong ngữ cảnh chung.",
+              "n": 34
+            },
+            {
+              "t": "mc",
+              "s": "Because of ________, it is the local identity that we should preserve by promoting traditions and sharing them with younger generations.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "confusion",
+                "globalization",
+                "souvenirs",
+                "restrictions"
+              ],
+              "a": 1,
+              "e": "globalization: sự toàn cầu hóa.",
+              "n": 35
+            },
+            {
+              "t": "mc",
+              "s": "Despite the ________ customs, the visitors adapted quickly by learning local traditions so that they could better appreciate the experience.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "familiar",
+                "unfamiliar",
+                "confused",
+                "outdated"
+              ],
+              "a": 1,
+              "e": "unfamiliar: không quen thuộc, xa lạ.",
+              "n": 36
+            },
+            {
+              "t": "mc",
+              "s": "It was not until the professional chef shared his recipe that we realized why the dish was so ________ that everyone wanted a second serving.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "beautiful",
+                "tasty",
+                "interesting",
+                "expensive"
+              ],
+              "a": 1,
+              "e": "tasty: ngon miệng.",
+              "n": 37
+            },
+            {
+              "t": "mc",
+              "s": "While many people were familiar with the tradition of tug of war, having ________ in the game gave them a deeper understanding, and so they ________ its cultural meaning more.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "watched / ignored",
+                "played / forgot",
+                "participated / appreciated",
+                "observed / respected"
+              ],
+              "a": 2,
+              "e": "Participated in the game và appreciated its cultural meaning; participated phải đi với in (đã có trong câu).",
+              "n": 38
+            },
+            {
+              "t": "mc",
+              "s": "Unless you visit the fair, you won't see performances too unique to miss, and it is organized to promote ________.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "globalization",
+                "cultural diversity",
+                "experience",
+                "diversity"
+              ],
+              "a": 1,
+              "e": "cultural diversity: sự đa dạng văn hóa.",
+              "n": 39
+            },
+            {
+              "t": "mc",
+              "s": "Respect for elders is a ________ of Asian cultures, while individualism is often seen in Western societies.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "tradition",
+                "ceremony",
+                "characteristic",
+                "souvenir"
+              ],
+              "a": 2,
+              "e": "A characteristic of Asian cultures: một đặc trưng của các nền văn hóa châu Á. Feature cũng có thể dùng, nên câu này chưa thật sự đơn nghĩa nếu giữ nguyên lựa chọn.",
+              "n": 40
+            },
+            {
+              "t": "mc",
+              "s": "Lighting candles on special occasions is a ________ that has been followed for generations.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "fair",
+                "booth",
+                "performance",
+                "custom"
+              ],
+              "a": 3,
+              "e": "custom: phong tục.",
+              "n": 41
+            },
+            {
+              "t": "mc",
+              "s": "________ causes confusion when people from different countries communicate.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "Barrier the language",
+                "The barrier language",
+                "A barrier language",
+                "A language barrier"
+              ],
+              "a": 3,
+              "e": "language barrier: rào cản ngôn ngữ.",
+              "n": 42
+            },
+            {
+              "t": "mc",
+              "s": "The event was successful ________ the hard work of local organizers.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "because",
+                "thanks to",
+                "despite",
+                "through"
+              ],
+              "a": 1,
+              "e": "thanks to: nhờ vào, nhờ có.",
+              "n": 43
+            },
+            {
+              "t": "mc",
+              "s": "Interest in traditional crafts and cuisines is ________ among young people.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "on the rise",
+                "in decline",
+                "at its peak",
+                "on the wane"
+              ],
+              "a": 0,
+              "e": "on the rise: đang gia tăng.",
+              "n": 44
+            },
+            {
+              "t": "mc",
+              "s": "Many students struggle to ________ the unfamiliar customs in a foreign country.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "keep up with",
+                "catch on to",
+                "deal with",
+                "focus on"
+              ],
+              "a": 1,
+              "e": "Catch on to unfamiliar customs: dần hiểu được những phong tục xa lạ. Keep up with là theo kịp sự thay đổi hoặc nhịp độ.",
+              "n": 45
+            },
+            {
+              "t": "mc",
+              "s": "When moving abroad, people sometimes ________ their sense of identity.",
+              "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "gain",
+                "lose",
+                "develop",
+                "strengthen"
+              ],
+              "a": 1,
+              "e": "lose one's sense of identity: mất đi bản sắc cá nhân/văn hóa.",
+              "n": 46
+            },
+            {
+              "t": "mc",
+              "s": "The organizers ________ the event seriously to ensure it showcased every aspect of the culture.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "performed",
+                "organized",
+                "took",
+                "arranged"
+              ],
+              "a": 2,
+              "e": "take sth seriously: coi trọng/nghiêm túc với điều gì.",
+              "n": 47
+            },
+            {
+              "t": "mc",
+              "s": "Every dish has unique ________ that gives the dish and sauce its special flavor.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "seasoning",
+                "sauce",
+                "ingredients",
+                "herb"
+              ],
+              "a": 0,
+              "e": "Seasoning là danh từ không đếm được, phù hợp với has và gives ở số ít; ingredients số nhiều cần give.",
+              "n": 48
+            },
+            {
+              "t": "mc",
+              "s": "The performance ________ dance, music, and storytelling so seamlessly that the audience was mesmerized.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "reflected",
+                "included",
+                "blended",
+                "presented"
+              ],
+              "a": 2,
+              "e": "blend: hòa trộn, kết hợp.",
+              "n": 49
+            },
+            {
+              "t": "mc",
+              "s": "She is a cultural ________. She is specialised in ethnic minority culture.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "specialist",
+                "richness",
+                "identity",
+                "shock"
+              ],
+              "a": 0,
+              "e": "specialist: chuyên gia.",
+              "n": 50
+            },
+            {
+              "t": "mc",
+              "s": "My neighbor is ________ photographer, let's ask him for ________ advice about color film.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "a/ Ø",
+                "the/ the",
+                "a/ the",
+                "the/ an"
+              ],
+              "a": 0,
+              "e": "A photographer; advice là danh từ không đếm được nên không có mạo từ.",
+              "n": 51
+            },
+            {
+              "t": "mc",
+              "s": "In most ________ developed countries, up to 50% of ________ population enters higher education at some time in their lives.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "the/ Ø",
+                "Ø/ Ø",
+                "the/ a",
+                "Ø/ the"
+              ],
+              "a": 3,
+              "e": "Developed countries dùng mạo từ rỗng Ø; population dùng \"the population\".",
+              "n": 52
+            },
+            {
+              "t": "mc",
+              "s": "After he left ________ University of Massachusetts, he went to ________ Indiana State University.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "the/ Ø",
+                "the/ the",
+                "Ø/ the",
+                "Ø/ Ø"
+              ],
+              "a": 0,
+              "e": "The University of Massachusetts; Indiana State University không dùng mạo từ.",
+              "n": 53
+            },
+            {
+              "t": "mc",
+              "s": "He spent part of ________ afternoon telling them ________ news he could not tell them by telephone.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "the / the",
+                "an / Ø",
+                "an / the",
+                "the / Ø"
+              ],
+              "a": 0,
+              "e": "Part of the afternoon và the news. Đã sửa lựa chọn A vốn thừa một thành phần.",
+              "n": 54
+            },
+            {
+              "t": "mc",
+              "s": "He teaches ________ piano and ________ violin.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "the / the",
+                "a / the",
+                "the / a",
+                "Ø / Ø"
+              ],
+              "a": 0,
+              "e": "Khi nói dạy chơi nhạc cụ, dùng teach the piano and the violin. Đề cũ không có lựa chọn đúng.",
+              "n": 55
+            },
+            {
+              "t": "mc",
+              "s": "________ professor Johns, ________ man whose new drug everyone is talking about refused ________ interview.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "Ø/ The/ An",
+                "Ø/ A/ the",
+                "The/ A/ The",
+                "The/ A/ An"
+              ],
+              "a": 0,
+              "e": "Professor Johns không dùng mạo từ trước chức danh đi với tên riêng; the man xác định; an interview lần đầu đề cập.",
+              "n": 56
+            },
+            {
+              "t": "mc",
+              "s": "There isn't ________ airport near where I live, ________ nearest airport is 70 miles away.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "an/ a",
+                "an/ the",
+                "the/ a",
+                "the/ the"
+              ],
+              "a": 1,
+              "e": "Lần đầu nhắc tới dùng \"an\", so sánh nhất dùng \"the nearest\".",
+              "n": 57
+            },
+            {
+              "t": "mc",
+              "s": "Would you rather live in ________ town or in ________ country.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "a/ a",
+                "a/ the",
+                "the/ an",
+                "the/ a"
+              ],
+              "a": 1,
+              "e": "Cụm từ cố định: in a town, in the country.",
+              "n": 58
+            },
+            {
+              "t": "mc",
+              "s": "________ most lively and energetic cultural performances take place in ________ heart of New York City.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "A/ the",
+                "The/ a",
+                "The/ Ø",
+                "The/ the"
+              ],
+              "a": 3,
+              "e": "So sánh nhất dùng \"The\", cụm từ \"in the heart of\".",
+              "n": 59
+            },
+            {
+              "t": "mc",
+              "s": "________ interesting cultural shock for travellers in Spain is ________ tradition of siestas in the afternoon.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "An/ the",
+                "An/ a",
+                "An/ Ø",
+                "The/ Ø"
+              ],
+              "a": 0,
+              "e": "Một cú sốc văn hóa dùng \"An\", truyền thống cụ thể dùng \"the\".",
+              "n": 60
+            },
+            {
+              "t": "mc",
+              "s": "It is ________ unique cultural experience to attend ________ Rio de Janeiro Carnival in Brazil.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "the/ the",
+                "a/ the",
+                "an/ the",
+                "an/ Ø"
+              ],
+              "a": 1,
+              "e": "\"a unique\" (âm /j/), tên lễ hội lớn dùng \"the\".",
+              "n": 61
+            },
+            {
+              "t": "mc",
+              "s": "Taiwan is ________ island. It is ________ largest island of ________ Republic of China.",
+              "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+              "lv": 1,
+              "o": [
+                "an/ a/ Ø",
+                "the/ the/ Ø",
+                "a/ the/ the",
+                "an/ the/ the"
+              ],
+              "a": 3,
+              "e": "\"an island\", so sánh nhất \"the largest\", tên quốc gia dạng Republic dùng \"the Republic of China\".",
+              "n": 62
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
