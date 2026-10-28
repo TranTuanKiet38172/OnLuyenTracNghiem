@@ -1,0 +1,784 @@
+{
+ "id": "anh-unit-1-life-stories-we-admire",
+ "subject": "Tiếng Anh",
+ "name": "UNIT 1: LIFE STORIES WE ADMIRE",
+ "path": "data/anh-unit-1-life-stories-we-admire.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "unit-1-life-stories-we-admire",
+     "name": "UNIT 1: LIFE STORIES WE ADMIRE",
+     "qs": [
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: The lights went out right in the middle of our family dinner.",
+       "lv": 1,
+       "a": "We were having our family dinner when the lights went out.",
+       "e": "Cấu trúc thì quá khứ tiếp diễn kết hợp quá khứ đơn với \"when\" để chỉ hành động đang xảy ra thì hành động khác xen vào."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: I haven't gone jogging with my old school friend since we ran into each other in the park.",
+       "lv": 1,
+       "a": "The last time I went jogging with my old school friend was when we ran into each other in the park.",
+       "e": "Cấu trúc chuyển đổi từ hiện tại hoàn thành sang \"The last time... was when...\"."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: During her speech to the students, the teacher fainted.",
+       "lv": 1,
+       "a": "While the teacher was giving her speech to the students, she fainted.",
+       "e": "Dùng \"While\" với thì quá khứ tiếp diễn để diễn tả hành động kéo dài bị hành động ngắn (fainted) xen vào."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: The earthquake occurred during her shower.",
+       "lv": 1,
+       "a": "She was having a shower when the earthquake occurred.",
+       "e": "Diễn tả hành động đang tắm (quá khứ tiếp diễn) thì động đất xảy ra (quá khứ đơn)."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: Immediately after the alarm went off this morning, she woke up.",
+       "lv": 1,
+       "a": "She woke up as soon as the alarm went off this morning.",
+       "e": "Dùng liên từ \"as soon as\" để diễn tả hai hành động nối tiếp nhau ngay lập tức trong quá khứ."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: The sudden arrival of the guests interrupted his book reading.",
+       "lv": 1,
+       "a": "He was reading a book when the guests suddenly arrived.",
+       "e": "Hành động đang đọc sách bị gián đoạn bởi sự xuất hiện bất ngờ của khách."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: My mother started cooking dinner at the same time my father started reading a book.",
+       "lv": 1,
+       "a": "While my mother was cooking dinner, my father was reading a book.",
+       "e": "Dùng \"While\" kết hợp hai mệnh đề quá khứ tiếp diễn để chỉ hai hành động song song diễn ra cùng lúc."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: In the middle of their football match, it started to rain heavily.",
+       "lv": 1,
+       "a": "They were playing football when it started to rain heavily.",
+       "e": "Hành động đang chơi bóng đá bị gián đoạn bởi trời mưa lớn."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: She felt a sharp pain while she was listening to music.",
+       "lv": 1,
+       "a": "When she was listening to music, she felt a sharp pain.",
+       "e": "Đảo mệnh đề \"while\" sang dùng \"when\" với cấu trúc tương đương."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: The students began taking notes during the teacher's explanation of the lesson.",
+       "lv": 1,
+       "a": "While the teacher was explaining the lesson, the students began taking notes.",
+       "e": "Dùng \"While\" để chỉ hành động giải bài giảng đang diễn ra thì học sinh bắt đầu ghi chép."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: Queen Hieu Linh remained loyal and stood by King Tran Thanh Tong in both good times and bad times during the wartime. (THROUGH)",
+       "lv": 2,
+       "a": "Queen Hieu Linh remained loyal and stood by King Tran Thanh Tong through thick and thin during the wartime.",
+       "e": "Sử dụng thành ngữ \"through thick and thin\" (qua mọi thăng trầm, gian khó)."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: Steve Jobs experienced a period of alternating massive successes and painful setbacks throughout his thin career. (RIDE)",
+       "lv": 2,
+       "a": "Steve Jobs' career was a roller coaster ride of alternating massive successes and painful setbacks.",
+       "e": "Sử dụng cụm danh từ \"a roller coaster ride\" để chỉ sự thăng trầm liên tục trong sự nghiệp."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: After dropping out of college, he was at a point where he had to make a crucial decision that would affect his future. (CROSSROADS)",
+       "lv": 2,
+       "a": "After dropping out of college, he was at a crossroads that would affect his future. || After dropping out of college, he landed himself at a crossroads that would affect his future.",
+       "e": "Sử dụng cụm từ \"at a crossroads\" (đứng trước ngã ba đường, thời điểm quyết định quan trọng)."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: Winning the national math contest was a major event that completely changed his life and led him to become a famous teacher. (POINT)",
+       "lv": 2,
+       "a": "Winning the national math contest was a turning point that completely changed his life and led him to become a famous teacher.",
+       "e": "Sử dụng từ \"turning point\" (điểm ngoặt, bước ngoặt cuộc đời)."
+      },
+      {
+       "t": "rw",
+       "s": "Rewrite the following sentences: After surviving a long battle with pancreatic cancer, the leader decided to completely change his healthy lifestyle to focus on charity. (LEAF)",
+       "lv": 2,
+       "a": "After surviving a long battle with pancreatic cancer, the leader decided to turn over a new leaf and focus on charity.",
+       "e": "Sử dụng thành ngữ \"turn over a new leaf\" (lật sang trang mới, cải thiện bản thân)."
+      },
+      {
+       "t": "wf",
+       "s": "The doctor recommended immediate ______ (SURGEON) to remove the tumor before it could spread.",
+       "a": "surgery",
+       "e": "Chuyển danh từ chỉ người (surgeon) sang danh từ chỉ ngành/phẫu thuật (surgery)."
+      },
+      {
+       "t": "wf",
+       "s": "The band's latest album is very poor although ______ (DEVOTE) fans might enjoy it.",
+       "a": "devoted",
+       "e": "Chuyển danh từ/động từ thành tính từ \"devoted\" (tận tụy, trung thành)."
+      },
+      {
+       "t": "wf",
+       "s": "The corporate team building retreat was designed to enhance communication and ______ among employees. (COLLABORATE)",
+       "lv": 1,
+       "a": "collaboration",
+       "e": "Chuyển động từ \"collaborate\" thành danh từ \"collaboration\" (sự hợp tác)."
+      },
+      {
+       "t": "wf",
+       "s": "It takes a lot of ______ and hard work to complete a marathon, especially for beginners. (DETERMINE)",
+       "lv": 1,
+       "a": "determination",
+       "e": "Chuyển động từ \"determine\" thành danh từ \"determination\" (sự quyết tâm)."
+      },
+      {
+       "t": "wf",
+       "s": "He left school at 16, not because he was ______ but because he wanted to get on with his working life. (AMBITION)",
+       "lv": 1,
+       "a": "unambitious",
+       "e": "Thêm tiền tố \"un-\" để tạo tính từ trái nghĩa \"unambitious\" (thiếu hoài bão)."
+      },
+      {
+       "t": "wf",
+       "s": "The university is proud to offer ______ research facilities that attract top students from all over the world. (CUT)",
+       "lv": 1,
+       "a": "cutting-edge",
+       "e": "Sử dụng tính từ ghép \"cutting-edge\" (hiện đại bậc nhất, tiên tiến)."
+      },
+      {
+       "t": "wf",
+       "s": "Pixar's first full-length ______ film, Toy Story, completely revolutionized the movie industry in 1995. (ANIMATE)",
+       "lv": 1,
+       "a": "animated",
+       "e": "Chuyển động từ \"animate\" thành tính từ \"animated\" (hoạt hình)."
+      },
+      {
+       "t": "wf",
+       "s": "The tech company owes its success to the constant ______ of its products based on user feedback. (INNOVATE)",
+       "lv": 1,
+       "a": "innovation",
+       "e": "Chuyển động từ \"innovate\" thành danh từ \"innovation\" (sự đổi mới)."
+      },
+      {
+       "t": "wf",
+       "s": "The CEO's clear ______ guided the company through one of the worst financial crises in history. (VISIONARY)",
+       "lv": 1,
+       "a": "vision",
+       "e": "Chuyển tính từ \"visionary\" thành danh từ \"vision\" (tầm nhìn)."
+      },
+      {
+       "t": "wf",
+       "s": "Although they are twins, they grew up with different families because they were given up for ______ at birth. (ADOPT)",
+       "lv": 1,
+       "a": "adoption",
+       "e": "Chuyển động từ \"adopt\" thành danh từ \"adoption\" (sự nhận nuôi)."
+      },
+      {
+       "t": "wf",
+       "s": "The scenery along the coastal road was so ______ that many tourists pulled over just to take photographs. (POEM)",
+       "lv": 1,
+       "a": "poetic",
+       "e": "Chuyển danh từ \"poem\" thành tính từ \"poetic\" (thơ mộng, trữ tình)."
+      },
+      {
+       "t": "wf",
+       "s": "The keynote speaker delivered an ______ speech that motivated the students to pursue their dreams. (INSPIRE)",
+       "lv": 1,
+       "a": "inspiring",
+       "e": "Chuyển danh từ/động từ thành tính từ \"inspiring\" (truyền cảm hứng)."
+      },
+      {
+       "t": "wf",
+       "s": "There has been strong ______ to the proposed tax increases. (RESIST)",
+       "lv": 1,
+       "a": "resistance",
+       "e": "Chuyển động từ \"resist\" thành danh từ \"resistance\" (sự kháng cự, phản đối)."
+      },
+      {
+       "t": "wf",
+       "s": "Television has an important role to play in ______ new scientific ideas. (POPULAR)",
+       "lv": 1,
+       "a": "popularizing || popularising",
+       "e": "Chuyển tính từ \"popular\" thành động từ \"popularize\" rồi thêm đuôi \"-ing\" sau giới từ \"in\"."
+      },
+      {
+       "t": "wf",
+       "s": "Repairs have already begun and we expect the factory to be fully ______ again within six months. (OPERATE)",
+       "lv": 1,
+       "a": "operational",
+       "e": "Chuyển động từ \"operate\" thành tính từ \"operational\" (hoạt động được)."
+      },
+      {
+       "t": "mc",
+       "s": "The movie \"Mua do\" became a ______, admired for its realistic portrayal of the resistance.",
+       "o": [
+        "documentary",
+        "blockbuster",
+        "drama",
+        "short film"
+       ],
+       "a": 1,
+       "e": "\"Blockbuster\" chỉ phim bom tấn thu hút đông đảo khán giả."
+      },
+      {
+       "t": "mc",
+       "s": "The coach gave an ______ talk that energized the players before the final match.",
+       "o": [
+        "inspiring",
+        "inspiration",
+        "inspired",
+        "inspire"
+       ],
+       "a": 0,
+       "e": "Tính từ \"inspiring\" đứng trước danh từ để bổ nghĩa, chỉ bài phát biểu truyền cảm hứng."
+      },
+      {
+       "t": "mc",
+       "s": "The field hospital became fully ______ after weeks of hard work.",
+       "o": [
+        "operate",
+        "operational",
+        "operation",
+        "operated"
+       ],
+       "a": 1,
+       "e": "Cần tính từ \"operational\" sau trạng từ \"fully\" để chỉ trạng thái đã đi vào hoạt động."
+      },
+      {
+       "t": "mc",
+       "s": "______ of college was a difficult decision, but it allowed her to become one of the most respected nurses in the resistance.",
+       "lv": 1,
+       "o": [
+        "Quitting on",
+        "Dropping out",
+        "Giving up on",
+        "Walking away from"
+       ],
+       "a": 1,
+       "e": "Cụm động từ \"dropping out of college\" có nghĩa là bỏ học đại học."
+      },
+      {
+       "t": "mc",
+       "s": "Uncle Ho was admired ______ his dedication to the Vietnamese independence movement and his profound love for the people.",
+       "lv": 1,
+       "o": [
+        "on",
+        "for",
+        "of",
+        "to"
+       ],
+       "a": 1,
+       "e": "Cấu trúc \"admire sb for sth\": ngưỡng mộ ai vì điều gì."
+      },
+      {
+       "t": "mc",
+       "s": "From a young age, she was determined to ______ her youth and whole life to the preservation of endangered species.",
+       "o": [
+        "dedicate",
+        "expose",
+        "open",
+        "direct"
+       ],
+       "a": 0,
+       "e": "Cấu trúc \"dedicate sth to sth\": cống hiến cái gì cho việc gì."
+      },
+      {
+       "t": "mc",
+       "s": "Vo Nguyen Giap was widely recognized as a ______ genius for his pivotal role in leading Vietnamese forces during the First Indochina War and the Vietnam War.",
+       "lv": 1,
+       "o": [
+        "military",
+        "artistic",
+        "musical",
+        "literary"
+       ],
+       "a": 0,
+       "e": "\"Military genius\" chỉ thiên tài quân sự xuất chúng."
+      },
+      {
+       "t": "mc",
+       "s": "As a ______ thinker, she proposed strategies that saved thousands of lives.",
+       "lv": 1,
+       "o": [
+        "illusional",
+        "emotional",
+        "visionary",
+        "conventional"
+       ],
+       "a": 2,
+       "e": "\"Visionary thinker\" là nhà tư tưởng có tầm nhìn chiến lược xa rộng."
+      },
+      {
+       "t": "mc",
+       "s": "Through personal ______ of her experiences during the war, she highlighted the role of women in resistance movements.",
+       "lv": 1,
+       "o": [
+        "accounts",
+        "impressions",
+        "achievements",
+        "opinions"
+       ],
+       "a": 0,
+       "e": "\"Personal accounts\" chỉ những lời kể, nhân chứng hoặc bản tường thuật cá nhân."
+      },
+      {
+       "t": "mc",
+       "s": "Her biological parents were unable to raise her, so she was ______ by a family who provided her with a loving home.",
+       "lv": 1,
+       "o": [
+        "adopted",
+        "adapted",
+        "advertised",
+        "admitted"
+       ],
+       "a": 0,
+       "e": "Từ \"adopted\" có nghĩa là được nhận làm con nuôi."
+      },
+      {
+       "t": "mc",
+       "s": "Jobs met Steve Wozniak and they quickly ______ over their love of electronics, a shared passion that would eventually lead to the founding of Apple.",
+       "lv": 1,
+       "o": [
+        "bonded",
+        "connected",
+        "united",
+        "argued"
+       ],
+       "a": 0,
+       "e": "Cụm \"bond over sth\" chỉ việc gắn kết mối quan hệ qua một sở thích chung."
+      },
+      {
+       "t": "mc",
+       "s": "Most people ______ years later.",
+       "lv": 1,
+       "o": [
+        "gave in",
+        "gave away",
+        "gave in to",
+        "gave up on / gave up"
+       ],
+       "a": 3,
+       "e": "Cụm động từ \"give up\" hoặc \"give up on\" mang nghĩa từ bỏ."
+      },
+      {
+       "t": "mc",
+       "s": "Having a difficult childhood did not hold her back; instead, it inspired her to devote her life to social work, helping others ______ similar challenges.",
+       "o": [
+        "observe",
+        "note",
+        "overcome",
+        "protect"
+       ],
+       "a": 2,
+       "e": "Từ \"overcome\" có nghĩa là vượt qua những thử thách tương tự."
+      },
+      {
+       "t": "mc",
+       "s": "She always ______ to improving the community and her efforts are still celebrated today.",
+       "o": [
+        "devoted",
+        "respected",
+        "admired",
+        "concentrated"
+       ],
+       "a": 0,
+       "e": "Cấu trúc \"devote oneself to sth\": tận tụy, cống hiến hết mình cho việc gì."
+      },
+      {
+       "t": "mc",
+       "s": "A scientist once said that effort accounts for 99% of success and ______ accounts for only 1%.",
+       "o": [
+        "genius",
+        "knowledge",
+        "experience",
+        "skill"
+       ],
+       "a": 0,
+       "e": "Câu danh ngôn so sánh giữa nỗ lực, thiên tài/kiến thức và kỹ năng."
+      },
+      {
+       "t": "mc",
+       "s": "He taught others how to ______ fear and stay strong during the battle.",
+       "o": [
+        "attack",
+        "surrender",
+        "defend",
+        "resist"
+       ],
+       "a": 3,
+       "e": "Động từ \"resist\" có nghĩa là chống lại, kháng cự lại sự sợ hãi."
+      },
+      {
+       "t": "mc",
+       "s": "______ happened in Vietnam from 1955 to 1975.",
+       "lv": 2,
+       "o": [
+        "National Rescue Anti-American Resistance War",
+        "Rescue Nation Anti-American Resistance War",
+        "Anti-American Resistance National Rescue War",
+        "National Anti-American Resistance Rescue War"
+       ],
+       "a": 0,
+       "e": "Tên sự kiện lịch sử: Cuộc kháng chiến chống Mỹ cứu nước (National Resistance War / Anti-American Resistance War)."
+      },
+      {
+       "t": "mc",
+       "s": "Jobs was diagnosed ______ a rare form of pancreatic cancer.",
+       "o": [
+        "with",
+        "to",
+        "on",
+        "for"
+       ],
+       "a": 0,
+       "e": "Cấu trúc bị động \"diagnosed with a disease\": được chẩn đoán mắc bệnh gì."
+      },
+      {
+       "t": "mc",
+       "s": "Despite losing her ______ in the war, she was raised by a kind veteran who shared their heroic stories.",
+       "o": [
+        "neighbors",
+        "childhood friends",
+        "relatives",
+        "biological parents"
+       ],
+       "a": 3,
+       "e": "Cụm \"biological parents\" chỉ cha mẹ ruột thịt."
+      },
+      {
+       "t": "mc",
+       "s": "Malala Yousafzai has devoted her efforts ______ for girls' education, becoming a global symbol of courage and resistance against oppression.",
+       "lv": 1,
+       "o": [
+        "advocate",
+        "advocating",
+        "to advocate",
+        "to advocating"
+       ],
+       "a": 3,
+       "e": "Cấu trúc \"devote efforts to doing sth\": cống hiến nỗ lực vào việc làm gì."
+      },
+      {
+       "t": "mc",
+       "s": "During the war, doctors and nurses worked tirelessly in the ______, providing care with limited resources.",
+       "o": [
+        "jungle",
+        "base camp",
+        "field hospital",
+        "operation room"
+       ],
+       "a": 2,
+       "e": "\"Field hospital\" có nghĩa là bệnh viện dã chiến phục vụ thời chiến."
+      },
+      {
+       "t": "mc",
+       "s": "There was a ______ two-minute silence as we remembered the soldiers who had died in the war.",
+       "o": [
+        "respectful",
+        "respectable",
+        "respective",
+        "respect"
+       ],
+       "a": 0,
+       "e": "Tính từ \"respectful\" (đầy sự kính trọng) dùng bổ nghĩa cho khoảng lặng mặc niệm."
+      },
+      {
+       "t": "mc",
+       "s": "Mark Zuckerberg's enormous success has taken a lot of hard work and ______.",
+       "o": [
+        "indifference",
+        "dedication",
+        "loyalty",
+        "reputation"
+       ],
+       "a": 1,
+       "e": "Danh từ \"dedication\" thể hiện sự cống hiến, tận tụy bền bỉ."
+      },
+      {
+       "t": "mc",
+       "s": "A ______ once said \"It is a sweet and honorable thing to die for your country.\"",
+       "lv": 2,
+       "o": [
+        "patriotism",
+        "patriotic",
+        "patriot",
+        "patrol"
+       ],
+       "a": 2,
+       "e": "Tính từ danh hóa hoặc danh từ \"patriot\" (nhà ái quốc) phù hợp điền vào chủ ngữ câu nói."
+      },
+      {
+       "t": "mc",
+       "s": "Jane never hesitates to do anything she wants. She's a ______ woman.",
+       "o": [
+        "ambitious",
+        "determined",
+        "brilliant",
+        "humane"
+       ],
+       "a": 1,
+       "e": "Tính từ \"determined\" chỉ người kiên quyết, quyết đoán trong hành động."
+      },
+      {
+       "t": "mc",
+       "s": "He has gone to the UK for further education since he ______ upper secondary school.",
+       "o": [
+        "finished",
+        "is finishing",
+        "will finish",
+        "finish"
+       ],
+       "a": 0,
+       "e": "Mệnh đề chỉ thời gian với \"since\" ở thì quá khứ đơn, mệnh đề chính ở hiện tại hoàn thành."
+      },
+      {
+       "t": "mc",
+       "s": "When Tien ______ some photos of the wildlife reserve, it started to rain heavily.",
+       "o": [
+        "has taken",
+        "was taking",
+        "would take",
+        "is taking"
+       ],
+       "a": 1,
+       "e": "Hành động chụp ảnh đang diễn ra (quá khứ tiếp diễn) thì trời bất ngờ đổ mưa (quá khứ đơn)."
+      },
+      {
+       "t": "mc",
+       "s": "He was talking to his mother about his first day at school when his phone ______.",
+       "o": [
+        "rings",
+        "was ringing",
+        "rang",
+        "has rung"
+       ],
+       "a": 2,
+       "e": "Hành động đang nói chuyện bị ngắt quãng bởi tiếng chuông điện thoại reo (quá khứ đơn)."
+      },
+      {
+       "t": "mc",
+       "s": "His academic results have improved ______, after he had taken this course.",
+       "lv": 1,
+       "o": [
+        "after he had taken this course",
+        "before he took this course",
+        "when he was taking this course",
+        "since he took this course"
+       ],
+       "a": 3,
+       "e": "Sử dụng mệnh đề trạng ngữ chỉ thời gian hoàn thành trước quá khứ/hiện tại."
+      },
+      {
+       "t": "mc",
+       "s": "While Phong ______ a presentation, his laptop suddenly crashed.",
+       "o": [
+        "has given",
+        "was giving",
+        "is giving",
+        "gives"
+       ],
+       "a": 1,
+       "e": "Hành động thuyết trình đang diễn ra (quá khứ tiếp diễn) thì máy tính xách tay bị hỏng."
+      },
+      {
+       "t": "mc",
+       "s": "I ______ an online class in Advanced Maths when the Wi-Fi got disconnected.",
+       "o": [
+        "attends",
+        "have attended",
+        "was attending",
+        "had attended"
+       ],
+       "a": 2,
+       "e": "Hành động học trực tuyến đang diễn ra thì mạng ngắt kết nối đột ngột."
+      },
+      {
+       "t": "mc",
+       "s": "Please go to my office ______ upon your arrival.",
+       "lv": 1,
+       "o": [
+        "before you arrived",
+        "upon your arrival",
+        "prior to your arrival",
+        "after you had arrived"
+       ],
+       "a": 1,
+       "e": "Giới từ \"upon\" kết hợp cụm danh từ \"your arrival\" chỉ thời điểm đến nơi."
+      },
+      {
+       "t": "mc",
+       "s": "The students ______ the floor when the headmistress came in.",
+       "o": [
+        "were mopping",
+        "mop",
+        "have mopped",
+        "are mopping"
+       ],
+       "a": 0,
+       "e": "Hành động lau sàn đang diễn ra thì hiệu trưởng bước vào lớp."
+      },
+      {
+       "t": "mc",
+       "s": "As soon as they arrived on the beach, it started to rain.",
+       "lv": 1,
+       "o": [
+        "Had it started to rain, they would have arrived on the beach.",
+        "Hardly had they arrived on the beach when it started to rain.",
+        "No sooner did they arrive on the beach than it started to rain.",
+        "Scarcely had they arrived on the beach than it started to rain."
+       ],
+       "a": 1,
+       "e": "Cấu trúc đảo ngữ \"No sooner did + S + V than + S + V-ed\" diễn tả hai hành động xảy ra nối tiếp."
+      },
+      {
+       "t": "mc",
+       "s": "He started phoning his friends as soon as he finished his work.",
+       "o": [
+        "Only when he phoned his friends did he finish his work.",
+        "Hardly had he started phoning his friends when he finished his work.",
+        "No sooner had he finished his work than he started phoning his friends.",
+        "Before he finished his work, he had started phoning his friends."
+       ],
+       "a": 2,
+       "e": "Đảo ngữ diễn tả hành động này vừa xong thì hành động kia lập tức tiếp nối."
+      },
+      {
+       "t": "mc",
+       "s": "While the kids ______ in the backyard, I ______ dinner.",
+       "o": [
+        "played, prepared",
+        "were playing, prepared",
+        "played, was preparing",
+        "were playing, was preparing"
+       ],
+       "a": 3,
+       "e": "Hai hành động diễn ra song song cùng lúc trong quá khứ nên dùng thì quá khứ tiếp diễn cho cả hai vế."
+      },
+      {
+       "t": "mc",
+       "s": "She ______ when the alarm ______ off this morning.",
+       "o": [
+        "slept, went",
+        "was sleeping, went",
+        "was sleeping, was going",
+        "slept, was going"
+       ],
+       "a": 1,
+       "e": "Hành động đang ngủ bị tiếng báo thức reo làm gián đoạn."
+      },
+      {
+       "t": "mc",
+       "s": "While the teacher ______ the lesson, the students ______ notes.",
+       "o": [
+        "explained, took",
+        "was explaining, took",
+        "was explaining, were taking",
+        "explained, were taking"
+       ],
+       "a": 2,
+       "e": "Hai hành động giáo viên giảng bài và học sinh ghi chép diễn ra song song."
+      },
+      {
+       "t": "mc",
+       "s": "I ______ in the park when I ______ my old school friend.",
+       "o": [
+        "jogged, saw",
+        "was jogging, saw",
+        "was jogging, was seeing",
+        "jogged, was seeing"
+       ],
+       "a": 1,
+       "e": "Hành động đang chạy bộ thì tình cờ gặp bạn cũ."
+      },
+      {
+       "t": "mc",
+       "s": "She ______ a shower when the earthquake _______.",
+       "o": [
+        "took, happened",
+        "was taking, happened",
+        "was taking, was happening",
+        "took, was happening"
+       ],
+       "a": 1,
+       "e": "Hành động đang tắm thì trận động đất xảy ra đột ngột."
+      },
+      {
+       "t": "mc",
+       "s": "She ______ to music when she suddenly ______ a sharp pain.",
+       "o": [
+        "listened, felt",
+        "was listening, felt",
+        "was listening, was feeling",
+        "listened, was feeling"
+       ],
+       "a": 1,
+       "e": "Hành động đang nghe nhạc thì đột ngột cảm thấy đau nhói."
+      },
+      {
+       "t": "mc",
+       "s": "At exactly 9 p.m. last night, the military commanders ______ the top-secret strategy for the upcoming counter-attack in the resistance war.",
+       "lv": 1,
+       "o": [
+        "discussed",
+        "were discussing",
+        "had discussed",
+        "had been discussing"
+       ],
+       "a": 1,
+       "e": "Lưu ý: Căn cứ vào thời điểm xác định \"at exactly 9 p.m. last night\", hành động diễn ra tại thời điểm đó chia ở quá khứ tiếp diễn (hoặc bị động quá khứ tiếp diễn tùy ngữ cảnh tài liệu)."
+      },
+      {
+       "t": "mc",
+       "s": "While the surgeon ______ on the injured soldier, the artillery fire outside suddenly intensified, shaking the ground beneath them.",
+       "lv": 1,
+       "o": [
+        "operated",
+        "was operating",
+        "had operated",
+        "was operated"
+       ],
+       "a": 1,
+       "e": "Hành động phẫu thuật đang diễn ra thì tiếng pháo binh bên ngoài đột ngột gia tăng cường độ."
+      },
+      {
+       "t": "mc",
+       "s": "Steve Jobs ______ Reed College just six months after enrollment because he found the required classes stifling his creative ambition.",
+       "lv": 1,
+       "o": [
+        "was dropping out",
+        "dropped out of",
+        "had dropped out of",
+        "dropped off"
+       ],
+       "a": 1,
+       "e": "Cụm động từ \"drop out of college\": bỏ học giữa chừng đại học."
+      },
+      {
+       "t": "mc",
+       "s": "Throughout the resistance war, the guerrilla fighters ______ in the deep jungle while the enemy forces searched the nearby villages.",
+       "o": [
+        "hid",
+        "were hiding",
+        "had hidden",
+        "were hidden"
+       ],
+       "a": 1,
+       "e": "Hành động ẩn nấp kéo dài liên tục trong rừng sâu khi kẻ địch đang lùng sục."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

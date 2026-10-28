@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261028-1731",
+    "version":  "20261028-1805",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -53,6 +53,10 @@
                         {
                             "path":  "data/sinh-bai-4-dot-bien-gene.json",
                             "v":  "20261027-2013"
+                        },
+                        {
+                            "path":  "data/anh-unit-1-life-stories-we-admire.json",
+                            "v":  "20261028-1805"
                         }
                     ],
     "figures":  {
