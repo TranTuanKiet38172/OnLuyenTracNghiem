@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261027-2013",
+    "version":  "20261028-1731",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -40,7 +40,7 @@
                         },
                         {
                             "path":  "data/tin-on-thi-giua-ki-1.json",
-                            "v":  "20261027-2002"
+                            "v":  "20261028-1731"
                         },
                         {
                             "path":  "data/sinh-bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa.json",
