@@ -1,0 +1,867 @@
+{
+ "id": "anh-unit-3-green-living",
+ "subject": "Tiếng Anh",
+ "name": "UNIT 3: GREEN LIVING",
+ "path": "data/anh-unit-3-green-living.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "unit-3-green-living",
+     "name": "UNIT 3: GREEN LIVING",
+     "qs": [
+      {
+       "t": "wf",
+       "s": "Environmental ______ has increased among young people in recent years. (AWARE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "awareness",
+       "e": "Cần danh từ làm chủ ngữ cho động từ \"has increased\".",
+       "n": 1
+      },
+      {
+       "t": "wf",
+       "s": "Many tourists remain ______ of the damage caused by plastic waste. (AWARE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "unaware",
+       "e": "Mang nghĩa phủ định \"không nhận thức được\" + giới từ \"of\".",
+       "n": 2
+      },
+      {
+       "t": "wf",
+       "s": "Her ______ helped the team solve several environmental problems creatively. (RESOURCE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "resourcefulness",
+       "e": "Tính tháo vát, khả năng xoay sở (danh từ chỉ tính chất/kỹ năng).",
+       "n": 3
+      },
+      {
+       "t": "wf",
+       "s": "Smart appliances can use electricity more ______ than older devices. (EFFICIENCY)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "efficiently",
+       "e": "Cần trạng từ bổ nghĩa cho động từ \"use\".",
+       "n": 4
+      },
+      {
+       "t": "wf",
+       "s": "An ______ waste collection system may cause pollution problems. (EFFICIENCY)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "inefficient",
+       "e": "Tính từ mang nghĩa \"không hiệu quả\" bổ nghĩa cho cụm danh từ.",
+       "n": 5
+      },
+      {
+       "t": "wf",
+       "s": "We should avoid buying ______ plastic bags whenever possible. (REUSE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "non-reusable || single-use",
+       "e": "Tính từ mang nghĩa \"không tái sử dụng được\" hoặc \"dùng một lần\".",
+       "n": 6
+      },
+      {
+       "t": "wf",
+       "s": "Scientists are developing ______ materials to replace traditional plastics. (DECOMPOSE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "decomposable || biodegradable",
+       "e": "Tính từ chỉ khả năng phân hủy.",
+       "n": 7
+      },
+      {
+       "t": "wf",
+       "s": "Many countries are trying to reduce ______ products. (SINGLE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "single-use",
+       "e": "Tính từ ghép \"single-use\" nghĩa là dùng một lần.",
+       "n": 8
+      },
+      {
+       "t": "wf",
+       "s": "______ has created jobs while protecting natural habitats. (ECO)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "Ecotourism",
+       "e": "Danh từ \"du lịch sinh thái\" làm chủ ngữ.",
+       "n": 9
+      },
+      {
+       "t": "wf",
+       "s": "A ______ lifestyle can quickly exhaust natural resources. (WASTE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "wasteful",
+       "e": "Tính từ \"lãng phí\" bổ nghĩa cho \"lifestyle\".",
+       "n": 10
+      },
+      {
+       "t": "wf",
+       "s": "Glass bottles are highly ______ and environmentally friendly. (RECYCLE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "recyclable",
+       "e": "Sau trạng từ \"highly\" là tính từ \"recyclable\" (có thể tái chế).",
+       "n": 11
+      },
+      {
+       "t": "wf",
+       "s": "______ programs have become popular in many neighborhoods. (RECYCLE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "Recycling",
+       "e": "Danh từ ghép / Danh động từ \"Recycling programs\" (chương trình tái chế).",
+       "n": 12
+      },
+      {
+       "t": "wf",
+       "s": "Excessive use of fossil fuels is considered ______. (SUSTAIN)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "unsustainable",
+       "e": "Tính từ \"không bền vững\" bổ nghĩa cho việc sử dụng quá mức nhiên liệu hóa thạch.",
+       "n": 13
+      },
+      {
+       "t": "wf",
+       "s": "Wildlife ______ is essential for protecting endangered species. (CONSERVE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "conservation",
+       "e": "Danh từ \"sự bảo tồn\" làm chủ ngữ.",
+       "n": 14
+      },
+      {
+       "t": "wf",
+       "s": "Some packaging is ______ and breaks down naturally over time. (BIODEGRADE)",
+       "ins": "Exercise 1 - WORD FORMATION: Complete each sentence with the correct form of the word in brackets.",
+       "lv": 1,
+       "a": "biodegradable",
+       "e": "Tính từ \"phân hủy sinh học\" đứng sau động từ to be.",
+       "n": 15
+      },
+      {
+       "t": "rw",
+       "s": "People recycle millions of plastic bottles every year.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Millions of plastic bottles ...",
+       "lv": 1,
+       "a": "Millions of plastic bottles are recycled every year.",
+       "e": "Câu bị động thì Hiện tại đơn: S + am/is/are + V3/ed + (by O).",
+       "n": 16
+      },
+      {
+       "t": "rw",
+       "s": "Scientists are developing biodegradable materials to replace traditional plastics.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Biodegradable materials ...",
+       "lv": 1,
+       "a": "Biodegradable materials are being developed by scientists to replace traditional plastics.",
+       "e": "Câu bị động thì Hiện tại tiếp diễn: S + am/is/are + being + V3/ed.",
+       "n": 17
+      },
+      {
+       "t": "rw",
+       "s": "Local authorities should protect green spaces in urban areas.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Green spaces ...",
+       "lv": 1,
+       "a": "Green spaces should be protected in urban areas by local authorities.",
+       "e": "Câu bị động với Động từ khuyết thiếu: S + modal verb + be + V3/ed.",
+       "n": 18
+      },
+      {
+       "t": "rw",
+       "s": "Engineers have installed smart sensors in many modern buildings.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Smart sensors ...",
+       "lv": 1,
+       "a": "Smart sensors have been installed in many modern buildings by engineers.",
+       "e": "Câu bị động thì Hiện tại hoàn thành: S + have/has + been + V3/ed.",
+       "n": 19
+      },
+      {
+       "t": "rw",
+       "s": "People are using more renewable energy in large cities nowadays.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "More renewable energy ...",
+       "lv": 1,
+       "a": "More renewable energy is being used in large cities nowadays.",
+       "e": "Câu bị động thì Hiện tại tiếp diễn với danh từ không đếm được.",
+       "n": 20
+      },
+      {
+       "t": "rw",
+       "s": "The government will build more pedestrian zones in the future.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "More pedestrian zones ...",
+       "lv": 1,
+       "a": "More pedestrian zones will be built in the future by the government.",
+       "e": "Câu bị động thì Tương lai đơn: S + will + be + V3/ed.",
+       "n": 21
+      },
+      {
+       "t": "rw",
+       "s": "Electric buses are environmentally friendly. Traditional buses are not as environmentally friendly.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Electric buses are ...",
+       "lv": 1,
+       "a": "Electric buses are more environmentally friendly than traditional buses.",
+       "e": "Câu so sánh hơn với tính từ dài: S + V + more + adj + than + O.",
+       "n": 22
+      },
+      {
+       "t": "rw",
+       "s": "Smart buildings consume little energy. Old buildings consume much energy.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Smart buildings ...",
+       "lv": 1,
+       "a": "Smart buildings consume less energy than old buildings.",
+       "e": "So sánh hơn của \"little\" là \"less\".",
+       "n": 23
+      },
+      {
+       "t": "rw",
+       "s": "Solar energy is efficient. Fossil fuels are quite inefficient.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Solar energy ...",
+       "lv": 1,
+       "a": "Solar energy is more efficient than fossil fuels.",
+       "e": "So sánh hơn với tính từ \"efficient\".",
+       "n": 24
+      },
+      {
+       "t": "rw",
+       "s": "These days, many people use reusable bags. Plastic waste has decreased. (Therefore)",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "These days, ...",
+       "lv": 1,
+       "a": "These days, many people use reusable bags; therefore, plastic waste has decreased. || These days, many people use reusable bags. Therefore, plastic waste has decreased.",
+       "e": "Nối câu bằng từ nối chỉ kết quả \"Therefore\".",
+       "n": 25
+      },
+      {
+       "t": "rw",
+       "s": "Smart cities offer many advantages. They are expensive to build. (However)",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Smart cities ...",
+       "lv": 1,
+       "a": "Smart cities offer many advantages; however, they are expensive to build. || Smart cities offer many advantages. However, they are expensive to build.",
+       "e": "Nối câu bằng từ nối chỉ sự tương phản \"However\".",
+       "n": 26
+      },
+      {
+       "t": "rw",
+       "s": "More trees were planted in the neighborhood. Air quality improved significantly. (As a result)",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "More trees ...",
+       "lv": 1,
+       "a": "More trees were planted in the neighborhood; as a result, air quality improved significantly. || More trees were planted in the neighborhood. As a result, air quality improved significantly.",
+       "e": "Nối câu bằng \"As a result\" chỉ kết quả.",
+       "n": 27
+      },
+      {
+       "t": "rw",
+       "s": "The city expanded its metro system. This reduced traffic congestion.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "The city expanded ...",
+       "lv": 1,
+       "a": "The city expanded its metro system, which reduced traffic congestion.",
+       "e": "Sử dụng đại từ quan hệ \"which\" thay thế cho cả mệnh đề đứng trước.",
+       "n": 28
+      },
+      {
+       "t": "rw",
+       "s": "Many residents switched to renewable energy. This helped lower carbon emissions.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "Many residents ...",
+       "lv": 1,
+       "a": "Many residents switched to renewable energy, which helped lower carbon emissions.",
+       "e": "Sử dụng \"which\" thay thế cho cả mệnh đề đứng trước.",
+       "n": 29
+      },
+      {
+       "t": "rw",
+       "s": "The government created more pedestrian zones. This encouraged people to walk more.",
+       "ins": "Exercise 2 - SENTENCE TRANSFORMATION: Rewrite the following sentences.",
+       "h": "The government ...",
+       "lv": 1,
+       "a": "The government created more pedestrian zones, which encouraged people to walk more.",
+       "e": "Sử dụng \"which\" thay thế cho cả mệnh đề đứng trước.",
+       "n": 30
+      },
+      {
+       "t": "mc",
+       "s": "Recyclable products should not be ended up in open ________ sites.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "landfill",
+        "leftover",
+        "resource",
+        "footprint"
+       ],
+       "a": 0,
+       "e": "landfill site: bãi rác.",
+       "n": 31
+      },
+      {
+       "t": "mc",
+       "s": "The park provides facilities for topping ________ your water bottle to reduce the use of plastic.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "on",
+        "in",
+        "up",
+        "with"
+       ],
+       "a": 2,
+       "e": "top up: làm đầy, rót đầy lại.",
+       "n": 32
+      },
+      {
+       "t": "mc",
+       "s": "Teachers should ________ to students how recycling helps reduce waste and conserve resources.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "explain",
+        "have",
+        "refer",
+        "listen"
+       ],
+       "a": 0,
+       "e": "explain to sb: giải thích cho ai.",
+       "n": 33
+      },
+      {
+       "t": "mc",
+       "s": "In order to reduce our ________, we should cycle or take a bus to school instead of using motorbikes.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "cardboard",
+        "leftover",
+        "fruit peel",
+        "carbon footprint"
+       ],
+       "a": 3,
+       "e": "carbon footprint: dấu chân carbon (lượng khí thải carbon).",
+       "n": 34
+      },
+      {
+       "t": "mc",
+       "s": "When you ________ about recycling, you may ask about the best ways to sort different types of waste.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "wait",
+        "learn",
+        "get",
+        "agree"
+       ],
+       "a": 1,
+       "e": "learn about: tìm hiểu/học về.",
+       "n": 35
+      },
+      {
+       "t": "mc",
+       "s": "Some of the forest is private while ________ parts are open to the public.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "others",
+        "other",
+        "another",
+        "the other"
+       ],
+       "a": 1,
+       "e": "other + danh từ số nhiều (parts).",
+       "n": 36
+      },
+      {
+       "t": "mc",
+       "s": "The government imposed fines on companies whose operations ________ excessive carbon emissions.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "prevent",
+        "reduce",
+        "release",
+        "absorb"
+       ],
+       "a": 2,
+       "e": "release carbon emissions: thải ra khí thải carbon.",
+       "n": 37
+      },
+      {
+       "t": "mc",
+       "s": "Some individuals adopt a ________ mindset when it comes to transitioning to eco-friendly practices.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "conservational",
+        "conservation",
+        "conservative",
+        "conserve"
+       ],
+       "a": 2,
+       "e": "conservative mindset: tư tưởng/quan điểm bảo thủ.",
+       "n": 38
+      },
+      {
+       "t": "mc",
+       "s": "They were waiting ________ the results of the Green Ideas competition to be announced.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "to",
+        "about",
+        "for",
+        "with"
+       ],
+       "a": 2,
+       "e": "wait for sth: chờ đợi cái gì.",
+       "n": 39
+      },
+      {
+       "t": "mc",
+       "s": "New policies were introduced to ________ natural resources, which are rapidly depleting.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "pollute",
+        "damage",
+        "consume",
+        "conserve"
+       ],
+       "a": 3,
+       "e": "conserve natural resources: bảo tồn tài nguyên thiên nhiên.",
+       "n": 40
+      },
+      {
+       "t": "mc",
+       "s": "Cities that promote ________ vehicles, such as electric buses, experience improved air quality.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "fuel - injected",
+        "low - emission",
+        "high - speed",
+        "gas - powered"
+       ],
+       "a": 1,
+       "e": "low-emission vehicles: phương tiện phát thải thấp.",
+       "n": 41
+      },
+      {
+       "t": "mc",
+       "s": "If you care ________ the environment, why don't you join our Green Lifestyle campaign?",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "for",
+        "with",
+        "of",
+        "about"
+       ],
+       "a": 3,
+       "e": "care about: quan tâm đến cái gì.",
+       "n": 42
+      },
+      {
+       "t": "mc",
+       "s": "The company is working on increasing the ________ of its processes.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "waste",
+        "efficiency",
+        "pollution",
+        "delay"
+       ],
+       "a": 1,
+       "e": "efficiency of processes: hiệu suất/hiệu quả của quy trình.",
+       "n": 43
+      },
+      {
+       "t": "mc",
+       "s": "Environmental organizations often focus on spreading ________ through workshops and campaigns.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "awardee",
+        "aware",
+        "awareness",
+        "unaware"
+       ],
+       "a": 2,
+       "e": "spread awareness: nâng cao/lan tỏa nhận thức.",
+       "n": 44
+      },
+      {
+       "t": "mc",
+       "s": "Many high school students volunteered to ________ the polluted river.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "get rid of",
+        "go green",
+        "rinse out",
+        "clean up"
+       ],
+       "a": 3,
+       "e": "clean up: dọn dẹp, làm sạch.",
+       "n": 45
+      },
+      {
+       "t": "mc",
+       "s": "We're thinking ________ starting a Go Green campaign. Are you free to help?",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "on",
+        "with",
+        "at",
+        "about"
+       ],
+       "a": 3,
+       "e": "think about: cân nhắc, nghĩ về.",
+       "n": 46
+      },
+      {
+       "t": "mc",
+       "s": "Ms. Brown often uses leftovers to make her own ________.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "waste",
+        "container",
+        "compost",
+        "layer"
+       ],
+       "a": 2,
+       "e": "make compost: làm phân bón hữu cơ/phân xơ.",
+       "n": 47
+      },
+      {
+       "t": "mc",
+       "s": "Our planet's health depends ________ the actions we take today to protect the environment.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "of",
+        "out",
+        "on",
+        "with"
+       ],
+       "a": 2,
+       "e": "depend on: phụ thuộc vào.",
+       "n": 48
+      },
+      {
+       "t": "mc",
+       "s": "The water has become undrinkable because it has been ________ with lead.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "sorted",
+        "decomposed",
+        "recycled",
+        "contaminated"
+       ],
+       "a": 3,
+       "e": "contaminated with: bị ô nhiễm/nhiễm chất độc.",
+       "n": 49
+      },
+      {
+       "t": "mc",
+       "s": "If you accidentally waste food, you should ________ for it and try to avoid doing it in the future.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "prepare",
+        "apologise",
+        "base",
+        "damage"
+       ],
+       "a": 1,
+       "e": "apologise for sth: xin lỗi vì điều gì.",
+       "n": 50
+      },
+      {
+       "t": "mc",
+       "s": "A ________ approach to waste management can transform waste materials into valuable products.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "resourceful",
+        "wasteful",
+        "careless",
+        "thoughtless"
+       ],
+       "a": 0,
+       "e": "resourceful approach: phương pháp tháo vát/sáng tạo.",
+       "n": 51
+      },
+      {
+       "t": "mc",
+       "s": "We cannot ________ on non-renewable resources forever, so we need to develop alternative energy solutions.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "damage",
+        "care",
+        "rely",
+        "prepare"
+       ],
+       "a": 2,
+       "e": "rely on: dựa vào, phụ thuộc vào.",
+       "n": 52
+      },
+      {
+       "t": "mc",
+       "s": "Forests are natural ________ that we must conserve.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "resourceful",
+        "resourcefulness",
+        "resources",
+        "resource"
+       ],
+       "a": 2,
+       "e": "natural resources: tài nguyên thiên nhiên (danh từ số nhiều).",
+       "n": 53
+      },
+      {
+       "t": "mc",
+       "s": "Using bicycles is an ________ mode of transportation that reduces carbon emissions while also promoting a healthier lifestyle for individuals.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "eco - conscious",
+        "eco - friendly",
+        "eco - system",
+        "ecotourist"
+       ],
+       "a": 1,
+       "e": "eco-friendly: thân thiện với môi trường.",
+       "n": 54
+      },
+      {
+       "t": "mc",
+       "s": "Several traditional customs that can do damage to the environment should be changed for a more ________ future.",
+       "ins": "Exercise 3 - VOCABULARY: Mark the letter A, B, C, or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "sustainable",
+        "reusable",
+        "single - use",
+        "recyclable"
+       ],
+       "a": 0,
+       "e": "sustainable future: tương lai bền vững.",
+       "n": 55
+      },
+      {
+       "t": "mc",
+       "s": "It is clear that not all people are ________ the negative impact of their daily habits on the environment.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "aware of",
+        "awareness",
+        "awareness of",
+        "aware"
+       ],
+       "a": 0,
+       "e": "be aware of sth: nhận thức được điều gì.",
+       "n": 56
+      },
+      {
+       "t": "mc",
+       "s": "There are so many electrical appliances around us, so if we could save even a little amount of energy from each appliance, it would add ________ to a lot.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "up",
+        "on",
+        "to",
+        "out"
+       ],
+       "a": 0,
+       "e": "add up to: cộng lại thành, tổng cộng là.",
+       "n": 57
+      },
+      {
+       "t": "mc",
+       "s": "To reduce your carbon footprint, you should also turn ________ the lights when you leave a room.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "down",
+        "on",
+        "off",
+        "out"
+       ],
+       "a": 2,
+       "e": "turn off: tắt (thiết bị/đèn).",
+       "n": 58
+      },
+      {
+       "t": "mc",
+       "s": "The event takes ________ annually around the world.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "part",
+        "over",
+        "on",
+        "place"
+       ],
+       "a": 3,
+       "e": "take place: diễn ra, tổ chức.",
+       "n": 59
+      },
+      {
+       "t": "mc",
+       "s": "It's important to look ________ our planet by using resources responsibly.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "for",
+        "after",
+        "forward to",
+        "into"
+       ],
+       "a": 1,
+       "e": "look after: chăm sóc, bảo vệ.",
+       "n": 60
+      },
+      {
+       "t": "mc",
+       "s": "Using energy-efficient appliances might cost more now, but ________, it will save you money and reduce your environmental impact.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "lv": 1,
+       "o": [
+        "at the end of the day",
+        "in the long run",
+        "on the go",
+        "for the time being"
+       ],
+       "a": 1,
+       "e": "in the long run: về lâu về dài.",
+       "n": 61
+      },
+      {
+       "t": "mc",
+       "s": "To help the environment, we should ________ plastic use by bringing reusable bags when we go shopping.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "run out of",
+        "take care of",
+        "cut down on",
+        "look after"
+       ],
+       "a": 2,
+       "e": "cut down on: cắt giảm.",
+       "n": 62
+      },
+      {
+       "t": "mc",
+       "s": "They ________ extensive research on the environmental effects of using fake Christmas trees.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "turned off",
+        "carried out",
+        "look after",
+        "applied for"
+       ],
+       "a": 1,
+       "e": "carry out research: tiến hành/thực hiện nghiên cứu.",
+       "n": 63
+      },
+      {
+       "t": "mc",
+       "s": "People are encouraged to cut ________ on the use of plastic bags.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "down",
+        "on",
+        "out",
+        "to"
+       ],
+       "a": 0,
+       "e": "cut down on: cắt giảm sử dụng.",
+       "n": 64
+      },
+      {
+       "t": "mc",
+       "s": "We all agreed ________ a plan to make our classroom greener.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "for",
+        "in",
+        "of",
+        "on"
+       ],
+       "a": 3,
+       "e": "agree on sth: thống nhất/đồng ý về một kế hoạch/vấn đề.",
+       "n": 65
+      },
+      {
+       "t": "mc",
+       "s": "Global temperatures continue to rise and we don't know what will happen ________ our planet in 100 years.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "with",
+        "for",
+        "to",
+        "on"
+       ],
+       "a": 2,
+       "e": "happen to sth: xảy ra với cái gì.",
+       "n": 66
+      },
+      {
+       "t": "mc",
+       "s": "Everyone knows there is an environment problem in our school, but no one wants to talk ________ it.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "of",
+        "about",
+        "with",
+        "on"
+       ],
+       "a": 1,
+       "e": "talk about sth: nói về điều gì.",
+       "n": 67
+      },
+      {
+       "t": "mc",
+       "s": "We're preparing ________ the Green Ideas competition, which will take place next week.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "for",
+        "with",
+        "about",
+        "on"
+       ],
+       "a": 0,
+       "e": "prepare for sth: chuẩn bị cho điều gì.",
+       "n": 68
+      },
+      {
+       "t": "mc",
+       "s": "Since most people in Hong Kong can't afford a car, they rely ________ public transport.",
+       "ins": "Exercise 4 - GRAMMAR: Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+       "o": [
+        "to",
+        "on",
+        "for",
+        "with"
+       ],
+       "a": 1,
+       "e": "rely on: dựa vào, phụ thuộc vào.",
+       "n": 69
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
