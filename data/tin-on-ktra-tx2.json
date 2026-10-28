@@ -1,0 +1,693 @@
+{
+ "id": "tin-on-ktra-tx2",
+ "subject": "Tin học",
+ "name": "ÔN KTRA TX2",
+ "path": "data/tin-on-ktra-tx2.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "on-ktra-tx2",
+     "name": "ÔN KTRA TX2",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Các quy định liên quan đến gửi thư có tên là gì?",
+       "o": [
+        "Giao thức IMAP.",
+        "Giao thức MQTT.",
+        "Giao thức SMTP.",
+        "Giao thức POP3."
+       ],
+       "a": 2,
+       "e": "Giao thức SMTP quy định việc truyền tải và gửi thư điện tử.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Hiện nay có những loại địa chỉ IP nào?",
+       "o": [
+        "IPv4 và IPv6.",
+        "IPv2 và IPv4.",
+        "IPv4 và IPv5.",
+        "IPv1 và IPv3."
+       ],
+       "a": 0,
+       "e": "Hệ thống địa chỉ IP hiện nay gồm hai phiên bản chính là IPv4 và IPv6[cite: 15].",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Địa chỉ máy chủ của Bộ Giáo dục và Đào tạo có thể thay thế bằng",
+       "o": [
+        "moet.edu.com.",
+        "edu.com.vn.",
+        "moet.edu.vn.",
+        "edu.moet.vn"
+       ],
+       "a": 2,
+       "e": "Địa chỉ tên miền chính thức của Bộ Giáo dục và Đào tạo là moet.edu.vn[cite: 15].",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Việc truyền dữ liệu trong mạng cục bộ sẽ căn cứ vào địa chỉ gì?",
+       "o": [
+        "Địa chỉ IP.",
+        "Địa chỉ MAC.",
+        "Địa chỉ LAN.",
+        "Địa chỉ Server."
+       ],
+       "a": 1,
+       "e": "Truyền dữ liệu trong mạng cục bộ LAN dựa trên địa chỉ vật lý MAC[cite: 15].",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây sai?",
+       "lv": 1,
+       "o": [
+        "Theo phương pháp định tuyến tĩnh, mỗi router có một bảng định tuyến.",
+        "Giao thức TCP đảm bảo việc truyền dữ liệu theo từng ứng dụng một cách chính xác, tin cậy và hiệu quả.",
+        "MAC là địa chỉ vật lí của máy tính.",
+        "Giao thức IP đảm bảo chuyển dữ liệu từ mạng này đến mạng kia và chuyển dữ liệu đến một ứng dụng cụ thể trên một máy cụ thể."
+       ],
+       "a": 3,
+       "e": "Giao thức IP định hướng dữ liệu tới máy đích dựa trên địa chỉ IP, còn việc phân phối đến ứng dụng cụ thể do giao thức tầng trên đảm nhận[cite: 15].",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Giao thức quy định cách biểu diễn (mã hoá) các trang web là",
+       "o": [
+        "SNMP.",
+        "DNS.",
+        "HTTP.",
+        "DHCP."
+       ],
+       "a": 2,
+       "e": "Giao thức HTTP định nghĩa cách thức truyền tải và mã hóa các trang web[cite: 15].",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Lệnh dùng để kiểm tra cấu hình IP của máy tính đang sử dụng là",
+       "o": [
+        "systeminfo.",
+        "taskkill.",
+        "driverquery.",
+        "ipconfig."
+       ],
+       "a": 3,
+       "e": "Lệnh ipconfig được dùng trên Windows để kiểm tra cấu hình địa chỉ IP[cite: 15].",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Giao thức mạng nào hỗ trợ lấy địa chỉ MAC theo địa chỉ IP?",
+       "o": [
+        "DDS.",
+        "ICMP.",
+        "ARP.",
+        "BGP."
+       ],
+       "a": 2,
+       "e": "Giao thức ARP phân giải địa chỉ IP thành địa chỉ MAC[cite: 15].",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Để tạm thời dừng tường lửa, bạn vào phần nào trong Windows Security?",
+       "o": [
+        "Device Security",
+        "Firewall &amp; Network Protection",
+        "App &amp; Browser Control",
+        "Virus &amp; Threat Protection"
+       ],
+       "a": 1,
+       "e": "Mục Firewall &amp; Network Protection quản lý cài đặt tường lửa trong Windows Security[cite: 15].",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Để chia sẻ thư mục trên MAY_1, bước nào sau đây là đúng?",
+       "lv": 1,
+       "o": [
+        "Chọn thư mục, nhấp chuột phải, chọn Properties, sau đó chọn Sharing",
+        "Chọn thư mục, nhấp chuột phải, chọn Share",
+        "Mở thư mục, sau đó chọn Share",
+        "Chọn thư mục, sau đó chọn Add to Network"
+       ],
+       "a": 0,
+       "e": "Thao tác chia sẻ chuẩn qua menu Properties mục Sharing[cite: 15].",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Để thêm người dùng vào danh sách chia sẻ, bạn cần làm gì?",
+       "lv": 1,
+       "o": [
+        "Chọn thư mục, sau đó chọn Add User",
+        "Trong thẻ Sharing, chọn Add sau khi chọn Everyone",
+        "Nhấp chuột phải lên thư mục, chọn Add to Share List",
+        "Mở thư mục, chọn Add User"
+       ],
+       "a": 1,
+       "e": "Trong thẻ Sharing, chọn Everyone rồi nhấn nút Add để thêm người dùng vào danh sách phân quyền[cite: 15].",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Giao tiếp trong không gian mạng giúp mở rộng kết nối xã hội như thế nào?",
+       "lv": 1,
+       "o": [
+        "Không gian mạng cung cấp nhiều công cụ giao tiếp trực tuyến như hội nghị truyền hình, nhắn tin nhanh, thư điện tử, mạng xã hội, ...",
+        "Những người sống xa nhau có thể giao tiếp với nhau mọi lúc, mọi nơi, miễn là có kết nối mạng.",
+        "Điện thoại video giúp con người gần nhau hơn khi không có điều kiện sống cùng nhau.",
+        "Giúp xây dựng thương hiệu cá nhân hoặc doanh nghiệp bằng cách thông qua các kênh truyền thông xã hội, tạo ấn tượng tốt để thu hút khách hàng và bạn bè."
+       ],
+       "a": 1,
+       "e": "Kết nối mạng phá vỡ khoảng cách địa lý, cho phép giao tiếp mọi lúc mọi nơi[cite: 15].",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Vì sao lại nói giao tiếp trong không gian mạng ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư?",
+       "lv": 1,
+       "o": [
+        "Trong không gian mạng, người sử dụng có thể dễ dàng giấu mặt, tạo ra các bản sao không đầy đủ của bản thân hoặc giả mạo thông tin, làm cho người khác khó đánh giá được tính chân thật của thông tin và sự thật về người đối diện.",
+        "Mất kết nối mạng dẫn đến giao tiếp bị trì hoãn hoặc bị gián đoạn.",
+        "Dữ liệu bị xâm phạm khiến các thông tin riêng tư và nhạy cảm bị rò rỉ hoặc bị tấn công bởi những kẻ xấu.",
+        "Thư điện tử hay tin nhắn có thể gây khó khăn trong việc truyền đạt cảm xúc và dẫn đến những hiểu lầm không đáng có."
+       ],
+       "a": 2,
+       "e": "Nguy cơ lớn là rò rỉ thông tin riêng tư do dữ liệu bị tấn công hoặc xâm phạm[cite: 15].",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Chia sẻ thông tin chính xác và đáng tin cậy, tránh lan truyền thông tin sai lệch hoặc tin đồn thể hiện khía cạnh nào trong việc ứng xử nhân văn trong không gian mạng?",
+       "lv": 1,
+       "o": [
+        "Lịch sự.",
+        "Thấu hiểu.",
+        "Tôn trọng.",
+        "Hỗ trợ."
+       ],
+       "a": 2,
+       "e": "Chia sẻ thông tin đúng sự thật thể hiện sự tôn trọng cộng đồng và người đọc[cite: 15].",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Các quy tắc ứng xử trên mạng xã hội phù hợp với quy định của pháp luật được nêu trong văn bản nào?",
+       "o": [
+        "Quyết định số 874-QĐ-BTTTT ngày 17/6/2021.",
+        "Quyết định số 874-QĐ-BTTTT ngày 17/6/2019.",
+        "Quyết định số 847-QĐ-BTTTT ngày 17/6/2021.",
+        "Quyết định số 784-QĐ-BTTTT ngày 17/6/2020."
+       ],
+       "a": 0,
+       "e": "Bộ quy tắc ứng xử trên mạng xã hội ban hành theo Quyết định số 874-QĐ-BTTTT năm 2021[cite: 15].",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Phương án nào sau đây không là công cụ giao tiếp trong không gian mạng?",
+       "o": [
+        "Mạng xã hội.",
+        "Hội nghị truyền hình.",
+        "Thư giấy.",
+        "FaceTime."
+       ],
+       "a": 2,
+       "e": "Thư giấy là hình thức giao tiếp truyền thống, không phải công cụ trong không gian mạng[cite: 15].",
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Em cần ứng xử như thế nào để thể hiện sự tôn trọng khi giao tiếp trong không gian mạng?",
+       "lv": 1,
+       "o": [
+        "Cố gắng đặt mình vào hoàn cảnh của người khác để có thể hiểu được những suy nghĩ, tình cảm, vấn đề của họ.",
+        "Không sử dụng ngôn từ nhạy cảm, lăng mạ, châm chọc, phỉ bảng hoặc phân biệt chủng tộc, giới tính, tôn giáo,…",
+        "Không châm chọc hoặc làm cho người khác cảm thấy bị tổn thương.",
+        "Gửi những lời động viên chân thành, những tin nhắn an ủi khi người khác đang gặp khó khăn."
+       ],
+       "a": 1,
+       "e": "Tôn trọng thể hiện qua việc tránh dùng từ ngữ nhạy cảm, xúc phạm người khác[cite: 15].",
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Em cần làm gì để hình thành thói quen ứng xử nhân văn trong không gian mạng?",
+       "lv": 1,
+       "o": [
+        "Đối xử với người khác theo cách mà mình muốn.",
+        "Tự kiểm điểm, cải thiện hành vi trực tuyến của mình.",
+        "Làm theo ý muốn cá nhân, không tôn trọng ý kiến của người khác.",
+        "Sử dụng ngôn từ và cách viết tùy hứng."
+       ],
+       "a": 1,
+       "e": "Tự kiểm điểm và cải thiện hành vi giúp hình thành thói quen ứng xử văn minh[cite: 15].",
+       "n": 18
+      },
+      {
+       "t": "mc",
+       "s": "Khi tham một cuộc thảo luận trên mạng xã hội, em cần ứng xử như thế nào?",
+       "lv": 1,
+       "o": [
+        "Tự ý trao đổi thông tin riêng tư trong thư điện tử giữa hai người với bên thứ ba.",
+        "Mặc quần áo lịch sự và không để lộ những vật dụng hoặc cảnh quan không phù hợp.",
+        "Sử dụng ngôn từ khiêu khích khi không đồng tình với ý kiến của người khác.",
+        "Nếu có ý kiến trái ngược, cần trao đổi một cách lịch sự trên tinh thần tôn trọng quan điểm của người khác."
+       ],
+       "a": 3,
+       "e": "Trao đổi lịch sự, tôn trọng quan điểm trái chiều là ứng xử đúng mực khi thảo luận[cite: 15].",
+       "n": 19
+      },
+      {
+       "t": "mc",
+       "s": "Phương án nào sau đây không là tình huống sử dụng giao tiếp trong không gian mạng?",
+       "o": [
+        "Tham gia một cuộc họp trực tuyến.",
+        "Tới thăm nhà họ hàng.",
+        "Nộp bài tập bằng thư điện tử.",
+        "Trò chuyện nhóm trên Facebook."
+       ],
+       "a": 1,
+       "e": "Tới thăm nhà họ hàng là hoạt động giao tiếp trực tiếp ngoài đời thực[cite: 15].",
+       "n": 20
+      },
+      {
+       "t": "mc",
+       "s": "Trợ lí ảo được phát triển đặc biệt cho hệ điều hành Windows là?",
+       "o": [
+        "Siri.",
+        "Cortana.",
+        "Bixby.",
+        "Alexa."
+       ],
+       "a": 1,
+       "e": "Cortana là trợ lý ảo được Microsoft phát triển tích hợp trên Windows[cite: 15].",
+       "n": 21
+      },
+      {
+       "t": "mc",
+       "s": "Cách tốt nhất em nên làm gì khi bị bắt nạt trên mạng?",
+       "lv": 1,
+       "o": [
+        "Nói lời xúc phạm trên mạng.",
+        "Cố gắng quên đi và tiếp tục chịu đựng.",
+        "Nhờ bố mẹ, thầy cô giáo giúp đỡ, tư vấn.",
+        "Đe doạ người bắt nạt mình."
+       ],
+       "a": 2,
+       "e": "Khi gặp bắt nạt trên mạng, cần thông báo và nhờ sự trợ giúp của phụ huynh hoặc giáo viên[cite: 15].",
+       "n": 22
+      },
+      {
+       "t": "mc",
+       "s": "Trong các việc sau, việc nào là không nên làm khi giao tiếp qua mạng?",
+       "lv": 1,
+       "o": [
+        "Tôn trọng mọi người khi giao tiếp qua mạng.",
+        "Sử dụng ngôn ngữ, hình ảnh, … văn minh, lịch sự.",
+        "Đưa thông tin, hình ảnh của người khác lên mạng khi chưa được họ cho phép.",
+        "Bảo vệ tài khoản cá nhân trên mạng."
+       ],
+       "a": 2,
+       "e": "Đăng ảnh hoặc thông tin cá nhân của người khác mà chưa có sự đồng ý là hành vi vi phạm[cite: 15].",
+       "n": 23
+      },
+      {
+       "t": "mc",
+       "s": "Khi giao tiếp qua mạng thì em nên làm gì:",
+       "lv": 1,
+       "o": [
+        "Đọc thông tin trong hộp thư của người khác.",
+        "Sử dụng ngôn ngữ, hình ảnh, … không lịch sự, lành mạnh.",
+        "Đưa thông tin, hình ảnh của người khác lên mạng khi chưa được họ cho phép.",
+        "Tìm sự giúp đỡ của bố mẹ, thầy cô giáo khi bị bắt nạt trên mạng."
+       ],
+       "a": 3,
+       "e": "Tìm kiếm sự hỗ trợ từ người lớn khi bị bắt nạt là việc nên làm để được bảo vệ[cite: 15].",
+       "n": 24
+      },
+      {
+       "t": "mc",
+       "s": "Những cách ứng xử nào sau đây là hợp lí khi truy cập một trang web có nội dung xấu?",
+       "lv": 1,
+       "o": [
+        "Tiếp tục truy cập trang web đó.",
+        "Đóng ngay trang web đó.",
+        "Đề nghị bố mẹ hoặc thầy cô hoặc người có trách nhiệm ngăn chặn truy cập trang web đó.",
+        "Gửi trang web đó cho bạn bè xem."
+       ],
+       "a": 2,
+       "e": "Cần thông báo cho người có trách nhiệm để ngăn chặn các nội dung xấu độc[cite: 15].",
+       "n": 25
+      },
+      {
+       "t": "mc",
+       "s": "Biểu hiện của việc nghiện trò chơi trực tuyến là:",
+       "lv": 1,
+       "o": [
+        "Thường xuyên cập nhật tin tức bản thân lên facebook.",
+        "Tâm trạng dễ cáu gắt, lầm lì, ít nói.",
+        "Thường xuyên xem điện thoại hay kiểm tra tin nhắn.",
+        "Thường xuyên truy cập vào các mạng xã hội."
+       ],
+       "a": 1,
+       "e": "Thay đổi tâm lý như dễ cáu gắt, lầm lì là dấu hiệu tâm lý của người nghiện game[cite: 15].",
+       "n": 26
+      },
+      {
+       "t": "mc",
+       "s": "Khi giao tiếp qua mạng, điều nào sau nên làm?",
+       "lv": 1,
+       "o": [
+        "Tôn trọng người đang giao tiếp với mình.",
+        "Nói bất cứ điều gì xuất hiện trong đầu.",
+        "Kết bạn với những người mình không quen biết.",
+        "Truy cập bất cứ liên kết nào nhận được."
+       ],
+       "a": 0,
+       "e": "Tôn trọng đối phương là nguyên tắc cơ bản trong giao tiếp trực tuyến[cite: 15].",
+       "n": 27
+      },
+      {
+       "t": "mc",
+       "s": "Theo em, hoạt động trên mạng nào sau đây dễ gây bệnh nghiện Internet nhất?",
+       "o": [
+        "Chơi trò chơi trực tuyến.",
+        "Đọc tin tức.",
+        "Học tập trực tuyến.",
+        "Trao đổi thông tin qua hộp thư điện tử."
+       ],
+       "a": 0,
+       "e": "Chơi game trực tuyến có tính gây nghiện cao nhất trong các hoạt động mạng[cite: 15].",
+       "n": 28
+      },
+      {
+       "t": "mc",
+       "s": "Đâu là hậu quả của những người bị nghiện trò chơi trực tuyến?",
+       "lv": 1,
+       "o": [
+        "Tàn phá sức khỏe và tinh thần.",
+        "Thường xuyên nhắn tin, gọi điện cho bạn bè.",
+        "Thường xuyên nói xấu người khác trên mạng.",
+        "Thường xuyên giao tiếp với bạn bè trên mạng."
+       ],
+       "a": 0,
+       "e": "Nghiện game gây suy kiệt sức khỏe thể chất và ảnh hưởng tiêu cực đến tinh thần[cite: 15].",
+       "n": 29
+      },
+      {
+       "t": "mc",
+       "s": "Bạn An cứ khoảng 10 phút lại xem điện thoại hay kiểm tra tin nhắn trên mạng xã hội. Hành động của bạn An thuộc tác hại nào của người nghiện Internet?",
+       "lv": 1,
+       "o": [
+        "Thiếu giao tiếp với thế giới xung quanh.",
+        "Khó tập trung vào công việc học tập.",
+        "Tăng nguy cơ tham gia vào các vụ bắt nạt trên mạng.",
+        "Dễ bị nghiện trò chơi trực tuyến."
+       ],
+       "a": 1,
+       "e": "Việc liên tục kiểm tra điện thoại làm giảm khả năng tập trung vào học tập và công việc[cite: 15].",
+       "n": 30
+      },
+      {
+       "t": "mc",
+       "s": "Khi lướt mạng Facebook, em thấy một nội dung sai sự thật có ảnh hưởng đến người khác, em sẽ làm gì?",
+       "lv": 1,
+       "o": [
+        "Chia sẻ ngay để nhiều người cùng biết.",
+        "Bình luận, hùa theo nội dung đó.",
+        "Báo cáo vì biết đó là thông tin sai sự thật.",
+        "Chỉ nhấn like mà không bình luận gì."
+       ],
+       "a": 2,
+       "e": "Báo cáo bài viết sai sự thật giúp ngăn chặn thông tin giả lan truyền[cite: 15].",
+       "n": 31
+      },
+      {
+       "t": "mc",
+       "s": "Khái niệm không gian mạng là gì?",
+       "o": [
+        "Môi trường truyền thông không dây",
+        "Môi trường được tạo ra nhờ các mạng máy tính",
+        "Môi trường giao tiếp thông qua điện thoại",
+        "Môi trường chỉ dành cho việc chơi game"
+       ],
+       "a": 1,
+       "e": "Không gian mạng là môi trường ảo hình thành từ hệ thống các mạng máy tính kết nối[cite: 15].",
+       "n": 32
+      },
+      {
+       "t": "mc",
+       "s": "Một trong những ưu điểm của giao tiếp trong không gian mạng là gì?",
+       "o": [
+        "Chi phí cao",
+        "Khó khăn trong việc tìm kiếm thông tin",
+        "Mở rộng kết nối xã hội",
+        "Thiếu sự bảo mật"
+       ],
+       "a": 2,
+       "e": "Giao tiếp mạng giúp mở rộng không gian kết nối xã hội không giới hạn địa lý[cite: 15].",
+       "n": 33
+      },
+      {
+       "t": "mc",
+       "s": "Một trong những nhược điểm của giao tiếp trong không gian mạng là gì?",
+       "o": [
+        "Tính tiện lợi",
+        "Thiếu tín hiệu phi ngôn ngữ",
+        "Sử dụng công cụ giao tiếp đa dạng",
+        "Tiết kiệm thời gian"
+       ],
+       "a": 1,
+       "e": "Thiếu biểu cảm và tín hiệu phi ngôn ngữ là hạn chế lớn của giao tiếp trực tuyến[cite: 15].",
+       "n": 34
+      },
+      {
+       "t": "mc",
+       "s": "Điều nào sau đây không phải là cách ứng xử nhân văn khi giao tiếp trong không gian mạng?",
+       "lv": 1,
+       "o": [
+        "Tôn trọng người khác",
+        "Sử dụng ngôn ngữ khiêu khích",
+        "Thấu hiểu, cảm thông",
+        "Lịch sự, sử dụng ngôn từ đúng mực"
+       ],
+       "a": 1,
+       "e": "Sử dụng ngôn ngữ khiêu khích là hành vi vi phạm chuẩn mực ứng xử[cite: 15].",
+       "n": 35
+      },
+      {
+       "t": "mc",
+       "s": "Khi giao tiếp trong không gian mạng, tại sao nên đọc kĩ bài viết của người khác trước khi đưa ra ý kiến của mình?",
+       "lv": 1,
+       "o": [
+        "Để tránh lỗi chính tả",
+        "Để hiểu rõ nội dung và tránh hiểu lầm",
+        "Để làm bài viết của mình dài hơn",
+        "Để có thể phản đối mạnh mẽ hơn"
+       ],
+       "a": 1,
+       "e": "Đọc kỹ giúp nắm bắt đúng nội dung, tránh phản hồi sai lệch hoặc hiểu lầm[cite: 15].",
+       "n": 36
+      },
+      {
+       "t": "mc",
+       "s": "Phần tử HTML có ý nghĩa chú thích trong tệp HTML có dạng như thế nào?",
+       "o": [
+        "!-- chú thích --!.",
+        "&lt;!-- chú thích --&gt;.",
+        "// chú thích.",
+        "{…chú thích…}."
+       ],
+       "a": 1,
+       "e": "Cú pháp chú thích chuẩn trong HTML là &lt;!-- nội dung chú thích --&gt;[cite: 15].",
+       "n": 37
+      },
+      {
+       "t": "mc",
+       "s": "Phương án nào sau đây là tên của một phần mềm soạn thảo HTML?",
+       "o": [
+        "Mozilla Firefox.",
+        "w3schools.com.",
+        "Spotify.",
+        "Sublime Text."
+       ],
+       "a": 3,
+       "e": "Sublime Text là một ứng dụng soạn thảo mã nguồn và HTML phổ biến[cite: 15].",
+       "n": 38
+      },
+      {
+       "t": "mc",
+       "s": "Phần mềm tương tự Notepad trên hệ điều hành MacOS là?",
+       "o": [
+        "TextEdit.",
+        "Sublime Text.",
+        "HyperText.",
+        "Notepad++."
+       ],
+       "a": 0,
+       "e": "TextEdit là trình soạn thảo văn bản thuần cơ bản đi kèm hệ điều hành macOS[cite: 15].",
+       "n": 39
+      },
+      {
+       "t": "mc",
+       "s": "Phiên bản hiện tại của HTML là?",
+       "o": [
+        "HTML4.",
+        "HTML5.",
+        "HTML6.",
+        "HTML7."
+       ],
+       "a": 1,
+       "e": "HTML5 là tiêu chuẩn phiên bản hiện hành của ngôn ngữ đánh dấu siêu văn bản[cite: 15].",
+       "n": 40
+      },
+      {
+       "t": "mc",
+       "s": "Trên trang HTML, thẻ p có ý nghĩa gì?",
+       "o": [
+        "Đoạn văn bản.",
+        "Tiêu đề trang web.",
+        "Tiêu đề văn bản.",
+        "Một câu trích dẫn ngắn."
+       ],
+       "a": 0,
+       "e": "Thẻ p dùng để định nghĩa một đoạn văn bản trong HTML[cite: 15].",
+       "n": 41
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây sai?",
+       "lv": 1,
+       "o": [
+        "Một phần tử HTML được định nghĩa bởi thẻ bắt đầu, thẻ kết thúc và phần nội dung nằm giữa cặp thẻ này.",
+        "Dòng đầu tiên của mỗi tệp HTML có dạng &lt;!DOCTYPE html&gt;, có vai trò thông báo kiểu của tệp là html và được xem là phần tử HTML.",
+        "Trong HTML, thẻ &lt;br&gt; là thẻ đơn.",
+        "HTML không nhận biết kí tự xuống dòng (nhấn phím Enter) để kết thúc đoạn văn bản như các phần mềm soạn thảo văn bản thông thường."
+       ],
+       "a": 1,
+       "e": "Khai báo &lt;!DOCTYPE html&gt; chỉ là chỉ thị khai báo kiểu tài liệu, không phải là một phần tử HTML[cite: 15].",
+       "n": 42
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây đúng?",
+       "lv": 1,
+       "o": [
+        "Phần tử &lt;meta&gt; nằm trong phần tử &lt;body&gt; và được dùng để mô tả các thông tin bổ sung của trang web như cách mã hoá Unicode, từ khoá dùng để tìm kiếm trang, tên tác giả trang web.",
+        "Trong sơ đồ hình cây HTML, phần tử &lt;head&gt; là phần tử gốc (root).",
+        "Phần tử &lt;title&gt; nằm trong &lt;head&gt; và phải là văn bản thường, không được phép chứa các phần tử con.",
+        "Phần tử &lt;html&gt; là không bắt buộc."
+       ],
+       "a": 2,
+       "e": "Thẻ &lt;title&gt; nằm trong &lt;head&gt; chỉ chứa nội dung văn bản thuần túy không chứa các thẻ con khác[cite: 15].",
+       "n": 43
+      },
+      {
+       "t": "mc",
+       "s": "Đoạn mã HTML của câu “The RMS Titanic, a luxury steamship, sank on April 15, 1912 after striking an iceberg.” là?",
+       "lv": 1,
+       "o": [
+        "&lt;p&gt;The &lt;b&gt;RMS Titanic&lt;/b&gt;, a luxury steamship, sank on &lt;i&gt;April 15, 1912&lt;/i&gt; after striking an iceberg.&lt;/p&gt;.",
+        "&lt;p&gt;The &lt;i&gt;RMS Titanic&lt;/i&gt;, a luxury steamship, sank on &lt;u&gt;April 15, 1912&lt;/u&gt; after striking an iceberg.&lt;/p&gt;.",
+        "&lt;p&gt;The &lt;u&gt;RMS Titanic&lt;/u&gt;, a luxury steamship, sank on &lt;b&gt;April 15, 1912&lt;/b&gt; after striking an iceberg.&lt;/p&gt;.",
+        "&lt;p&gt;The &lt;i&gt;RMS Titanic&lt;/i&gt;, a luxury steamship, sank on &lt;b&gt;April 15, 1912&lt;/b&gt; after striking an iceberg.&lt;/p&gt;."
+       ],
+       "a": 3,
+       "e": "Thẻ &lt;i&gt; dùng cho chữ nghiêng và thẻ &lt;b&gt; dùng cho chữ đậm đúng vị trí trong đoạn văn[cite: 15].",
+       "n": 44
+      },
+      {
+       "t": "mc",
+       "s": "Để phần mềm Notepad hiển thị và hỗ trợ soạn thảo HTML em cần thực hiện lệnh gì?",
+       "lv": 1,
+       "o": [
+        "View  Syntax  HTML.",
+        "View  H  HTML.",
+        "Language  H  HTML.",
+        "Language  Syntax  HTML."
+       ],
+       "a": 2,
+       "e": "Trên các trình soạn thảo mã nguồn, chọn menu Language để chuyển định dạng cú pháp hiển thị sang HTML[cite: 15].",
+       "n": 45
+      },
+      {
+       "t": "mc",
+       "s": "Thẻ nào trong HTML được sử dụng để định nghĩa từ viết tắt hoặc tóm tắt một đoạn nội dung nào đó?",
+       "o": [
+        "&lt;abbr&gt;.",
+        "&lt;wbr&gt;.",
+        "&lt;bdo&gt;.",
+        "&lt;svgt&gt;."
+       ],
+       "a": 0,
+       "e": "Thẻ &lt;abbr&gt; dùng để định nghĩa từ viết tắt[cite: 15].",
+       "n": 46
+      },
+      {
+       "t": "mc",
+       "s": "thẻ HTML được viết trong cặp dấu nào?",
+       "o": [
+        "{ }",
+        "[ ]",
+        "( )",
+        "&lt; &gt;"
+       ],
+       "a": 3,
+       "e": "Các thẻ HTML luôn được đặt bên trong cặp ngoặc nhọn &lt; và &gt;[cite: 15].",
+       "n": 47
+      },
+      {
+       "t": "mc",
+       "s": "Tên thẻ HTML có phân biệt chữ hoa và chữ thường không?",
+       "o": [
+        "Có, luôn phải viết chữ hoa",
+        "Có, luôn phải viết chữ thường",
+        "Không phân biệt, nhưng thường viết chữ thường",
+        "Không phân biệt, nhưng thường viết chữ hoa"
+       ],
+       "a": 2,
+       "e": "Tên thẻ HTML không phân biệt hoa thường nhưng theo quy chuẩn chung thường viết chữ thường[cite: 15].",
+       "n": 48
+      },
+      {
+       "t": "mc",
+       "s": "Thẻ HTML nào dưới đây là thẻ đơn?",
+       "o": [
+        "&lt;div&gt;",
+        "&lt;img&gt;",
+        "&lt;h1&gt;",
+        "&lt;p&gt;"
+       ],
+       "a": 1,
+       "e": "Thẻ &lt;img&gt; là thẻ đơn không có thẻ đóng tương ứng[cite: 15].",
+       "n": 49
+      },
+      {
+       "t": "mc",
+       "s": "Thẻ nào dùng để đặt tên cho trang web, xuất hiện trong kết quả tìm kiếm?",
+       "o": [
+        "&lt;meta&gt;",
+        "&lt;title&gt;",
+        "&lt;header&gt;",
+        "&lt;script&gt;"
+       ],
+       "a": 1,
+       "e": "Thẻ &lt;title&gt; định nghĩa tiêu đề của trang web xuất hiện trên trình duyệt và kết quả tìm kiếm[cite: 15].",
+       "n": 50
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
