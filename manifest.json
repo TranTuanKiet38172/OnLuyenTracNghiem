@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261028-1913",
+    "version":  "20261028-1935",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -61,6 +61,10 @@
                         {
                             "path":  "data/tin-on-ktra-tx2.json",
                             "v":  "20261028-1848"
+                        },
+                        {
+                            "path":  "data/anh-unit-2-a-multicutural-world.json",
+                            "v":  "20261028-1935"
                         }
                     ],
     "figures":  {
