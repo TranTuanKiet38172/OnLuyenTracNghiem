@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261029114918306",
+ "version": "20261029115208274",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -77,6 +77,10 @@
   {
    "path": "data/ly-on-giua-ki-1-lan-2.json",
    "v": "20261029114643913"
+  },
+  {
+   "path": "data/ly-on-giua-ki-1-ly-thuyet.json",
+   "v": "20261029115208274"
   }
  ],
  "figures": {
