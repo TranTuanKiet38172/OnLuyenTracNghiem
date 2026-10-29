@@ -1,0 +1,396 @@
+{
+ "id": "ly-on-giua-ki-1-lan-2",
+ "subject": "Vật lý",
+ "name": "ÔN GIỮA KÌ 1 (LẦN 2)",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "on-giua-ki-1-lan-2",
+     "name": "ÔN GIỮA KÌ 1 (LẦN 2)",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Theo mô hình động học phân tử, nhận định nào sau đây về các phân tử cấu tạo nên vật chất là đúng?",
+       "o": [
+        "Các phân tử đứng yên tại vị trí cố định, chỉ chuyển động khi vật nóng lên",
+        "Các phân tử chuyển động hỗn loạn không ngừng và giữa chúng có lực tương tác",
+        "Các phân tử nằm sát nhau, không có khoảng cách và không có lực đẩy",
+        "Các phân tử chuyển động có trật tự và chỉ có lực hút giữa chúng"
+       ],
+       "a": 1,
+       "e": "Các phân tử luôn chuyển động nhiệt hỗn loạn; giữa chúng có khoảng cách và đồng thời có cả lực hút lẫn lực đẩy.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Các hạt phấn hoa lơ lửng trong nước chuyển động hỗn loạn không ngừng (chuyển động Brown). Nguyên nhân của hiện tượng này là",
+       "o": [
+        "các hạt phấn hoa tự chuyển động như sinh vật sống",
+        "dòng đối lưu trong nước do chênh lệch nhiệt độ",
+        "lực hút của Trái Đất tác dụng lên hạt phấn hoa",
+        "các phân tử nước chuyển động nhiệt và va chạm không cân bằng vào hạt phấn hoa"
+       ],
+       "a": 3,
+       "e": "Hạt phấn hoa bị các phân tử nước đang chuyển động nhiệt va chạm từ nhiều phía với lực không cân bằng nên chuyển động hỗn loạn.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Nội năng của một vật là",
+       "o": [
+        "tổng động năng và thế năng tương tác của các phân tử cấu tạo nên vật",
+        "tổng động năng và thế năng của cả vật trong trường trọng lực",
+        "nhiệt lượng mà vật chứa bên trong nó",
+        "tổng động năng chuyển động tịnh tiến của cả vật"
+       ],
+       "a": 0,
+       "e": "Nội năng là tổng động năng và thế năng của các phân tử; khác cơ năng của vật và khác nhiệt lượng.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Một hệ nhận nhiệt lượng 100 J và nhận công 50 J. Độ biến thiên nội năng của hệ là",
+       "o": [
+        "50 J",
+        "150 J",
+        "100 J",
+        "-50 J"
+       ],
+       "a": 1,
+       "e": "ΔU = A + Q = 50 + 100 = 150 J.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt độ 27 °C tương ứng với bao nhiêu K? (lấy T = t + 273)",
+       "o": [
+        "246 K",
+        "27 K",
+        "300 K",
+        "327 K"
+       ],
+       "a": 2,
+       "e": "T = t + 273 = 27 + 273 = 300 K.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây là đúng?",
+       "lv": 1,
+       "o": [
+        "Vật có nhiệt độ càng cao thì chứa nhiệt lượng càng nhiều",
+        "Hai vật có cùng nhiệt độ thì có nội năng bằng nhau",
+        "Khi hai vật tiếp xúc nhau, nhiệt lượng tự truyền từ vật có nhiệt độ cao sang vật có nhiệt độ thấp",
+        "Nhiệt lượng là số đo nội năng của vật"
+       ],
+       "a": 2,
+       "e": "Nhiệt lượng là phần nội năng trao đổi khi truyền nhiệt, không phải thứ \"chứa\" trong vật; nội năng còn phụ thuộc khối lượng, trạng thái nên cùng nhiệt độ chưa chắc cùng nội năng.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về sự sôi của chất lỏng là đúng?",
+       "lv": 1,
+       "o": [
+        "Xảy ra ở nhiệt độ xác định, cả trong lòng lẫn trên mặt thoáng chất lỏng",
+        "Xảy ra ở mọi nhiệt độ, chỉ trên mặt thoáng chất lỏng",
+        "Xảy ra ở mọi nhiệt độ, cả trong lòng lẫn trên mặt thoáng chất lỏng",
+        "Xảy ra ở nhiệt độ xác định, nhiệt độ chất lỏng vẫn tăng khi đun tiếp"
+       ],
+       "a": 0,
+       "e": "Sôi xảy ra ở nhiệt độ xác định (phụ thuộc áp suất ngoài), nhiệt độ không đổi trong lúc sôi; bay hơi mới xảy ra ở mọi nhiệt độ và chỉ ở mặt thoáng.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Hai vật có cùng khối lượng, làm từ hai chất có nhiệt dung riêng c1 &gt; c2, được cung cấp cùng một nhiệt lượng. Nhận xét nào sau đây đúng?",
+       "lv": 1,
+       "o": [
+        "Vật 1 tăng nhiệt độ nhiều hơn vật 2",
+        "Hai vật tăng nhiệt độ như nhau vì cùng khối lượng và cùng nhiệt lượng",
+        "Chỉ vật có nhiệt dung riêng nhỏ hơn mới tăng nhiệt độ",
+        "Vật 1 tăng nhiệt độ ít hơn vật 2"
+       ],
+       "a": 3,
+       "e": "ΔT = Q/(mc); Q và m như nhau, c1 &gt; c2 nên ΔT1 &lt; ΔT2.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Khí trong xilanh bị nén, nhận công 200 J và đồng thời tỏa nhiệt 80 J ra môi trường. Độ biến thiên nội năng của khí là",
+       "lv": 1,
+       "o": [
+        "280 J",
+        "120 J",
+        "-120 J",
+        "-280 J"
+       ],
+       "a": 1,
+       "e": "Hệ tỏa nhiệt nên Q = -80 J; ΔU = A + Q = 200 - 80 = 120 J.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Cung cấp nhiệt đều đặn cho một khối nước đá ở -10 °C, áp suất khí quyển chuẩn, cho tới khi toàn bộ thành hơi nước. Trên đồ thị nhiệt độ theo thời gian có bao nhiêu đoạn nằm ngang (nhiệt độ không đổi)?",
+       "lv": 1,
+       "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+       ],
+       "a": 1,
+       "e": "Có hai giai đoạn nhiệt độ không đổi: nóng chảy ở 0 °C và hóa hơi (sôi) ở 100 °C.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt độ của một vật tăng thêm 20 °C. Theo thang Kelvin, nhiệt độ của vật tăng thêm",
+       "lv": 1,
+       "o": [
+        "20 K",
+        "293 K",
+        "253 K",
+        "36 K"
+       ],
+       "a": 0,
+       "e": "Độ chia của thang Kelvin bằng độ chia của thang Celsius nên ΔT = Δt = 20 K.",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Đun nóng đều một khối nước đá đang nóng chảy ở 0 °C. Trong lúc đá đang nóng chảy, nhiệt lượng nhận vào dùng để",
+       "lv": 2,
+       "o": [
+        "tăng động năng trung bình của các phân tử làm nhiệt độ tăng",
+        "biến hoàn toàn thành công cơ học sinh ra môi trường",
+        "giảm thế năng tương tác giữa các phân tử",
+        "tăng thế năng tương tác giữa các phân tử, động năng trung bình không đổi"
+       ],
+       "a": 3,
+       "e": "Nhiệt dùng để phá vỡ cấu trúc tinh thể, làm tăng thế năng phân tử; nhiệt độ (gắn với động năng trung bình) không đổi.",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Cho liên hệ giữa nhiệt độ Fahrenheit và nhiệt độ Celsius: t_F = 1,8.t_C + 32. Ở nhiệt độ nào thì số chỉ trên thang Celsius bằng số chỉ trên thang Fahrenheit?",
+       "lv": 2,
+       "o": [
+        "0 °C",
+        "32 °C",
+        "-40 °C",
+        "-273 °C"
+       ],
+       "a": 2,
+       "e": "Đặt x = 1,8x + 32 ⇒ -0,8x = 32 ⇒ x = -40.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Thả một miếng đồng 0,5 kg ở 80 °C vào 0,4 kg nước ở 20 °C. Biết nhiệt dung riêng của đồng là 380 J/(kg.K), của nước là 4200 J/(kg.K); bỏ qua hao phí. Nhiệt độ khi cân bằng nhiệt gần nhất với giá trị nào?",
+       "lv": 2,
+       "o": [
+        "50,0 °C",
+        "53,3 °C",
+        "38,0 °C",
+        "26,1 °C"
+       ],
+       "a": 3,
+       "e": "Phương trình cân bằng nhiệt: 0,5.380.(80 - t) = 0,4.4200.(t - 20) ⇒ t ≈ 26,1 °C.",
+       "n": 14
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu về sự nóng chảy và đông đặc:",
+       "lv": 1,
+       "st": [
+        [
+         "Chất rắn kết tinh nóng chảy ở một nhiệt độ xác định (ứng với áp suất ngoài).",
+         1,
+         "Cấu trúc tinh thể bị phá vỡ đồng loạt tại nhiệt độ nóng chảy."
+        ],
+        [
+         "Chất rắn vô định hình như thủy tinh, nhựa đường nóng chảy ở một nhiệt độ xác định.",
+         0,
+         "Chất vô định hình mềm dần rồi mới chảy lỏng, không có nhiệt độ nóng chảy xác định."
+        ],
+        [
+         "Trong lúc đang nóng chảy, nhiệt độ của chất rắn kết tinh không đổi dù vẫn được cấp nhiệt.",
+         1,
+         "Nhiệt nhận vào dùng để phá vỡ cấu trúc tinh thể, tăng thế năng phân tử."
+        ],
+        [
+         "Khi chất lỏng đông đặc thành chất rắn kết tinh, nó thu nhiệt từ môi trường.",
+         0,
+         "Đông đặc là quá trình ngược của nóng chảy nên tỏa ra nhiệt lượng đúng bằng nhiệt nóng chảy."
+        ]
+       ],
+       "n": 15
+      },
+      {
+       "t": "tf",
+       "s": "Một lượng khí trong xilanh có pit-tông, xét ΔU = A + Q (A &gt; 0 khi hệ nhận công, Q &gt; 0 khi hệ nhận nhiệt):",
+       "lv": 1,
+       "st": [
+        [
+         "Khi khí được nung nóng trong bình kín (thể tích không đổi) thì A = 0 và ΔU = Q.",
+         1,
+         "Thể tích không đổi nên không có công; toàn bộ nhiệt nhận vào làm tăng nội năng."
+        ],
+        [
+         "Khi khí giãn nở và sinh công thì A mang giá trị dương.",
+         0,
+         "Khí sinh công là hệ cho công ra ngoài nên A &lt; 0."
+        ],
+        [
+         "Khí nhận nhiệt 500 J và sinh công 200 J thì nội năng của khí tăng 300 J.",
+         1,
+         "ΔU = A + Q = -200 + 500 = 300 J."
+        ],
+        [
+         "Khi hệ nhận công thì nội năng của hệ chắc chắn tăng.",
+         0,
+         "Nếu hệ đồng thời tỏa nhiệt nhiều hơn công nhận được thì Q âm và ΔU &lt; 0."
+        ]
+       ],
+       "n": 16
+      },
+      {
+       "t": "tf",
+       "s": "Về thang nhiệt độ Kelvin và Celsius (lấy T = t + 273):",
+       "lv": 1,
+       "st": [
+        [
+         "Không độ tuyệt đối (0 K) ứng với khoảng -273 °C.",
+         1,
+         "T = t + 273 nên khi T = 0 thì t = -273 °C."
+        ],
+        [
+         "Độ tăng nhiệt độ 1 K bằng độ tăng nhiệt độ 1 °C.",
+         1,
+         "Hai thang có cùng khoảng chia, chỉ lệch gốc 273."
+        ],
+        [
+         "Có thể có vật ở nhiệt độ -300 °C.",
+         0,
+         "Nhiệt độ thấp nhất là 0 K tương ứng khoảng -273 °C, không có nhiệt độ thấp hơn."
+        ],
+        [
+         "Khi nhiệt độ của vật tăng từ 20 °C lên 40 °C thì nhiệt độ Kelvin của vật tăng gấp đôi.",
+         0,
+         "293 K tăng lên 313 K, tỉ số khoảng 1,07 chứ không phải 2."
+        ]
+       ],
+       "n": 17
+      },
+      {
+       "t": "tf",
+       "s": "Cho nhiệt dung riêng của nước là 4200 J/(kg.K). Xét các phát biểu:",
+       "lv": 2,
+       "st": [
+        [
+         "Nhiệt dung riêng của một chất là nhiệt lượng cần để 1 kg chất đó tăng thêm 1 K.",
+         1,
+         "Q = mcΔT với m = 1 kg, ΔT = 1 K cho Q = c."
+        ],
+        [
+         "Nhiệt dung riêng của một miếng nhôm tăng gấp đôi khi khối lượng miếng nhôm tăng gấp đôi.",
+         0,
+         "Nhiệt dung riêng đặc trưng cho chất, không phụ thuộc khối lượng; chỉ tích mc tăng gấp đôi."
+        ],
+        [
+         "Để 2 kg nước tăng từ 20 °C lên 30 °C cần 8400 J.",
+         0,
+         "Q = mcΔt = 2.4200.10 = 84000 J."
+        ],
+        [
+         "Cùng khối lượng và cùng được cấp một nhiệt lượng, vật có nhiệt dung riêng nhỏ hơn nước sẽ nóng lên nhiều hơn nước.",
+         1,
+         "ΔT = Q/(mc), c càng nhỏ thì ΔT càng lớn."
+        ]
+       ],
+       "n": 18
+      },
+      {
+       "t": "tf",
+       "s": "Đun nước trong ấm ở áp suất khí quyển chuẩn, nước đang sôi ở 100 °C:",
+       "lv": 2,
+       "st": [
+        [
+         "Nhiệt độ của nước giữ nguyên 100 °C dù vẫn tiếp tục đun.",
+         1,
+         "Khi sôi nhiệt độ không đổi; nhiệt nhận vào dùng để hóa hơi."
+        ],
+        [
+         "Nhiệt lượng cấp thêm làm tăng động năng trung bình của các phân tử nước.",
+         0,
+         "Động năng trung bình gắn với nhiệt độ vốn không đổi; nhiệt dùng để tăng thế năng tương tác khi phân tử thoát khỏi liên kết."
+        ],
+        [
+         "Hơi nước ở 100 °C có nội năng lớn hơn nước lỏng ở 100 °C có cùng khối lượng.",
+         1,
+         "Hơi đã nhận thêm nhiệt hóa hơi nên thế năng tương tác phân tử lớn hơn."
+        ],
+        [
+         "Nhiệt hóa hơi riêng của nước là nhiệt lượng cần để 1 kg nước hóa hơi hoàn toàn ở nhiệt độ sôi.",
+         1,
+         "Định nghĩa nhiệt hóa hơi riêng L, với Q = mL."
+        ]
+       ],
+       "n": 19
+      },
+      {
+       "t": "sa",
+       "s": "Một vật có nhiệt độ 350 K. Nhiệt độ của vật theo thang Celsius là bao nhiêu °C? (lấy T = t + 273)",
+       "a": "0077",
+       "e": "t = T - 273 = 350 - 273 = 77 °C.",
+       "n": 20
+      },
+      {
+       "t": "sa",
+       "s": "Tính nhiệt lượng cần cung cấp để đun 2 kg nước từ 25 °C lên 75 °C, biết nhiệt dung riêng của nước là 4200 J/(kg.K). Kết quả tính theo đơn vị kJ.",
+       "lv": 1,
+       "a": "0420",
+       "e": "Q = mcΔt = 2.4200.50 = 420000 J = 420 kJ.",
+       "n": 21
+      },
+      {
+       "t": "sa",
+       "s": "Một lượng khí sinh công 150 J và nội năng của khí tăng thêm 50 J. Hỏi khí đã nhận nhiệt lượng bao nhiêu J?",
+       "lv": 1,
+       "a": "0200",
+       "e": "Khí sinh công nên A = -150 J; Q = ΔU - A = 50 + 150 = 200 J.",
+       "n": 22
+      },
+      {
+       "t": "sa",
+       "s": "Tính nhiệt lượng cần cung cấp để 0,2 kg nước đá ở -10 °C hóa thành nước ở 20 °C. Biết nhiệt dung riêng của nước đá là 2100 J/(kg.K), của nước là 4200 J/(kg.K); nhiệt nóng chảy riêng của nước đá là 3,3×10<sup>5</sup> J/kg. Kết quả tính theo đơn vị kJ.",
+       "lv": 2,
+       "a": "0087",
+       "e": "Q = 0,2.2100.10 + 0,2.3,3×10<sup>5</sup> + 0,2.4200.20 = 4200 + 66000 + 16800 = 87000 J = 87 kJ.",
+       "n": 23
+      },
+      {
+       "t": "sa",
+       "s": "Tính nhiệt lượng cần cung cấp để 0,25 kg nước ở 20 °C được đun sôi rồi hóa hơi hoàn toàn ở 100 °C. Biết nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt hóa hơi riêng của nước ở 100 °C là 2,3×10<sup>6</sup> J/kg. Kết quả tính theo đơn vị kJ.",
+       "lv": 2,
+       "a": "0659",
+       "e": "Q = 0,25.4200.80 + 0,25.2,3×10<sup>6</sup> = 84000 + 575000 = 659000 J = 659 kJ.",
+       "n": 24
+      },
+      {
+       "t": "sa",
+       "s": "Nung một miếng kim loại khối lượng 0,6 kg đến 100 °C rồi thả vào 0,5 kg nước ở 20 °C. Khi cân bằng nhiệt, nhiệt độ chung là 30 °C. Bỏ qua hao phí, biết nhiệt dung riêng của nước là 4200 J/(kg.K). Tính nhiệt dung riêng của kim loại theo đơn vị J/(kg.K).",
+       "lv": 2,
+       "a": "0500",
+       "e": "0,6.c.(100 - 30) = 0,5.4200.(30 - 20) ⇒ 42c = 21000 ⇒ c = 500 J/(kg.K).",
+       "n": 25
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
