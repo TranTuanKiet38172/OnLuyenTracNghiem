@@ -1,0 +1,396 @@
+{
+ "id": "ly-ly-thuyet-de-hieu-nham-3",
+ "subject": "Vật lý",
+ "name": "Lý thuyết dễ hiểu nhầm 3",
+ "chapters": [
+  {
+   "name": "ÔN GIỮA KÌ 1",
+   "lessons": [
+    {
+     "id": "ly-thuyet-de-hieu-nham-3",
+     "name": "Lý thuyết dễ hiểu nhầm 3",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Nhiệt độ của một khối khí tăng từ 27 °C lên 54 °C. Nhận xét nào sau đây đúng?",
+       "lv": 1,
+       "o": [
+        "Nhiệt độ tuyệt đối tăng gấp đôi vì số đo trong thang Celsius tăng gấp đôi",
+        "Nhiệt độ tuyệt đối tăng từ khoảng 300 K lên khoảng 327 K, tức là không tăng gấp đôi",
+        "Nhiệt độ tuyệt đối tăng thêm 54 K",
+        "Nhiệt độ tuyệt đối tăng từ 27 K lên 54 K"
+       ],
+       "a": 1,
+       "e": "T = t + 273 nên 27 °C ứng với khoảng 300 K và 54 °C ứng với khoảng 327 K. Chỉ nhiệt độ tuyệt đối mới có ý nghĩa khi so sánh theo tỉ lệ, còn nhiệt độ Celsius thì không.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Nước lỏng ở 0 °C đông đặc hoàn toàn thành nước đá ở 0 °C (áp suất khí quyển chuẩn). Trong quá trình này, khối nước",
+       "lv": 1,
+       "o": [
+        "nhiệt độ giảm dần và nội năng giảm",
+        "nhiệt độ không đổi, nội năng giảm vì tỏa nhiệt làm giảm thế năng tương tác của các phân tử",
+        "nhiệt độ không đổi, nội năng không đổi",
+        "nhiệt độ tăng dần và nội năng tăng vì có tỏa nhiệt"
+       ],
+       "a": 1,
+       "e": "Đông đặc tỏa nhiệt Q = λm nhưng nhiệt độ giữ 0 °C; động năng trung bình không đổi, thế năng tương tác giảm nên nội năng giảm.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Trộn 0,1 kg nước đá ở 0 °C với 0,5 kg nước ở 10 °C trong bình cách nhiệt hoàn toàn. Biết nhiệt nóng chảy riêng của nước đá là 3,34×10<sup>5</sup> J/kg, nhiệt dung riêng của nước là 4200 J/(kg.K). Khi cân bằng nhiệt, hệ ở trạng thái nào?",
+       "lv": 2,
+       "o": [
+        "Đá tan hết, nhiệt độ cuối cùng cao hơn 0 °C",
+        "Đá tan hết, nhiệt độ cuối cùng đúng 0 °C",
+        "Đá chỉ tan một phần, nước và đá cùng ở 0 °C",
+        "Đá không tan, nước vẫn giữ nguyên 10 °C"
+       ],
+       "a": 2,
+       "e": "Nước hạ từ 10 °C xuống 0 °C tỏa 0,5×4200×10 = 21000 J, nhỏ hơn 0,1×3,34×10<sup>5</sup> = 33400 J cần để đá tan hết. Nhiệt không đủ nên đá chỉ tan một phần, hệ cân bằng ở 0 °C.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Để làm lạnh một cốc nước ngọt, dùng 100 g nước đá ở 0 °C hiệu quả hơn dùng 100 g nước lỏng ở 0 °C vì",
+       "lv": 1,
+       "o": [
+        "nước đá có nhiệt độ thấp hơn nước lỏng ở 0 °C",
+        "nước đá có nhiệt dung riêng lớn hơn nước lỏng",
+        "khi tan, nước đá còn thu thêm nhiệt lượng λm trước khi nóng lên, trong khi nước lỏng chỉ thu nhiệt để tăng nhiệt độ",
+        "nước đá có khối lượng riêng nhỏ hơn nên nổi và tiếp xúc tốt hơn"
+       ],
+       "a": 2,
+       "e": "Nhiệt nóng chảy riêng của nước đá rất lớn (khoảng 3,34×10<sup>5</sup> J/kg) nên quá trình tan thu một lượng nhiệt đáng kể từ nước ngọt.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Vật A có khối lượng bằng một nửa vật B nhưng nhiệt dung riêng gấp đôi vật B. Hai vật có cùng nhiệt độ ban đầu và nhận cùng một nhiệt lượng. Độ tăng nhiệt độ của hai vật",
+       "lv": 2,
+       "o": [
+        "A tăng gấp đôi B",
+        "A tăng bằng một nửa B",
+        "bằng nhau",
+        "không so sánh được vì hai vật làm từ hai chất khác nhau"
+       ],
+       "a": 2,
+       "e": "ΔT = Q/(mc). Vì m<sub>A</sub>c<sub>A</sub> = (m<sub>B</sub>/2)(2c<sub>B</sub>) = m<sub>B</sub>c<sub>B</sub> nên ΔT<sub>A</sub> = ΔT<sub>B</sub>.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Khí trong xilanh nhận nhiệt lượng 100 J và giãn nở ở áp suất không đổi 2×10<sup>5</sup> Pa, thể tích tăng thêm 0,2 lít (1 lít = 10<sup>-3</sup> m<sup>3</sup>). Theo ΔU = A + Q (A &gt; 0 khi hệ nhận công), độ biến thiên nội năng của khí là",
+       "lv": 2,
+       "o": [
+        "140 J",
+        "60 J",
+        "40 J",
+        "100 J"
+       ],
+       "a": 1,
+       "e": "Khí giãn nở nên sinh công: A = -pΔV = -2×10<sup>5</sup>×2×10<sup>-4</sup> = -40 J. Vậy ΔU = -40 + 100 = 60 J.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Làm nguội đều một chất lỏng mà khi đông đặc trở thành chất rắn kết tinh, đồ thị nhiệt độ theo thời gian có một đoạn nằm ngang. Trong đoạn nằm ngang đó",
+       "lv": 1,
+       "o": [
+        "chất đang nhận nhiệt và nóng chảy",
+        "chất đang tỏa nhiệt và đông đặc, tồn tại đồng thời thể lỏng và thể rắn ở nhiệt độ bằng nhiệt độ nóng chảy",
+        "chất ở hoàn toàn thể rắn và không trao đổi nhiệt với môi trường",
+        "chất ở hoàn toàn thể lỏng và nội năng không đổi"
+       ],
+       "a": 1,
+       "e": "Đông đặc xảy ra ở nhiệt độ xác định, bằng nhiệt độ nóng chảy; chất vẫn tỏa nhiệt nên nội năng giảm dù nhiệt độ không đổi.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Đun nước trong một chiếc cốc giấy trên ngọn lửa thì cốc giấy không cháy chừng nào trong cốc còn nước, vì",
+       "lv": 1,
+       "o": [
+        "giấy là chất không dẫn nhiệt nên lửa không truyền nhiệt vào cốc",
+        "nước hấp thụ hết năng lượng của ngọn lửa nên giấy không nhận nhiệt",
+        "nhiệt truyền từ giấy sang nước, nước sôi giữ nhiệt độ khoảng 100 °C nên giấy không nóng hơn mức này, thấp hơn nhiệt độ bốc cháy của giấy",
+        "giấy chịu được nhiệt độ rất cao nên không bao giờ cháy"
+       ],
+       "a": 2,
+       "e": "Khi nước sôi, nhiệt độ không đổi ở khoảng 100 °C và phần giấy tiếp xúc nước có nhiệt độ gần bằng nước, chưa đạt nhiệt độ bốc cháy.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Đặt một cốc nước vào nồi nước đang sôi sao cho cốc không chạm đáy nồi. Nước trong cốc sẽ",
+       "lv": 2,
+       "o": [
+        "sôi mạnh như nước trong nồi vì cùng nhiệt độ 100 °C",
+        "nóng lên gần 100 °C nhưng không sôi, vì khi cùng nhiệt độ với nước trong nồi thì không còn nhận thêm nhiệt để hóa hơi",
+        "không thể nóng quá 50 °C",
+        "sôi ở nhiệt độ thấp hơn 100 °C vì nằm trong cốc"
+       ],
+       "a": 1,
+       "e": "Sôi cần liên tục cung cấp nhiệt hóa hơi. Khi nước trong cốc đã cân bằng nhiệt với nước trong nồi thì không có chênh lệch nhiệt độ nên không truyền nhiệt thêm.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Ở vùng cực, nhiệt độ có thể xuống tới -50 °C. Nhiệt kế thích hợp để đo nhiệt độ này là",
+       "lv": 1,
+       "o": [
+        "nhiệt kế thủy ngân, vì thủy ngân dẫn nhiệt tốt",
+        "nhiệt kế rượu, vì rượu đông đặc ở nhiệt độ rất thấp (khoảng -114 °C) còn thủy ngân đông đặc ở khoảng -39 °C",
+        "nhiệt kế y tế, vì có chỗ thắt hẹp giữ số chỉ",
+        "nhiệt kế nào cũng dùng được vì chất lỏng luôn giãn nở khi nhiệt độ thay đổi"
+       ],
+       "a": 1,
+       "e": "Chất lỏng trong nhiệt kế phải còn ở thể lỏng trong khoảng nhiệt độ cần đo; thủy ngân đã đông đặc ở -50 °C.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt lượng tối thiểu để chuyển hoàn toàn m kg nước đá ở -10 °C thành nước lỏng ở 0 °C là (c<sub>đ</sub>, c<sub>n</sub> lần lượt là nhiệt dung riêng của nước đá và của nước; λ là nhiệt nóng chảy riêng của nước đá)",
+       "lv": 1,
+       "o": [
+        "Q = λm",
+        "Q = m c<sub>đ</sub>×10 + λm",
+        "Q = m c<sub>n</sub>×10 + λm",
+        "Q = m c<sub>đ</sub>×10"
+       ],
+       "a": 1,
+       "e": "Phải nung nóng đá từ -10 °C lên 0 °C (dùng c của nước đá) rồi mới làm tan hoàn toàn ở 0 °C (dùng λ).",
+       "n": 11
+      },
+      {
+       "t": "tf",
+       "s": "Cho công thức đổi thang nhiệt độ t<sub>F</sub> = 1,8·t<sub>C</sub> + 32 (t<sub>F</sub> là nhiệt độ theo °F, t<sub>C</sub> là nhiệt độ theo °C). Xét các phát biểu sau:",
+       "lv": 1,
+       "st": [
+        [
+         "0 °F thấp hơn 0 °C.",
+         1,
+         "0 °F ứng với t<sub>C</sub> = (0 - 32)/1,8 ≈ -17,8 °C, nhỏ hơn 0 °C."
+        ],
+        [
+         "-40 °C ứng với -40 °F.",
+         1,
+         "t<sub>F</sub> = 1,8×(-40) + 32 = -40."
+        ],
+        [
+         "100 °F cao hơn 40 °C.",
+         0,
+         "100 °F ứng với (100 - 32)/1,8 ≈ 37,8 °C, thấp hơn 40 °C."
+        ],
+        [
+         "310 K cao hơn 37 °C.",
+         0,
+         "310 K ứng với 310 - 273,15 = 36,85 °C, thấp hơn 37 °C."
+        ]
+       ],
+       "n": 12
+      },
+      {
+       "t": "tf",
+       "s": "Về sự đông đặc của nước ở áp suất khí quyển chuẩn:",
+       "lv": 1,
+       "st": [
+        [
+         "Khi nước lỏng ở 0 °C đông đặc hoàn toàn thì tỏa ra nhiệt lượng bằng λm với λ là nhiệt nóng chảy riêng của nước đá.",
+         1,
+         "Quá trình đông đặc là quá trình ngược của nóng chảy nên tỏa đúng lượng nhiệt mà nóng chảy thu vào."
+        ],
+        [
+         "Trong lúc đang đông đặc, nhiệt độ của hỗn hợp nước và đá giảm dần xuống dưới 0 °C.",
+         0,
+         "Nhiệt độ giữ không đổi ở 0 °C cho đến khi nước đông đặc hết."
+        ],
+        [
+         "Đặt chậu nước trong hầm khoai mùa rét giúp hầm bớt lạnh vì khi nước đóng băng thì tỏa nhiệt.",
+         1,
+         "Nhiệt tỏa ra khi đông đặc làm chậm sự giảm nhiệt độ của không khí trong hầm."
+        ],
+        [
+         "Khi nước đông đặc, các phân tử chuyển động nhanh hơn nên tỏa nhiệt ra ngoài.",
+         0,
+         "Nhiệt độ không đổi nên động năng trung bình không đổi; nhiệt tỏa ra làm giảm thế năng tương tác của các phân tử."
+        ]
+       ],
+       "n": 13
+      },
+      {
+       "t": "tf",
+       "s": "Một học sinh đo nhiệt dung riêng c của một miếng kim loại: đun miếng kim loại trong nước sôi (coi là 100 °C), nhanh chóng thả vào bình nhiệt lượng kế chứa nước lạnh, đọc nhiệt độ cân bằng rồi tính c từ phương trình cân bằng nhiệt, chỉ tính nhiệt lượng do nước thu vào.",
+       "lv": 2,
+       "st": [
+        [
+         "Nếu bỏ qua nhiệt lượng mà vỏ bình thu vào thì giá trị c tính ra nhỏ hơn giá trị thực.",
+         1,
+         "Nhiệt lượng thực do kim loại tỏa ra gồm cả phần nước và phần vỏ bình thu, còn phép tính chỉ lấy phần của nước nên c tính ra bị nhỏ đi."
+        ],
+        [
+         "Hao phí nhiệt ra môi trường làm giá trị c tính ra lớn hơn giá trị thực.",
+         0,
+         "Kim loại tỏa ra nhiều hơn lượng nước thu, nhưng phép tính chỉ tính lượng nước thu nên c tính ra nhỏ hơn giá trị thực."
+        ],
+        [
+         "Nếu miếng kim loại đã nguội bớt trong lúc chuyển sang bình mà vẫn lấy nhiệt độ ban đầu là 100 °C thì c tính ra nhỏ hơn giá trị thực.",
+         1,
+         "Độ giảm nhiệt độ thực của kim loại nhỏ hơn giá trị dùng để tính, mà c tỉ lệ nghịch với độ giảm nhiệt độ."
+        ],
+        [
+         "Không cần khuấy nước vì nhiệt độ nước trong bình luôn đồng đều ngay lập tức.",
+         0,
+         "Không khuấy thì nhiệt độ nước chưa đồng đều, số đọc trên nhiệt kế chưa phải nhiệt độ cân bằng của cả hệ."
+        ]
+       ],
+       "n": 14
+      },
+      {
+       "t": "tf",
+       "s": "Hệ (khối khí trong xilanh) chuyển từ trạng thái 1 sang trạng thái 2 theo hai quá trình khác nhau, rồi cũng có thể thực hiện một chu trình khép kín. Xét ΔU = A + Q (A &gt; 0 khi hệ nhận công, Q &gt; 0 khi hệ nhận nhiệt):",
+       "lv": 2,
+       "st": [
+        [
+         "Độ biến thiên nội năng của hệ giữa trạng thái 1 và 2 là như nhau với cả hai quá trình.",
+         1,
+         "Nội năng chỉ phụ thuộc trạng thái của hệ (nhiệt độ, thể tích), không phụ thuộc đường đi."
+        ],
+        [
+         "Công và nhiệt lượng mà hệ trao đổi trong hai quá trình luôn bằng nhau.",
+         0,
+         "Công và nhiệt lượng phụ thuộc quá trình cụ thể; chỉ tổng A + Q là như nhau."
+        ],
+        [
+         "Sau một chu trình khép kín, ΔU = 0 nên A + Q = 0.",
+         1,
+         "Hệ trở về trạng thái đầu thì nội năng trở về giá trị ban đầu."
+        ],
+        [
+         "Sau một chu trình khép kín, nhiệt lượng hệ nhận được tổng cộng luôn bằng 0.",
+         0,
+         "Từ A + Q = 0 suy ra Q = -A; nếu hệ sinh công thì phải nhận nhiệt tổng cộng khác 0."
+        ]
+       ],
+       "n": 15
+      },
+      {
+       "t": "tf",
+       "s": "Cùng một lượng khí nhận cùng nhiệt lượng Q &gt; 0 trong hai trường hợp: (I) khí trong bình kín có thể tích không đổi; (II) khí trong xilanh có pít-tông di chuyển tự do, khí giãn nở. Xét ΔU = A + Q (A &gt; 0 khi hệ nhận công):",
+       "lv": 1,
+       "st": [
+        [
+         "Ở trường hợp (I), toàn bộ nhiệt lượng nhận vào làm tăng nội năng của khí.",
+         1,
+         "Thể tích không đổi nên A = 0 và ΔU = Q."
+        ],
+        [
+         "Ở trường hợp (II), khí sinh công nên độ tăng nội năng nhỏ hơn Q.",
+         1,
+         "Khí sinh công nên A &lt; 0, do đó ΔU = A + Q &lt; Q."
+        ],
+        [
+         "Nội năng của khí tăng như nhau ở hai trường hợp.",
+         0,
+         "Ở trường hợp (II) một phần nhiệt lượng biến thành công sinh ra nên nội năng tăng ít hơn trường hợp (I)."
+        ],
+        [
+         "Ở trường hợp (II), khi khí giãn nở thì A &gt; 0.",
+         0,
+         "Hệ sinh công lên bên ngoài thì A mang dấu âm theo quy ước này."
+        ]
+       ],
+       "n": 16
+      },
+      {
+       "t": "tf",
+       "s": "Đun đều (cùng công suất, bỏ qua hao phí) hai khối chất rắn kết tinh X và Y có cùng khối lượng và cùng nhiệt độ ban đầu. Trên đồ thị nhiệt độ theo thời gian, đoạn nằm ngang (nóng chảy) của X dài gấp 3 lần đoạn nằm ngang của Y.",
+       "lv": 2,
+       "st": [
+        [
+         "Nhiệt nóng chảy riêng của X lớn gấp 3 lần của Y.",
+         1,
+         "Nhiệt lượng nóng chảy Q = Pt = λm; với P và m như nhau thì λ tỉ lệ thuận với thời gian nóng chảy t."
+        ],
+        [
+         "Nhiệt độ nóng chảy của X cao hơn của Y.",
+         0,
+         "Độ dài đoạn nằm ngang không cho biết nhiệt độ nóng chảy mà chỉ cho biết nhiệt lượng cần để nóng chảy."
+        ],
+        [
+         "Trong đoạn nằm ngang, nhiệt độ của chất không đổi còn thế năng tương tác giữa các phân tử tăng.",
+         1,
+         "Nhiệt nhận vào dùng để phá vỡ cấu trúc tinh thể nên làm tăng thế năng phân tử."
+        ],
+        [
+         "Đoạn nằm ngang dài hơn chứng tỏ nhiệt dung riêng của X ở thể rắn lớn hơn của Y.",
+         0,
+         "Nhiệt dung riêng ở thể rắn liên quan độ dốc của đoạn đi lên, không liên quan độ dài đoạn nằm ngang."
+        ]
+       ],
+       "n": 17
+      },
+      {
+       "t": "tf",
+       "s": "Về sự sôi của nước khi đun trong ấm hở:",
+       "lv": 1,
+       "st": [
+        [
+         "Trước khi nước sôi, những bọt khí nhỏ xuất hiện ở đáy ấm chủ yếu là không khí hòa tan thoát ra khi nước nóng lên.",
+         1,
+         "Độ hòa tan của chất khí trong nước giảm khi nhiệt độ tăng."
+        ],
+        [
+         "Nhiều bọt nhỏ nổi lên rồi biến mất vì hơi nước trong bọt gặp lớp nước phía trên chưa nóng tới nhiệt độ sôi và ngưng tụ lại.",
+         1,
+         "Lớp nước phía trên còn nguội hơn đáy ấm nên hơi nước ngưng tụ, bọt xẹp xuống."
+        ],
+        [
+         "Khi nước sôi, bọt hơi hình thành ngay trong lòng chất lỏng, to dần khi nổi lên và vỡ ở mặt thoáng.",
+         1,
+         "Sự sôi xảy ra đồng thời trong lòng chất lỏng và trên mặt thoáng."
+        ],
+        [
+         "Trước khi nước sôi, mọi bọt khí nổi lên đều to dần cho tới mặt thoáng.",
+         0,
+         "Khi nước chưa sôi, bọt bị lớp nước nguội phía trên làm ngưng tụ và xẹp xuống, không nổi tới mặt thoáng."
+        ]
+       ],
+       "n": 18
+      },
+      {
+       "t": "tf",
+       "s": "So sánh 1 g nước ở 100 °C với 1 kg nước ở 50 °C:",
+       "lv": 1,
+       "st": [
+        [
+         "Động năng chuyển động nhiệt trung bình của mỗi phân tử ở 100 °C lớn hơn ở 50 °C.",
+         1,
+         "Nhiệt độ càng cao thì động năng trung bình của phân tử càng lớn."
+        ],
+        [
+         "Nội năng của 1 kg nước ở 50 °C lớn hơn nội năng của 1 g nước ở 100 °C.",
+         1,
+         "Khối 1 kg có số phân tử nhiều gấp 1000 lần, trong khi nhiệt độ chỉ chênh lệch không lớn."
+        ],
+        [
+         "Khi cho hai khối nước tiếp xúc nhau, nhiệt truyền từ khối 1 g sang khối 1 kg.",
+         1,
+         "Chiều truyền nhiệt do chênh lệch nhiệt độ quyết định: từ vật nóng sang vật lạnh."
+        ],
+        [
+         "Khi hai khối nước hòa trộn, nhiệt độ cân bằng bằng trung bình cộng của hai nhiệt độ ban đầu, tức 75 °C.",
+         0,
+         "Nhiệt độ cân bằng là (0,001×100 + 1×50)/1,001 ≈ 50,05 °C; chỉ bằng trung bình cộng khi hai khối lượng bằng nhau."
+        ]
+       ],
+       "n": 19
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
