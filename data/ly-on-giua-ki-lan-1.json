@@ -9,6 +9,7 @@
     {
      "id": "on-giua-ki-lan-1",
      "name": "ÔN GIỮA KÌ 1 (LẦN 1)",
+     "src": "",
      "qs": [
       {
        "t": "mc",
@@ -275,7 +276,8 @@
        "a": "0336",
        "e": "Nhiệt lượng đun nước: Q = m.c.ΔT = 1 * 4200 * (100 - 20) = 336 000 J. Thời gian t = Q / P = 336 000 / 1000 = 336 s. Chuẩn hóa 4 ký tự: 0336."
       }
-     ]
+     ],
+     "imgs": {}
     }
    ]
   }
