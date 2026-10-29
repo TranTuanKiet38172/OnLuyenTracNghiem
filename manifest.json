@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261029125052121",
+ "version": "20261029140425718",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -85,6 +85,10 @@
   {
    "path": "data/ly-ly-thuyet-de-hieu-nham-2.json",
    "v": "20261029125052121"
+  },
+  {
+   "path": "data/ly-ly-thuyet-de-hieu-nham-3.json",
+   "v": "20261029140425718"
   }
  ],
  "figures": {
