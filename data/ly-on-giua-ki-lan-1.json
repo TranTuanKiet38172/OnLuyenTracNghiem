@@ -1,0 +1,304 @@
+{
+ "id": "ly-on-giua-ki-lan-1",
+ "subject": "Vật lý",
+ "name": "ÔN GIỮA KÌ (LẦN 1)",
+ "path": "data/ly-on-giua-ki-lan-1.json",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "on-giua-ki-lan-1",
+     "name": "ÔN GIỮA KÌ (LẦN 1)",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Theo mô hình động học phân tử, các phân tử cấu tạo nên chất lỏng",
+       "o": [
+        "chuyển động hoàn toàn tự do về mọi hướng.",
+        "dao động quanh vị trí cân bằng nhưng các vị trí này luôn di chuyển.",
+        "chỉ dao động đứng yên quanh một vị trí cân bằng cố định.",
+        "không tương tác và không chuyển động."
+       ],
+       "a": 1,
+       "e": "Chất lỏng có các phân tử dao động quanh vị trí cân bằng nhưng vị trí này không cố định mà dịch chuyển.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Trong các quá trình chuyển thể sau, quá trình nào là sự ngưng tụ?",
+       "o": [
+        "Chất chuyển từ thể rắn sang thể lỏng.",
+        "Chất chuyển từ thể lỏng sang thể khí.",
+        "Chất chuyển từ thể khí sang thể lỏng.",
+        "Chất chuyển từ thể rắn sang thể khí."
+       ],
+       "a": 2,
+       "e": "Sự ngưng tụ là quá trình chất chuyển từ thể khí (hơi) sang thể lỏng.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Đơn vị đo nội năng trong hệ SI là",
+       "o": [
+        "Calo (cal).",
+        "Jun (J).",
+        "Oát (W).",
+        "Độ Kelvin (K)."
+       ],
+       "a": 1,
+       "e": "Đơn vị đo năng lượng nói chung và nội năng nói riêng trong hệ SI là Jun (J).",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Biểu thức đúng của định luật I nhiệt động lực học là",
+       "o": [
+        "ΔU = A + Q.",
+        "ΔU = A - Q.",
+        "Q = ΔU + A.",
+        "A = ΔU + Q."
+       ],
+       "a": 0,
+       "e": "Độ biến thiên nội năng của hệ bằng tổng công và nhiệt lượng mà hệ nhận được: ΔU = A + Q.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt độ tuyệt đối T (K) liên hệ với nhiệt độ t (°C) theo công thức nào sau đây?",
+       "o": [
+        "T = t - 273,15.",
+        "T = t + 273,15.",
+        "t = T + 273,15.",
+        "T = 273,15 - t."
+       ],
+       "a": 1,
+       "e": "Nhiệt độ tuyệt đối K đổi từ nhiệt độ Celsius theo công thức T = t + 273,15.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt dung riêng của một chất là nhiệt lượng cần cung cấp để",
+       "o": [
+        "1 kg chất đó nóng chảy hoàn toàn.",
+        "1 kg chất đó tăng thêm 1 K (hoặc 1 °C).",
+        "1 m³ chất đó tăng thêm 1 °C.",
+        "chất đó chuyển hoàn toàn sang thể khí."
+       ],
+       "a": 1,
+       "e": "Theo định nghĩa, nhiệt dung riêng c là nhiệt lượng cần để làm 1 kg chất đó tăng nhiệt độ thêm 1 K (hoặc 1 °C).",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt nóng chảy riêng của chất rắn được tính bằng công thức nào sau đây?",
+       "o": [
+        "Q = m.c.ΔT.",
+        "Q = λ.m.",
+        "Q = L.m.",
+        "Q = m / λ."
+       ],
+       "a": 1,
+       "e": "Công thức tính nhiệt lượng nóng chảy là Q = λ.m, trong đó λ là nhiệt nóng chảy riêng.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Thực hiện công 100 J để nén khí trong một xi lanh. Trong quá trình nén, khí truyền ra môi trường xung quanh một nhiệt lượng 30 J. Độ biến thiên nội năng của khí là",
+       "lv": 1,
+       "o": [
+        "130 J.",
+        "70 J.",
+        "-70 J.",
+        "30 J."
+       ],
+       "a": 1,
+       "e": "Khí nhận công A = +100 J và truyền nhiệt Q = -30 J. Áp dụng định luật I: ΔU = A + Q = 100 - 30 = 70 J.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Cho 0,5 kg nước ở 20 °C. Cung cấp nhiệt lượng Q = 41 800 J cho nước. Biết nhiệt dung riêng của nước là c = 4180 J/(kg.K). Nhiệt độ sau cùng của nước là",
+       "lv": 1,
+       "o": [
+        "30 °C.",
+        "40 °C.",
+        "50 °C.",
+        "35 °C."
+       ],
+       "a": 1,
+       "e": "Độ tăng nhiệt độ ΔT = Q / (m.c) = 41800 / (0,5 * 4180) = 20 K (hoặc 20 °C). Nhiệt độ sau t2 = 20 + 20 = 40 °C.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Một khối chì khối lượng 2 kg đang ở nhiệt độ nóng chảy 327 °C. Biết nhiệt nóng chảy riêng của chì là λ = 25 kJ/kg. Nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn khối chì trên là",
+       "lv": 1,
+       "o": [
+        "12,5 kJ.",
+        "50 kJ.",
+        "500 J.",
+        "100 kJ."
+       ],
+       "a": 1,
+       "e": "Nhiệt lượng nóng chảy Q = λ.m = 25 * 2 = 50 kJ.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Ở áp suất tiêu chuẩn, một chất lỏng bắt đầu sôi ở 100 °C. Khi quy đổi sang thang nhiệt độ Kelvin, giá trị này tương ứng là",
+       "lv": 1,
+       "o": [
+        "100 K.",
+        "200 K.",
+        "373,15 K.",
+        "-173,15 K."
+       ],
+       "a": 2,
+       "e": "T = t + 273,15 = 100 + 273,15 = 373,15 K.",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Để làm nóng chảy hoàn toàn 1 kg băng ở 0 °C rồi nâng nhiệt độ của lượng nước tạo thành lên đến 50 °C, cần cung cấp tổng nhiệt lượng là bao nhiêu? Biết nhiệt nóng chảy riêng của băng là λ = 3,34.10<sup>5</sup> J/kg và nhiệt dung riêng của nước là c = 4180 J/(kg.K).",
+       "lv": 2,
+       "o": [
+        "334 kJ.",
+        "209 kJ.",
+        "543 kJ.",
+        "500 kJ."
+       ],
+       "a": 2,
+       "e": "Nhiệt lượng nóng chảy: Q1 = λ.m = 334 000 J. Nhiệt lượng tăng nhiệt độ: Q2 = m.c.ΔT = 1 * 4180 * 50 = 209 000 J. Tổng Q = Q1 + Q2 = 543 000 J = 543 kJ.",
+       "n": 12
+      },
+      {
+       "t": "tf",
+       "s": "Xét tính đúng/sai của các phát biểu sau về mô hình động học phân tử và cấu tạo chất:",
+       "lv": 1,
+       "st": [
+        [
+         "Các phân tử chất khí chuyển động hỗn độn không ngừng về mọi hướng.",
+         1,
+         "Đúng theo mô hình động học phân tử chất khí."
+        ],
+        [
+         "Trong chất rắn kết tinh, các phân tử dao động tự do không có vị trí cân bằng.",
+         0,
+         "Sai, chất rắn có các phân tử dao động quanh vị trí cân bằng cố định."
+        ],
+        [
+         "Nhiệt độ của vật càng cao thì tốc độ chuyển động nhiệt trung bình của các phân tử càng lớn.",
+         1,
+         "Đúng, nhiệt độ là thước đo động năng trung bình phân tử."
+        ],
+        [
+         "Giữa các phân tử chỉ tồn tại lực hút phân tử, không có lực đẩy.",
+         0,
+         "Sai, giữa các phân tử luôn tồn tại đồng thời cả lực hút và lực đẩy phân tử."
+        ]
+       ],
+       "n": 13
+      },
+      {
+       "t": "tf",
+       "s": "Cho một hệ gồm một lượng khí lý tưởng chứa trong xi lanh kín có pít-tông di chuyển được. Xét các trường hợp biến đổi trạng thái:",
+       "lv": 1,
+       "st": [
+        [
+         "Khi nén khí nhanh làm khí nóng lên, hệ nhận công và nội năng của khí tăng.",
+         1,
+         "Đúng, nhận công A &gt; 0 làm nhiệt độ T tăng nên ΔU &gt; 0."
+        ],
+        [
+         "Khi khí nở ra đẩy pít-tông di chuyển ra ngoài, khí thực hiện công nên A &lt; 0.",
+         1,
+         "Đúng, quy ước công do hệ thực hiện có dấu âm A &lt; 0."
+        ],
+        [
+         "Nếu hệ nhận nhiệt lượng Q &gt; 0 và không thực hiện công (A = 0) thì nội năng hệ giảm.",
+         0,
+         "Sai, ΔU = Q &gt; 0 nên nội năng tăng."
+        ],
+        [
+         "Trong quá trình truyền nhiệt, không có sự chuyển hóa năng lượng từ dạng này sang dạng khác mà chỉ có sự truyền động năng phân tử.",
+         1,
+         "Đúng, truyền nhiệt là truyền năng lượng không sinh công."
+        ]
+       ],
+       "n": 14
+      },
+      {
+       "t": "tf",
+       "s": "Thả một miếng đồng có khối lượng 500 g được nung nóng đến 100 °C vào một cốc chứa 400 g nước ở 20 °C. Bỏ qua sự thất thoát nhiệt ra môi trường. Biết nhiệt dung riêng của đồng là c1 = 380 J/(kg.K), của nước là c2 = 4180 J/(kg.K).",
+       "lv": 2,
+       "st": [
+        [
+         "Nhiệt lượng do miếng đồng tỏa ra bằng nhiệt lượng do nước thu vào.",
+         1,
+         "Đúng, theo định luật bảo toàn năng lượng trong trao đổi nhiệt kín."
+        ],
+        [
+         "Nhiệt độ cân bằng của hệ lớn hơn 50 °C.",
+         0,
+         "Sai, vì c2.m2 &gt;&gt; c1.m1 nên nhiệt độ cân bằng t ≈ 28,6 °C nhỏ hơn 50 °C."
+        ],
+        [
+         "Phương trình cân toàn nhiệt có dạng: m1.c1.(t1 - t) = m2.c2.(t - t2).",
+         1,
+         "Đúng, đây là phương trình cân bằng nhiệt."
+        ],
+        [
+         "Nhiệt độ khi xảy ra cân bằng nhiệt xấp xỉ 28,6 °C.",
+         1,
+         "Đúng, 0,5*380*(100-t) = 0,4*4180*(t-20) =&gt; t ≈ 28,6 °C."
+        ]
+       ],
+       "n": 15
+      },
+      {
+       "t": "sa",
+       "s": "Nhiệt độ của một phòng học là 27 °C. Giá trị nhiệt độ này tính theo thang Kelvin là bao nhiêu K? (Chỉ điền kết quả số nguyên 4 ký tự)",
+       "lv": 1,
+       "a": "0300",
+       "e": "Chuyển đổi: T = 27 + 273,15 = 300,15 K. Làm tròn số nguyên là 300 K. Chuẩn hóa 4 ký tự: 0300.",
+       "n": 16
+      },
+      {
+       "t": "sa",
+       "s": "Một xi lanh chứa khí nhận nhiệt lượng 250 J từ nguồn nhiệt, đồng thời khí giãn nở thực hiện công 100 J lên pít-tông. Độ biến thiên nội năng của khối khí bằng bao nhiêu Jun?",
+       "lv": 1,
+       "a": "0150",
+       "e": "Q = +250 J, A = -100 J. Ta có ΔU = A + Q = 250 - 100 = 150 J. Chuẩn hóa 4 ký tự: 0150.",
+       "n": 17
+      },
+      {
+       "t": "sa",
+       "s": "Tính nhiệt lượng (theo đơn vị kJ) cần cung cấp để đun sôi 2 kg nước từ nhiệt độ ban đầu 20 °C. Biết nhiệt dung riêng của nước là c = 4200 J/(kg.K). (Điền đáp án số nguyên 4 ký tự)",
+       "lv": 2,
+       "a": "0672",
+       "e": "Độ tăng nhiệt độ ΔT = 100 - 20 = 80 K. Nhiệt lượng Q = m.c.ΔT = 2 * 4200 * 80 = 672 000 J = 672 kJ. Chuẩn hóa 4 ký tự: 0672.",
+       "n": 18
+      },
+      {
+       "t": "sa",
+       "s": "Cần cung cấp nhiệt lượng 668 kJ để làm nóng chảy hoàn toàn 2 kg băng ở 0 °C. Tính nhiệt nóng chảy riêng của băng theo đơn vị kJ/kg. (Điền đáp án số nguyên 4 ký tự)",
+       "lv": 2,
+       "a": "0334",
+       "e": "Công thức Q = λ.m =&gt; λ = Q / m = 668 / 2 = 334 kJ/kg. Chuẩn hóa 4 ký tự: 0334.",
+       "n": 19
+      },
+      {
+       "t": "sa",
+       "s": "Một ấm đun nước điện có công suất P = 1000 W được dùng để đun 1 kg nước ở 20 °C. Bỏ qua mọi thất thoát nhiệt. Hỏi sau thời gian bao nhiêu giây thì nước bắt đầu sôi (100 °C)? Biết c = 4200 J/(kg.K). (Điền đáp án số nguyên 4 ký tự)",
+       "lv": 2,
+       "a": "0336",
+       "e": "Nhiệt lượng đun nước: Q = m.c.ΔT = 1 * 4200 * (100 - 20) = 336 000 J. Thời gian t = Q / P = 336 000 / 1000 = 336 s. Chuẩn hóa 4 ký tự: 0336.",
+       "n": 20
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "version":  "20261028-1937",
+    "version":  "20261029-1246",
     "collections":  [
                         {
                             "path":  "data/sinh12-tkn-2627.json",
@@ -69,6 +69,10 @@
                         {
                             "path":  "data/anh-unit-3-green-living.json",
                             "v":  "20261028-1937"
+                        },
+                        {
+                            "path":  "data/ly-on-giua-ki-lan-1.json",
+                            "v":  "20261029-1246"
                         }
                     ],
     "figures":  {
