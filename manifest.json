@@ -1,240 +1,244 @@
-﻿{
-    "schema":  1,
-    "version":  "20261029-1246",
-    "collections":  [
-                        {
-                            "path":  "data/sinh12-tkn-2627.json",
-                            "v":  "6f3a9b6586"
-                        },
-                        {
-                            "path":  "data/hoa12-tamnguyen.json",
-                            "v":  "c253d588d6"
-                        },
-                        {
-                            "path":  "data/ly12-bai4.json",
-                            "v":  "5c06a117dc"
-                        },
-                        {
-                            "path":  "data/ly12-kiemtra.json",
-                            "v":  "f238badca0"
-                        },
-                        {
-                            "path":  "data/anh12-tkn-2627.json",
-                            "v":  "ac4a9cd26a"
-                        },
-                        {
-                            "path":  "data/su12-azota-ovua8u.json",
-                            "v":  "f8a46ff308"
-                        },
-                        {
-                            "path":  "data/toan12-hieuhoc.json",
-                            "v":  "0e3b596882"
-                        },
-                        {
-                            "path":  "data/toan-bai-1.json",
-                            "v":  "20261027-1846"
-                        },
-                        {
-                            "path":  "data/toan-baffsaf.json",
-                            "v":  "20261027-1848"
-                        },
-                        {
-                            "path":  "data/tin-on-thi-giua-ki-1.json",
-                            "v":  "20261028-1731"
-                        },
-                        {
-                            "path":  "data/sinh-bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa.json",
-                            "v":  "20261027-2003"
-                        },
-                        {
-                            "path":  "data/sinh-bai-5-cong-nghe-gene.json",
-                            "v":  "20261027-2003"
-                        },
-                        {
-                            "path":  "data/sinh-bai-4-dot-bien-gene.json",
-                            "v":  "20261027-2013"
-                        },
-                        {
-                            "path":  "data/anh-unit-1-life-stories-we-admire.json",
-                            "v":  "20261028-1913"
-                        },
-                        {
-                            "path":  "data/tin-on-ktra-tx2.json",
-                            "v":  "20261028-1848"
-                        },
-                        {
-                            "path":  "data/anh-unit-2-a-multicutural-world.json",
-                            "v":  "20261028-1935"
-                        },
-                        {
-                            "path":  "data/anh-unit-3-green-living.json",
-                            "v":  "20261028-1937"
-                        },
-                        {
-                            "path":  "data/ly-on-giua-ki-lan-1.json",
-                            "v":  "20261029-1246"
-                        }
-                    ],
-    "figures":  {
-                    "b1c12":  {
-                                  "path":  "assets/figures/b1c12.jpg",
-                                  "v":  "1fe37ee3d4"
-                              },
-                    "b1c13":  {
-                                  "path":  "assets/figures/b1c13.jpg",
-                                  "v":  "22dfe48271"
-                              },
-                    "b1c18":  {
-                                  "path":  "assets/figures/b1c18.jpg",
-                                  "v":  "86c0f790eb"
-                              },
-                    "b1c3":  {
-                                 "path":  "assets/figures/b1c3.jpg",
-                                 "v":  "e2178dd464"
-                             },
-                    "b2sa6":  {
-                                  "path":  "assets/figures/b2sa6.jpg",
-                                  "v":  "52797fa7e7"
-                              },
-                    "b2tf3":  {
-                                  "path":  "assets/figures/b2tf3.jpg",
-                                  "v":  "9ae033f7a2"
-                              },
-                    "b2tf5":  {
-                                  "path":  "assets/figures/b2tf5.jpg",
-                                  "v":  "7c10567327"
-                              },
-                    "hoa_ester_mc16":  {
-                                           "path":  "assets/figures/hoa_ester_mc16.jpg",
-                                           "v":  "f1f60e0535"
-                                       },
-                    "hoa_ester_mc70":  {
-                                           "path":  "assets/figures/hoa_ester_mc70.jpg",
-                                           "v":  "81db9da76f"
-                                       },
-                    "hoa_ester_sa14":  {
-                                           "path":  "assets/figures/hoa_ester_sa14.jpg",
-                                           "v":  "2928cee26d"
-                                       },
-                    "hoa_ester_tf10":  {
-                                           "path":  "assets/figures/hoa_ester_tf10.jpg",
-                                           "v":  "044d3285bb"
-                                       },
-                    "hoa_ester_tf4":  {
-                                          "path":  "assets/figures/hoa_ester_tf4.jpg",
-                                          "v":  "de4a64bedc"
-                                      },
-                    "hoa_lipid_sa3":  {
-                                          "path":  "assets/figures/hoa_lipid_sa3.jpg",
-                                          "v":  "d5f3c4508b"
-                                      },
-                    "hoa_lipid_tf2":  {
-                                          "path":  "assets/figures/hoa_lipid_tf2.jpg",
-                                          "v":  "b8e5e42517"
-                                      },
-                    "hoa_xaphong_mc11":  {
-                                             "path":  "assets/figures/hoa_xaphong_mc11.jpg",
-                                             "v":  "7d05fcf199"
-                                         },
-                    "hoa_xaphong_sa3":  {
-                                            "path":  "assets/figures/hoa_xaphong_sa3.jpg",
-                                            "v":  "3d4aee84e1"
-                                        },
-                    "hoa_xaphong_tf8":  {
-                                            "path":  "assets/figures/hoa_xaphong_tf8.jpg",
-                                            "v":  "3601c707f9"
-                                        },
-                    "ly5_d1c27":  {
-                                      "path":  "assets/figures/ly5_d1c27.jpg",
-                                      "v":  "3a35bcfb03"
-                                  },
-                    "ly5_d1c31":  {
-                                      "path":  "assets/figures/ly5_d1c31.jpg",
-                                      "v":  "1cca84581e"
-                                  },
-                    "ly5_d1c33":  {
-                                      "path":  "assets/figures/ly5_d1c33.jpg",
-                                      "v":  "bafde4b888"
-                                  },
-                    "ly5_d2c14":  {
-                                      "path":  "assets/figures/ly5_d2c14.jpg",
-                                      "v":  "ccb665391d"
-                                  },
-                    "ly5_d2sa1":  {
-                                      "path":  "assets/figures/ly5_d2sa1.jpg",
-                                      "v":  "f258361618"
-                                  },
-                    "ly_c104":  {
-                                    "path":  "assets/figures/ly_c104.jpg",
-                                    "v":  "d063dfda09"
-                                },
-                    "ly_c109":  {
-                                    "path":  "assets/figures/ly_c109.jpg",
-                                    "v":  "bf5fbc6643"
-                                },
-                    "ly_c67":  {
-                                   "path":  "assets/figures/ly_c67.jpg",
-                                   "v":  "29d9e59e1d"
-                               },
-                    "ly_c71":  {
-                                   "path":  "assets/figures/ly_c71.jpg",
-                                   "v":  "849ec10a66"
-                               },
-                    "ly_c72":  {
-                                   "path":  "assets/figures/ly_c72.jpg",
-                                   "v":  "c28eac9845"
-                               },
-                    "ly_c95":  {
-                                   "path":  "assets/figures/ly_c95.jpg",
-                                   "v":  "9602a14845"
-                               },
-                    "ly_sa11":  {
-                                    "path":  "assets/figures/ly_sa11.jpg",
-                                    "v":  "07d1dfc12d"
-                                },
-                    "ly_sa12":  {
-                                    "path":  "assets/figures/ly_sa12.jpg",
-                                    "v":  "530cd6ea18"
-                                },
-                    "ly_sa56":  {
-                                    "path":  "assets/figures/ly_sa56.jpg",
-                                    "v":  "ef31ee6cb3"
-                                },
-                    "ly_tf10":  {
-                                    "path":  "assets/figures/ly_tf10.jpg",
-                                    "v":  "3a9281fc0e"
-                                },
-                    "ly_tf11":  {
-                                    "path":  "assets/figures/ly_tf11.jpg",
-                                    "v":  "edd070fe77"
-                                },
-                    "ly_tf5":  {
-                                   "path":  "assets/figures/ly_tf5.jpg",
-                                   "v":  "e281601e04"
-                               },
-                    "toan_d15_c10":  {
-                                         "path":  "assets/figures/toan_d15_c10.jpg",
-                                         "v":  "a33055876b"
-                                     },
-                    "toan_d15_c13":  {
-                                         "path":  "assets/figures/toan_d15_c13.jpg",
-                                         "v":  "b3893ce89f"
-                                     },
-                    "toan_d15_c3":  {
-                                        "path":  "assets/figures/toan_d15_c3.jpg",
-                                        "v":  "e26e87bc3f"
-                                    },
-                    "toan_d15_c4":  {
-                                        "path":  "assets/figures/toan_d15_c4.jpg",
-                                        "v":  "2068de460d"
-                                    },
-                    "toan_d15_sa2":  {
-                                         "path":  "assets/figures/toan_d15_sa2.jpg",
-                                         "v":  "b45de2d037"
-                                     },
-                    "toan_d15_tf5":  {
-                                         "path":  "assets/figures/toan_d15_tf5.jpg",
-                                         "v":  "9110a1b64d"
-                                     }
-                }
+{
+ "schema": 1,
+ "version": "20261029114643913",
+ "collections": [
+  {
+   "path": "data/sinh12-tkn-2627.json",
+   "v": "6f3a9b6586"
+  },
+  {
+   "path": "data/hoa12-tamnguyen.json",
+   "v": "c253d588d6"
+  },
+  {
+   "path": "data/ly12-bai4.json",
+   "v": "5c06a117dc"
+  },
+  {
+   "path": "data/ly12-kiemtra.json",
+   "v": "f238badca0"
+  },
+  {
+   "path": "data/anh12-tkn-2627.json",
+   "v": "ac4a9cd26a"
+  },
+  {
+   "path": "data/su12-azota-ovua8u.json",
+   "v": "f8a46ff308"
+  },
+  {
+   "path": "data/toan12-hieuhoc.json",
+   "v": "0e3b596882"
+  },
+  {
+   "path": "data/toan-bai-1.json",
+   "v": "20261027-1846"
+  },
+  {
+   "path": "data/toan-baffsaf.json",
+   "v": "20261027-1848"
+  },
+  {
+   "path": "data/tin-on-thi-giua-ki-1.json",
+   "v": "20261028-1731"
+  },
+  {
+   "path": "data/sinh-bai-7-cau-truc-va-chuc-nang-cua-nhiem-sa.json",
+   "v": "20261027-2003"
+  },
+  {
+   "path": "data/sinh-bai-5-cong-nghe-gene.json",
+   "v": "20261027-2003"
+  },
+  {
+   "path": "data/sinh-bai-4-dot-bien-gene.json",
+   "v": "20261027-2013"
+  },
+  {
+   "path": "data/anh-unit-1-life-stories-we-admire.json",
+   "v": "20261028-1913"
+  },
+  {
+   "path": "data/tin-on-ktra-tx2.json",
+   "v": "20261028-1848"
+  },
+  {
+   "path": "data/anh-unit-2-a-multicutural-world.json",
+   "v": "20261028-1935"
+  },
+  {
+   "path": "data/anh-unit-3-green-living.json",
+   "v": "20261028-1937"
+  },
+  {
+   "path": "data/ly-on-giua-ki-lan-1.json",
+   "v": "20261029-1246"
+  },
+  {
+   "path": "data/ly-on-giua-ki-1-lan-2.json",
+   "v": "20261029114643913"
+  }
+ ],
+ "figures": {
+  "b1c12": {
+   "path": "assets/figures/b1c12.jpg",
+   "v": "1fe37ee3d4"
+  },
+  "b1c13": {
+   "path": "assets/figures/b1c13.jpg",
+   "v": "22dfe48271"
+  },
+  "b1c18": {
+   "path": "assets/figures/b1c18.jpg",
+   "v": "86c0f790eb"
+  },
+  "b1c3": {
+   "path": "assets/figures/b1c3.jpg",
+   "v": "e2178dd464"
+  },
+  "b2sa6": {
+   "path": "assets/figures/b2sa6.jpg",
+   "v": "52797fa7e7"
+  },
+  "b2tf3": {
+   "path": "assets/figures/b2tf3.jpg",
+   "v": "9ae033f7a2"
+  },
+  "b2tf5": {
+   "path": "assets/figures/b2tf5.jpg",
+   "v": "7c10567327"
+  },
+  "hoa_ester_mc16": {
+   "path": "assets/figures/hoa_ester_mc16.jpg",
+   "v": "f1f60e0535"
+  },
+  "hoa_ester_mc70": {
+   "path": "assets/figures/hoa_ester_mc70.jpg",
+   "v": "81db9da76f"
+  },
+  "hoa_ester_sa14": {
+   "path": "assets/figures/hoa_ester_sa14.jpg",
+   "v": "2928cee26d"
+  },
+  "hoa_ester_tf10": {
+   "path": "assets/figures/hoa_ester_tf10.jpg",
+   "v": "044d3285bb"
+  },
+  "hoa_ester_tf4": {
+   "path": "assets/figures/hoa_ester_tf4.jpg",
+   "v": "de4a64bedc"
+  },
+  "hoa_lipid_sa3": {
+   "path": "assets/figures/hoa_lipid_sa3.jpg",
+   "v": "d5f3c4508b"
+  },
+  "hoa_lipid_tf2": {
+   "path": "assets/figures/hoa_lipid_tf2.jpg",
+   "v": "b8e5e42517"
+  },
+  "hoa_xaphong_mc11": {
+   "path": "assets/figures/hoa_xaphong_mc11.jpg",
+   "v": "7d05fcf199"
+  },
+  "hoa_xaphong_sa3": {
+   "path": "assets/figures/hoa_xaphong_sa3.jpg",
+   "v": "3d4aee84e1"
+  },
+  "hoa_xaphong_tf8": {
+   "path": "assets/figures/hoa_xaphong_tf8.jpg",
+   "v": "3601c707f9"
+  },
+  "ly5_d1c27": {
+   "path": "assets/figures/ly5_d1c27.jpg",
+   "v": "3a35bcfb03"
+  },
+  "ly5_d1c31": {
+   "path": "assets/figures/ly5_d1c31.jpg",
+   "v": "1cca84581e"
+  },
+  "ly5_d1c33": {
+   "path": "assets/figures/ly5_d1c33.jpg",
+   "v": "bafde4b888"
+  },
+  "ly5_d2c14": {
+   "path": "assets/figures/ly5_d2c14.jpg",
+   "v": "ccb665391d"
+  },
+  "ly5_d2sa1": {
+   "path": "assets/figures/ly5_d2sa1.jpg",
+   "v": "f258361618"
+  },
+  "ly_c104": {
+   "path": "assets/figures/ly_c104.jpg",
+   "v": "d063dfda09"
+  },
+  "ly_c109": {
+   "path": "assets/figures/ly_c109.jpg",
+   "v": "bf5fbc6643"
+  },
+  "ly_c67": {
+   "path": "assets/figures/ly_c67.jpg",
+   "v": "29d9e59e1d"
+  },
+  "ly_c71": {
+   "path": "assets/figures/ly_c71.jpg",
+   "v": "849ec10a66"
+  },
+  "ly_c72": {
+   "path": "assets/figures/ly_c72.jpg",
+   "v": "c28eac9845"
+  },
+  "ly_c95": {
+   "path": "assets/figures/ly_c95.jpg",
+   "v": "9602a14845"
+  },
+  "ly_sa11": {
+   "path": "assets/figures/ly_sa11.jpg",
+   "v": "07d1dfc12d"
+  },
+  "ly_sa12": {
+   "path": "assets/figures/ly_sa12.jpg",
+   "v": "530cd6ea18"
+  },
+  "ly_sa56": {
+   "path": "assets/figures/ly_sa56.jpg",
+   "v": "ef31ee6cb3"
+  },
+  "ly_tf10": {
+   "path": "assets/figures/ly_tf10.jpg",
+   "v": "3a9281fc0e"
+  },
+  "ly_tf11": {
+   "path": "assets/figures/ly_tf11.jpg",
+   "v": "edd070fe77"
+  },
+  "ly_tf5": {
+   "path": "assets/figures/ly_tf5.jpg",
+   "v": "e281601e04"
+  },
+  "toan_d15_c10": {
+   "path": "assets/figures/toan_d15_c10.jpg",
+   "v": "a33055876b"
+  },
+  "toan_d15_c13": {
+   "path": "assets/figures/toan_d15_c13.jpg",
+   "v": "b3893ce89f"
+  },
+  "toan_d15_c3": {
+   "path": "assets/figures/toan_d15_c3.jpg",
+   "v": "e26e87bc3f"
+  },
+  "toan_d15_c4": {
+   "path": "assets/figures/toan_d15_c4.jpg",
+   "v": "2068de460d"
+  },
+  "toan_d15_sa2": {
+   "path": "assets/figures/toan_d15_sa2.jpg",
+   "v": "b45de2d037"
+  },
+  "toan_d15_tf5": {
+   "path": "assets/figures/toan_d15_tf5.jpg",
+   "v": "9110a1b64d"
+  }
+ }
 }
