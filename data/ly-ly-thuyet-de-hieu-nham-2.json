@@ -1,0 +1,128 @@
+{
+ "id": "ly-ly-thuyet-de-hieu-nham-2",
+ "subject": "Vật lý",
+ "name": "Lý thuyết dễ hiểu nhầm 2",
+ "chapters": [
+  {
+   "name": "ÔN GIỮA KÌ 1",
+   "lessons": [
+    {
+     "id": "ly-thuyet-de-hieu-nham-2",
+     "name": "Lý thuyết dễ hiểu nhầm 2",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Một lượng khí lí tưởng đơn nguyên tử thực hiện quá trình giãn nở đoạn nhiệt thuận nghịch. Phát biểu nào sau đây là chính xác nhất về trạng thái của khí?",
+       "lv": 2,
+       "o": [
+        "Nhiệt độ của khí tăng lên vì khí sinh công đẩy piston ra ngoài.",
+        "Khí thực hiện công làm nội năng giảm, dẫn đến nhiệt độ của khí giảm xuống rõ rệt.",
+        "Do quá trình đoạn nhiệt nên nhiệt lượng hệ nhận vào bằng không và nội năng không thay đổi.",
+        "Áp suất của khí giảm chậm hơn so với quá trình đẳng nhiệt ở cùng mức độ thay đổi thể tích."
+       ],
+       "a": 1,
+       "e": "Quá trình giãn nở đoạn nhiệt không có trao đổi nhiệt (Q = 0), khí sinh công (A &lt; 0) nên nội năng giảm (ΔU = A &lt; 0), làm nhiệt độ khí giảm; áp suất giảm nhanh hơn đẳng nhiệt do thể tích tăng làm nhiệt độ giảm.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Xét nội năng của một mol khí thực so với khí lí tưởng ở cùng một nhiệt độ và thể tích. Nhận định nào sau đây dễ gây hiểu nhầm nhưng đúng?",
+       "lv": 2,
+       "o": [
+        "Nội năng của khí thực phụ thuộc cả vào thể tích (khoảng cách liên phân tử) do lực tương tác phân tử đáng kể, khác với khí lí tưởng chỉ phụ thuộc nhiệt độ.",
+        "Nội năng của khí thực chỉ phụ thuộc vào nhiệt độ tuyệt đối giống hệt khí lí tưởng vì động năng phân tử là như nhau.",
+        "Ở áp suất rất thấp, nội năng của khí thực hoàn toàn không phụ thuộc vào lực tương tác giữa các phân tử.",
+        "Thế năng tương tác phân tử của khí thực luôn có giá trị dương ở mọi khoảng cách giữa các phân tử."
+       ],
+       "a": 0,
+       "e": "Khí thực có lực tương tác phân tử đáng kể nên thế năng phụ thuộc vào khoảng cách (thể tích), trong khi khí lí tưởng bỏ qua lực tương tác nên nội năng chỉ là hàm của nhiệt độ.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Một bình kín chứa nước và hơi nước đang ở trạng thái cân bằng động ở 100 °C. Nếu dùng bơm hút bớt một phần hơi nước ra khỏi bình mà giữ nguyên nhiệt độ của hệ không đổi, hiện tượng gì sẽ xảy ra tiếp theo?",
+       "lv": 2,
+       "o": [
+        "Nước trong bình sẽ ngừng bay hơi hoàn toàn do áp suất hơi giảm đột ngột.",
+        "Nước trong bình sẽ tiếp tục bay hơi mạnh hơn để lập lại trạng thái cân bằng hơi bão hòa ứng với nhiệt độ đó.",
+        "Toàn bộ lượng nước còn lại trong bình sẽ sôi bùng lên do áp suất giảm xuống dưới áp suất khí quyển chuẩn.",
+        "Nhiệt độ của nước trong bình sẽ tự động giảm xuống dưới 100 °C do mất năng lượng bay hơi."
+       ],
+       "a": 1,
+       "e": "Khi hút bớt hơi, áp suất hơi nhỏ hơn áp suất hơi bão hòa, nước tiếp tục bay hơi để bù đắp cho đến khi đạt áp suất bão hòa mới ở cùng nhiệt độ.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về quá trình truyền nhiệt bằng bức xạ là chính xác và dễ bị nhầm lẫn nhất?",
+       "lv": 2,
+       "o": [
+        "Bức xạ nhiệt chỉ xảy ra ở các chất khí và chất lỏng, không thể xảy ra trong chân không.",
+        "Năng lượng bức xạ phát ra từ một vật hoàn toàn đen tỉ lệ thuận với nhiệt độ tuyệt đối T của vật đó.",
+        "Mọi vật có nhiệt độ trên không tuyệt đối đều phát ra sóng điện từ bức xạ nhiệt ra môi trường xung quanh.",
+        "Quá trình bức xạ nhiệt đòi hỏi phải có sự tiếp xúc trực tiếp giữa vật truyền nhiệt và vật nhận nhiệt."
+       ],
+       "a": 2,
+       "e": "Bức xạ nhiệt là sự truyền năng lượng bằng sóng điện từ, không cần môi trường trung gian và mọi vật có T &gt; 0 K đều phát bức xạ.",
+       "n": 4
+      },
+      {
+       "t": "tf",
+       "s": "[tf] Xét các phát biểu chuyên sâu về nguyên lý I và nguyên lý II nhiệt động lực học:",
+       "st": [
+        [
+         "Động cơ nhiệt không thể chuyển hóa toàn bộ nhiệt lượng nhận được từ nguồn nóng thành công cơ học mà phải thải một phần ra nguồn lạnh.",
+         1,
+         "Hệ quả của nguyên lý II nhiệt động lực học (phát biểu Kelvin-Planck)."
+        ],
+        [
+         "Hiệu suất của một động cơ nhiệt lý tưởng hoạt động giữa hai nguồn nhiệt có thể đạt 100% nếu ma sát được khử hoàn toàn.",
+         0,
+         "Hiệu suất Carnot luôn nhỏ hơn 1 vì phụ thuộc vào nhiệt độ hai nguồn (η = 1 - T2/T1 &lt; 1)."
+        ],
+        [
+         "Quá trình truyền nhiệt tự phát từ vật lạnh sang vật nóng là hoàn toàn không thể xảy ra nếu không tiêu tốn công từ bên ngoài.",
+         1,
+         "Hệ quả của định luật Clausius về chiều truyền nhiệt tự phát."
+        ],
+        [
+         "Trong mọi quá trình nhiệt động lực học tự nhiên, tổng độ biến thiên entropy của hệ và môi trường luôn giảm dần theo thời gian.",
+         0,
+         "Theo định luật II, entropy của vũ trụ (hệ + môi trường) luôn tăng hoặc không đổi trong quá trình thuận nghịch."
+        ]
+       ],
+       "n": 5
+      },
+      {
+       "t": "tf",
+       "s": "[tf] Xét tính chất nhiệt học của các chất ở điều kiện đặc biệt:",
+       "st": [
+        [
+         "Khi nung nóng một thanh kim loại có khoét một lỗ hổng ở giữa, đường kính lỗ hổng sẽ nở ra cùng tỉ lệ với sự nở dài của thanh kim loại.",
+         1,
+         "Hiện tượng nở vì nhiệt của lỗ hổng tuân theo quy luật tỉ lệ hình học giống như phần vật liệu đặc."
+        ],
+        [
+         "Nước ở 4 °C có thể tích lớn nhất và khối lượng riêng nhỏ nhất trong dải nhiệt độ gần 0 °C đến 4 °C.",
+         0,
+         "Nước có hiện tượng nở bất thường: ở 4 °C nước có khối lượng riêng lớn nhất và thể tích nhỏ nhất."
+        ],
+        [
+         "Hệ số nở khối của chất khí ở áp suất không đổi lớn hơn rất nhiều so với hệ số nở dài của chất rắn.",
+         1,
+         "Các phân tử khí chuyển động tự do và cách xa nhau nên độ nở vì nhiệt lớn hơn rất nhiều so với chất rắn kết tinh."
+        ],
+        [
+         "Khi một khối khí lí tưởng dãn đẳng nhiệt, số lần va chạm của các phân tử khí lên 1 đơn vị diện tích thành bình trong 1 đơn vị thời gian tăng lên.",
+         0,
+         "Thể tích tăng, mật độ phân tử giảm và vận tốc trung bình không đổi nên số lần va chạm giảm xuống."
+        ]
+       ],
+       "n": 6
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
