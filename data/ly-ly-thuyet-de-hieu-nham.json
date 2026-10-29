@@ -1,0 +1,446 @@
+{
+ "id": "ly-ly-thuyet-de-hieu-nham",
+ "subject": "Vật lý",
+ "name": "Lý thuyết dễ hiểu nhầm",
+ "chapters": [
+  {
+   "name": "ÔN GIỮA KÌ 1",
+   "lessons": [
+    {
+     "id": "ly-thuyet-de-hieu-nham",
+     "name": "Lý thuyết dễ hiểu nhầm",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Nhiệt độ của một vật tăng thêm 10 °C. Trong thang Kelvin, nhiệt độ của vật đó tăng thêm",
+       "o": [
+        "283 K",
+        "10 K",
+        "283,15 K",
+        "263,15 K"
+       ],
+       "a": 1,
+       "e": "Một độ chia Kelvin bằng một độ chia Celsius nên độ chênh nhiệt độ ΔT = Δt = 10 K; chỉ khi đổi nhiệt độ (không phải độ chênh) mới cộng 273,15.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Trong hệ SI, đơn vị của nhiệt độ là",
+       "o": [
+        "độ Celsius (°C)",
+        "độ Fahrenheit (°F)",
+        "kelvin (K)",
+        "jun (J)"
+       ],
+       "a": 2,
+       "e": "Celsius là thang dùng trong đời sống hằng ngày, còn đơn vị nhiệt độ trong hệ SI là kelvin.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Ở nhiệt độ không tuyệt đối (0 K), nội năng của vật",
+       "lv": 1,
+       "o": [
+        "đạt giá trị nhỏ nhất, vì động năng chuyển động nhiệt bằng 0 còn thế năng tương tác ở mức tối thiểu",
+        "bằng 0, vì các phân tử đã mất hết năng lượng",
+        "bằng 0, vì thế năng tương tác giữa các phân tử bằng 0",
+        "đạt giá trị lớn nhất, vì các phân tử đứng sát nhau nhất"
+       ],
+       "a": 0,
+       "e": "Ở 0 K động năng nhiệt bằng 0 và thế năng tối thiểu nên nội năng nhỏ nhất; hiểu là \"hết năng lượng\" là cách hiểu không chính xác.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Điểm ba của nước (nước đá, nước lỏng và hơi nước cùng tồn tại cân bằng) là 273,16 K. Trong thang Celsius, giá trị này tương ứng với",
+       "lv": 1,
+       "o": [
+        "0 °C",
+        "0,16 °C",
+        "273,16 °C",
+        "0,01 °C"
+       ],
+       "a": 3,
+       "e": "t = T - 273,15 = 273,16 - 273,15 = 0,01 °C; 0 °C là nhiệt độ nước đá đang tan ở áp suất chuẩn, không phải điểm ba.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Nhiệt nóng chảy riêng của đồng khoảng 2,1×10<sup>5</sup> J/kg. Con số này cho biết",
+       "o": [
+        "cần cung cấp khoảng 2,1×10<sup>5</sup> J để 1 kg đồng ở nhiệt độ nóng chảy chuyển hoàn toàn sang thể lỏng",
+        "cần cung cấp khoảng 2,1×10<sup>5</sup> J để 1 kg đồng nóng thêm 1 K",
+        "đồng nóng chảy ở nhiệt độ khoảng 2,1×10<sup>5</sup> °C",
+        "cần cung cấp khoảng 2,1×10<sup>5</sup> J để nung 1 kg đồng từ 0 °C tới nhiệt độ nóng chảy"
+       ],
+       "a": 0,
+       "e": "λ là nhiệt lượng làm 1 kg chất đổi thể từ rắn sang lỏng ở nhiệt độ nóng chảy (Q = λm); không phải nhiệt độ nóng chảy và không gồm phần nung nóng.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về nhiệt lượng là đúng?",
+       "lv": 1,
+       "o": [
+        "Vật có nhiệt độ càng cao thì chứa càng nhiều nhiệt lượng",
+        "Nhiệt lượng là độ biến thiên nội năng của vật trong quá trình truyền nhiệt",
+        "Nhiệt lượng chính là nội năng của vật",
+        "Nhiệt lượng là đại lượng đặc trưng cho mức độ nóng, lạnh của vật"
+       ],
+       "a": 1,
+       "e": "Nhiệt lượng chỉ có khi có quá trình truyền nhiệt, đơn vị jun; mức nóng lạnh do nhiệt độ đặc trưng, còn nội năng là tổng động năng và thế năng phân tử.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Nước đá đang tan ở 0 °C (áp suất chuẩn) liên tục nhận nhiệt. Nhiệt lượng này chủ yếu dùng để",
+       "lv": 1,
+       "o": [
+        "tăng nhiệt độ của khối nước đá",
+        "tăng động năng trung bình của các phân tử",
+        "tăng thế năng tương tác giữa các phân tử (phá vỡ cấu trúc tinh thể)",
+        "biến thành cơ năng của khối nước đá"
+       ],
+       "a": 2,
+       "e": "Nhiệt độ không đổi nên động năng trung bình của phân tử không đổi; nhiệt nhận vào làm tăng thế năng nên nội năng vẫn tăng.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây là chất rắn vô định hình?",
+       "o": [
+        "Muối ăn",
+        "Kim cương",
+        "Nước đá",
+        "Thủy tinh"
+       ],
+       "a": 3,
+       "e": "Muối ăn, kim cương và nước đá có cấu trúc tinh thể; thủy tinh mềm dần khi nung nóng và không có nhiệt độ nóng chảy xác định.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Khí trong xilanh sinh công 50 J lên bên ngoài và đồng thời nhận nhiệt lượng 80 J. Theo ΔU = A + Q (A &gt; 0 khi hệ nhận công, Q &gt; 0 khi hệ nhận nhiệt), độ biến thiên nội năng của khí là",
+       "lv": 1,
+       "o": [
+        "+130 J",
+        "+30 J",
+        "-30 J",
+        "-130 J"
+       ],
+       "a": 1,
+       "e": "Khí sinh công nên A = -50 J, nhận nhiệt nên Q = +80 J; ΔU = -50 + 80 = +30 J.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Một thanh sắt nhỏ ở 80 °C tiếp xúc với một chậu nước rất lớn ở 30 °C (không trao đổi nhiệt với bên ngoài). Năng lượng nhiệt sẽ truyền",
+       "lv": 1,
+       "o": [
+        "từ thanh sắt sang nước, vì thanh sắt có nhiệt độ cao hơn",
+        "từ nước sang thanh sắt, vì nước có nội năng lớn hơn",
+        "từ nước sang thanh sắt, vì nước có khối lượng và nhiệt dung riêng lớn hơn",
+        "không truyền, vì hai vật có khối lượng khác nhau"
+       ],
+       "a": 0,
+       "e": "Chiều truyền nhiệt do chênh lệch nhiệt độ quyết định (từ nóng sang lạnh), không phụ thuộc nội năng hay khối lượng của vật.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Nước đang sôi trong ấm hở ở áp suất khí quyển chuẩn. Vặn lửa to hơn thì nhiệt độ của nước",
+       "lv": 1,
+       "o": [
+        "tăng lên trên 100 °C vì nhận nhiều nhiệt hơn",
+        "vẫn là 100 °C, chỉ có nước hóa hơi nhanh hơn",
+        "giảm xuống dưới 100 °C vì hóa hơi mạnh hơn",
+        "tăng dần cho tới khi nước cạn hết"
+       ],
+       "a": 1,
+       "e": "Ở áp suất không đổi, nhiệt độ sôi không đổi; nhiệt cung cấp thêm chỉ dùng để hóa hơi (Q = Lm).",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Trong thang Fahrenheit, nước đá đang tan là 32 °F và nước đang sôi là 212 °F (áp suất chuẩn). Nhận xét nào sau đây đúng?",
+       "lv": 1,
+       "o": [
+        "1 °F lớn hơn 1 °C, vì số đo 212 lớn hơn 100",
+        "1 °F nhỏ hơn 1 °C, vì khoảng từ nước đá tan đến nước sôi được chia thành 180 phần thay vì 100 phần",
+        "1 °F bằng 1 °C, vì cùng một khoảng nhiệt độ",
+        "Fahrenheit là thang nhiệt độ được dùng trong hệ SI"
+       ],
+       "a": 1,
+       "e": "Cùng khoảng nhiệt độ được chia 180 phần (Fahrenheit) so với 100 phần (Celsius) nên 1 °F = 5/9 °C.",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "So sánh nội năng của 1 kg nước đá ở 0 °C với 1 kg nước lỏng ở 0 °C (áp suất chuẩn).",
+       "lv": 1,
+       "o": [
+        "Hai khối có nội năng bằng nhau vì cùng nhiệt độ và cùng khối lượng",
+        "Nước đá có nội năng lớn hơn vì liên kết giữa các phân tử chặt hơn",
+        "Nước lỏng có nội năng lớn hơn, vì để tan hết khối đá phải nhận thêm nhiệt lượng λm làm tăng thế năng phân tử",
+        "Không thể so sánh vì hai khối ở khác thể"
+       ],
+       "a": 2,
+       "e": "Nội năng không chỉ phụ thuộc nhiệt độ; khi chuyển thể, nhiệt nhận vào làm tăng thế năng tương tác nên nước lỏng ở 0 °C có nội năng lớn hơn.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Theo mô hình động học phân tử, chất lỏng có thể tích xác định nhưng không có hình dạng riêng vì",
+       "o": [
+        "các phân tử đứng yên tại các vị trí cố định, chỉ bị bình chứa ép lại",
+        "lực tương tác đủ lớn để giữ các phân tử gần nhau nhưng chưa đủ để giữ chúng ở vị trí cố định, nên chúng trượt qua nhau",
+        "các phân tử chuyển động tự do hoàn toàn khắp bình chứa",
+        "lực tương tác giữa các phân tử bằng không"
+       ],
+       "a": 1,
+       "e": "Phân tử chất lỏng ở sát nhau (thể tích xác định) nhưng có thể đổi chỗ (không có hình dạng riêng); chất khí mới chuyển động tự do và có lực tương tác rất yếu.",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Rót nước đá lạnh vào cốc thủy tinh, một lúc sau thấy mặt ngoài cốc đọng các giọt nước. Các giọt nước này chủ yếu là",
+       "lv": 1,
+       "o": [
+        "hơi nước trong không khí ngưng tụ khi gặp thành cốc lạnh",
+        "nước từ trong cốc thấm qua thành cốc ra ngoài",
+        "nước đá bay hơi rồi đọng lại ở mặt ngoài cốc",
+        "nước do thủy tinh tiết ra khi bị lạnh"
+       ],
+       "a": 0,
+       "e": "Thủy tinh không cho nước thấm qua; hơi nước trong không khí gặp bề mặt lạnh thì ngưng tụ thành giọt.",
+       "n": 15
+      },
+      {
+       "t": "tf",
+       "s": "Về thang nhiệt độ Kelvin và nhiệt độ không tuyệt đối:",
+       "lv": 1,
+       "st": [
+        [
+         "Không thể có nhiệt độ thấp hơn 0 K.",
+         1,
+         "0 K là nhiệt độ không tuyệt đối, mốc thấp nhất của thang Kelvin."
+        ],
+        [
+         "Nước đá đang tan ở áp suất khí quyển chuẩn có nhiệt độ 273,15 K.",
+         1,
+         "T(K) = t(°C) + 273,15 với t = 0 °C."
+        ],
+        [
+         "Điểm ba của nước (nước đá, nước lỏng và hơi nước cùng tồn tại cân bằng) là 273,16 K, tương ứng đúng 0 °C.",
+         0,
+         "273,16 K ứng với 0,01 °C; điểm ba khác với nhiệt độ nước đá đang tan ở áp suất chuẩn."
+        ],
+        [
+         "Ở nhiệt độ không tuyệt đối, nội năng của vật bằng 0 vì các phân tử không còn năng lượng.",
+         0,
+         "Động năng nhiệt bằng 0 nhưng thế năng tương tác ở mức tối thiểu; nội năng đạt giá trị nhỏ nhất chứ không có nghĩa là hết năng lượng."
+        ]
+       ],
+       "n": 16
+      },
+      {
+       "t": "tf",
+       "s": "Về nhiệt độ, nhiệt lượng và nội năng:",
+       "lv": 1,
+       "st": [
+        [
+         "Nhiệt lượng là phần nội năng mà vật nhận thêm hoặc mất đi trong quá trình truyền nhiệt.",
+         1,
+         "Nhiệt lượng là số đo độ biến thiên nội năng khi truyền nhiệt, đơn vị là jun."
+        ],
+        [
+         "Vật có nhiệt độ càng cao thì chứa càng nhiều nhiệt lượng.",
+         0,
+         "Nhiệt lượng chỉ xuất hiện khi có quá trình truyền nhiệt; vật có nội năng chứ không \"chứa\" nhiệt lượng."
+        ],
+        [
+         "Hai vật có nhiệt độ bằng nhau tiếp xúc với nhau thì không có sự truyền năng lượng nhiệt giữa chúng.",
+         1,
+         "Hai vật đã ở trạng thái cân bằng nhiệt."
+        ],
+        [
+         "Khi hai vật tiếp xúc nhau, năng lượng nhiệt luôn truyền từ vật có nội năng lớn hơn sang vật có nội năng nhỏ hơn.",
+         0,
+         "Chiều truyền nhiệt do chênh lệch nhiệt độ quyết định (từ vật nóng sang vật lạnh), không phụ thuộc nội năng hay khối lượng."
+        ]
+       ],
+       "n": 17
+      },
+      {
+       "t": "tf",
+       "s": "Về chất rắn kết tinh và chất rắn vô định hình:",
+       "st": [
+        [
+         "Chất rắn kết tinh có nhiệt độ nóng chảy xác định (ở một áp suất cụ thể).",
+         1,
+         "Nhiệt độ giữ không đổi trong suốt quá trình nóng chảy."
+        ],
+        [
+         "Thủy tinh là chất rắn vô định hình, khi nung nóng nó mềm dần rồi mới chảy lỏng.",
+         1,
+         "Chất rắn vô định hình không có nhiệt độ nóng chảy xác định."
+        ],
+        [
+         "Muối ăn và kim cương là các chất rắn vô định hình.",
+         0,
+         "Muối ăn và kim cương có cấu trúc tinh thể nên là chất rắn kết tinh."
+        ],
+        [
+         "Trong suốt thời gian chất rắn kết tinh đang nóng chảy, nhiệt độ của nó tăng dần vì vẫn nhận nhiệt.",
+         0,
+         "Nhiệt độ không đổi; nhiệt nhận vào dùng để phá vỡ cấu trúc tinh thể, làm tăng thế năng phân tử."
+        ]
+       ],
+       "n": 18
+      },
+      {
+       "t": "tf",
+       "s": "Xét định luật I nhiệt động lực học ΔU = A + Q (A &gt; 0 khi hệ nhận công, Q &gt; 0 khi hệ nhận nhiệt). Về một khối khí trong xilanh:",
+       "lv": 2,
+       "st": [
+        [
+         "Khí bị nén (nhận công) và tỏa nhiệt ra môi trường thì A &gt; 0 và Q &lt; 0.",
+         1,
+         "Hệ nhận công thì A mang dấu dương, hệ tỏa nhiệt thì Q mang dấu âm."
+        ],
+        [
+         "Khi khí giãn nở và sinh công lên bên ngoài thì A &gt; 0.",
+         0,
+         "Hệ sinh công thì A &lt; 0 theo quy ước này."
+        ],
+        [
+         "Khí nhận công 60 J và tỏa nhiệt 20 J thì nội năng của khí tăng 40 J.",
+         1,
+         "ΔU = 60 + (-20) = 40 J."
+        ],
+        [
+         "Khí sinh công 30 J và nhận nhiệt 30 J thì nội năng của khí tăng.",
+         0,
+         "ΔU = -30 + 30 = 0 nên nội năng không đổi."
+        ]
+       ],
+       "n": 19
+      },
+      {
+       "t": "tf",
+       "s": "Về sự sôi của chất lỏng:",
+       "lv": 1,
+       "st": [
+        [
+         "Khi nước đang sôi ở áp suất khí quyển chuẩn, tiếp tục đun thì nhiệt độ của nước vẫn giữ ở 100 °C.",
+         1,
+         "Nhiệt cung cấp thêm dùng để hóa hơi, không làm tăng nhiệt độ."
+        ],
+        [
+         "Nước luôn sôi ở đúng 100 °C, ở bất kì nơi nào và trong bất kì điều kiện áp suất nào.",
+         0,
+         "Nhiệt độ sôi phụ thuộc áp suất ngoài; 100 °C chỉ ứng với áp suất khí quyển chuẩn."
+        ],
+        [
+         "Trong lúc đang sôi, nhiệt lượng nhận vào chủ yếu làm tăng thế năng tương tác của các phân tử.",
+         1,
+         "Phân tử thoát khỏi liên kết để thành hơi; động năng trung bình không đổi vì nhiệt độ không đổi."
+        ],
+        [
+         "Hơi nước vừa thoát ra khỏi mặt nước đang sôi có nhiệt độ cao hơn 100 °C nhiều vì mang theo nhiệt hóa hơi.",
+         0,
+         "Nhiệt hóa hơi làm tăng thế năng chứ không làm tăng nhiệt độ; hơi vừa sinh ra có cùng nhiệt độ với nước đang sôi."
+        ]
+       ],
+       "n": 20
+      },
+      {
+       "t": "tf",
+       "s": "Về nhiệt dung riêng và công thức Q = mcΔT:",
+       "lv": 1,
+       "st": [
+        [
+         "Nhiệt dung riêng của một chất là nhiệt lượng cần cung cấp để 1 kg chất đó tăng thêm 1 K.",
+         1,
+         "Đơn vị của nhiệt dung riêng là J/(kg.K)."
+        ],
+        [
+         "Nhiệt dung riêng của một khối đồng tăng gấp đôi khi khối lượng khối đồng tăng gấp đôi.",
+         0,
+         "Nhiệt dung riêng đặc trưng cho chất, không phụ thuộc khối lượng; khối lượng chỉ ảnh hưởng đến nhiệt lượng Q."
+        ],
+        [
+         "Hai vật cùng khối lượng nhận cùng một nhiệt lượng thì vật có nhiệt dung riêng lớn hơn tăng nhiệt độ nhiều hơn.",
+         0,
+         "ΔT = Q/(mc) nên c càng lớn thì ΔT càng nhỏ."
+        ],
+        [
+         "Làm một vật nóng thêm 5 °C hay nóng thêm 5 K cần cùng một nhiệt lượng.",
+         1,
+         "Một độ chia Celsius bằng một độ chia Kelvin nên Δt = ΔT."
+        ]
+       ],
+       "n": 21
+      },
+      {
+       "t": "tf",
+       "s": "Về nhiệt nóng chảy riêng λ và nhiệt hóa hơi riêng L:",
+       "lv": 1,
+       "st": [
+        [
+         "Nhiệt nóng chảy riêng và nhiệt hóa hơi riêng đều có đơn vị là J/kg.",
+         1,
+         "Từ Q = λm và Q = Lm suy ra λ = Q/m và L = Q/m."
+        ],
+        [
+         "Nhiệt nóng chảy riêng của nước đá khoảng 3,34×10<sup>5</sup> J/kg nghĩa là 1 kg nước đá ở 0 °C cần nhận khoảng 3,34×10<sup>5</sup> J để tan hoàn toàn thành nước ở 0 °C.",
+         1,
+         "Nhiệt này chỉ làm đổi thể, nhiệt độ không đổi."
+        ],
+        [
+         "Nhiệt nóng chảy riêng là nhiệt lượng cần để 1 kg chất rắn tăng nhiệt độ lên tới nhiệt độ nóng chảy.",
+         0,
+         "λ chỉ ứng với giai đoạn đổi thể ở nhiệt độ nóng chảy; phần nung nóng trước đó tính bằng Q = mcΔT."
+        ],
+        [
+         "Nhiệt hóa hơi riêng của nước (khoảng 2,3×10<sup>6</sup> J/kg) nhỏ hơn nhiệt nóng chảy riêng của nước đá (khoảng 3,34×10<sup>5</sup> J/kg).",
+         0,
+         "2,3×10<sup>6</sup> J/kg lớn hơn 3,34×10<sup>5</sup> J/kg khoảng 7 lần."
+        ]
+       ],
+       "n": 22
+      },
+      {
+       "t": "tf",
+       "s": "Một nhóm học sinh đo nhiệt nóng chảy riêng của nước đá bằng ấm điện công suất P, đun đều khối nước đá khối lượng m trong thời gian t cho tới khi tan hết (có hao phí nhiệt ra môi trường):",
+       "lv": 2,
+       "st": [
+        [
+         "Điện năng Pt mà ấm cung cấp lớn hơn nhiệt lượng mà khối nước đá thực sự nhận.",
+         1,
+         "Một phần nhiệt bị hao phí ra môi trường."
+        ],
+        [
+         "Nếu bỏ qua hao phí và tính λ = Pt/m thì giá trị thu được nhỏ hơn giá trị thật.",
+         0,
+         "Pt lớn hơn nhiệt lượng thật sự nhận nên λ tính ra lớn hơn giá trị thật."
+        ],
+        [
+         "Bọc cách nhiệt cho ấm và bình chứa giúp giảm sai số của phép đo.",
+         1,
+         "Giảm hao phí thì Pt gần với nhiệt lượng thực sự truyền cho nước đá."
+        ],
+        [
+         "Nếu nước đá lấy từ tủ lạnh có nhiệt độ dưới 0 °C thì khi tan hết, nhiệt lượng nhận vào vẫn chỉ là λm.",
+         0,
+         "Còn phải cung cấp thêm nhiệt lượng mcΔT để đưa nước đá lên 0 °C trước khi nó bắt đầu tan."
+        ]
+       ],
+       "n": 23
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
