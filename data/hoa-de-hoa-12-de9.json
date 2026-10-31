@@ -9,10 +9,12 @@
     {
      "id": "de-hoa-12-de9",
      "name": "ĐỀ HỌC THÊM THẦY PHÚC (1)",
+     "src": "",
      "qs": [
       {
        "t": "mc",
        "s": "Trimethylamine có công thức phân tử là",
+       "k": "lt",
        "o": [
         "C<sub>3</sub>H<sub>7</sub>N.",
         "C<sub>3</sub>H<sub>9</sub>N.",
@@ -25,6 +27,7 @@
       {
        "t": "mc",
        "s": "Cellulose không có tính chất nào sau đây?",
+       "k": "lt",
        "o": [
         "Phản ứng với nước Schweizer (Svayde).",
         "Bị thủy phân trong môi trường acid.",
@@ -37,6 +40,7 @@
       {
        "t": "mc",
        "s": "Cho phương trình hóa học: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucose) --enzyme--&gt; 2CH<sub>3</sub>CH(OH)COOH<br>Phương trình hóa học trên mô tả quá trình nào sau đây?",
+       "k": "lt",
        "o": [
         "Quá trình lên men lactic.",
         "Quá trình quang hợp.",
@@ -49,6 +53,7 @@
       {
        "t": "mc",
        "s": "Ester ethyl propionate có mùi thơm của quả dứa chín. Công thức của ethyl propionate là",
+       "k": "lt",
        "o": [
         "C<sub>2</sub>H<sub>3</sub>COOC<sub>6</sub>H<sub>5</sub>.",
         "C<sub>2</sub>H<sub>5</sub>COOC<sub>2</sub>H<sub>5</sub>.",
@@ -61,6 +66,7 @@
       {
        "t": "mc",
        "s": "Ester nào sau đây khi thủy phân trong môi trường kiềm cho muối acetate?",
+       "k": "lt",
        "o": [
         "HCOOCH<sub>3</sub>.",
         "CH<sub>3</sub>COOCH<sub>3</sub>.",
@@ -73,6 +79,7 @@
       {
        "t": "mc",
        "s": "Thuỷ phân triglyceride (C<sub>17</sub>H<sub>35</sub>COO)*{3}C*{3}H<sub>5</sub> trong dung dịch NaOH, thu được muối C<sub>17</sub>H<sub>35</sub>COONa. Tên gọi của muối là",
+       "k": "lt",
        "o": [
         "sodium stearate.",
         "sodium acetate.",
@@ -86,6 +93,7 @@
        "t": "mc",
        "s": "Phát biểu nào sau đây sai?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Ethyl acetate có công thức phân tử là C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>.",
         "Methyl acrylate có khả năng tham gia phản ứng cộng Br<sub>2</sub> trong dung dịch.",
@@ -99,6 +107,7 @@
        "t": "mc",
        "s": "Cho 15 gam hỗn hợp hai amine đơn chức tác dụng vừa đủ với V mL dung dịch HCl 0,75M, thu được dung dịch chứa 23,76 gam hỗn hợp muối. Giá trị của V là",
        "lv": 1,
+       "k": "tt",
        "o": [
         "320.",
         "480.",
@@ -111,6 +120,7 @@
       {
        "t": "mc",
        "s": "Chất giặt rửa tổng hợp thường là muối sodium alkylsulfate hoặc sodium alkylbenzene sulfonate, được tổng hợp hoá học và có tác dụng giặt rửa như xà phòng. Chất nào sau đây thuộc loại chất giặt rửa tổng hợp?",
+       "k": "lt",
        "o": [
         "CH<sub>3</sub>[CH<sub>2</sub>]*{7}CH=CH[CH*{2}]*{7}COONa.",
         "CH*{3}[CH<sub>2</sub>]*{16}COONa.",
@@ -123,6 +133,7 @@
       {
        "t": "mc",
        "s": "Phát biểu nào sau đây không đúng?",
+       "k": "lt",
        "o": [
         "Dimethylamine là amine bậc hai.",
         "Số nguyên tử carbon trong phân tử alanine là 3",
@@ -135,6 +146,7 @@
       {
        "t": "mc",
        "s": "Chất nào sau đây không tham gia phản ứng thủy phân?",
+       "k": "lt",
        "o": [
         "Methyl acetate.",
         "Triolein.",
@@ -147,6 +159,7 @@
       {
        "t": "mc",
        "s": "Chất nào dưới đây là một tripeptide?",
+       "k": "lt",
        "o": [
         "Gly-Ala.",
         "Gly-Ala-Val.",
@@ -160,6 +173,7 @@
        "t": "mc",
        "s": "Linoleic acid (có cấu tạo như hình bên) là một trong những acid béo có lợi cho sức khỏe tim mạch, ngăn ngừa các bệnh về tim, động mạch vành.<br>[img: de-hoa-12-de9-h3]<br>Phát biểu nào sau đây sai?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Trong phân tử linoleic acid có 3 liên kết π.",
         "Linoleic acid thuộc loại omega-6.",
@@ -172,6 +186,7 @@
       {
        "t": "mc",
        "s": "Công thức hoá học của hợp chất nào dưới đây thuộc loại chất béo?",
+       "k": "lt",
        "o": [
         "(CH<sub>3</sub>COO)*{2}C*{2}H<sub>4</sub>.",
         "C<sub>15</sub>H<sub>31</sub>COOH.",
@@ -185,6 +200,7 @@
        "t": "mc",
        "s": "Đun nóng dung dịch chứa 10 gam glucose với dung dịch AgNO<sub>3</sub> (dư) trong ammonia thấy có m gam kim loại bạc tách ra. Giá trị của m là",
        "lv": 1,
+       "k": "tt",
        "o": [
         "15,0.",
         "9,6.",
@@ -197,6 +213,7 @@
       {
        "t": "mc",
        "s": "Carbohydrate nào sau đây thuộc loại polysaccharide?",
+       "k": "lt",
        "o": [
         "Saccharose.",
         "Tinh bột.",
@@ -210,6 +227,7 @@
        "t": "mc",
        "s": "Amine X phản ứng với nitrous acid (HNO<sub>2</sub>) thu được propan-1-ol. Tên gọi của X là",
        "lv": 1,
+       "k": "lt",
        "o": [
         "ethylamine.",
         "propan-1-amine.",
@@ -223,6 +241,7 @@
        "t": "tf",
        "s": "Khi cho carboxylic acid X tác dụng với alcohol Y (H<sub>2</sub>SO<sub>4</sub> đặc, đun nóng) thu được ester Z có công thức CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>",
        "lv": 1,
+       "k": "tt",
        "st": [
         [
          "Chất Y ứng dụng để pha xăng sinh học (E5, E10), cồn rửa tay.",
@@ -250,6 +269,7 @@
        "t": "tf",
        "s": "Để nghiên cứu tính chất của cellulose, một nhóm học sinh đã tiến hành thí nghiệm như sau:<br>Bước 1: Cho vào ống nghiệm (1) một nhúm bông nhỏ và khoảng 2 mL dung dịch H<sub>2</sub>SO<sub>4</sub> 70%, khuấy đều rồi đặt ống nghiệm trong cốc nước nóng, dùng đũa thủy tinh khuấy nhẹ cho đến khi thu được dung dịch đồng nhất.<br>Bước 2: Để nguội ống nghiệm (1), sau đó lấy khoảng 1 mL dung dịch trong ống nghiệm (1) cho vào ống nghiệm (2). Cho từ từ NaOH vào ống nghiệm (2) cho đến khi môi trường có tính kiềm, thêm tiếp khoảng 5 giọt dung dịch CuSO<sub>4</sub> 5%. Lắc đều và đun nóng nhẹ dung dịch trong ống nghiệm.",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Ở bước (1), nếu thay dung dịch H<sub>2</sub>SO<sub>4</sub> 70% bằng dung dịch H<sub>2</sub>SO<sub>4</sub> đậm đặc (98%) thì hiện tượng quan sát được là không đổi.",
@@ -277,6 +297,7 @@
        "t": "tf",
        "s": "Kết quả thí nghiệm của các chất X, Y, Z, T được sắp xếp không theo thứ tự methylamine, albumin, aniline, Ala-Gly-Glu như sau:<br>[table: Kết quả thí nghiệm ;; Mẫu thử | Thuốc thử | Hiện tượng ;; X | Đun nóng | Đông tụ ;; Y | Quỳ tím | Không chuyển màu ;; Z | + Cu(OH)*{2} | Dung dịch màu xanh ;; X, T | + Cu(OH)*{2} | Dung dịch màu tím]<br>Hãy cho biết những phát biểu sau đây là đúng hay sai?",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Chất Z có thể được điều chế từ ammonia và iodoform.",
@@ -304,6 +325,7 @@
        "t": "tf",
        "s": "Valine là một amino acid, valine tham gia vào nhiều chức năng của cơ thể, thúc đẩy quá trình phát triển cơ và phục hồi mô. Thiếu valine sẽ ảnh hưởng đến sự phát triển của cơ thể, gây trở ngại về thần kinh, thiếu máu. Công thức cấu tạo của valine như hình dưới:<br>[img: de-hoa-12-de9-h4]",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Ở điều kiện thường, valine là chất rắn màu trắng, không tan trong nước, có vị ngọt.",
@@ -331,12 +353,14 @@
        "t": "sa",
        "s": "Đun nóng một loại mỡ động vật với dung dịch NaOH, sản phẩm thu được có chứa muối sodium stearate. Phân tử khối của sodium stearate là bao nhiêu?",
        "lv": 1,
+       "k": "tt",
        "a": "0306",
        "e": "Sodium stearate có công thức hóa học là C<sub>17</sub>H<sub>35</sub>COONa. Phân tử khối M = 17*12 + 35 + 12 + 32 + 23 = 306."
       },
       {
        "t": "sa",
        "s": "Cho các phát biểu sau đây:<br>(1) Thủy phân hoàn toàn tinh bột thu được fructose.<br>(2) Dung dịch glucose làm mất màu nước bromine.<br>(3) Cellulose là chất rắn vô định hình, dễ tan trong nước nóng.<br>(4) Amylopectin có cấu trúc mạch không phân nhánh.<br>(5) Maltose thuộc loại disaccharide.<br>Liệt kê các phát biểu đúng theo thứ tự tăng dần.",
+       "k": "lt",
        "a": "0025",
        "e": "Các phát biểu đúng gồm (2) glucose chứa nhóm aldehyde làm mất màu nước bromine và (5) maltose là disaccharide. Sắp xếp theo thứ tự tăng dần là 2, 5."
       },
@@ -344,6 +368,7 @@
        "t": "sa",
        "s": "Enzyme là thành phần thiết yếu trong các chất giặt rửa hiện đại, mang lại những lợi ích rõ rệt cho người tiêu dùng. Các enzyme giúp giặt sạch hiệu quả ở nhiệt độ thấp, tiết kiệm nước, đồng thời giảm thiểu nhu cầu sử dụng các hoá chất khắc nghiệt, vốn có thể gây tác động tiêu cực đến môi trường. Ngoài ra, enzyme có khả năng phân huỷ sinh học, vì vậy chúng không để lại dư lượng độc hại.<br>Protease là một loại enzyme quan trọng, không thể thiếu trong tất cả các sản phẩm giặt rửa, đặc biệt là trong bột giặt. Protease có khả năng phân huỷ các vết bẩn khó sạch như thức ăn, máu và các dịch cơ thể, giúp làm sạch hiệu quả hơn.<br>Để khảo sát độ hoạt động của protease theo nhiệt độ, người ta tiến hành thí nghiệm nghiên cứu tốc độ phân huỷ chất bẩn bởi protease. Kết quả cho bởi biểu đồ sau:<br>[chart: bar | Độ hoạt động của protease | 20=5.0, 40=12.5, 60=5.6 | unit: µmol/phút]<br>Cho các nhận định sau:<br>(1) Protease hoạt động tốt nhất ở nhiệt độ 20°C.<br>(2) Nhiệt độ càng cao, khả năng hoạt động của protease càng tốt.<br>(3) Protease còn dư trong chất giặt rửa không gây ô nhiễm môi trường.<br>(4) Cơ chế hoạt động của protease giống với cơ chế giặt rửa của xà phòng và chất giặt rửa tổng hợp.<br>(5) Do có tính chọn lọc cao, phải sử dụng ở một nhiệt độ nghiêm ngặt nên người ta đang dần thay thế chất giặt rửa chứa enzyme bằng chất giặt rửa có chứa các chất tẩy rửa mạnh.<br>Số nhận định đúng là",
        "lv": 1,
+       "k": "lt",
        "a": "0001",
        "e": "Chỉ có nhận định (3) đúng vì enzyme có khả năng phân hủy sinh học tự nhiên nên không để lại dư lượng ô nhiễm. Các nhận định còn lại sai dựa vào biểu đồ nhiệt độ tối ưu là 40°C và cơ chế sinh học đặc thù của enzyme."
       },
@@ -351,12 +376,14 @@
        "t": "sa",
        "s": "Lactic acid hay acid sữa là hợp chất hóa học đóng vai trò quan trọng trong nhiều quá trình sinh hóa, lần đầu tiên được phân tách vào năm 1780 bởi nhà hóa học Thụy Điển Carl Wilhelm Scheele. Lactic acid có công thức phân tử C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>, công thức cấu tạo: CH<sub>3</sub>CH(OH)COOH. Khi vận động mạnh cơ thể không đủ cung cấp oxygen, thì cơ thể sẽ chuyển hóa glucose thành lactic acid từ các tế bào để cung cấp năng lượng cho cơ thể theo phương trình sau:<br>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) ----&gt; 2C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>(aq) Δ<sub>r</sub>H<sup>0</sup><sub>298</sub> = -150 kJ<br>Biết rằng cơ thể chỉ cung cấp 98% năng lượng từ quá trình oxi hóa glucose bằng oxygen, năng lượng còn lại nhờ vào sự chuyển hóa glucose thành lactic acid. Giả sử một người chạy bộ trong một thời gian tiêu tốn 250 kcal. Tính khối lượng lactic acid (cần bao nhiêu gam) tạo ra từ quá trình chuyển hóa đó. Biết 1 cal = 4,184 J (kết quả được làm tròn đến chữ số hàng phần mười).",
        "lv": 2,
+       "k": "tt",
        "a": "25,1",
        "e": "Năng lượng từ lactic acid = 250 * 1000 * 4,184 * 2% = 20920 J = 20,92 kJ. Khối lượng lactic acid m = (20,92 / 150) * 2 * 90 = 25,104 g ≈ 25,1 g."
       },
       {
        "t": "sa",
        "s": "Cho các phát biểu sau:<br>(1) Methylamine có lực base mạnh hơn ammonia.<br>(2) Dung dịch glutamic acid đổi màu quỳ tím thành xanh.<br>(3) Ứng với CTPT C<sub>3</sub>H<sub>7</sub>O<sub>2</sub>N có 2 đồng phân amino acid.<br>(4) Protein dạng hình cầu như albumin có thể tan trong nước cho dung dịch keo.<br>Số nhận định đúng là",
+       "k": "lt",
        "a": "0003",
        "e": "Các nhận định đúng gồm (1), (3) (gồm alpha và beta alanine), (4). Nhận định (2) sai vì glutamic acid chứa 2 nhóm -COOH và 1 nhóm -NH<sub>2</sub> nên làm quỳ tím hóa đỏ."
       },
@@ -364,6 +391,7 @@
        "t": "sa",
        "s": "Một loại dầu thực vật E chỉ chứa hai triglyceride là X và Y với tỉ lệ số mol tương ứng là 3 : 2. Xà phòng hoá hoàn toàn m gam E trong dung dịch NaOH, thu được 4,6 (g) glycerol và hỗn hợp muối gồm C<sub>17</sub>H<sub>33</sub>COONa và C<sub>17</sub>H<sub>31</sub>COONa. Hydrogen hoá hoàn toàn m gam E cần vừa đủ 0,23 mol khí H<sub>2</sub> (Ni, t<sup>o</sup>). Cần bao nhiêu kg E để sản xuất được 100 bánh xà phòng loại 200g/bánh, biết mỗi bánh chứa 80% khối lượng muối sodium của các acid béo? (làm tròn đến hàng phần mười)",
        "lv": 2,
+       "k": "tt",
        "a": "15,5",
        "e": "n<sub>glycerol</sub> = 0,05 mol =&gt; n_E = 0,05 mol =&gt; n_X = 0,03 mol, n_Y = 0,02 mol. Bảo toàn khối lượng tính m_E = 44,04 g và m<sub>muối</sub> = 45,44 g. Khối lượng muối cần cho 100 bánh xà phòng = 100 * 200 * 80% = 16000 g = 16 kg. Lượng E cần dùng = 16 * (44,04 / 45,44) ≈ 15,5 kg."
       }
