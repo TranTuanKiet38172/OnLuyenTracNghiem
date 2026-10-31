@@ -1,0 +1,379 @@
+{
+ "id": "hoa-de-hoa-12-de9",
+ "subject": "Hóa học",
+ "name": "de-hoa-12-de9",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "de-hoa-12-de9",
+     "name": "ĐỀ HỌC THÊM THẦY PHÚC (1)",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Trimethylamine có công thức phân tử là",
+       "o": [
+        "C<sub>3</sub>H<sub>7</sub>N.",
+        "C<sub>3</sub>H<sub>9</sub>N.",
+        "C<sub>3</sub>H<sub>7</sub>O<sub>2</sub>N.",
+        "C<sub>2</sub>H<sub>7</sub>N."
+       ],
+       "a": 1,
+       "e": "Trimethylamine là amine bậc ba có công thức cấu tạo (CH<sub>3</sub>)*{3}N, tương ứng với công thức phân tử C*{3}H<sub>9</sub>N."
+      },
+      {
+       "t": "mc",
+       "s": "Cellulose không có tính chất nào sau đây?",
+       "o": [
+        "Phản ứng với nước Schweizer (Svayde).",
+        "Bị thủy phân trong môi trường acid.",
+        "Hòa tan Cu(OH){2} ở nhiệt độ phòng.",
+        "Phản ứng với nitric acid (H{2}SO<sub>4</sub> đặc, t<sup>o</sup>)"
+       ],
+       "a": 2,
+       "e": "Cellulose không hòa tan Cu(OH)<sub>2</sub> ở nhiệt độ phòng do các mạch polymer dạng sợi có liên kết hydrogen liên phân tử rất bền vững, làm cấu trúc bị khóa chặt nên các nhóm -OH không tự do tạo phức."
+      },
+      {
+       "t": "mc",
+       "s": "Cho phương trình hóa học: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (glucose) --enzyme--&gt; 2CH<sub>3</sub>CH(OH)COOH<br>Phương trình hóa học trên mô tả quá trình nào sau đây?",
+       "o": [
+        "Quá trình lên men lactic.",
+        "Quá trình quang hợp.",
+        "Quá trình hô hấp.",
+        "Quá trình lên men rượu."
+       ],
+       "a": 0,
+       "e": "Quá trình chuyển hóa glucose thành CH<sub>3</sub>CH(OH)COOH (lactic acid) nhờ enzyme là phản ứng lên men lactic."
+      },
+      {
+       "t": "mc",
+       "s": "Ester ethyl propionate có mùi thơm của quả dứa chín. Công thức của ethyl propionate là",
+       "o": [
+        "C<sub>2</sub>H<sub>3</sub>COOC<sub>6</sub>H<sub>5</sub>.",
+        "C<sub>2</sub>H<sub>5</sub>COOC<sub>2</sub>H<sub>5</sub>.",
+        "C<sub>2</sub>H<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>.",
+        "CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>."
+       ],
+       "a": 1,
+       "e": "Ethyl propionate được cấu tạo từ gốc acid propionic (C<sub>2</sub>H<sub>5</sub>COO-) và gốc alcohol ethyl (-C<sub>2</sub>H<sub>5</sub>), có công thức là C<sub>2</sub>H<sub>5</sub>COOC<sub>2</sub>H<sub>5</sub>."
+      },
+      {
+       "t": "mc",
+       "s": "Ester nào sau đây khi thủy phân trong môi trường kiềm cho muối acetate?",
+       "o": [
+        "HCOOCH<sub>3</sub>.",
+        "CH<sub>3</sub>COOCH<sub>3</sub>.",
+        "C<sub>2</sub>H<sub>5</sub>COOCH<sub>3</sub>.",
+        "HCOOC<sub>2</sub>H<sub>5</sub>."
+       ],
+       "a": 1,
+       "e": "Ester có gốc CH<sub>3</sub>COO- khi thủy phân trong dung dịch kiềm (NaOH) sẽ tạo ra muối sodium acetate CH<sub>3</sub>COONa."
+      },
+      {
+       "t": "mc",
+       "s": "Thuỷ phân triglyceride (C<sub>17</sub>H<sub>35</sub>COO)*{3}C*{3}H<sub>5</sub> trong dung dịch NaOH, thu được muối C<sub>17</sub>H<sub>35</sub>COONa. Tên gọi của muối là",
+       "o": [
+        "sodium stearate.",
+        "sodium acetate.",
+        "sodium oleate.",
+        "sodium palmitate."
+       ],
+       "a": 0,
+       "e": "Muối C<sub>17</sub>H<sub>35</sub>COONa xuất phát từ stearic acid (C<sub>17</sub>H<sub>35</sub>COOH) nên có tên gọi là sodium stearate."
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây sai?",
+       "lv": 1,
+       "o": [
+        "Ethyl acetate có công thức phân tử là C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>.",
+        "Methyl acrylate có khả năng tham gia phản ứng cộng Br<sub>2</sub> trong dung dịch.",
+        "Ethyl formate có khả năng tham gia phản ứng tráng bạc.",
+        "Phân tử methyl methacrylate có một liên kết π trong phân tử."
+       ],
+       "a": 3,
+       "e": "Methyl methacrylate CH<sub>2</sub>=C(CH<sub>3</sub>)COOCH<sub>3</sub> có 1 liên kết đôi C=C (chứa 1 liên kết π) và 1 nhóm C=O (chứa 1 liên kết π), tổng cộng phân tử có 2 liên kết π."
+      },
+      {
+       "t": "mc",
+       "s": "Cho 15 gam hỗn hợp hai amine đơn chức tác dụng vừa đủ với V mL dung dịch HCl 0,75M, thu được dung dịch chứa 23,76 gam hỗn hợp muối. Giá trị của V là",
+       "lv": 1,
+       "o": [
+        "320.",
+        "480.",
+        "720.",
+        "329."
+       ],
+       "a": 0,
+       "e": "Bảo toàn khối lượng: m<sub>HCl</sub> = 23,76 - 15 = 8,76 g =&gt; n<sub>HCl</sub> = 8,76 / 36,5 = 0,24 mol. Thể tích V = (0,24 / 0,75) * 1000 = 320 mL."
+      },
+      {
+       "t": "mc",
+       "s": "Chất giặt rửa tổng hợp thường là muối sodium alkylsulfate hoặc sodium alkylbenzene sulfonate, được tổng hợp hoá học và có tác dụng giặt rửa như xà phòng. Chất nào sau đây thuộc loại chất giặt rửa tổng hợp?",
+       "o": [
+        "CH<sub>3</sub>[CH<sub>2</sub>]*{7}CH=CH[CH*{2}]*{7}COONa.",
+        "CH*{3}[CH<sub>2</sub>]*{16}COONa.",
+        "CH*{3}[CH<sub>2</sub>]*{14}COONa.",
+        "CH*{3}[CH<sub>2</sub>]*{11}OSO*{3}Na."
+       ],
+       "a": 3,
+       "e": "CH<sub>3</sub>[CH<sub>2</sub>]*{11}OSO*{3}Na là sodium lauryl sulfate, thuộc loại chất giặt rửa tổng hợp (muối sodium alkylsulfate)."
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây không đúng?",
+       "o": [
+        "Dimethylamine là amine bậc hai.",
+        "Số nguyên tử carbon trong phân tử alanine là 3",
+        "Lòng trắng trứng tác dụng với nitric acid tạo thành hợp chất rắn có màu tím.",
+        "Glycine có tính chất lưỡng tính."
+       ],
+       "a": 2,
+       "e": "Lòng trắng trứng (protein) tác dụng với nitric acid đậm đặc cho kết tủa có màu vàng (phản ứng xanthoproteic), không phải màu tím.<br><br>## Câu 11. [M2] Cho các phát biểu sau:<br>(a) Nhỏ dung dịch I<sub>2</sub> loãng vào hồ tinh bột, thấy xuất hiện màu xanh tím.<br>(b) Ở pH = 3, glycine nhận proton, trở thành cation và có khả năng di chuyển về phía cực âm.<br>(c) Lòng trắng trứng tác dụng với Cu(OH)<sub>2</sub>/OH<sup>-</sup> tạo dung dịch màu xanh tím.<br>(d) Aniline có tính base nên làm chuyển màu quỳ tím.<br>(e) Dùng phản ứng màu biuret phân biệt được Gly-Ala với Gly-Ala-Ala.<br>Số phát biểu đúng là<br><br>a. 3.<br>*b. 4.<br>c. 1.<br>d. 2.<br>Các phát biểu đúng gồm (a), (b), (c), (e). Phát biểu (d) sai vì aniline có tính base rất yếu nên không làm chuyển màu quỳ tím."
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây không tham gia phản ứng thủy phân?",
+       "o": [
+        "Methyl acetate.",
+        "Triolein.",
+        "Glucose.",
+        "Saccharose."
+       ],
+       "a": 2,
+       "e": "Glucose là monosaccharide, không bị thủy phân trong môi trường acid hay base."
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào dưới đây là một tripeptide?",
+       "o": [
+        "Gly-Ala.",
+        "Gly-Ala-Val.",
+        "Val.",
+        "Gly-Gly-Ala-Val."
+       ],
+       "a": 1,
+       "e": "Gly-Ala-Val chứa 3 gốc alpha-amino acid liên kết với nhau bằng 2 liên kết peptide nên là một tripeptide."
+      },
+      {
+       "t": "mc",
+       "s": "Linoleic acid (có cấu tạo như hình bên) là một trong những acid béo có lợi cho sức khỏe tim mạch, ngăn ngừa các bệnh về tim, động mạch vành.<br>[img: de-hoa-12-de9-h3]<br>Phát biểu nào sau đây sai?",
+       "lv": 1,
+       "o": [
+        "Trong phân tử linoleic acid có 3 liên kết π.",
+        "Linoleic acid thuộc loại omega-6.",
+        "Ở điều kiện thích hợp, 1 mol trilinolein tác dụng được tối đa với 2 mol H<sub>2</sub>.",
+        "Công thức của chất béo trilinolein là (C<sub>17</sub>H<sub>31</sub>COO)*{3}C*{3}H<sub>5</sub>."
+       ],
+       "a": 2,
+       "e": "Trilinolein (C<sub>17</sub>H<sub>31</sub>COO)*{3}C*{3}H<sub>5</sub> có chứa 6 liên kết C=C trong 3 gốc acid béo, do đó 1 mol trilinolein tác dụng tối đa với 6 mol H<sub>2</sub>."
+      },
+      {
+       "t": "mc",
+       "s": "Công thức hoá học của hợp chất nào dưới đây thuộc loại chất béo?",
+       "o": [
+        "(CH<sub>3</sub>COO)*{2}C*{2}H<sub>4</sub>.",
+        "C<sub>15</sub>H<sub>31</sub>COOH.",
+        "(C<sub>17</sub>H<sub>33</sub>COO)*{3}C*{3}H<sub>5</sub>.",
+        "HCOOC<sub>2</sub>H<sub>5</sub>."
+       ],
+       "a": 2,
+       "e": "(C<sub>17</sub>H<sub>33</sub>COO)*{3}C*{3}H<sub>5</sub> (triolein) là triester của glycerol với oleic acid nên thuộc loại chất béo."
+      },
+      {
+       "t": "mc",
+       "s": "Đun nóng dung dịch chứa 10 gam glucose với dung dịch AgNO<sub>3</sub> (dư) trong ammonia thấy có m gam kim loại bạc tách ra. Giá trị của m là",
+       "lv": 1,
+       "o": [
+        "15,0.",
+        "9,6.",
+        "24,0.",
+        "12,0."
+       ],
+       "a": 3,
+       "e": "n<sub>glucose</sub> = 10 / 180 = 1/18 mol =&gt; n<sub>Ag</sub> = 2 * n<sub>glucose</sub> = 1/9 mol =&gt; m = (1/9) * 108 = 12,0 g."
+      },
+      {
+       "t": "mc",
+       "s": "Carbohydrate nào sau đây thuộc loại polysaccharide?",
+       "o": [
+        "Saccharose.",
+        "Tinh bột.",
+        "Glucose.",
+        "Fructose."
+       ],
+       "a": 1,
+       "e": "Tinh bột là polysaccharide gồm nhiều mắt xích alpha-glucose liên kết với nhau."
+      },
+      {
+       "t": "mc",
+       "s": "Amine X phản ứng với nitrous acid (HNO<sub>2</sub>) thu được propan-1-ol. Tên gọi của X là",
+       "lv": 1,
+       "o": [
+        "ethylamine.",
+        "propan-1-amine.",
+        "propan-2-amine.",
+        "methylamine."
+       ],
+       "a": 1,
+       "e": "Amine bậc một tác dụng với HNO<sub>2</sub> tạo ra alcohol tương ứng: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub> (propan-1-amine) + HNO<sub>2</sub> -&gt; CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH + N<sub>2</sub> + H<sub>2</sub>O."
+      },
+      {
+       "t": "tf",
+       "s": "Khi cho carboxylic acid X tác dụng với alcohol Y (H<sub>2</sub>SO<sub>4</sub> đặc, đun nóng) thu được ester Z có công thức CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>",
+       "lv": 1,
+       "st": [
+        [
+         "Chất Y ứng dụng để pha xăng sinh học (E5, E10), cồn rửa tay.",
+         1,
+         "Alcohol Y là C<sub>2</sub>H<sub>5</sub>OH (ethanol) được dùng làm nhiên liệu sinh học và sát khuẩn."
+        ],
+        [
+         "Carboxylic acid X có tên thay thế là ethanoic acid.",
+         1,
+         "Acid X là CH<sub>3</sub>COOH, có tên thay thế IUPAC là ethanoic acid."
+        ],
+        [
+         "Khi cho 3,00 gam X tác dụng với 3,22 gam Y thu được 3,30 gam Z thì hiệu suất phản ứng tạo ra Z là 60%.",
+         0,
+         "n_X = 0,05 mol; n_Y = 0,07 mol =&gt; Hiệu suất tính theo X: H% = (3,30 / (0,05 * 88)) * 100% = 75%."
+        ],
+        [
+         "Phản ứng tạo ra Z từ X và Y là phản ứng xà phòng hóa.",
+         0,
+         "Đây là phản ứng ester hóa, phản ứng xà phòng hóa là phản ứng thủy phân ester trong môi trường kiềm."
+        ]
+       ]
+      },
+      {
+       "t": "tf",
+       "s": "Để nghiên cứu tính chất của cellulose, một nhóm học sinh đã tiến hành thí nghiệm như sau:<br>Bước 1: Cho vào ống nghiệm (1) một nhúm bông nhỏ và khoảng 2 mL dung dịch H<sub>2</sub>SO<sub>4</sub> 70%, khuấy đều rồi đặt ống nghiệm trong cốc nước nóng, dùng đũa thủy tinh khuấy nhẹ cho đến khi thu được dung dịch đồng nhất.<br>Bước 2: Để nguội ống nghiệm (1), sau đó lấy khoảng 1 mL dung dịch trong ống nghiệm (1) cho vào ống nghiệm (2). Cho từ từ NaOH vào ống nghiệm (2) cho đến khi môi trường có tính kiềm, thêm tiếp khoảng 5 giọt dung dịch CuSO<sub>4</sub> 5%. Lắc đều và đun nóng nhẹ dung dịch trong ống nghiệm.",
+       "lv": 1,
+       "st": [
+        [
+         "Ở bước (1), nếu thay dung dịch H<sub>2</sub>SO<sub>4</sub> 70% bằng dung dịch H<sub>2</sub>SO<sub>4</sub> đậm đặc (98%) thì hiện tượng quan sát được là không đổi.",
+         0,
+         "H<sub>2</sub>SO<sub>4</sub> đặc 98% có tính háo nước mạnh sẽ làm than hóa cellulose thành carbon màu đen."
+        ],
+        [
+         "Ở bước (2) học sinh quan sát thấy xuất hiện kết tủa màu xanh nhạt, sau đó kết tủa tan tạo dung dịch có màu xanh lam.",
+         1,
+         "NaOH + CuSO<sub>4</sub> tạo Cu(OH)*{2} xanh nhạt, Cu(OH)*{2} hòa tan glucose tạo dung dịch phức màu xanh lam."
+        ],
+        [
+         "Ở bước (1) trong dung dịch thu được có chứa glucose.",
+         1,
+         "Cellulose bị thủy phân hoàn toàn trong môi trường acid nóng tạo ra sản phẩm là glucose."
+        ],
+        [
+         "Ở bước (1) xảy ra phản ứng thủy phân cellulose.",
+         1,
+         "Xảy ra phản ứng phân cắt liên kết glycoside của cellulose dưới tác dụng của xúc tác acid và nhiệt độ."
+        ]
+       ]
+      },
+      {
+       "t": "tf",
+       "s": "Kết quả thí nghiệm của các chất X, Y, Z, T được sắp xếp không theo thứ tự methylamine, albumin, aniline, Ala-Gly-Glu như sau:<br>[table: Kết quả thí nghiệm ;; Mẫu thử | Thuốc thử | Hiện tượng ;; X | Đun nóng | Đông tụ ;; Y | Quỳ tím | Không chuyển màu ;; Z | + Cu(OH)*{2} | Dung dịch màu xanh ;; X, T | + Cu(OH)*{2} | Dung dịch màu tím]<br>Hãy cho biết những phát biểu sau đây là đúng hay sai?",
+       "lv": 1,
+       "st": [
+        [
+         "Chất Z có thể được điều chế từ ammonia và iodoform.",
+         0,
+         "Z là methylamine (CH<sub>3</sub>NH<sub>2</sub>) được điều chế từ NH<sub>3</sub> và halothane/iodomethane (CH<sub>3</sub>I), không phải iodoform (CHI<sub>3</sub>)."
+        ],
+        [
+         "Chất T có công thức phân tử là C<sub>10</sub>H<sub>17</sub>N<sub>3</sub>O<sub>6</sub>.",
+         1,
+         "T là Ala-Gly-Glu có CTPT là C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub> + C<sub>2</sub>H<sub>5</sub>NO<sub>2</sub> + C<sub>5</sub>H<sub>9</sub>NO<sub>4</sub> - 2H<sub>2</sub>O = C<sub>10</sub>H<sub>17</sub>N<sub>3</sub>O<sub>6</sub>."
+        ],
+        [
+         "Chất X là hợp chất được cấu tạo nên từ các chuỗi polypeptide và thuộc loại protein phức tạp.",
+         0,
+         "X là albumin, thuộc loại protein đơn giản (chỉ gồm các alpha-amino acid)."
+        ],
+        [
+         "Chất Y và phenol phản ứng với nước bromine thu được hiện tượng giống nhau.",
+         1,
+         "Y là aniline, cả aniline và phenol đều phản ứng với nước bromine tạo kết tủa màu trắng."
+        ]
+       ]
+      },
+      {
+       "t": "tf",
+       "s": "Valine là một amino acid, valine tham gia vào nhiều chức năng của cơ thể, thúc đẩy quá trình phát triển cơ và phục hồi mô. Thiếu valine sẽ ảnh hưởng đến sự phát triển của cơ thể, gây trở ngại về thần kinh, thiếu máu. Công thức cấu tạo của valine như hình dưới:<br>[img: de-hoa-12-de9-h4]",
+       "lv": 1,
+       "st": [
+        [
+         "Ở điều kiện thường, valine là chất rắn màu trắng, không tan trong nước, có vị ngọt.",
+         0,
+         "Amino acid là chất rắn tinh thể dễ tan trong nước."
+        ],
+        [
+         "Valine là hợp chất hữu cơ đa chức.",
+         0,
+         "Valine chứa hai nhóm chức khác nhau (-NH<sub>2</sub> và -COOH) nên là hợp chất tạp chức."
+        ],
+        [
+         "Khi cho valine tác dụng với acid HCl thu được muối có công thức phân tử là C<sub>5</sub>H<sub>12</sub>NO<sub>2</sub>Cl.",
+         1,
+         "Valine (C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub>) cộng hợp 1 phân tử HCl tạo muối ClH<sub>3</sub>N-CH(iPr)-COOH (C<sub>5</sub>H<sub>12</sub>NO<sub>2</sub>Cl)."
+        ],
+        [
+         "Công thức phân tử của valine là C<sub>5</sub>H<sub>10</sub>NO<sub>2</sub>.",
+         0,
+         "Công thức phân tử đúng của valine là C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub>."
+        ]
+       ]
+      },
+      {
+       "t": "sa",
+       "s": "Đun nóng một loại mỡ động vật với dung dịch NaOH, sản phẩm thu được có chứa muối sodium stearate. Phân tử khối của sodium stearate là bao nhiêu?",
+       "lv": 1,
+       "a": "0306",
+       "e": "Sodium stearate có công thức hóa học là C<sub>17</sub>H<sub>35</sub>COONa. Phân tử khối M = 17*12 + 35 + 12 + 32 + 23 = 306."
+      },
+      {
+       "t": "sa",
+       "s": "Cho các phát biểu sau đây:<br>(1) Thủy phân hoàn toàn tinh bột thu được fructose.<br>(2) Dung dịch glucose làm mất màu nước bromine.<br>(3) Cellulose là chất rắn vô định hình, dễ tan trong nước nóng.<br>(4) Amylopectin có cấu trúc mạch không phân nhánh.<br>(5) Maltose thuộc loại disaccharide.<br>Liệt kê các phát biểu đúng theo thứ tự tăng dần.",
+       "a": "0025",
+       "e": "Các phát biểu đúng gồm (2) glucose chứa nhóm aldehyde làm mất màu nước bromine và (5) maltose là disaccharide. Sắp xếp theo thứ tự tăng dần là 2, 5."
+      },
+      {
+       "t": "sa",
+       "s": "Enzyme là thành phần thiết yếu trong các chất giặt rửa hiện đại, mang lại những lợi ích rõ rệt cho người tiêu dùng. Các enzyme giúp giặt sạch hiệu quả ở nhiệt độ thấp, tiết kiệm nước, đồng thời giảm thiểu nhu cầu sử dụng các hoá chất khắc nghiệt, vốn có thể gây tác động tiêu cực đến môi trường. Ngoài ra, enzyme có khả năng phân huỷ sinh học, vì vậy chúng không để lại dư lượng độc hại.<br>Protease là một loại enzyme quan trọng, không thể thiếu trong tất cả các sản phẩm giặt rửa, đặc biệt là trong bột giặt. Protease có khả năng phân huỷ các vết bẩn khó sạch như thức ăn, máu và các dịch cơ thể, giúp làm sạch hiệu quả hơn.<br>Để khảo sát độ hoạt động của protease theo nhiệt độ, người ta tiến hành thí nghiệm nghiên cứu tốc độ phân huỷ chất bẩn bởi protease. Kết quả cho bởi biểu đồ sau:<br>[chart: bar | Độ hoạt động của protease | 20=5.0, 40=12.5, 60=5.6 | unit: µmol/phút]<br>Cho các nhận định sau:<br>(1) Protease hoạt động tốt nhất ở nhiệt độ 20°C.<br>(2) Nhiệt độ càng cao, khả năng hoạt động của protease càng tốt.<br>(3) Protease còn dư trong chất giặt rửa không gây ô nhiễm môi trường.<br>(4) Cơ chế hoạt động của protease giống với cơ chế giặt rửa của xà phòng và chất giặt rửa tổng hợp.<br>(5) Do có tính chọn lọc cao, phải sử dụng ở một nhiệt độ nghiêm ngặt nên người ta đang dần thay thế chất giặt rửa chứa enzyme bằng chất giặt rửa có chứa các chất tẩy rửa mạnh.<br>Số nhận định đúng là",
+       "lv": 1,
+       "a": "0001",
+       "e": "Chỉ có nhận định (3) đúng vì enzyme có khả năng phân hủy sinh học tự nhiên nên không để lại dư lượng ô nhiễm. Các nhận định còn lại sai dựa vào biểu đồ nhiệt độ tối ưu là 40°C và cơ chế sinh học đặc thù của enzyme."
+      },
+      {
+       "t": "sa",
+       "s": "Lactic acid hay acid sữa là hợp chất hóa học đóng vai trò quan trọng trong nhiều quá trình sinh hóa, lần đầu tiên được phân tách vào năm 1780 bởi nhà hóa học Thụy Điển Carl Wilhelm Scheele. Lactic acid có công thức phân tử C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>, công thức cấu tạo: CH<sub>3</sub>CH(OH)COOH. Khi vận động mạnh cơ thể không đủ cung cấp oxygen, thì cơ thể sẽ chuyển hóa glucose thành lactic acid từ các tế bào để cung cấp năng lượng cho cơ thể theo phương trình sau:<br>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq) ----&gt; 2C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>(aq) Δ<sub>r</sub>H<sup>0</sup><sub>298</sub> = -150 kJ<br>Biết rằng cơ thể chỉ cung cấp 98% năng lượng từ quá trình oxi hóa glucose bằng oxygen, năng lượng còn lại nhờ vào sự chuyển hóa glucose thành lactic acid. Giả sử một người chạy bộ trong một thời gian tiêu tốn 250 kcal. Tính khối lượng lactic acid (cần bao nhiêu gam) tạo ra từ quá trình chuyển hóa đó. Biết 1 cal = 4,184 J (kết quả được làm tròn đến chữ số hàng phần mười).",
+       "lv": 2,
+       "a": "25,1",
+       "e": "Năng lượng từ lactic acid = 250 * 1000 * 4,184 * 2% = 20920 J = 20,92 kJ. Khối lượng lactic acid m = (20,92 / 150) * 2 * 90 = 25,104 g ≈ 25,1 g."
+      },
+      {
+       "t": "sa",
+       "s": "Cho các phát biểu sau:<br>(1) Methylamine có lực base mạnh hơn ammonia.<br>(2) Dung dịch glutamic acid đổi màu quỳ tím thành xanh.<br>(3) Ứng với CTPT C<sub>3</sub>H<sub>7</sub>O<sub>2</sub>N có 2 đồng phân amino acid.<br>(4) Protein dạng hình cầu như albumin có thể tan trong nước cho dung dịch keo.<br>Số nhận định đúng là",
+       "a": "0003",
+       "e": "Các nhận định đúng gồm (1), (3) (gồm alpha và beta alanine), (4). Nhận định (2) sai vì glutamic acid chứa 2 nhóm -COOH và 1 nhóm -NH<sub>2</sub> nên làm quỳ tím hóa đỏ."
+      },
+      {
+       "t": "sa",
+       "s": "Một loại dầu thực vật E chỉ chứa hai triglyceride là X và Y với tỉ lệ số mol tương ứng là 3 : 2. Xà phòng hoá hoàn toàn m gam E trong dung dịch NaOH, thu được 4,6 (g) glycerol và hỗn hợp muối gồm C<sub>17</sub>H<sub>33</sub>COONa và C<sub>17</sub>H<sub>31</sub>COONa. Hydrogen hoá hoàn toàn m gam E cần vừa đủ 0,23 mol khí H<sub>2</sub> (Ni, t<sup>o</sup>). Cần bao nhiêu kg E để sản xuất được 100 bánh xà phòng loại 200g/bánh, biết mỗi bánh chứa 80% khối lượng muối sodium của các acid béo? (làm tròn đến hàng phần mười)",
+       "lv": 2,
+       "a": "15,5",
+       "e": "n<sub>glycerol</sub> = 0,05 mol =&gt; n_E = 0,05 mol =&gt; n_X = 0,03 mol, n_Y = 0,02 mol. Bảo toàn khối lượng tính m_E = 44,04 g và m<sub>muối</sub> = 45,44 g. Khối lượng muối cần cho 100 bánh xà phòng = 100 * 200 * 80% = 16000 g = 16 kg. Lượng E cần dùng = 16 * (44,04 / 45,44) ≈ 15,5 kg."
+      }
+     ],
+     "imgs": {
+      "de-hoa-12-de9-h3": "data:image/webp;base64,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",
+      "de-hoa-12-de9-h4": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAAB7CAYAAACM55kwAAAQAElEQVR4AaTdB5S1WVkn+ud/TlV9X3fT0IE0CEKDoREUMeIYiEYMmBBRVExjmLnqcs2d8a65cY3jODPcq6NLR0EUBERoQjehmyZnEBAkJ6Gb3KRuUnd/31dV5+7ffmufeut0NbrufVf9az/7SfvZz97vftM571k85QlPWP36L/3S6smPf/zqiX/5uNXllz6r0U9Y/dov/vLq5S988eoP/st/W/2v/+53Vs9/zuWr5z3rWasXXn756orLLlv929/4jdX//Ju/ufqTP/iD1VOf+MTVZZdc0v085k/+ZPXwH/uxrvOH//VRq3/9y7/Sff7X3/291e/89m+vXvDc565+7uEPXz3hsY9dXfrUp65+5Pu/v7X3+NUPP/jBqz//4z/u/sn+5nGP6z6f+8xnrnX/4k//dPULj3jE6lG/93urhz7kIaunP/nJLea/XD2mtfmiK65YXfnsZ/f6I37iJ7rsR3/gB1b/++/8zupxj3509//i5z1v9V9/93dXv/1v/s3qmU95yup7H/jA3sZ/+Y//cfVTP/7jLc5LO/Tz//oP/2GlH/Kjn//6l3959exnPmP1v/0vv7P6yR//sdW//a3fXP32b/xPq0ufdsnqimc/a/V//5ffX/3u//l/rP7wUf9t9YIrLl9d9vSnrR71+/959bi/eMzqmZc8dfXYP/+z1SVPetLqjx71qNVf/fmfr/h9yhOetPp3v/XbPbdTfp+zetEVV66ufO7lqxdd+fzu54XPu2L1/Mufu3rx869ssit6fvRTf8mec+kzm+7zVs97zrM7Ln/WZStgIw7llc99zorur/7SL/Y4xQv0yOj9t//8e6ufefhPtrafs3ruZZf2NsnRdOnxhfeiKy9vcu1d1ssrnn1py8GlLd7ntBgu68B73nMu63KxLU6ePFmf/exn6/zzz6873/nOdcMNN9Te3l5df/31tbW1VWeffXbt7++X7dSpU3XjjTfWmTNn6iu+4ivqne98Z33qU5+qW9ziFvV3f/d3detb37rOOeec+shHPlIf/vCHO5/uYrGoYfv5z3++VqtVl/P1hS98oT7xiU/UAx/4wHryk59c/+N//I96y1ve0v0Muze/+c31ghe8oP7hH/6hvuZrvqbufve71z3vec+67LLL6qqrrqq73OUu3b8YL7jggvrqr/7q+sAHPlA/8iM/Uv/iX/yLHvODH/zg0tbtb3/7+sZv/Mbev0c+8pGljS//8i+vn/iJn+j9VeeHzs///M8Xf2L7wR/8wR73v/yX/7J+5md+pr7ru76rvu/7vq/bJ+lxfcM3fEN91Vd9Vc/PWWed1WntyfEd73jHutWtblWveMUr6pOf/GTJwz/+4z+WtuVZm0m6rfwbB7Hs7u52nlyhT58+3ceHjpzu7Ox0X+zx5FbO6Q9ddmQ/8AM/0OOkS0+Jv1wu60u+5Evqh37ohyoJdu+r9smBT0hS/FEaPsQwdM0VdDL5odd5y+2duv0dvqT+4i//qh7/hMfVR6/5SJ13wa1qb7Vbj/6LP6/Lnn1pvfu976rPfO46Nn3SMTzvvPPWAy6Qiy66qK655pp6+9vfXve9733r2muvrY9//OMlwdddd12NZJuY3/It31K3ve1te8J+9Ed/tAzGne50p/pX/+pf9c5+67d+a++oRG5vb9c3f/M31/d8z/f0wTWptP/1X//19YhHPKLLdFyykpTy677u6+pe97pX3fKWt6y73e1uJTaJPHHiRG/3wgsvrNvc5jZ9MvNvoO1QEqcvZ/Z2a9XydHr3TEGWi9qvVR8Eya62aXPEx87ESFKf+9znegz8NLWeryR9soj7x3/8x3u7Jv3FF39Fi+3OderMjc3/Xscq+62dVe3sbPUdRBv6pA1tK/nVPtpk2mmTTXv8K0+2xSOZ2mS7aDs6G30dOnhJ+o4iduNx7rnn9jGRp9Eue6APiYnWstEStDoA3TrY6FiXhmxvb9XbWJDbYx/0oAfVt3/7t5dVTTDf//3fX/aAn/3Zn+17sMbwdYSNzn3bt31bS0p6cAbuIQ95SB94k8CKZ++2lxtEA453u9vdru899m4+TDIl/zqos5IoqcmUrGRqY3RIHBIsQUp1cbEZMJB82rPxyOmiDRAbcnUDoE3yJH1yTAnb7/3TLnvxJek7AR8DbPmio6/4eOpyhU7SV139tlNdfPHFfcKR0dG2mJL0gcFXN2n4QWujZpt6chiPmJOsj0psHZmGL33lZ/QXX6xcokcpFn2VOzx29Ohokw/8JD0/eOoD9Oirj3KhEwbMgEsCmtDhkIFDAB1G6kpyEIA6vrrA6ApEiecQYaDwlCYAWZLSGbbqOscfHT4lgz35VjuEiwt/8Pgb7dHBT9JXE3W+6PAN5GAw+KIjQUn6oYBu20GrFtPAsSFXVtvQYmxkn4hJ+g7GbrmzXatmd2Z/r/baykdPO0mo95jU9UnMfPG7t9qv3WbDh1zQEaPY8BjLh76QsSFXkuErhz4+O/kabaEhSeGRs0vSVs2d3hdyPNAOJOnjg2Yn5uVyu03iU4XmRyxw6tSZtnNstVAWbeItu5zOQNWiFoKkrBHQqETZEzSAR64TGh20OhqS9MEavvDIwWrVIuirgJJ/coFKoraStAAnjDbI6AlWDIOP5ledP/aDRx+Pb3ZJVPu5l3ZVkvQ6XeCLDK3ka/gWw/CFj4ZkWp20wX7v9Jne/2Wlsr/qfZULusAWtJFMuUKDtshAnb44QJ1/OSQnQxsXfdE+Hh/qwA6PrdWVjB4/fAwdcjEmWe8wdgL2bF7+8pe3SXVD7wt/7NiQ84fGV1qM0Em6Pnt8/vHRi/393Zak05Ws+uwm4Ijxam+/zcUWyJndQicpA0uHM+BMEHij1Ck+ylnH3pnmd7cjaQPRQE5XABKHxuOPnyRtD1n0oJP0PYQumRKqbeqtaL73e7LQ/Extq9V6r2SzfWKnysozOwfD66tKW4n4A5YmmaSy4xOPLEnL126PTx1fe+eefU6ddeJk7bVc7WxtV0tnLbM4Arp86aeS3nWfvrZObO/UotogtXxvL7fq2k99uvZ39/qKwzc7pXgsAC683v/+9/c2tFNtcmtr0Xyww1P/zGc+U//9v//3vmOx124S7jrosdHm8593ZZ264ca1z3PPuUXPOzuQB6d6q9VeP9+c6tMYmRva4w9GXhaLscqlWtstGe2qQ8ftKSaYw50rymobh0NmUlni7Rn4yuagTwhJQOOh6aor6TpfSKZBEjgZPb5bM31Zp0umLtiddpKbtAFYrSqZbPHZaYecTZJ+/kOmrj0YvvD0jV80O1faYrAX02OrxFMmKTx1bbFN0vuapMerjc5fVT3v8ivqHe94R4mNzdxWH+lqe8Qhhve+9731xCc+0SD0HSWZduQ3vvGN/cLKZBcLDB+u6pP0q3a+jIcY6CTpk6Pahu+KuZE9piR94oqPrlMjtIWDH+foLty0w+abvumbelx0TW6xJ+k8/YMkfVyqbfo30KrrvySd7udoyZQ4Tp1Dve0tb61btD2UM50ViIbUJV3JWqCcC26UeOp80UumhnSIjB1dNN9oujqTTIlW1w4bcoNGHz+ZdPC0YwLTI1MaQPxkmnzaGzvPYx7zGNU+qC984Qv77Q4DwpdSH5NDOz4Z6D8dEEeSfkUoNn1UmgDsyZVJ+iCIjx98Okn6ZKDj1oZ+DrkY+HPrxMUVfW3zz1777BwS8ewsH/3oR9cXFfxU2+i6JfTKV76yH/7k5X3ve1+99rWvbdKq17zmNfXUpz61nve85/Ud5oorrij6l156aT396U/vO4zbTOzg+c9/fl3X7hwkU5/EOMChWAA9YdEKaEX7S1ILwXGWpGwGyj0qHZWEJH1g6A1nEqDDQJ+MLYxkoA04G8kSmLoSzwk5mi0bFyJoyXZb5PWvf31Z+iUN+ONnlAaQH5MVjc8fXyYW2oBoU5xipscHnYc+9KHlCpfd8E8uhmGbpE+KJIWXpK9yfIiTX/6T9MF2S+dDH/pQvy/I18c+9rF+P4+OgXbe85KXvKT7SNJXR21bwZ75zGfW2972tt7ei1/84rqq3R+Uo0c/+tH1ohe9qN9HfMpTntJXJ+1/8IMfrHe961115ZVXdt1qm3b4c1iVG/f85MI4un3h1pO45cKO/b3f+71lkt3nPvfpt6T03b1Qt4bkRvv8PeQhDykXi62JvvMk01xRnyPJEXky1eksHNMFI/lo5wxuhL7qVa/qCTGRthfLqnb+oNHlctkPU/gn2/0aHTLbORtyyzI9MED4SfrSrS127sO5z6XTOkVXHW0Jd6vlrne9a48hCff9xiR/Sfrk51f7n/70p3tM+uBmqHjQEg4mI71q5zKLSsFb/uHN/TzoU5/4ZL30xS+pd779HfXYx/xFqZ/cOVFvfMPf1z+88U112TMvrc9/9nN19smzCv/G62/oes5pXv93r6un/u1T+qogFpPDfTQrgNMPE8JAmvBoK4rbPfoA+iwu/XQryUqTTJNWH+TIjXS3htww5gNfWw6LJshXfuVXllVNXvkDfu5973uXzQ1rE02e2coLv256G0OTW91i45aLXOJriy5/6naqZBoHfgeSVLKsHGCx2KoEL0OllwsOk5Tgk/S71u6SC5RMQ6NBZTI5SKZDmL3RnjISJ9Crr766O+dTAuzNBoEOgT1Pqe4mr8MYeEJgb3buYs+75JJLyqrgPOq5z31u33PtBEn64IqH7NnPfnZfRfhjK27+TFyT3lMF/QAJlTjtqNN505veVF/2ZV/Wbwi/9a1v7U8NrBgGgE938MWbpD/tsNe7J+j+Ix9ioGdQPbn40i/90n5YdmPYqUiSfsPaTWMThC8xmmTstGPn4wefT1CXP7SBJpNTSNIHFI9MTvlCGwM7lzrd0Y5VTDva51v+tC3H9EzIO9zhDv20gIw9XU95+E+mNvEgmepJVNdIDutJepyLt7/9nfWyl7y8PvSBD7dVYtUSdEO9+MUvrVe+8tUt4TfWy1/+ynrVq17TlvmUwTMQBkrwOjNWEHWroM6gX/e61/XJYLI4FBtQj5jY2sMFDq6gnIhKqI65oWvPU3c4lThJecADHlCWf4dVPcI3APw6cXUYkSw+TFJPEsThcOUQgC/Jksk34BsoPsTEzuFPn5w6uOHssGHl0Fe22jSB+EOPOPQL9MmqbEUT97DB16YBFL96EmS/kudHJZkmszwOf3T1jS0ayPVPHNpK0gdUTN/xHd9Rf/qnf9ovGN797nf3R3f6SeYwfPnllxf+tZ+5rn78Jx7az9UsBg77+vq5L3y+PxF5z3ve02Mz5hYB8WkT0JvY5CdTTElqYUn1bPDv//7v+zmRQTbwHEuUwZUEnTTwEi5oK4UBsnSbHGTOCRwGPKuUCAMmQUnKXm5gJZ4/g2olpC9AHbS3zxMn0dpl+9a3vrVsJkQyrWjsJM9qZGWULPEm6Se89mzPI7XLFpJpJdYHGD60o2/aNCENhNWI3GqsHbHxYaCBjB0a5ItcvvhIUwAAEABJREFUqU0Ti47D96tf/eq+Iut7Mh366fDr0OeQy4eVFDyrtVPJl36hye2Y5HzbKUDMVmpy8GTmO7/zO/vR6dd+7ddKbsl/67d+qz/r/NVf/dX6uZ/7uf4cW85/6qd+qo+PR4dyYmw83vPkB/3d3/3d/WmOvh0HfZQH5XFyvIXjv0PBj/3Yj5UTPhPH1YiEmCQjufZSE0unBMOxQaeDxrMEO5Te737368/8dM7g0eGHrUYll3/2zhHI2EumjpHRlWSD5gTaKnKX9vBcIvGTaW9Rl3SPzl760pe2Z4cX9aXfxYSY+TeI9nqxGFQ22tCeHcLOZdBNVqV+auuP//iP6/GPf3xpe8TtSs/g+uAAfTvcmETicAGjD+LXT4NownqkZ3DlQvtk8vbrv/7rPe/aHLT8/eRP/mQ5rPlggEO0HfmhD/uJesCDHljfft/vqO998PfVLW55bt3vAfevb/uOb6/l9la7a7kqz2k9n73LXS+qe9z9q+r8W53X74E6P03S7ytqX9v6hIZ5Hd/YyRGZfJtEdJSAHqjWsnts6vTZA71RLkwOgyyBPh3hEORBtxNySibhsl0ASKIJwThJ4XGcTJf6Vi+HKaujvdEEOdkuFgRrDzSAfOAJhr3B1AlXVgaUzB5mNf2TP/mTfhVm+bbq+tTD3/7t3/ZBdykuluEnSTmn/Jb2sF581TYPr51b4LtdgG8PdR7VxPXwhz+87FgmxW/+5m/2Afjar/3a+umf/ukSp9X53//7f1+/8Au/0Pd8bYnV4P/wD/9wOTw5vDqfdeHiUK19O48VxTkcfc817cxyTKZtfZcXk5FfJb582hnwkmnlpafOl5LOJvQN+FACnU19OZvLyAfoD5lyjuE3CbIjOaTpzu0HjQ8MFpde+ox62jMuqVe95pV1m9tc2K5gPtyO2ZfX1Ve/v52bvaIl/URbIa6vP/zD/6esVg4j9lABSpjBUjph9qkL52ZOel3BmDQG1Cpistm7JcxePUo8g/XIRz6yD6g9G8/y/hu/8Rv94zsGTt0ksKQbUEk7eTCRTWp7vMOwCW3g7CA+xYHGN3nEpZ5M50HiNtH0ZT6gkmNyWwX5JpcscY89PZl2MBODvnYlmB7wR5etvsoZfpL+ZAFfXakNOuzFhK/OB9+gv8qbA5sBOnwNHMfHS9LP62qRgv32dMTzXvaboM/fnI8HeGTVVrYBTxBAnXxh4Fw6u7x2+PFZK/dXHM8t3w4/ZI719m4TwiAwlkgD6LNe7r0YUHut8xsrQpI2Uc8qE8V5lEGRMIkdAao7/PAlySBoAyfZQB+PDrA16AaCPtqAKZNpAiTpAyrOZKKT9JWYLn/s0aCdapt22ShbtevTS9IuiFbdZ5J+O2VMWvrJxNMf/UwOD1MjxmTSSdL9ioEPcuBnxKIvVkE8esnUfs02sjlmok6SdeLgHz+Dl6RPsmQqqSRRrEEXBgMN8/rcp74nR30M3cX5F17Qrw4l59SZ0+VYbzB12PkL4+2TJ2p3tV+cOt8Zg6JRyaBLBg4/DiV8aEQJaHraYZOkXeXudZ8mEl8G1AAn6c/T+GO3iWU7lIvBIA3fSn7IQDvDnm8+2KD1SSx4dPFGTGOVJMMHg560BLZ7iTvtWSRsZVH7nmu2urjpi0ebfKprI5kmCB9DZhWloy5ubaDx6CnVgR91vtSB/hyDN0o2kLSYEQ30N+WDN/ijbOp9p1IOJGkTc3WAdDZ7RJKS0yRNnrrptl8LAyJRGqGsQxKBj8cZ2iCpJ+nODIwE4LMhU0oUG3UN0uFXQpP0iUVGN8k6QDHQG/b818HGxwHZVxS2wI8VVAwGmQ0/fOiDuljYJtOVKl11Ptnzk0yT3iQf+ko65Gjgl61Dqjrwp216/OElUz8HTyku/uQS6LJzROCTH+3T044yCVHf6fD4nqMLD/4NfpI+PslheaDSJ08y8fHYJFmPgZgGyKA2tiSFRTbHzfHwYcFQJ5QYyi/ccH1lueh38jWcTCuMzkuOBtBkEsQerRwytIQu2uVIkn5DmA0+nomgzl5dOWz5GrboOZ99Mh2WxEvm0GvC8emwzp/B5YM93+ro0aY6+2TqGxv2dE0IpZ0DkvTBYwP0+Br2aH6TaYKpjzyJz2RS4lsxtYXmyzNFV/muXD1rdPtC++zFoA22w7/6QDLFlUzlJn/UlXwAeiDJepLNZclRf0OWpE9Wn/iBGudk2a+COrolWTMWqNGJ4dBg6qxEkKkDXYkfsiR9MkpIkn4oTNKDdxhjY7Bh2LG15+IlUyDakVjtGwR1ZbWNDzGQtWpfEdX5U+KRsYHB085Y0YYvMv4226bHD9DlBw+dpE8ysmSi9U2dnC6/4ud78OgkodYupm7seUrSV2R6Jt8TnvCEfvXqHNfpxsMe9rB2MfbR/lCbT33ggM8kPa/J5LPapt+t6H9o6JX2Dz1gUg+6iXp/1NFKfZDPJF2WhKiDHDEvB52kxyS+aluStX2Sxqler7YtGAlEY8rG64OpTqazOq0+ZOqc0zfJ6Kknk3M8ycQHPtii2RgUpTo+qI+SfpJ1HHwPmbbZAT18PIlC0yWDJOtEDP9J+uOgaluSngi65Mok3QaNpx/6jt5rV2X7qfKJWqVP1NZysdYXB91FW8XZ18Gmzh5PzGKVI9+f8AkOE59MW/e4xz3KDd4ktahUteezPi/mc15JKmn85j9Jl5HTG1hm0fndhk7V2sbOk0x5rdkmPittkkKDOJXVNrFBtYgWi63a2tppO87JXibLlpXWZitrkYIkaz+TXWNX25K0/9X3NokaScFM0o00nEx6jKFmG5sBsoGZSl928fF0AvgFSU5Syc2DDl12fECSwpNEJR19QEuemNDDRvt4dNAD1bZBK1u1xzLKJD3+eR09kKSTSbqd9gaS9BxW27QrRjG45WFyOhSL0QRM0schSdOuNphbRbdXNv4l6W0lR8uhlkz8eRxDdlyZTPo3Jxt5IUcDGtCAPg6LJGt+ckhjMtRJQCfpHSMbSG6el2So9UTr8JrRCD4lXrKV6o195A9vwOHIYAxd/KGcpD+Xo2PSeTLgYTl6HKq1nxzGxDZJjy1J7xufUBtbks7hw6RQQpJuP+gkfeIPnSTdb5KyJdNEou9eoxjtEG4jJekfCXJriFzsYtFfdTQfkOSIXzw6SqALSVSPRZKb+NhUTP5pHe1s2m3W+6GTIgg0SddRN8FAR5VDnmQdYJKun0x7PDsM+qA+L4cvfHqQpA9WbWx0YLCtBJKvHANJRkcbznvwk2kwHZ7w8cZFgj5AkiN9oIPPHySTnG8YPCUkkzz54iXdAX7EnqT31+MlN7If9ahHFTz2sY/t3zwbTy/EX22bx9Wq67jRcyRTLIOXZJD/ZCm24zA3TI76o0+eHPKTQ5oMktSRicZwoA62JD0po7PJVK+20W1F77iSTpK1fjLRyVQaTIlW0h0leiDJ2l+1LZnq5M7tTDR2TbT+I8NzrjMOQ1YJ8ZGhDZo6oyQ9xtrYkqmt5Gi5obY+hOInUayRpOqgNto7qPYCTw6ssknKBzB/5Vd+peCXf/mXy01v9y/tIAySaQfWj+RoW+QD/A46Sc9hMpX4c/mglQN0QP2LlUmIj+SgM9q/ZJI1sv/xBSot/ulkthF9yVcOSIgBVAKDJDfpRDLx6LId5ZzG4wPQZPwNzBM7eKNMJv9WQxi65EkUHfyabEn6RHK/K8mR+1DVtiTrPrTq+k9SkkmGmaT7SVL/3I2PgWGTTPb4ThNMequvfnjW7Dkx2qdNPGtml+SLnp/xNQebzTreJujgKTeRpOeFPImiY1MPE08JyaGu+ibotvFe9AlmkKAxemNKSCYnB8pdNnc015EsoDtK9IAkj4ky5OwH+KWrPA5Db17S44tfNBkfBtKA4unXkKtDkiN9YQObsiR9sg1ZtS1J+z/9DX5ylDf4k9b0304mPvGMc0mHTleZVmoTzidD0CzETx99BO1K1FXoEV6rbLapDk3U/+Z0Z2z8k8eBoascIEMPs0ErB+YyvGGzPnRSGEwK6gPq8E/Vk/TBSw5LiRpI0gctSdn4HBht40My6aAH6NIzaQbIDJxBBHw6DrNocvXk0B8/QJZM/Hk9mXhJen/owdBBg/qAehJFt0kmGmPoiCc5XGHVHepNLDE6xNsZ0WxGf5QugvD4gzmtDklu0jb+HMmkg8fHgLp4tD1Ahg9ofCXgJVF0DJ4SMOflYnpPwurIMdfAUeRYySCZnOKpQ3LIM5noCnbQQ2ckj3zYJzky6ZLJVzKV9Opg4wc5yiRHEjr42jYo6gZPu/rCVxIuOpJDGiPJTfwlIeq3FvjlA4PvgSRrOzzyZOKhIZnqSfqhkF4Sog4XKQ7x4oT5oV+byXRhI6d9FWurGR+Mk0M/6gPkoM7H+N4qnroySY+djjo+GpJDmTq5UgxKuiAvIM+Al0y26GHHZuHfAMEAXhLFGmRJeoDoTWdJ+uQhq7Ylk67Bl0T8m0NT///0N/eXTCfOSfrpgM5X25K0/0f/5nYkSXq/0ECuhOSoLDlapwt0YZNWB4NCPgYsSf9AA55c2jnokNPHVyZTe/gDydRX8gE+5hh85fA1Sjygr00gA/wBcrRyQB3m9U079QG6/dBZZb4t+qqGSUEJ6ONABkOGBnUBDFoH0EoySKJYIzlaXwsOCPaQ3Lwe+YF674cB0aZYkmlQ5nL6MHjzEn9g8JP0iZhksG5SJpMsSdfdVOAzmWRocjshGkw052XJFC8eHUiiWINM30Yf1Tfh3R777b49/tClrw7DmVxBctgG+Rx01ZXJoZ46JBOPDuApB8wwvJsgyU2SZYVwrmB5Rwt+Dk4EPMokyO5HgyoJXnVetQ0fGrn+26wT4B0HsoEhVxeXEm9Oq+PPgQdz3pxOppjnvOPoTR/JTe2SiUdXXPIll0n6Kiy31TbyVvSdZpOe1+lAMvlFz0H3OAydJH0sxDF48zJJr/LRidm/JN02yZpLbwBz0H1F02EMguTQSH0Owdgj7HWSw27IydTn4HOA3qCVQw8Nc/mcJtsE202eOj5bQIsJTXZciTcHPZjz0IOnBLzjQLaJTT1x0UmmVYt8TC6nF/KKNwd9wEuyHtzkKE0OdI9DMukPHbHMYWxHnT2940BnLkdDcuifHR6g28XA/pET3uFEuQkDB4wFBXQ4Anx1JdmYkJKHPwcdNpBEsd57yeYgTNITjN7E0J3zDZr2kszZvY0jjH9mRRtDdU4PnhIf0MdBPHN5kt4nRwkyMSfppsnRkh3QG1AfGDwlXncy+5ektzVYdDYxZMpk0k+OlmRzJJN8zjuOXk80AYIJotwMQp0sSb964sxEkiRwXwiPnsmYTAGg8ZIQd6hDr8z+4QGWckAdkvRkJTdfDhu3N9x9V08OVw9+/v8iyREX2oAkPb4hTDLIXiZH65jO0eQ7Sbcd+SJLJh4atAH0lXiAxkNvIjn0QW+AXpJ+8abNgeRQv9qWTPUkrVbrGOknR3lz39W2UdAkgT0AABAASURBVFf2czRE46/39lHHS9KdJ1Ht3xbyIUMDOfZA+iahQwCoAwMBKZN0P+jjMPTnMjzAS6bJMuqjHDIlSDiZ+EYs+HjKgc16kiG62TLJTfow/Ixybjx4SpAvSKa+0FWXI1BP0o8w6IFkajdJZyXpcbCB5Ph6kq4//iXpdslhOWTiSyb+4CnxB9STSSeJ6hpJ+vyhu2Y2YtT7OVqr984ly6ac8t5RoATkAw6DYE8EA2uSkePTt7pZ7dAgmXTQyRRgMpV4wE+SSg4DTtL3uGobe2hk/xs27NDJZKsu+ZSUQ+aKLgl2B1lyWMdM0ttPDkv8Ab7mwE+i+KJI0v2yFZ9+yJ0jgRu2Y4eQJzrymBzmQez4y0oNLFbVxmrVx41sgP9apDpq2pLJlxo97UPXxWzAV4dBDx31prJujw5s8tUH6CdZj19f0epgG0pJKskBd+qQynA+SoMlYRKUpB9SySTQRDPhfObKIUzQA3S0xWeS3lYyJeM4fpLShvaS9ODV5xgyA1dt48cAWtnIxEMfnaRpHP/HDo6XHs9N0vvAbo5N7eRQz2QSm1Je6MqlmNHDD9pDduXI2yjp4A+oA/nAqCsHhr5y8JRslHPgDcz5c5qfOcj0aW7XJxrBwKbB4CvnMrSBkxx73BjAeZ1OEkX/MJ+kggD4S6bJ1RXav+EjSR+4xrrJX5LOS9J1ksOSTx3sCgf/5m0lk+6B6IsWfMFc6Z+q06UDg1bOYSeUI32l55msnOAr7Zzkdgx2dOQ5Sf8mmm+j+aQvkM2x3+6ZwZyH5gcGrZxDjmDw6II6/oD6wOCNcvBHOeyV0A+dhCrKTXA0eHQ2IWGQpC/jaIlRApqNCcAPGpJp0JP0JZksOeQlE40/wG4Ab06rgzbFPJ4bquPbGfBBHYb9KPEGBk+JpzwOZDBkSQa5LsnBRHJ+KyYTSk5GfqxuY4KRMRarCadky8cA3hyDf1zJFwzZoDftB3/oKfE2gQ9zezTeAJvkMBeLvVU72OMeYCgyhFHfLMkkSkmWpD9OUR9J4XLQkphMDSfph79kqtfBxpYvOGCtVy2DkxzVpzcwbJN039oVH3nSVoPd3fWExquNbZP3T9U3zHs1meJLphJz049Do8kjH/pE7ltcDo9WNRMvST9VoJuk78DVNrow+oruaM1ZyZrKkT6SDZ5yAJ8PQM9BR31Thg9kygH1OSa7tDgmVHnilMMPPlbb5gabNAdwHB8vSR9gCZSsatvgN7I1vFpj0w85JFEcAR8DQzDqx5UmF/9igESHV+vBGj5GeZwPPHIloI/DpmzUlceBj2SKxySzM5h0XgwjbrCy4TuvHfHrD54Shm/+5hj8UZINWpkcn196kEyx0VUfSCa7OT9JXwT0I5nooU9vHmeSw4lGWAfboPt7GFJlbxnYW+0XDBmaTN2bbKpd8UgQV8MPWhLVRwCjxIMkPXC6myDf1Mebg41Oa1tbSoNFR92hk4468AfoOejAnIc+joc/97Gpoz4H/VE3ceyUJpaX2ni/7h/8wR/0nzdy6BSv/vBPb9jxAeryDuoD+MeBfPCTKddJOitJzz2dOQiTKDrIxKOE5Kisyik/dPX1Pzady0hFCUMjSSfxQGXoofHUDSQYXDxAj0TRldAkvUPqSRQdSTqf3QBBMvGT9NWy2jbkylY98qc9A+j8zAcKHY58gtVAiY8NiFn5xcDxkKNh1JVzH+gBsk2wBXGQDdrrsryc0OtDvfPkl37pl/pvQ3mrpfeX2FHYWPWSMOt5So6uPHxCV2j/knS9Rt7kL5lkyWE5lPSBn1EO/iZPnUwJ9AfUyZLJvzpZuxgI/jqwJJ0eCpQojPqcxkuC1Q+L3oFb+4fnfCabPZOC8w2+kkk/mUoTgJxs0El6DHhJ+hUrHcADk0r7g4dm77Nd3izt1aHeJuRVXN5O7V1mdMVDFw18qSvZ4xlYdMfeXruvuFfk9JKj8dBJwqznADH00MMOD23ieEXYM57xjP6NJ79z5S1Jrj7tjPe///3LK7DsJHSe9axn9W939f62ZrZP7PS3MS62ln3nG37J+R+lttEwaDshHSUeW/Hog/oojRs+edIabcIkfUySw0nOFyTp+UE31bUef3zJZ38ExSGFgVHfLIdcSTagPoCnQeXgaVBjSiDXWbRA6KElRWky0Kdnguo0faCPP+RodgbGq029VsCrRr0JyXvRvJz4oosu6q83t1J4vRYfo00+0U7ExcwvOb/qgDf0HNa0J86ho6QD9PkjZ0OWpE8Ktt4h98xnPrP/YJu3NHlNl7brYEObdN6+5B1vvqxisnk/nBcH8slmtCMWwJc37XGlTkeJJ54kfWeQT3XQnv6yUdIdYI8mAzQbJRlecjgB1fHnoJ/k8Byt2jZXQDdWD0wJeHOMBn3yE9SBDv0BidAJjY7BoCcJeECXTGlAyNlJHj0+7cU3nLqxnyN665GEkb3sZS+rJz3pSf1nHL2Gy6GIn1PX31Ant3fq1udfUN/yTd/cf/HOi5yf85zn9G+Da1dckr2zs9NXLjx1hy0xqGtbKb7Rpna1oSQTKx9sk2nVS9Lf+Ubu3XJeJGgSWcFMIDsHO/7Z2anU+aWnLS/x87U832D3IyN+AMNhlQ1dMcqRfszt8dTx0UM3Cfd94pMNPn/6wl+S9QqlzkAf6AAeoMmSdH/ehwbVtiR9ZaOT5HCiMay2EbSiT7BBq8+RZF2lMzB8JOn2goMkZRB0zGCNDtFHSzI9fpT4dD1VkCx1MnSS/rxVAF78K/Hewui9bQbFa7X4BHb8gfM2Lw10qLrPfe5TXgDsvf0OrWICbUp8kvVTDrbJNHG0P3YCk4BNkj4oaJOTPVq8aC9v8X1NffRLgd4EKXY64ykGGV4ytctW/KB9uXMLxBsrvZvWu3/tLF6bmhy2zx+/7PTdBEMPyAGaT/GPUtva1H9AQ5I+jmi6SkjSJxE77eChR4lO0m/R1MHWfzmFAgNAw4G8F3vtjjOoJFGsG1KhD8kkwwP+oPb2C3QcX2Jh2OiEukFEs1GXODp46kr1N7zhDeX9spI/JhiZJEpmMk0MfkZ7ZGj2JqYXADt0Saw3h3tZ9NCZx0GfH5PG4KjzYzXCT6a2yJL05Oqnd9x6ZSpfVjDvjUNrT0mHfbUNj18wUbSlP8m0U5ng6n5z6YLzzq/vetB3dnzuM5+tv3nik+oNr3t9u95ruW/nx1uLZf89BLqLSv+dKfQyi36ul6THKAbt8J2kkvRJpR/zuKpt4krSdyh0Y/U/ejB4yglttqz2mk67Jm7lYlG18MUFwsbtDQ1aPYnin40k3YfGGekIoPH4NnmWy2U/TOGR0UHrJBmabk9uu6GcTHu63xB43OMe13901pdtHU4MeJL+BkaD5GKA7fCLZ1BNIisO/vCrLSuMV5niey26VdKqaBIn6aun+NjzyyZJHyy0HUDcBkzdV+esYA7RVjCrp/b1yeCKhx47PpP0Qa62WbnIGtmPANrld8SLLwa+yPymgZcw8+Xc1OuvXGhohw24+vY1Pt8ZZTd82FnV+aHnXp7YkynX9MiTw/i0PUAOdAA/CVafA3zigT71i4G93VWt9rOesYTdYvZv8JQcg/MyGGpkkLZn+XTBstI/baAzwMZEk3j1atvuwR179WSKgV4T9WQL0guT//Iv/7L/rLbVwSFEO2MQdIpPvvghS1JKvOHPhOCXvnLo8mNC+C0DFxJ+7eRpT3salY7kcMIZRJPFpODXCqptg83GSbs3nDtE09WGCS4Wekl6njmWC3ZocdKZ19FsQMzaozv6wd63qOTD62Gd973kJS/pO50+eeG03w4Qrx9E85osNmL3ruEkJT48kwyqbXKepOevVSuZaLrJ4WQaMuUAHbRYQZ/w+kTz+qXTflqwrR4EFOcYE4dsE1WHmkl6UBzjakiC0ILHB/wkvZPkI8kSQiaxkmllsYI5j7LqeEmy9umwkzA0XbajjST92+nVNjz+tUtHyYZ9MunRMRmcgFvJvLzZ28X91I7J4y3jYmI/JhZauybDX//1X5dbEfe73/1KnOLin64VV8xJen+TlA3PRDTI4uGLDVvx4iXphzu62hc7W22T08cXgz64ujbhvKTauav3rpmE3uXhFfJ+g8GF07B3Fetmsf4Bn8nUprbEhCcetDbwxQBJ+ngnU0l38JXixlM2u0W/8+8O/+7+fu21yQboVm17X7WZnYNy1UrH3VXjrbqdJwKbTn3CANoiWbVs/lP9kweLdrC2p2lY4Gg8yVbqiES7CHCF5md5JM7r1k0C5xpQbcW0kuoEP/P20cBXO1MoMaTdcxKPQTG4a3m7Rza3HwPArx/R+M7v/q667/3vV6//+zfUU592SV332c+0/OzX1s52x8tf+Yp6zGP/or75W+5TP/lTD++/C2Dw+U+ynuzJIU2m/wPaFOuoG1TtqzutyXJRctzLNjb4SfrFCju6fIK60mHQ5HNxxH+SPmHtPC6C6IHfwHrFy15eb37TP9T1n/9Cyevemd2+Q8gLH0lq4TcM2hhW2xaLRW87SZ9k/IhJv+WXHZ646GofFnttNlEi8AjJjyEQqHNA2YkkqNdsS9JrSXqjSXp9/EvS+epsQSIFo02TZ9BKeq6m7I1WB4cghwa6Os2eThJFn+yDJ04gwBM/oOcgT9Jt0ZCkx0lPW9qUA5PSa+RNdvF4yuD86/d///fLiT6Zc0W/n8RuQLvDrxKSFL42AG+OJGWANqFPScqGhmSq483Bv7qdld5oh88k/UfbxKoOfk/iIQ95SDnP86os8bMzRvpv4vCnnhxtM0mfkMlU8qd9PiCZ+stf0nQEswkGUG0ja2tYAbqx1n+jPkoCNFtAD6gL2OEEjW/yCISdk3ATzMn5L/7iL5bl32FHB+gCvWTqsPoc/ACd4Z9cfQ46yeQDP0mfZGhtsRUnPYl2cWEnsFO4+Pi5n/u5csPUIdLbGrWRTD7QwFeS9UBU25K0/9Mf36C9AfUk3QY9kEx2/A6eMpn41bZkog2w+E00T0XkUx/8BoMLAhcLnjzIu51JqX39ZesIo9RffoCcD222pvoOKhb0HEl67HWwsUOyRS9UgHEyBawOeAPqySRPsh4ccjIQmDqgBQ1oPA3qFF2TSPD4TlT9DI6brX5pREfZJenvf2Wnzi6JoiM5SidH6+xAO3MwHjGhxQDakBh7c5L+ClKDpi4mIDfplHyw0QZoI0nPzaD5nyM5lNOBZOKJAYY+emDwRplMNqOuFIP8Jqlv/MZvLOe0f/RHf1T/6T/9pzLJ7MA+D8enH1Sjz06/rHRWNf3CG+Xoo34mIVqDH3JA85dMOmiKo2zPOqdnkxQZAHqOJH22Jodlkp7QJDW2YXNcXUJHEtD2KPpJyu9P+dGLZDr3MAnJdI6uYAGdTO0lWcdEF+pgS7I+DLGBJDfRTyZf+gz0qm0S34r+6734fIM9Psn6locJyIaO1SFJzwnb48DHJh9vYFOmnkw+k3YoqsPzYudt5HOIwwQstD+MAAAQAElEQVQRl/Pei+5213rkL/x8/eqv/1r/FTuTLElfleTbDiNu+o40flkGzQ+/4pJ3v9d6Ymu79y05jIfOHPTZwqCT9FOGBcXBnCvMeYOfhPoR0AM6gIa5UpI+yDpTB5sOGFCDp3TVx85kJLOSDEhGMrWdHJb0DPSBy55APkZ9lHNecmjPFpL0+Kpt4sHj26ANWzyDp3Q4pac/SfoHPuk28/6XTG2oJOm+kxwZqNrYtDOwIerVJL1/vXLMvySFLZf8GIvB0xd5JQc0uZJM7GxGnuXdTo4HJh8Zmj3Mae0An4OPxhu6fUVzQWBdW7XdpF0b9BmoIVeewAgYAWcDx9XxBuaNGRx8PP7REmPwQBtjMMeqhmdAhz4b9psle/w56LAXK3qADn0YMjT5SLpYyfCBHwODFg/ZqO+ePtOv2PD45mdAHdSVMGjlwM3x+aQzSvTNwQQxIfiSLxNEvC5qxKyOb3KBK9lapPxiThv6fiWt1Hf9HbngwzjhiQPQMGLBQ2sb1Nmh8dcrGgFDgQCaAsUB9TkGX4nPsRLw1JXqwx8eWuDa0a7k4OPpJBuJkQxyeoPmaw666uzpDAw+GRq0yx8eoPFAnY5S3YQnBzzQhlgMqFjp09UmPaAH6DnoqW+WeIDPP59KQAN/gB5QnwPfRBILsB8xmjDiHnVtyfncno3cK+nTpWdnwiMT57BBHwdysZCNkp/+rJMQMJRVi7ZMpz0mWk1oTw4EOow5mPSqr37DDl9QgAYBg47j08VXDh/4aG3QU6rToYvGV4phDjw6dOc0HX7I8AE9QA78AnroqPOHhx42dXD/bqedr9x4/Q0tS2kJaOdN7TCw1mlOBj1KPgaauP+RIZRkIwfaHG2TqyvpKWHw0AN4dNjqtzoMHj3t4A1aOepsjJOSDyATF57J596lHMCiUur9viZHDdpqRbEdJVs+FhjAKUUlUBhQp9Py2Z2oAx6bTcz59GDokA3gDwyekq5yDnrzOhpvDvGqk/EhsaCOD2ggVwIa0EAP0IAGNPA5r+PB3If6XGdTRj7HXBc9h4Gb19nN63OabAB/2OKhxSF+5VyORwdvXqL/KfA7wJ5v/gCN18/REBSVnO4fXN3ggbvqztUMpPrQozvAIXouQw+QAb058OYgUx8letMH3nGY67GHoTdoOoM3LyUFhp4Shg47ULeHosmVc5APDL46XSXgKwEtp4AG/E2Qz31sytXZHodNmTrwOQf/wAe5FesIEuw1klSSvqpb2YbdWuGAwF9PNBUgSzI5aBU8wcwnGV4THflLDm3mArZDf9DJpJtMJfmQzW3RyaSD/qeQpKsMf8NnknV/usLBvySdoj9HZx78G/wkax8mmvMhKskhX33oK4+r4w3QmWPw52WSeXUdwxHmzVT4HqIka1t5MZ5kyXQ1O+p4m0iyZrEd4D+Z7NGUyPgaUCdbHzopYQyMOsW5kToZbOriDSRTcMlUDr6SnXIT+IA/SvRAkp6s5LAcMmUy8dHsN5Emx5v3YejqIz75Juh0xFq/V1ms6vSZG6taHdQBvaq9djzY6zI8wN9f7dbYknQymcpeaf+Oa7+xe5+V1c4RYawyq9WqnUsfousc/CMbeqPEgwOVdZEcjYOA3nEYMSph6LAZwJdPQNNZT7RkagwTKAHFm8NwTH9gzhu0kjw5nP184gH5JvBhk//F6vSBTpL1AGkL8IEOzGl1wIPkMNZRTyZekv7AfK4/dPBAfUB9YM4TE/6cpw6bMjqDTwabdeM1QL4JV5Bs+AI0JOk3uNFzsFcfZR1sSQ6oWuc4mXJDP0nnJ4e8fuistg2FRtZwjIceGJ1QkgF9QNNTwqA3ZaNOZ9B0+VRPouigc3OgQKYENKAH1Ae0gT/qSjxAkwF6YNSHzuA7dIp31OflsMFjB+jBVwc85YA6HUDPgQd05/xNmlxcSpjL53W+BpKUT7hYh4f+kCkHT6kO41w2ORyrZKKTrCdZMtHdhoM5MNdoN/OqgdwV55m9w6+eCXyt90WIZGqMjwHqI1g0XxKURLVj6CoxlICGL0aTDdCF5NC3+pAr1cWjFAvsrfbXO1yvt76TQ5L1IYts+FAO4IN+KdmRKecYvOSm8dFLjvLxBoatEvCTST9JH3D9SibaDpJk3S8yWFaqfNy+OUhSyYRWPfKnDRhMNOifMskQrX0k6U9GFpZTydCgJwRNo51jVO22xJ4+c6aX7hb7+JDHRLv77SKj+fNhyTNNrgG2SfryW23TMJDBPo9twmoHP0kfqNE2nWa2TsCoJ2nhTLrsJGT/zG4/bA1f+GznNuJRp6Nsp1TVE7nfzpMaVu08ar+dM+3unS6lOvpMq6/aedfu/pk6fbqdg1Xr7FJ/p3LkZ7m1VXJj4PbbHrhq50pKQOOLYbG1aB72a7m9bO2s+vcx5XLAnfn9lhs2MOJNokut4Xb+ZQK0czPnWctlC6ZJRjuN7H+9rcX6LKjnrAvaP35b0XnsknSaTQuqXC0qQRuLSi2zKGWSPk51sPElBjthLZosVWjfSFMXP2iH7ijRCzfi+HGnWOMGH5KsJ46k3nDjjS1pqz7I7hLTN9GAPqcaATTnylFHJy2yavlrg6NOp1Urmfjqx4EO8KVM0hPAhzobNKABfyA59I835EnWbePrv0QOrCSzTSIy0D4Zex/O1G822k0mX0n6R6nx5SlJu+m913PJjp95iWavHLI5jQd4cz28JIrChyS9P0k6n81AZ7R/o65s1f6XpMRbbcPXT/7QjdX/0HTmkIvj6pv8rsMpJ7Dp3CTyzLGvZLu7PRh74P5eVcfBhMEzo0XEDyTpnUbXMXuktuhDMumi52ALeEnaOrQq5xPJTfX5o6sENDvlXls12NVyUSZPEqKOZKLnNkl67BF3gxURTpw4q06f3q1bnH1uWwmq7KTyl6TYy1eSkmj8E9snanu5XdWWMJOu2iaeVvQdJasqqLbhJ1O7rdr/kvSSDDFKdDLJkkyxtnLRVjVIJh49SKY6GSTB7kjS7QdfG3Mk6Xr+JRMtZpjzBj38JOl+k6nsh84k/eO5Z86c6QnTkL3Vw1hQl1SlhMKg6QGexuagM4CPVs6RpFeT9MB6pf2jC/xCY/W/5FBvyJXJIb8rbvyjww+g56CaRLHuvwodJaBNJPaew/qIjcmUpMc9EiwXg1aOndTkU0/SJxmfSfqkHPxRJuk79byeTO1U28QiDmWrdt25/+PsknS95LBMUrZkKtFzJOl9S9Jt62DTLhxUe7FZ78zZvz7RHAbtcRIJaBNMIj3/8oDZg+S2Y5bVy3EZPDHwpRad5lM5wHZgtbtXVgeyEVAyJVx9gI9O97XLOnQUi2VbHA5kzWFbKPbbOcJui6n5b7Ky7Mww7mHRBfHMY9AeJJkGvJWpqoFFqy8Xi1ouFm3BTj8kLtt5km8bXXzxxWVVP31qt8m3a/fMfq/vbJ9s9sumv1Xvfc/76sTOWXXy5Nm1bCsb26R5b6ukFSFJH0ATA5JUMkEdkqlebUvS/t/8n9yRKpOsfeEBvvLmQJ5kHVOSsiU54is5qM9W5LkeehP9obqJZmLZG000QCfpK50ECWJ0HG3ADBwaOMZTJlF0JOlBqgy9ZOIlwe7y5OjEI0jSZWhIDuvJUVpsdAaSSZ6ks5L0BOoLXUjS/ScpG95xMSbpK50vy/g0sNWMnu9Q+toau7e85S3ltzaT9HbwfOMoST9Hs/PiJeltsq+NLZlkSTYkh9Uka//DX7Xtn+Nv6CiT9DiSNOvpDx/UkhwrJzsOSY5jr3ltp013KOh5IwYkSVc0gUCFTl/N2u68u7dqV6WrsqrdeKZdwVWb4ov0RLDfXiwLlm0V4B+S9PaqbclE44MVCJqo6yRBrukknW7/tNRl7KBXNv61aNZ6SbNtKxPbbJT6pH9K4CaJoh/m8Miv+ejH6mUveWm9733vK30yeXxlzWnFXrtKt3Oigb7DpiOC1esWZ59TNVvJkkP/GkrS20JDcijX/uAl6fnVZ0gO9ZKJroMtSetueo2PZKKTqeyC2b9k4tOFIUom/qhvlvoH+HM79YH1DVtBw1rQBkOSJBQ/SQ86yVBZ1yXVKqgkTG6qM+cLZgB/Dvx5HY0H/Cfp7apDEip9kJJDujNn/+iaDAPqQ4zmGwYvmXyNutIphC93+JLupz71qb7a45lg8uQ9G94U5Eshvo9qxcOXP1epw3+S3gc+ITlaxzsO4sRXzoGXRNExl83pLmz/5rw5nUw+8JpajzE5npdM/E295JBPNrCQCMBIJiUTzF4JGjWJkpR7aHvtRE3iwMp2Zq+dI7kF0OR7bf2QTIPJLkmpA/9KfEjS98xqG34r1h1LchOajRVqv7WFTiYdNIw+iCtJn3j4wKY51EQrsm6XrA42fUYmUazjprOs9JXZeaov437Hd3xHeZWU1wxoT/xydec737l/dc1X2Lw2yze55M5Hv1/72teW1e/Nb35zXw3ZsNUYGrQ1SjSQJ1nHPOTVNvIklUxQb+z+l6T3QRtJej4I5vbqMHSMG3ly6I/P5LA+dOZ8PgaSDLKXQ2+hxjkk6R1KpsCGUnJojDdQB5u6AOzZbuTutwmXpCdAJw7U1sXQ1yZmMumqkykBTQ5JFEeQTDx69AnRA+qQpMeSHJaDrxz6Yh1Iss5FHWxkVrA73vGO/Qs1vsXuu57sTdTx5Q+0iZekf5fSIdarFnxTfHyBl41zYyW/SY60V7ONzugftvoA/kCSPrmMw1yOtiMqB/g5DkM+SjpzWqyQpE/e0fbQUTcXRn3Y94k2KoKBJFg96E60f0cM3ZRaLXpD+O12WtOthv2OzmuTjZpVrteb0ggwmfw3t2sfdFLLqua3ZluSPklmrCNkkl5nP9AZ7V+SbptMZWOt/5LU4gDJoXzTR7Vt8FwEOASaSL7O5ptEJtf45vr5F17QroBX6wnjm+Lk3tfmu5VeIuO1U+5NNrdlMir5MzgjP3iQRNF97rd8jjiUXdD+Jel9bGTPJT8GWz3JejzU5/75GGADdIA9DLkSX0nPRFYCvYG0Q44nDaM+bNj1c7QkfTk3yXRaWRsbYwZzDBU88lFHD5ABGZ4ySR+MOtjI4aB6bJFkzR+6SXqSkxyRDTkmWrvKUUeDOiTp8eAN1ME26sr73e9+5funJopBU3/Ywx5WJp9Jda973atfYY6Vynsv5FJOnbdZ1bwyywRL0icGGX9JjkwK7d0cDkLrfUcPPf0EvDlMCJMjmfI01ycbGHy2aL6U6oDG4wvU8WGTTtL7R5/syERL0oNPppKDgUm52u2oNm1r2pJ0op22TXtdO3/yPNAqBvht2ahattVvkT4I/HSj2b8k64Eum1XtGKTJoBW9E5u+jqvjrdpqCovWTrdvcSrJ+IIkve/oTb6VGc6/4Fa1356RnnX2iepXx+256KItwidObNd+e4aatkuvVu1x01aKnklkQLyh0Wr4gQ9eVe9577u6rWerfHz+C59ta9Vks9eesbJbHdwr3G112G++tUWhNwAAEABJREFUwXPYOdpdxH4fkc7p3VOdTovH/cQhU4LnuGIBE2vVcgD6C0kUHclEk+/LXdMlSNJztGgXipAEu/OSicZYVKqlYj1G/DT9RS2Xy34FRWmOJJWks5J0w145+MfBHE58dQRGgEPOpDXWJ1Qy+ZrLyOf1ZGoXP8mROJJgdwwbZXLIJ0ymepJunwR7jeSwzp5AOaA+kEwx66MVSx/pKZ2D0dPnMYhymqTwrHYPetCD+qtNfUOcD7mg65zPhHQfkw/gdxP4gK88DknW/dQuDL3j7JJ0cZJup5JEcSz4EPe8b/qgnWTqK8Mkfa7QB7z+UH0YYhAAeo7kaAB0BjSE1qjEz4E3wB+9AXVQp6NUT26+LTqkQHcAH60EdOtt0UvSJ/iaX1VJOmpjo3Pz2G8u99tOuWy2Vfv29OaHPjfyYCDwrexWreXB6nb2OSeb7ap/KMFEo2+Csh12SbC7X/ZkGElae4eDR38u0ybQBbIB9WSyT6LafSUTPdcjnNeTdN3BHyUd9ID6PCZ8PKtaX92an8WYZBST0OkJoagySnQyydFANsdisdUDwzsy2VYGaNUeSJ/uiSajw0cy+dQ+3gAZGn8OPLJN4M/10HhANzkcqFFP0uNV38Swm5dJ+oS1U9TBlqS0laTL6Mup0uAPmVUwmdqzguFbzapt/NFlg68OaLym0v+S9NI/fPIB9QHyJEf6lkxxDp15SX8An09lkt6nJGWbx0iun9vb2/2ISD5Ahk6ytl+4q7/XzhJquSibDi7aMZiTYYAnUSOAtZ6rRCcvDeNq44YbTtWp06fLHnl6r5XtfGO/ncvstvMN/vhOUibbsk351d6ZWrQzPHDOstf0lDeeur7dtztTzjeclzjPaHtF7bY78P0ssfnY292ttld0bG9tteeKO+U8bNXOK9KC1IfkaIL3m0wMTdwnyIjJKkMGeEn6OWUy2bPZ29uvnZ0TtVxutUFs+Wormra0KRb0vvhaG+jJpmW36clhkmY3+RObdrQ3Jp4cs+FjuVjUouW3nfL1T4rstWep2thaLtsz1b3SZhLdqGGvwh/f8isG6LpNuGrOmtum37LtvK+N+2Kr+Wtlc1jsmlr/M4EQ4hm5qWoRtWe2ybLS4BzcvVQ+0FkuSn25vVVAv6PNj5Yt7iYITtCSwjmucmdnp5atg0mw+gDp0EjURB8mcHv7RF+5Tp/e7W8DYuQBfC2mwVu03gK+Unto7aO1aW9P0ubRqrrtctFpeotmr00xofEMkkc+7AefP3p8ofVNnT7g0VeyQftkBj1+QSySzj8/7NwL87I7/VenB+pDhy91fLb01LXFP6D5pgNs2YkBP0mb2DsdSdavkqenH5BMOWKfpIaMD20An/yJAT3aHTzjKzYyftg4rKNBbpTaw2cH+Oz4S6a5wVbO8IEd3cVWFhaNSnsOJ5BkClzjjDhjqBFydcagztlA25F7R+njsd/a2mmTbq+SZV8hdj0jbSsRf6fbo4b2V6sm269FJVMyJYu9tuj5VG211YTfJKVjZEn6G3/EAezERUYHT11yxKJ0X0tJro9JervaoWOysjc5xMCnAZAsNt627fGTl/DRx6cH6uzou8rES1Jj0PlN0vJxpu+AdMSj7SR9B9YePX6BL+3yjeZTv9TRbJXslMBeyY6Nuj7LBZotmm0ytYtvVQJ8MWuHHT9yT0fM11336TYG7WjVVu8kxZ/26CvlFb21tWiLw14/ZVpQStIY041GTgWhlDQGjHVaqWH8JETdTmADVrGpc9t17ac/U14erA02dJJpovAFnJCjBehxzd/8zd+sJxAbcno6n6RGfGR4SrwxSfhST1KSA3T0Qb+U5GiyJH2QtUNWbUOTsYMkfUK6j+b+mT4m6Uls6j0mJRsQiziG7aD51YaJYdL+2Z/9WY+RnJ3+ex+uT4LwRx/E62G+Fx6PN2rj80VvXLWKa0wK/pL0Sa09sfCj9BxW/+nLO1/0yUE8yeFOgsev+F74whf2RQNP+/h8ob0L1ydc9F9c3kOsnwsTgBKjZEp4kv7ZK4oaXLT6Dddf3wOmJzA2Jt0IkK6G6C/bcZzf17/+9fV19/6GaotYrfangdJJx/H9WrUzswl02d1w/ana213VAx/wnXWLc25Zq7Z7wWKx1SZClRub2qErDnQy+ZUwyRy+kpTE0f3whz/c+7PIVlW7PycWZZJiR0ef9IdNMu2lzUOxoa/89KeuK7ADveud7yny7a0TvUTzOT6XtrXc6bYnT5xdZ07vTTlYrcqgaFMeTFoDsdtWeP0Rx7nnnlueJCTpk/fEiRPdxkQi8+NkPgtHv9omXjpuBFtt1PXluuuu628xR3tDpTa32nms9v7qr/6qLwBicbPZ2zZNHv33PPa5V1xeL335y+qxf/WX9c53v6vHob3lMnXNNR8tk8lENaH+8A//sLwO1sek/u7v/q7r+uGQSy65pO+Edo5LL31GLVqsJRiOdF7QgjrnnHP6IxKdByvHkOk0njp7s5d8DLLE7eycLK8J5VMH6CXLNnlWlUwDrB18dpIAknm7292udEQi8LQngSYyfXb8oumIRR/w6Ksn6QOkX0nKQ+1B8zV0lMMPPtqbqk1qvpL0PCQpOfE6dT+347eakhQbcRlkpTi0oxz9Zjdk1bYkPQ9s2GtLH+2YcolnQngruIf3/Hlb+FVXXVXvfOc7y+9JkcvR4x//+HrpS19afgUG2JpkPidnfEwE55NJ2s6638/zTGSTldxn7DzBsFLxb1L6PYe73/3u9X3f931l8sjDyLkPFTht4MMzX4d+T0f85oHX9JtkPkzgpX764w2edqj+ZOCjH/1oaXC5WJSV6/3ve19d3TrlKudk26MMILjiaRmq5WJR+JJiGffxGJNLMpU6YEBe8KIX15vf+rbaW1V5B9fHP/nJtootWr1NtLZa7TXst7m+3N6p07t79fnrv1BPf+Yz6glPemJd+5nryq+AnL7xVJ114mS78tqvZVsp9/Yc4rda0qrOOnlOi+Ps2tk+WcvFdseJnbM634qCZzW9/e3uUF99z+nxUDKt1gakjXn5BMag9dEe7dDthN+AmaDvf//761WvelVdf+MN5c3c55x7i76n69MlT39aPf+FL+gxi91KfePpU/WUS55aX7jh+v7W7ne/9z3l3NTES6YBT9LOc3ZL2ydPniy/3HLRRRf1urhMdq8GlWMP7j1dOHXjmfqqu9+zvuLLL64rn/eCOret+mkr9N3u9uX1Xd/1PXXddZ+tRVv9X/j8F9U9mt4tmnyvHSHOP+/C6qttWzlNjJ12cac0gfyw2Wte85p+tNKWHd0O4NmsCWUyOwJt7WyX8TXhTHx0tfP6W5x9TrGTO7lke+bU6brVubesa6+9trTVbUwK8DJdDI2fd955/SMtOozHcZK+FNKls9uCliB7gGRpOElpyApFZqbf5S536Yena6/9TJnxN954Yz8EsreaWJG0o3177d3bnmS1YK9de66kG3jLs/bZkEmCc0BL+FOf+tR6wQte0D+UaKI8/elP7yfh/Nq76b7yla/UVF155ZV19dVX97gcNkwofdIPCdZ/e2KSsiNZEeyhfhnPK9S9JJlPseiDPnuztTb0XT/t+fbkJMWnhsWs1Jb+JykD++QnP7lMstvc5jZ9tZdLn/SwEsqJ1Ua84uLDqmHSyqUB5iNJ74/ceKmzlYjc0QEvSWkXT9zstWPF9AuA+seX+PRHv4w9HTwyfWOLzyfaJBOTCXWHO9yhH5LFY5L5kRCrtbz0c7Sz2h51ztlnrzvJseWPUpK2iK16kJwxcuiwh2lM8Hj2eL84ogEN+9zVBz/4wf7zhTplZXjr29/WV622kFUtUiaQDwg+87LL6mWveEVb/d5eH/zwR+tOd7pzmwwv6Kvgq17z6nrdG15ft7397foPhbni06ZEiMdqrB3L/DXXXNMfcKPFJCHOQXzKgq4TbLGZUMmUeInkC/RbXaJNdIm053vHroH3pmsDboXT9yT9fMqEGvp2DIMrJjra408p7iSa6blWF6Od0eHQQIpDrHKmTCZ9E07/xMdOH9BKDsWqDfYmIp9J6qEPfWiZJPiQpP8KoDG0ilot/WCI3Nip9M2OJa8+Uew9cJ/+5KdqUel+tGGl6+dlb/2HOveW59SHP/zB8pz3gQ+8fy9f8cqX1b2/7l59BzMRv/d7v7cWkiAAAQvIBHKs5tBeK1lDZm+QECuOlcKJnk5Lrmd4VjfHd4Gef/75vUNWIYPAxoyXEDYSKXlKe9T4ZY+v/dqvrTe96U3r5Vh8nhXa2/kx+cWWpO8A2rE38kkuBqW62O/SVlSf3dc38bOVKLSBomOw8ZP0Qxe+QbcSyQ2YcPouDquu2OVFW1YcPtglKZPSjiovD3nIQ/p5UbVNbpO0wZgmeWN12rmsc6ZnP/vZWP381A4lRr7tkFYph3Wrsvz4CSCx27H5NQnFYzVlYyL5fVJXqc7hyOREA9rzgx3gx0JMTL/pYFWWb0cifZAnP4l0zjnnMOuxyoXfQfXs1rj54TY7Gj5b4wdypz35h/4tqCT9qkyyKEikme5qTfIMErz3ve+uO9zh9m2mnltf8zX3rIsv/oo2MGkT6oJ2/2y7bnObC+uTn/x428tv1Y7ny36otNyb1SI1SXTYAPDn7rFjvzvL2yd2+jmLJf/u97hHnWn3aBxeDLCEGvjt7WWL84a2Z+22w0R7orCs2tpeVLsJ2HF2e56ovmh8zxk9Xbj8iufUV93j4rrr3e7SD1P88GlHSVJ2CnS1TbJa0RNqD7fT0Be3HWLvzG698Q1/Xy9/6cvK3v6G172+rnrf+8seT/axj3y0PvzBD9W1n/p0vffd76krr3hePfPpz6jLn/Pc8kt0Vg551Qa/JoRDprwbDDujc1sTwEeOTDQTyngYtIf88A/W3b7sot6ff3GH29Xe/pl65M//bN29jcMF59+qfuKhP9bpd77r7fXTj3h4x8898mdq1Z7OnNk91S+O9GNMCKUdR9voW19wYV1w3vl1mwtvXTtb2/38Ct/KKt5k2rn5O3nWNF7L5bJO7OyU83lPNLZavdqGr83TZ27s49q/BaUTfeCbkoklIc5RzmkzGT+ZGhCkQcEz2yVKktT54Jy9w4al16Emmc7tyK0aJo/g2bDF14kzZ86Uk1IrhcE3OQ2KPVs7VkKlQ2HrR6mzE4/BYa9dq7GJzF7d3uYd+w7rJpLzLIl1ie5czSqLz55fpUOtlRL/vve9b29LnE7Oyb71W7+1Hv7wh7cd7eJyWPB+fv3xa3YOs1Ygq4MTbXp2Nrm0AtiRTdxkWtnwnM+RW9XQruaU2rSyiEVerZ7Of/QdrcQHuVQXv1XdOaqrUOegPgcn9/qTTGNpHIwXyJW+o5P0CcmP9vVLnrXHHvD4A7QdQskHOX00JGkXKAuH3nY111aFU23mwate88q+Qu3unm7nO59rVw6+hNFWjXa9eFG7KrJUv+QlLyn3XUwESfv85z/bV5qPfDAkjG8AABAASURBVORD9bGPfaT22vPLq656X11xxXPbBcSN9epXv7LdGjirTD7LvqDsJdddd13vlIER3F2/7G51zSc+3q44P11f87VfXZ/5/Ofq1re7bZ1/6wvrI9d8rLRv0HRGu0nKCae9X+IcBu7RVkOJ98NhDqkm+8Me9rC6//3vXz/+0B+tL73zHeuss0/UD/7Q95cJ4jBgJZFUCeP79re/feHd9na3rq+8+MvrFuee3VeF7Z1lWUnOucVZdcGF59VyK4W2d++c2Op1Oj5j9uqWx+de/ux6wQuv7DZWXRPAhBKfdpRyYZKIP0m/gFE30Mu246Pp2snp4FXbxMqenA+Djm6inhMT3U7g1oVJwnZ7a6sWrY39drRo5x1V7arRSnxy50QtKkwbe1X8aYdNZ7Z/xsdKtlhWO4ot+1UquXZBLOJEJ2lzYK/7kVd5WiyXy3LnVjAG7253u1v/GWgTyp6lg4w1bm+63/3u13+ixpdoDTyeAaNnpXCudbt2H+yHfuiH6tu//dvrIe0cRWcl2B7uXE5CtGWymRz8CPLOd75zWS3EYMI4hNzznvdsE//WvU0TyrkPezGxsbef166SxS+WE+12DL8Oj3hDr+WqkvSr4iR9QAcvmfZyueAThkwpoUo5oKMOybT3o8VERs+VqQsS/ZcvE55MrCaImMBkStIPUUn6IcbqIu4kXJWB0i59DPUkfbC1W20jb0X/Ezu/Z511Vrelr05IH/DEw05p7PDVwaTBx6PLFvhW6qt4kilmOcejyz5JO3Xa7jHia3+hEQkw4EoT6IHf+aC6172/tg+6pduk0PCqXS7e+ta3LZPAgN944/X9vIyOjl146/PrvPNv2RuRrJ2drUYv2+CeaJ1e1DKLfj9MMALdantYkrrh1I3VXLd7aWfaudlu093Snw5BCtYeZRB0Hk+nB8j5S9Ink7o2ODCwYmEjga5GyWDYoOVBG3jaEBt9dhKJx596Mk1MvCStj9vFTrv80GNjB8Dnn298eUIn6TbJNFnpaI++mPnmT5mkbEnaEeL0etVhY6ciA/lgL0YyY+Y0gg4+6BfdgSR9QtAlV2q/2qYP6ifa+Zpn4vyIiQ8gEzMeOknvE161LUn3naQWSfrACqzalmQ9WMlE64Dg233adjX4ha4vKI0l06xupn2ppAsjKHyJFQianVJ7BkVpIggWyOnjA1/AJpkGmF5He4q/agJyNo3sSzaZ2NjjkfFrolrpyNkMucGUHHHQRbMTX5Luk78kPXFsq214YEfkgz+2oL0xYE2128khsMETh5Kd/CiTaTwM8mhHOWzQ/LNjw4e2BvBNZny0/rJJptyNcSFHa5PeKNH4fOPR47s9QezjKw58/aXbZW0ckvQ+VtuSKWfaJW+sakvMopaL7Q53jz2X223P5hq3TziJT1IMNOp+SbXzNZNOg0lKUGTuxvOB1ggk6RMTbdVylxktYHrVtv32VACy2q/V3u56jz3TbgqDybTbzit8dq5/nS/VrqNWhT61e6bI6NBFN5ftnPFUOy1q9/+yqGUx2O8n9dpM0pNGDwycmMj0UxLV0YDWV/1EAxu2aANDT4lHF/QxaW03Jjn7RvY/cnWgRw7JpE++WFb5bJ6ydaZsy3aqI84klaTnKploNuIZcjQkYVqLtCcqe1XLg/Gmn6TLklQy+cMYsqStom1MkknelCpt8BfLZcn5/mrV66tmNNptZFOb9PnRr4bFkeVYR5xP2fMkPJkMGC/bQ1VywZuAzbgPGDpJP7HHMwh0kinw4Usg/AC5gVFqZ9ioC26ADPhgD2g8OvT3Wpd9Zg2dhPsSR5J1mUz8aluSdSKSiW7s0jdgC3h8DiTp/oas2oYeNq165C/Juj58YCQTf/D0A8jmSI7qkSVZx64+wJdY1NGAhiQ97mobPjSyT1LlwOAnh20kE03HZFLOkRzKk6xFSdZxJqlFtU2ikmlS6LBzr2qrlsEnayr98LG7u98mVpVye/tED9TAW57p6GiSPnHVq7lfLNpetN+oVpKPvZedjgFd9STIHmAnDv7REZd2z5zZaxN6wl577tlW7RbTfo+PD3pKplY8k1Adnx98SHKTdvAH6A4MHj+Dxx8M2eCPuhJvlINWhySKnsNOtH90oJHH/iWTzbHCA+bcftDKEWtyUx9Jei6SHHg5WrA/yjmsHZE1e5PRKge0yKHfR7OyCMQk6My2NCZpE2q37wlWEJOOHEwY5xBJSt0AJOkrAl3nCEm6bbWN71b0Ov901JN0G775IKuDLcmRzifpg8IXXSsaP8rBOzDteuhNf4M356PZKwfUYdTZQRLFOq7ksC4nhEluIsef+0qCdUSPPZ0u2PiXTPrYySE99JUDdCBJz3e1TV+gkes/+uvKjEgm/+RzDPs5D810lGgYdSWwXbjh6UrMZDOAJg7lJH0SUCQzoOQOk06aPfZ4wQteVFXtNM/JVyutMDs7J+tzn/tCPfvZz+0DnqRfvg97CQWTS8nfXjv/UteWoJQDR+qttTY67UBZ7a74fjknAyudle303n7BbvM3sNcEVjUns8MnNwODp0zS3B8Cj54SkvQ+iQk/mepDlhzakkMy8dAD9Aed3FQ+ZPMyybqaHE9T4BvQx2FTpv7FwEeSnhf0AJtBb5bJpD9Wt2ZcC8/OTDTJG4OdpB+OOBtXXpwlkwNXU3SHjJ5JaJKaUO7su3emnkyrHpqNyQV8aNOhmT2MNpSAtwl8wGev3QErHIgBhpwusIM5rZ5M/cIHPEiiaHlKXx3I+FRW29CgfSX+Jppan5zKZPKHhuN0N/nqA/QHPS+TyS/5gHgG6Mq5MknvT3JY4m9i+EnS+84er2bbZl17eAMz1Vq4NPdME9Md49OnTiH7KsTQIVJpolx7XXsCcHq3lls7deJku1ueqs+2u/fvu+r9/ZMWPof19ne+o8674Px2hreq17z2dfXCF72kbrjxdH3ko9eUB70+IWAVM+mWy2UfhNWqrTkNGk7SE4HeDHjUN0urlhVMCftZ1G7bnZR7lbYCLmp/ldIPGPbaGEhyEEszHMxjSjFLejLFmaTUq238tuImf0k6L5lKleN0kymGIT9Oh2wgSSUT8JIojoCPgSOCgwoZUgnoOfAGWoJq1Y4QUO1qE3+ez1HHm8OF2sJjII9cOLe6+RiMZ45WK0nFT1KefzrMethsspgodDw7dH/Kw3AJ9zETjTi88uMuv4nFxp398bzSyiMw/tlZFdTZjhI9MOehgS2g2VvFAM2/UttoJb25P3X2A+KAJH0AB58esFXiowGNh04muyTYHUm6r7lf+l248W/wR0mMBjQkkz/0JpL0SW/cLAyjzWobH2IcGPVR4je1I39kQCaX6AG8QY8ymXaUTZn6wpOAdte2rvnYx8onM+54xzv0DwUaHM6T9E+h+hiKD/zR9zETEemIxy0eAJtsOpdMFxHO6zwSou+jK54eCOhbv/Vb6oIL2nPCdqvESua+nLYkJwm3feWhCxhKaDtT25HS5SaODuDTQYtHeerge6UmHXnfo9oFjv7QATZkSjbHQUzk9NkCmyR98iQh7jQdleEHDepsAI2XZD0hqm345HxoQ6neRP1PHHSSqe901GHQFIeNEl9ek/S26K7a3cf91W65N6cE9+fUh0x5uj339nwSTWexrKLHB1TbkpSVzdwRL742k6zzod5Ua2e5VQsPepP054kmy1VXXdUegJ/TlZO0Wwln+ju+OFq2Q53HKm5ncGIyaQRt4JP0q1DnXxogM9juy33owx9orP1+geEhOl9s6PB35syZPoFWB0uyshn0vyS99A8f0CAuwBslehMm237zTUe8A+r8JIdtqLMnG1BPbqqDPwfb45C0gTlof/iUGzT9ZNpBT7RntfhJej7IHTmSo22zGdA+Wp+SlKMNnvHhC1++lfTkPEnRMVZJ+riQkw17dDLpJZPO4CXpE7gOtiS9zkcy2fAvBmO7WO3v1mc/e13/lKSP4PioCqFJYIXS8RMnttud9hvqA1e/v77w+c/W+9/33treWlTtr8rT/6yqfLYfzr/VefWP73lvfeCqq+tDH7y6PvHxj9WX3ulLyp1/XyN72tOe1iejQ66PXkuARDrU1mxLsp7sg231a42Oai91Zt9S12pKGDxXpH6MwwqnP2TO5QB/yCUHyNkOqMOoJ+nJTA5jSybaAMx1h03NtiRFZ7DQ9JL0QZdvcbo9ZIIk6U8zkvRbTcNulGzRSRT9vBohn/rTB7it5En6fUYx4ieTfpJuoy38xWLR20Gz5WtOJ5PdaJccbWUjAbQx5ZN8+Fm8/e1v74dK504+v+WzW87FfEafMkUP0E1An8/3RRSHSl9EMDk8tHVB4XCqUR/SMznJfvVXf7WvlBLoBXQ+2+XjKz5zdpe73KV8skFHBCY57I+DAQGyUSa6VX2A8IEv8jn0AUwsgwj6BPRhrj+n+ay2JekTjGzojxKP3sCoj7IONvUDsu9A+mzgk6kf5HwkKTu8HGlDvPTIhg4ahj9lkj6Z8OnzP/jJ1EYyTSxHrmSa3HLDxhixQ7NN0uPEgyTcHcl3cshLJn/88Lm9vd0XFDEzXDziEY/on9UykXy0xUd0fZzHh/yS9D3QpDEx8MkF4qM997//feuWt7xFOa+7xz3uXidP7rTD7ll1r3t9dd3+9rdtsltqo8Mh14f+eqX9E4BDqo7NgX9cfZNPp7lZd3xOkwEeoMGggQEEPH77IbUd1qx0rlrx5+AjmZKKhuRoHW9g2Konkx6eunJAfUAcBtQAgTjlGc9OoRx2ymGHHuDDICvxDDoakmks+eIfj66jl3a0x4Zfdsk0cZP0CUN31W5Gpj85XtZxJbnn3cv2TNVNhJ2tE3Vi+2RtLbZr4fxIwxoz8CdPnux7b7UtSR9Iq52ONlaXnTg4j2AzbJWC0YERsMHkDx/mPnQwmTqj80OmDfaATqaBQg8eOjnkJxMtHn6SqU5fPOLQ/l670YEHeGT4IAb8TWhr8JJUEqxeJuklBp1kqidTiT9HMvHpaltJnqSfI4lDXNU2b/dWpzMGPpnsk6NlU+/jZAySSebwq42RDzQ9dSW/xhE/SVlBjZUczicd+YgJnYR5b68Ts3/GVMzsfd9EGyOvC8aEmBwCOjHJ9loC0laqk93xsl0p+tW3/XZet2pTlkO2fKBHm4KdfKz6ud3OzlZb1qeT/dFRumy3traQfeXsxOwfHzBYutjRY2snhgcCOpCQVo9Vfb9dYcHu3un2FOFU57soAJ8E0b5EjFI/BlZtheNeOSA3MHSGXB1fXf8gOYwFf2DI+Bw8tJwZKKUTdG/+NlnkB8iS9ImdHJbDh1Jf6PHhlCY51NMu8GWsTEqnK3TdsPfFGIdsOnwlaWO/7AtLtY3efttRa5HOSw5918EmB/y3xzb15je+qc45eVb5HNvJ7R02ix68ZEtYEsw+KOr4w4EARyAaRicpm7qSPj22EpikP2S39+gcHh1yiUHzA8nkix96A3QHBk+JpwQJwlxbAAAGsElEQVT0JviBZPKrLW1Cp/f32gX/qtoRoVYtgcN+fvhkD9pI0nOVpOdIzPoNaDrVtiTt/+GEH3wlPUjSfeFBkn4iztB3INxEl3d131v1+f8RH338Uc5psXz84x8vH7dHz3XogcnAtzHZ2dkp31Tz3QlfxsE3TvS0J1Y0Ppot8K0+SrRVTF7x7Czsbjg9PQDoKxqHjJOps74vULXfVqG9fnwWbGKFW/UEa5QNPlQt2m2QvSbbanvB9rrEH3BhuLeqglUWjb2sk2efU4ut7Tq9e6bxW3ur/VZftpZXleWitna2O3+xRfesWrbVb7+tNEn6CigGy73Ypziq85fLZdnaPKo2g8p5wyJbbX9c1G4LoPWills7na4s62PXfKI+8clPN9VleVbqEyL4u2f2u/3qzKoW+y3m1aK2t070vCTpbe2156rVtiSVpMvEslgsuhy91eJOJn0x47FbtjjpAX6SvlM6VUnS7gR8uNfdi3QR1ZopNsnUDjsT5UQ7lVEmKQPtFOh7vud7eix0+FZql+5YCPba4xM5+vqv+8Y66+Q5dZc737V2tk/237W67trPFrzyFa+u1X5qe+tE3fCF6+u1r35NfyWDm/HitNMa20996tp6wxveWB/4wIcqbbzgJS9/Wb3sFS+vZ1x2aS2SlCAEo/OCEbRglNU28qQ11q4k0PS2WvLM/JPtnC5JTwBbiSAbOtW2occfGQxdJT6/DhW+q+BphfbJ2NrjLOt8OqckO9GSy489x/c23/a2t/VB0T47unyCQ4T+KVs4/S9pA9+m3pm93bInu/q2kpnIi+2t/uULtq6ok/QPWTKUWDHwrx3tiXHQSnGxdQGETtIHXa7ETYZmh2YDSfp3QN0Yd+Hkuxd02FxzzTU9x7u7u31C48mbL26/4hWvKIdKup4z+/K293a4Xzn86r8J6Luevln21Kc+tduwc4fhwgsvLN8UYwO+2G0s9NU3qZL010KY9L7bIV/86b823JDnw9cB9Fn/7vk1X10m/FUfuLoWgnO5K4lopT36ZHuW6VMRe1aA9pzw1KkzTbRog7lbZ511Tq0a753vfHdr/DWNbnv8YtEToKPul2msGXSZ5FhW8bVloriV8ud//uf9ZnCyrDT4er6BlMA3velN/Zvp9hpPFnRGp0wsvtUlP0kZELdkTFQJ5YMuHRMCTcavPoqH3tZi2b+fKWb2YqPPrpaL8l0G79twPidx2vvkpz9V13/hxrrq/R/o97g8svP4zaAkKf61r3/eZ+Kx3t/+7d/WddddV77e9+hHP7oPsPMiX+6VC4c6fde2T8VoZ9lWO98GJ3cT/cUvfnFfEEww8cstuUnpq4/awTfp/AaC74M670rSj0r0+RWbR473uc992jie1V9+4zGhCeLWlHb4s5O4ZUXm225yYqeTe7omGZ/47m86Crrfumzn8XjilHN5TlILx3KJWrSJIlCJqrYNhSTrDtKptiXpe6inCm6LcNzYlaQHb/VJJh18jQpQabDRgmWnDs5B7n3ve7fHUxf0iw9+6dujDIAE8WUA6HtAbzKaHCNmg+n7mvyLwdts2JgE+jn0kvQ+eSWACWaiWUFMYgNucrtP+Nd//df9a4XasEKcdc7Z/RfsLrnkkrLXO3fSjvuKvn4oZ2LVjoGwUvgeqO9u8utbUeomjoHkV6wG1mRDe5Z8pzvdqawQ+s6H86dqG9/a0H8xsqFnMjzgAQ8ofTGGdgpIUvrORkwmSnPTb9JedNFFfQLqBx7wRce4yP2Iz7iDMbHTm7APfvCD+yJCly25nUIOtZcEu58+kC3Mfl9xEyDG6IyGQIAGdxx2Bk0mwWYtnST95S2CEKxWBp9vAV3/+S/UTjsnO7lzoraXW9XWwF7/6Ic/0r/JfZsLb9v4O3Vy56y6xdnn1kXtnMG7W92HgeVyuwVe9ZnPfK51Mu18ZL+tICc6ffXVH2zPZK+r97//6nYofF/nv+Md72phLOrcc29VVl8J0EexmLgf//gn6+KLv6ru+mVfXqfO7LZ7gOe2gflM3dhWb59O8Qnd7/ye7673vu8f61bnn9fk55TXM33gQx+sr7z7xfX2t72znNe4oe3rhXzLX2u03y4w2W51q1vV7W9/+3YkON0Pi3StEKdOneqTXW7kCfCskPyYZAZePuU8Sd+RDSS5+A0sG+2B/pl8+mcRoHeyndrga8eYeSLDhp93vPNtddvb3brvPNqwyvo6JN/ky612yrB7qvb2z5Qr9/f843vr6g9+oL9JyXtU6LHjX7/NB6usixk7oG/r+/b+ie2d+n8BAAD//4w+d9gAAAAGSURBVAMAYuW/UfdVlbgAAAAASUVORK5CYII="
+     }
+    }
+   ]
+  }
+ ]
+}
