@@ -9,10 +9,12 @@
     {
      "id": "de-hoc-them-thay-quan-2",
      "name": "ĐỀ HỌC THÊM THẦY QUÂN (2)",
+     "src": "",
      "qs": [
       {
        "t": "mc",
        "s": "Để tẩy vết dầu, mỡ bám trên quần áo, sử dụng chất nào sau đây là phù hợp nhất?",
+       "k": "lt",
        "o": [
         "Nước sạch",
         "Giấm ăn",
@@ -20,12 +22,12 @@
         "Dung dịch sodium oleate"
        ],
        "a": 3,
-       "e": "Sodium oleate là thành phần của xà phòng, có đầu ưa nước và đuôi ưa dầu mỡ nên nhũ hóa và tẩy sạch được vết dầu mỡ.",
-       "n": 1
+       "e": "Sodium oleate là thành phần của xà phòng, có đầu ưa nước và đuôi ưa dầu mỡ nên nhũ hóa và tẩy sạch được vết dầu mỡ."
       },
       {
        "t": "mc",
        "s": "Số nguyên tử carbon trong phân tử glucose là",
+       "k": "lt",
        "o": [
         "12",
         "22",
@@ -33,12 +35,12 @@
         "11"
        ],
        "a": 2,
-       "e": "Glucose có công thức phân tử C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> nên chứa 6 nguyên tử carbon.",
-       "n": 2
+       "e": "Glucose có công thức phân tử C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> nên chứa 6 nguyên tử carbon."
       },
       {
        "t": "mc",
        "s": "Amine nào sau đây là amine bậc hai?",
+       "k": "lt",
        "o": [
         "N,N-dimethyl methanamine",
         "N-Methylethan amine",
@@ -46,12 +48,12 @@
         "Isopropylamine"
        ],
        "a": 1,
-       "e": "N-Methylethanamine (CH<sub>3</sub>NHC<sub>2</sub>H<sub>5</sub>) có nguyên tử N liên kết với hai gốc hydrocarbon nên là amine bậc hai.",
-       "n": 3
+       "e": "N-Methylethanamine (CH<sub>3</sub>NHC<sub>2</sub>H<sub>5</sub>) có nguyên tử N liên kết với hai gốc hydrocarbon nên là amine bậc hai."
       },
       {
        "t": "mc",
        "s": "Chất nào sau đây là amino acid?",
+       "k": "lt",
        "o": [
         "Aniline",
         "Alanine",
@@ -59,12 +61,12 @@
         "Glycerol"
        ],
        "a": 1,
-       "e": "Alanine (CH<sub>3</sub>CH(NH<sub>2</sub>)COOH) chứa đồng thời nhóm amino và nhóm carboxyl nên là amino acid.",
-       "n": 4
+       "e": "Alanine (CH<sub>3</sub>CH(NH<sub>2</sub>)COOH) chứa đồng thời nhóm amino và nhóm carboxyl nên là amino acid."
       },
       {
        "t": "mc",
        "s": "Chất nào sau đây không cho được phản ứng màu biuret?",
+       "k": "lt",
        "o": [
         "Gly-Lys",
         "Gly-Gly-Ala",
@@ -72,12 +74,12 @@
         "Gly-Gly-Ala-Ala"
        ],
        "a": 0,
-       "e": "Phản ứng màu biuret chỉ xảy ra với peptide từ tripeptide trở lên; Gly-Lys là dipeptide nên không có phản ứng này.",
-       "n": 5
+       "e": "Phản ứng màu biuret chỉ xảy ra với peptide từ tripeptide trở lên; Gly-Lys là dipeptide nên không có phản ứng này."
       },
       {
        "t": "mc",
        "s": "Ester nào sau đây tác dụng với dung dịch NaOH đun nóng tạo ra ethanol?",
+       "k": "lt",
        "o": [
         "CH<sub>3</sub>OOCC<sub>2</sub>H<sub>5</sub>",
         "C<sub>2</sub>H<sub>5</sub>OOCCH<sub>3</sub>",
@@ -85,13 +87,13 @@
         "HCOOC<sub>2</sub>H<sub>3</sub>"
        ],
        "a": 1,
-       "e": "C<sub>2</sub>H<sub>5</sub>OOCCH<sub>3</sub> (ethyl acetate) + NaOH → CH<sub>3</sub>COONa + C<sub>2</sub>H<sub>5</sub>OH (ethanol).",
-       "n": 6
+       "e": "C<sub>2</sub>H<sub>5</sub>OOCCH<sub>3</sub> (ethyl acetate) + NaOH → CH<sub>3</sub>COONa + C<sub>2</sub>H<sub>5</sub>OH (ethanol)."
       },
       {
        "t": "mc",
        "s": "Dung dịch nào sau đây có tính base mạnh nhất?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Diphenylamine",
         "Phenylamine",
@@ -99,12 +101,12 @@
         "Benzylamine"
        ],
        "a": 3,
-       "e": "Diphenylamine, phenylamine (benzenamine) là amine thơm có tính base yếu do cặp electron của N liên hợp với vòng benzene; benzylamine có nhóm -CH<sub>2</sub>- chắn nên tính base mạnh nhất.",
-       "n": 7
+       "e": "Diphenylamine, phenylamine (benzenamine) là amine thơm có tính base yếu do cặp electron của N liên hợp với vòng benzene; benzylamine có nhóm -CH<sub>2</sub>- chắn nên tính base mạnh nhất."
       },
       {
        "t": "mc",
        "s": "Chất nào sau đây làm mất màu nước Br<sub>2</sub>?",
+       "k": "lt",
        "o": [
         "Saccharose",
         "Fructose",
@@ -112,12 +114,12 @@
         "Cellulose"
        ],
        "a": 2,
-       "e": "Glucose có nhóm -CHO bị nước bromine oxi hóa thành gluconic acid nên làm mất màu nước Br<sub>2</sub>.",
-       "n": 8
+       "e": "Glucose có nhóm -CHO bị nước bromine oxi hóa thành gluconic acid nên làm mất màu nước Br<sub>2</sub>."
       },
       {
        "t": "mc",
        "s": "Chất nào sau đây vừa tác dụng với dung dịch HCl, vừa tác dụng với dung dịch NaOH?",
+       "k": "lt",
        "o": [
         "Glutamic acid",
         "Aniline",
@@ -125,13 +127,13 @@
         "Ethylamine"
        ],
        "a": 0,
-       "e": "Glutamic acid có cả nhóm -NH<sub>2</sub> và nhóm -COOH nên có tính lưỡng tính.",
-       "n": 9
+       "e": "Glutamic acid có cả nhóm -NH<sub>2</sub> và nhóm -COOH nên có tính lưỡng tính."
       },
       {
        "t": "mc",
        "s": "Chất nào sau đây được dùng để khử mùi tanh của cá do các amine gây ra?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Acetic acid",
         "Ammonia",
@@ -139,12 +141,12 @@
         "Acetaldehyde"
        ],
        "a": 0,
-       "e": "Amine có tính base nên được trung hòa bằng acid yếu như acetic acid (giấm ăn), tạo muối không mùi.",
-       "n": 10
+       "e": "Amine có tính base nên được trung hòa bằng acid yếu như acetic acid (giấm ăn), tạo muối không mùi."
       },
       {
        "t": "mc",
        "s": "Ester X được tạo bởi acrylic acid và methanol. Công thức cấu tạo thu gọn của X là",
+       "k": "lt",
        "o": [
         "CH<sub>3</sub>COOCH=CH<sub>2</sub>",
         "CH<sub>2</sub>=CHCOOC<sub>2</sub>H<sub>5</sub>",
@@ -152,13 +154,13 @@
         "C<sub>2</sub>H<sub>5</sub>COOCH<sub>3</sub>"
        ],
        "a": 2,
-       "e": "Acrylic acid là CH<sub>2</sub>=CHCOOH, methanol là CH<sub>3</sub>OH nên ester là CH<sub>2</sub>=CHCOOCH<sub>3</sub> (methyl acrylate).",
-       "n": 11
+       "e": "Acrylic acid là CH<sub>2</sub>=CHCOOH, methanol là CH<sub>3</sub>OH nên ester là CH<sub>2</sub>=CHCOOCH<sub>3</sub> (methyl acrylate)."
       },
       {
        "t": "mc",
        "s": "Nung nóng 1 mol triglyceride X cần dùng tối đa 3 mol H<sub>2</sub> (xúc tác Ni). Số liên kết pi (π) trong phân tử của X là",
        "lv": 1,
+       "k": "lt",
        "o": [
         "3",
         "5",
@@ -166,12 +168,12 @@
         "6"
        ],
        "a": 3,
-       "e": "X có 3 liên kết π trong 3 nhóm C=O của ester và 3 liên kết π C=C trong gốc hydrocarbon (cộng 3 mol H<sub>2</sub>), tổng cộng 6.",
-       "n": 12
+       "e": "X có 3 liên kết π trong 3 nhóm C=O của ester và 3 liên kết π C=C trong gốc hydrocarbon (cộng 3 mol H<sub>2</sub>), tổng cộng 6."
       },
       {
        "t": "mc",
        "s": "Cellulose có công thức cấu tạo là",
+       "k": "lt",
        "o": [
         "[C<sub>6</sub>H<sub>9</sub>O<sub>2</sub>(OH)<sub>3</sub>]<sub>n</sub>",
         "[C<sub>6</sub>H<sub>7</sub>O<sub>3</sub>(OH)<sub>2</sub>]<sub>n</sub>",
@@ -179,12 +181,12 @@
         "[C<sub>6</sub>H<sub>9</sub>O<sub>3</sub>(OH)<sub>2</sub>]<sub>n</sub>"
        ],
        "a": 2,
-       "e": "Mỗi mắt xích của cellulose có công thức [C<sub>6</sub>H<sub>7</sub>O<sub>2</sub>(OH)<sub>3</sub>]<sub>n</sub>, tương đương (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub>.",
-       "n": 13
+       "e": "Mỗi mắt xích của cellulose có công thức [C<sub>6</sub>H<sub>7</sub>O<sub>2</sub>(OH)<sub>3</sub>]<sub>n</sub>, tương đương (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub>."
       },
       {
        "t": "mc",
        "s": "Cặp chất nào sau đây cho được phản ứng thủy phân trong môi trường acid?",
+       "k": "lt",
        "o": [
         "Maltose và fructose",
         "Cellulose và saccharose",
@@ -192,13 +194,13 @@
         "Saccharose và glucose"
        ],
        "a": 1,
-       "e": "Cellulose (polysaccharide) và saccharose (disaccharide) đều bị thủy phân trong môi trường acid; glucose và fructose không bị thủy phân.",
-       "n": 14
+       "e": "Cellulose (polysaccharide) và saccharose (disaccharide) đều bị thủy phân trong môi trường acid; glucose và fructose không bị thủy phân."
       },
       {
        "t": "mc",
        "s": "Nhận định nào sau đây là sai?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "ω-aminoenanthic acid cho được phản ứng trùng ngưng tạo polymer.",
         "Trong môi trường pH = 10, glycine bị di chuyển về phía cực dương của điện trường.",
@@ -206,13 +208,13 @@
         "Ở điều kiện thường, glycine ở trạng thái rắn, tan tốt trong nước."
        ],
        "a": 2,
-       "e": "Valine (C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub>) + C<sub>2</sub>H<sub>5</sub>OH + HCl → C<sub>7</sub>H<sub>16</sub>O<sub>2</sub>NCl + H<sub>2</sub>O, nên công thức C<sub>7</sub>H<sub>17</sub>O<sub>2</sub>NCl là sai.",
-       "n": 15
+       "e": "Valine (C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub>) + C<sub>2</sub>H<sub>5</sub>OH + HCl → C<sub>7</sub>H<sub>16</sub>O<sub>2</sub>NCl + H<sub>2</sub>O, nên công thức C<sub>7</sub>H<sub>17</sub>O<sub>2</sub>NCl là sai."
       },
       {
        "t": "mc",
        "s": "Cho các phát biểu sau:<br>(1) Cho dung dịch HNO<sub>3</sub> đặc vào dung dịch protein thu được chất rắn màu vàng.<br>(2) Hemoglobin là protein dạng hình cầu tan tốt trong nước.<br>(3) Trong phân tử Gly-Ala-Val có 4 nguyên tử oxygen.<br>(4) H<sub>2</sub>NCH<sub>2</sub>CONHCH<sub>2</sub>CH<sub>2</sub>COOH là một dipeptide.<br>Số phát biểu đúng là",
        "lv": 1,
+       "k": "lt",
        "o": [
         "4",
         "1",
@@ -220,12 +222,12 @@
         "3"
        ],
        "a": 3,
-       "e": "(1), (2), (3) đúng; (4) sai vì chứa gốc β-alanine (H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>COOH), không phải α-amino acid nên không phải dipeptide.",
-       "n": 16
+       "e": "(1), (2), (3) đúng; (4) sai vì chứa gốc β-alanine (H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>COOH), không phải α-amino acid nên không phải dipeptide."
       },
       {
        "t": "mc",
        "s": "Cho dung dịch sodium chloride vào dung dịch protein sẽ xảy ra",
+       "k": "lt",
        "o": [
         "phản ứng màu biuret",
         "phản ứng tạo kết tủa màu vàng",
@@ -233,12 +235,12 @@
         "hiện tượng đông tụ protein"
        ],
        "a": 3,
-       "e": "Dung dịch muối NaCl làm protein đông tụ (kết tủa) mà không bị biến tính.",
-       "n": 17
+       "e": "Dung dịch muối NaCl làm protein đông tụ (kết tủa) mà không bị biến tính."
       },
       {
        "t": "mc",
        "s": "Alanine có công thức cấu tạo là",
+       "k": "lt",
        "o": [
         "[img: de-hoa-12-cam-bay-1-h1]",
         "[img: de-hoa-12-cam-bay-1-h2]",
@@ -246,13 +248,13 @@
         "[img: de-hoa-12-cam-bay-1-h4]"
        ],
        "a": 2,
-       "e": "Alanine là 2-aminopropanoic acid, H<sub>2</sub>NCH(CH<sub>3</sub>)COOH (hình C); hình A là 3-aminopropanoic acid, hình B là valine, hình D là glycine.",
-       "n": 18
+       "e": "Alanine là 2-aminopropanoic acid, H<sub>2</sub>NCH(CH<sub>3</sub>)COOH (hình C); hình A là 3-aminopropanoic acid, hình B là valine, hình D là glycine."
       },
       {
        "t": "tf",
        "s": "Cho các phát biểu sau:",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Glucose và fructose đều là carbohydrate đơn giản nhất.",
@@ -274,13 +276,13 @@
          0,
          "Glucose có nhóm -OH hemiacetal, còn fructose có nhóm -OH hemiketal."
         ]
-       ],
-       "n": 19
+       ]
       },
       {
        "t": "tf",
        "s": "Peptide X có cấu trúc như sau:<br>[img: de-hoa-12-cam-bay-1-h5]<br>Cho các nhận định sau:",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "X hòa tan được Cu(OH)<sub>2</sub> trong môi trường kiềm tạo phức chất màu tím.",
@@ -302,13 +304,13 @@
          1,
          "Tripeptide có 2 liên kết peptide."
         ]
-       ],
-       "n": 20
+       ]
       },
       {
        "t": "tf",
        "s": "Điểm đẳng điện (pI) của alanine và lysine như sau:<br>[table: Điểm đẳng điện (pI) ;; Amino acid | Alanine | Lysine ;; Điểm đẳng điện (pI) | 6,00 | 9,74]<br>Tiến hành điện di hỗn hợp gồm alanine và lysine trong môi trường pH = 6.<br>[img: de-hoa-12-cam-bay-1-h6]<br>Cho các phát biểu khi kết thúc điện di như sau:",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Alanine tồn tại chủ yếu dưới dạng [img: de-hoa-12-cam-bay-1-h7]",
@@ -330,13 +332,13 @@
          0,
          "Ở pH = 6 nhóm -COOH của lysine đã phân li thành -COO<sup>-</sup>, nên dạng chủ yếu không phải dạng có nhóm -COOH như hình."
         ]
-       ],
-       "n": 21
+       ]
       },
       {
        "t": "tf",
        "s": "Cho hai ester E (C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>) và ester F (C<sub>4</sub>H<sub>6</sub>O<sub>4</sub>) đều mạch hở và chỉ chứa một loại nhóm chức. Từ E và F thực hiện sơ đồ phản ứng sau:<br>(1) E + NaOH →(t°) X + Y<br>(2) F + NaOH →(t°) X + Z<br>(3) X + HCl → T + NaCl<br>Biết X, Y, Z, T đều là các hợp chất hữu cơ khác nhau. Cho các nhận định sau:",
        "lv": 2,
+       "k": "lt",
        "st": [
         [
          "Y và Z đều có khả năng tạo được liên kết hydrogen liên phân tử.",
@@ -359,72 +361,71 @@
          "C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> bị oxi hóa thành (CHO)<sub>2</sub> là hợp chất hữu cơ đa chức."
         ]
        ],
-       "e": "E là HCOOCH<sub>3</sub>, F là HCOOCH<sub>2</sub>CH<sub>2</sub>OOCH; X là HCOONa, Y là CH<sub>3</sub>OH, Z là C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub>, T là HCOOH.",
-       "n": 22
+       "e": "E là HCOOCH<sub>3</sub>, F là HCOOCH<sub>2</sub>CH<sub>2</sub>OOCH; X là HCOONa, Y là CH<sub>3</sub>OH, Z là C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub>, T là HCOOH."
       },
       {
        "t": "sa",
        "s": "Đun nóng 11,1 gam carboxylic acid X với 8,28 gam alcohol Y có mặt H<sub>2</sub>SO<sub>4</sub> đặc làm xúc tác, thu được 10,71 gam ethyl propanoate. Hiệu suất của phản ứng ester hóa là H%. Tính H (làm tròn đến hàng phần chục).",
        "lv": 2,
+       "k": "tt",
        "a": "70,0",
-       "e": "n<sub>acid</sub> = 11,1/74 = 0,15 mol; n<sub>alcohol</sub> = 8,28/46 = 0,18 mol nên acid hết; m<sub>ester lý thuyết</sub> = 0,15 × 102 = 15,3 gam; H = 10,71/15,3 × 100% = 70,0%.",
-       "n": 23
+       "e": "n<sub>acid</sub> = 11,1/74 = 0,15 mol; n<sub>alcohol</sub> = 8,28/46 = 0,18 mol nên acid hết; m<sub>ester lý thuyết</sub> = 0,15 × 102 = 15,3 gam; H = 10,71/15,3 × 100% = 70,0%."
       },
       {
        "t": "sa",
        "s": "Đun nóng 11,5 gam ester X đơn chức, mạch hở với dung dịch KOH vừa đủ, thu được 5,29 gam alcohol Y và 12,65 gam muối potassium của carboxylic acid Z. Công thức phân tử của X có tổng số nguyên tử là bao nhiêu?",
        "lv": 2,
+       "k": "tt",
        "a": "0015",
-       "e": "Bảo toàn khối lượng: m<sub>KOH</sub> = 12,65 + 5,29 − 11,5 = 6,44 gam, n<sub>KOH</sub> = 0,115 mol = n<sub>X</sub>; M<sub>X</sub> = 11,5/0,115 = 100 nên X là C<sub>5</sub>H<sub>8</sub>O<sub>2</sub>, có 15 nguyên tử.",
-       "n": 24
+       "e": "Bảo toàn khối lượng: m<sub>KOH</sub> = 12,65 + 5,29 − 11,5 = 6,44 gam, n<sub>KOH</sub> = 0,115 mol = n<sub>X</sub>; M<sub>X</sub> = 11,5/0,115 = 100 nên X là C<sub>5</sub>H<sub>8</sub>O<sub>2</sub>, có 15 nguyên tử."
       },
       {
        "t": "sa",
        "s": "Xà phòng hóa m gam triglyceride X trong dung dịch NaOH vừa đủ, thu được glycerol và 35,52 gam hỗn hợp Y gồm ba muối sodium của palmitic acid, oleic acid và stearic acid. Tính giá trị của m.",
        "lv": 2,
+       "k": "tt",
        "a": "34,4",
-       "e": "Ba muối có số mol bằng nhau: 278x + 304x + 306x = 35,52 nên x = 0,04 mol; n<sub>NaOH</sub> = 0,12 mol, n<sub>glycerol</sub> = 0,04 mol. Bảo toàn khối lượng: m = 35,52 + 0,04 × 92 − 0,12 × 40 = 34,4 gam.",
-       "n": 25
+       "e": "Ba muối có số mol bằng nhau: 278x + 304x + 306x = 35,52 nên x = 0,04 mol; n<sub>NaOH</sub> = 0,12 mol, n<sub>glycerol</sub> = 0,04 mol. Bảo toàn khối lượng: m = 35,52 + 0,04 × 92 − 0,12 × 40 = 34,4 gam."
       },
       {
        "t": "sa",
        "s": "Thủy phân 82,08 gam hỗn hợp (tỉ lệ mol 1 : 1) gồm saccharose và maltose trong môi trường acid với hiệu suất phản ứng là 75%, thu được hỗn hợp X gồm các hợp chất hữu cơ. Cho toàn bộ X tác dụng với lượng dư thuốc thử Tollens, đun nóng thu được m gam Ag. Tính giá trị của m (làm tròn đến hàng phần mười).",
        "lv": 2,
+       "k": "tt",
        "a": "84,2",
-       "e": "n<sub>saccharose</sub> = n<sub>maltose</sub> = 82,08/684 = 0,12 mol; mỗi chất thủy phân 0,09 mol, maltose dư 0,03 mol (saccharose dư không tráng bạc). Saccharose thủy phân cho 0,09 mol glucose và 0,09 mol fructose nên tạo 0,36 mol Ag; maltose thủy phân cho 0,18 mol glucose nên tạo 0,36 mol Ag; maltose dư tạo 0,06 mol Ag. n<sub>Ag</sub> = 0,78 mol nên m = 84,24 ≈ 84,2 gam.",
-       "n": 26
+       "e": "n<sub>saccharose</sub> = n<sub>maltose</sub> = 82,08/684 = 0,12 mol; mỗi chất thủy phân 0,09 mol, maltose dư 0,03 mol (saccharose dư không tráng bạc). Saccharose thủy phân cho 0,09 mol glucose và 0,09 mol fructose nên tạo 0,36 mol Ag; maltose thủy phân cho 0,18 mol glucose nên tạo 0,36 mol Ag; maltose dư tạo 0,06 mol Ag. n<sub>Ag</sub> = 0,78 mol nên m = 84,24 ≈ 84,2 gam."
       },
       {
        "t": "sa",
        "s": "Amino acid X có phần trăm khối lượng của C, H, O, N lần lượt là 40,449%; 7,865%; 35,955%; 15,731%. Biết X có công thức phân tử trùng với công thức đơn giản nhất. Trên phổ MS của X thấy xuất hiện tín hiệu của ion phân tử [M<sup>+</sup>] có giá trị m/z là bao nhiêu?",
        "lv": 2,
+       "k": "tt",
        "a": "0089",
-       "e": "C : H : O : N = 40,449/12 : 7,865/1 : 35,955/16 : 15,731/14 = 3 : 7 : 2 : 1 nên X là C<sub>3</sub>H<sub>7</sub>O<sub>2</sub>N (alanine), M = 89 nên m/z = 89.",
-       "n": 27
+       "e": "C : H : O : N = 40,449/12 : 7,865/1 : 35,955/16 : 15,731/14 = 3 : 7 : 2 : 1 nên X là C<sub>3</sub>H<sub>7</sub>O<sub>2</sub>N (alanine), M = 89 nên m/z = 89."
       },
       {
        "t": "sa",
        "s": "Hai hợp chất X, Y mạch hở có công thức phân tử lần lượt là C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> và C<sub>4</sub>H<sub>6</sub>O<sub>2</sub>. Biết rằng:<br>X + NaOH →(t°) Z (C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>Na) + T<br>Y + NaOH →(t°) Z (C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>Na) + V<br>a/ Z là sodium acetate.<br>b/ T là ethyl alcohol, V là vinyl alcohol.<br>c/ X là ethyl acetate, Y là vinyl acetate.<br>d/ Từ Y có thể điều chế trực tiếp ra X.<br>Số phát biểu đúng là bao nhiêu?",
        "lv": 2,
+       "k": "lt",
        "a": "0003",
-       "e": "Z là CH<sub>3</sub>COONa, X là CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>, Y là CH<sub>3</sub>COOCH=CH<sub>2</sub>, T là C<sub>2</sub>H<sub>5</sub>OH, V là CH<sub>3</sub>CHO (vinyl alcohol không bền). Phát biểu a, c, d đúng (Y + H<sub>2</sub> → X); b sai vì V là acetaldehyde.",
-       "n": 28
+       "e": "Z là CH<sub>3</sub>COONa, X là CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>, Y là CH<sub>3</sub>COOCH=CH<sub>2</sub>, T là C<sub>2</sub>H<sub>5</sub>OH, V là CH<sub>3</sub>CHO (vinyl alcohol không bền). Phát biểu a, c, d đúng (Y + H<sub>2</sub> → X); b sai vì V là acetaldehyde."
       },
       {
        "t": "sa",
        "s": "Lysine tham gia phản ứng ester hoá với ethyl alcohol khi có mặt khí HCl theo sơ đồ:<br>Lysine + ethyl alcohol + hydrochloric acid → X + nước.<br>Phân tử khối của X là bao nhiêu?",
        "lv": 1,
+       "k": "tt",
        "a": "0247",
-       "e": "(H<sub>2</sub>N)<sub>2</sub>C<sub>5</sub>H<sub>9</sub>COOH + C<sub>2</sub>H<sub>5</sub>OH + 2HCl → (ClH<sub>3</sub>N)<sub>2</sub>C<sub>5</sub>H<sub>9</sub>COOC<sub>2</sub>H<sub>5</sub> + H<sub>2</sub>O; X là C<sub>8</sub>H<sub>20</sub>O<sub>2</sub>N<sub>2</sub>Cl<sub>2</sub> có M = 247.",
-       "n": 29
+       "e": "(H<sub>2</sub>N)<sub>2</sub>C<sub>5</sub>H<sub>9</sub>COOH + C<sub>2</sub>H<sub>5</sub>OH + 2HCl → (ClH<sub>3</sub>N)<sub>2</sub>C<sub>5</sub>H<sub>9</sub>COOC<sub>2</sub>H<sub>5</sub> + H<sub>2</sub>O; X là C<sub>8</sub>H<sub>20</sub>O<sub>2</sub>N<sub>2</sub>Cl<sub>2</sub> có M = 247."
       },
       {
        "t": "sa",
        "s": "Cellulose triacetate là polymer được sử dụng để sản xuất tơ nhân tạo. Một mạch cellulose triacetate có phân tử khối 345 600 chứa bao nhiêu mắt xích?",
        "lv": 1,
+       "k": "tt",
        "a": "1200",
-       "e": "Mắt xích cellulose triacetate là [C<sub>6</sub>H<sub>7</sub>O<sub>2</sub>(OOCCH<sub>3</sub>)<sub>3</sub>] có M = 288; số mắt xích = 345 600/288 = 1200.",
-       "n": 30
+       "e": "Mắt xích cellulose triacetate là [C<sub>6</sub>H<sub>7</sub>O<sub>2</sub>(OOCCH<sub>3</sub>)<sub>3</sub>] có M = 288; số mắt xích = 345 600/288 = 1200."
       }
      ],
      "imgs": {
