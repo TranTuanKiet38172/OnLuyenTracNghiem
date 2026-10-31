@@ -66,6 +66,7 @@
       {
        "t": "mc",
        "s": "Ester nào sau đây khi thủy phân trong môi trường kiềm cho muối acetate?",
+       "k": "lt",
        "o": [
         "HCOOCH<sub>3</sub>.",
         "CH<sub>3</sub>COOCH<sub>3</sub>.",
@@ -78,6 +79,7 @@
       {
        "t": "mc",
        "s": "Thuỷ phân triglyceride (C<sub>17</sub>H<sub>35</sub>COO)*{3}C*{3}H<sub>5</sub> trong dung dịch NaOH, thu được muối C<sub>17</sub>H<sub>35</sub>COONa. Tên gọi của muối là",
+       "k": "lt",
        "o": [
         "sodium stearate.",
         "sodium acetate.",
@@ -91,6 +93,7 @@
        "t": "mc",
        "s": "Phát biểu nào sau đây sai?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Ethyl acetate có công thức phân tử là C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>.",
         "Methyl acrylate có khả năng tham gia phản ứng cộng Br<sub>2</sub> trong dung dịch.",
