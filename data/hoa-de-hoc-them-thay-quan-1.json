@@ -9,10 +9,12 @@
     {
      "id": "de-hoc-them-thay-quan-1",
      "name": "ĐỀ HỌC THÊM THẦY QUÂN (1)",
+     "src": "",
      "qs": [
       {
        "t": "mc",
        "s": "Công thức của amine no đơn chức mạch hở là",
+       "k": "lt",
        "o": [
         "C<sub>n</sub>H<sub>2n</sub>O<sub>2</sub> (n ≥ 2).",
         "C<sub>n</sub>H<sub>2n+3</sub>N, (n ≥ 3).",
@@ -20,12 +22,12 @@
         "C<sub>n</sub>H<sub>2n+3</sub>N (n ≥ 1)."
        ],
        "a": 3,
-       "e": "Amine no, đơn chức, mạch hở có công thức chung C<sub>n</sub>H<sub>2n+3</sub>N (n ≥ 1).",
-       "n": 1
+       "e": "Amine no, đơn chức, mạch hở có công thức chung C<sub>n</sub>H<sub>2n+3</sub>N (n ≥ 1)."
       },
       {
        "t": "mc",
        "s": "Một số amine no, đơn chức, mạch hở, trong phân tử có phần trăm khối lượng nitrogen bằng 23,73%. Có bao nhiêu chất là đồng phân tác dụng được với dung dịch acid HNO<sub>2</sub> ở nhiệt độ thích hợp sinh ra alcohol và khí nitrogen?",
+       "k": "tt",
        "o": [
         "1",
         "2",
@@ -33,13 +35,13 @@
         "4"
        ],
        "a": 1,
-       "e": "%N = 14/(14n+17) = 23,73% nên n = 3, công thức C<sub>3</sub>H<sub>9</sub>N. Chỉ amine bậc I (propylamine, isopropylamine) phản ứng với HNO<sub>2</sub> sinh ra alcohol và N<sub>2</sub> nên có 2 chất.",
-       "n": 2
+       "e": "%N = 14/(14n+17) = 23,73% nên n = 3, công thức C<sub>3</sub>H<sub>9</sub>N. Chỉ amine bậc I (propylamine, isopropylamine) phản ứng với HNO<sub>2</sub> sinh ra alcohol và N<sub>2</sub> nên có 2 chất."
       },
       {
        "t": "mc",
        "s": "Chất nào sau đây không cho dung dịch có màu với Cu(OH)<sub>2</sub> ở nhiệt độ thường:",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Glucose",
         "Glycerol",
@@ -47,12 +49,12 @@
         "Formaldehyde"
        ],
        "a": 3,
-       "e": "Glucose và glycerol hòa tan Cu(OH)<sub>2</sub> tạo dung dịch xanh lam, acetic acid hòa tan Cu(OH)<sub>2</sub> tạo muối copper(II) acetate màu xanh; formaldehyde không phản ứng ở nhiệt độ thường nên không có màu.",
-       "n": 3
+       "e": "Glucose và glycerol hòa tan Cu(OH)<sub>2</sub> tạo dung dịch xanh lam, acetic acid hòa tan Cu(OH)<sub>2</sub> tạo muối copper(II) acetate màu xanh; formaldehyde không phản ứng ở nhiệt độ thường nên không có màu."
       },
       {
        "t": "mc",
        "s": "Để loại bỏ dầu mỡ khỏi quần áo, không thể dùng",
+       "k": "lt",
        "o": [
         "xăng.",
         "xà phòng.",
@@ -60,12 +62,12 @@
         "nước cất."
        ],
        "a": 3,
-       "e": "Xăng hòa tan được dầu mỡ, xà phòng và chất giặt rửa nhũ hóa dầu mỡ; nước cất không hòa tan cũng không nhũ hóa được dầu mỡ.",
-       "n": 4
+       "e": "Xăng hòa tan được dầu mỡ, xà phòng và chất giặt rửa nhũ hóa dầu mỡ; nước cất không hòa tan cũng không nhũ hóa được dầu mỡ."
       },
       {
        "t": "mc",
        "s": "Nhận xét nào sau đây không đúng về xà phòng?",
+       "k": "lt",
        "o": [
         "Mỗi phân tử xà phòng có một “đuôi” dài kị nước là những gốc hydrocarbon của acid béo.",
         "Mỗi phân tử xà phòng có một “đầu” ưa nước là nhóm -COONa hoặc -COOK.",
@@ -73,12 +75,12 @@
         "Hoạt động giặt rửa của xà phòng giống như chất giặt rửa tổng hợp."
        ],
        "a": 2,
-       "e": "Nước quả bồ kết, bồ hòn chứa saponin nên có tác dụng giặt rửa giống xà phòng; nhận xét ở phương án c là không đúng.",
-       "n": 5
+       "e": "Nước quả bồ kết, bồ hòn chứa saponin nên có tác dụng giặt rửa giống xà phòng; nhận xét ở phương án c là không đúng."
       },
       {
        "t": "mc",
        "s": "Glucide (carbohydrate) là những hợp chất hữu cơ tạp chức có công thức chung là",
+       "k": "lt",
        "o": [
         "C<sub>n</sub>(H<sub>2</sub>O)<sub>m</sub>.",
         "C<sub>n</sub>H<sub>2n</sub>O.",
@@ -86,13 +88,13 @@
         "(OH)<sub>x</sub>R(CHO)<sub>y</sub>."
        ],
        "a": 0,
-       "e": "Carbohydrate là hợp chất hữu cơ tạp chức, thường có công thức chung C<sub>n</sub>(H<sub>2</sub>O)<sub>m</sub>.",
-       "n": 6
+       "e": "Carbohydrate là hợp chất hữu cơ tạp chức, thường có công thức chung C<sub>n</sub>(H<sub>2</sub>O)<sub>m</sub>."
       },
       {
        "t": "mc",
        "s": "Cặp chất nào sau đây có thể phân biệt bằng thuốc thử Tollens?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "Glucose và maltose.",
         "Tinh bột và cellulose.",
@@ -100,12 +102,12 @@
         "Glucose và fructose."
        ],
        "a": 2,
-       "e": "Glucose có phản ứng tráng bạc còn saccharose thì không nên phân biệt được; các cặp còn lại hoặc cùng có phản ứng hoặc cùng không có phản ứng với thuốc thử Tollens.",
-       "n": 7
+       "e": "Glucose có phản ứng tráng bạc còn saccharose thì không nên phân biệt được; các cặp còn lại hoặc cùng có phản ứng hoặc cùng không có phản ứng với thuốc thử Tollens."
       },
       {
        "t": "mc",
        "s": "Mỗi đơn vị glucose trong cellulose liên kết với nhau bởi liên kết",
+       "k": "lt",
        "o": [
         "α-1,6-glycoside.",
         "α-1,4-glycoside.",
@@ -113,12 +115,12 @@
         "β-1,4-glycoside."
        ],
        "a": 3,
-       "e": "Các đơn vị β-glucose trong cellulose nối với nhau bằng liên kết β-1,4-glycoside.",
-       "n": 8
+       "e": "Các đơn vị β-glucose trong cellulose nối với nhau bằng liên kết β-1,4-glycoside."
       },
       {
        "t": "mc",
        "s": "Sản phẩm trung gian nào sau đây không thể có trong quá trình thủy phân tinh bột?",
+       "k": "lt",
        "o": [
         "Dextrin.",
         "Saccharose.",
@@ -126,13 +128,13 @@
         "Glucose."
        ],
        "a": 1,
-       "e": "Thủy phân tinh bột tạo dextrin, maltose rồi glucose; saccharose không phải sản phẩm trung gian của quá trình này.",
-       "n": 9
+       "e": "Thủy phân tinh bột tạo dextrin, maltose rồi glucose; saccharose không phải sản phẩm trung gian của quá trình này."
       },
       {
        "t": "mc",
        "s": "Carbohydrate (X) có công thức cấu tạo dưới đây:<br>[img: de-hoa-12-ghk1-de1-h1]<br>Nhận định nào sau đây là đúng khi nói về (X)?",
        "lv": 1,
+       "k": "lt",
        "o": [
         "(X) có thể là saccharose.",
         "(X) được cấu tạo từ 1 đơn vị α-glucose và 1 đơn vị β-fructose qua liên kết α-1,4-glycoside.",
@@ -140,13 +142,13 @@
         "(X) không có tính khử."
        ],
        "a": 2,
-       "e": "(X) gồm hai đơn vị glucose nối bằng liên kết 1,4-glycoside và còn một nhóm OH hemiacetal tự do nên có tính khử; đây là maltose (đường mạch nha), không phải saccharose.",
-       "n": 10
+       "e": "(X) gồm hai đơn vị glucose nối bằng liên kết 1,4-glycoside và còn một nhóm OH hemiacetal tự do nên có tính khử; đây là maltose (đường mạch nha), không phải saccharose."
       },
       {
        "t": "mc",
-       "s": "Kết quả thí nghiệm của các dung dịch X, Y, Z với thuốc thử được ghi ở bảng sau:<br>[table:  ;; Mẫu thử | Thuốc thử | Hiện tượng ;; X | Dung dịch I_{2} | Có màu xanh tím ;; Y | Cu(OH)_{2} | Có màu xanh lam ;; Z | Dung dịch AgNO_{3} trong NH_{3} | Tạo kết tủa Ag]<br>Các dung dịch X, Y, Z lần lượt là",
+       "s": "Kết quả thí nghiệm của các dung dịch X, Y, Z với thuốc thử được ghi ở bảng sau:<br>[table:  ;; Mẫu thử | Thuốc thử | Hiện tượng ;; X | Dung dịch I<sub>2</sub> | Có màu xanh tím ;; Y | Cu(OH)<sub>2</sub> | Có màu xanh lam ;; Z | Dung dịch AgNO<sub>3</sub> trong NH<sub>3</sub> | Tạo kết tủa Ag]<br>Các dung dịch X, Y, Z lần lượt là",
        "lv": 2,
+       "k": "lt",
        "o": [
         "Hồ tinh bột, glucose, saccharose.",
         "Hồ tinh bột, saccharose, glucose.",
@@ -154,12 +156,12 @@
         "Cellulose, glucose, saccharose."
        ],
        "a": 1,
-       "e": "X làm I<sub>2</sub> chuyển màu xanh tím nên là hồ tinh bột; Z tạo kết tủa Ag với AgNO<sub>3</sub> trong NH<sub>3</sub> nên là glucose; Y hòa tan Cu(OH)<sub>2</sub> tạo màu xanh lam mà không tráng bạc nên là saccharose.",
-       "n": 11
+       "e": "X làm I<sub>2</sub> chuyển màu xanh tím nên là hồ tinh bột; Z tạo kết tủa Ag với AgNO<sub>3</sub> trong NH<sub>3</sub> nên là glucose; Y hòa tan Cu(OH)<sub>2</sub> tạo màu xanh lam mà không tráng bạc nên là saccharose."
       },
       {
        "t": "mc",
        "s": "Ở điều kiện thường, chất nào sau đây không ở thể khí?",
+       "k": "lt",
        "o": [
         "Ethyl amine",
         "Phenyl amine",
@@ -167,13 +169,13 @@
         "Trimethylamine"
        ],
        "a": 1,
-       "e": "Ethylamine, methylamine, trimethylamine là chất khí ở điều kiện thường; phenylamine (aniline) là chất lỏng.",
-       "n": 12
+       "e": "Ethylamine, methylamine, trimethylamine là chất khí ở điều kiện thường; phenylamine (aniline) là chất lỏng."
       },
       {
        "t": "mc",
        "s": "Cho các phát biểu sau:<br>1. Chất béo được gọi chung là triglyceride.<br>2. Chất béo nhẹ hơn nước, không tan trong nước nhưng tan nhiều trong dung môi hữu cơ.<br>3. Phản ứng thủy phân chất béo trong môi trường acid là phản ứng thuận nghịch.<br>4. Ở nhiệt độ thường, chất béo chứa nhiều gốc acid béo không no thường ở thể rắn.<br>Số phát biểu đúng là",
        "lv": 1,
+       "k": "lt",
        "o": [
         "4.",
         "1.",
@@ -181,13 +183,13 @@
         "3."
        ],
        "a": 3,
-       "e": "Các phát biểu (a), (b), (c) đúng; (d) sai vì chất béo chứa nhiều gốc acid béo không no thường ở thể lỏng. Vậy có 3 phát biểu đúng.",
-       "n": 13
+       "e": "Các phát biểu (a), (b), (c) đúng; (d) sai vì chất béo chứa nhiều gốc acid béo không no thường ở thể lỏng. Vậy có 3 phát biểu đúng."
       },
       {
        "t": "mc",
        "s": "Cho 4 phản ứng sau của glucose<br>(1) CH<sub>2</sub>OH(CHOH)<sub>4</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]OH → (t°) CH<sub>2</sub>OH(CHOH)<sub>4</sub>COONH<sub>4</sub> + 2Ag + 3NH<sub>3</sub> + H<sub>2</sub>O<br>(2) CH<sub>2</sub>OH(CHOH)<sub>4</sub>CHO + 2Cu(OH)<sub>2</sub> + NaOH → (t°) CH<sub>2</sub>OH(CHOH)<sub>4</sub>COONa + Cu<sub>2</sub>O↓ + 3H<sub>2</sub>O<br>(3) CH<sub>2</sub>OH(CHOH)<sub>4</sub>CHO + H<sub>2</sub> → (Ni, t°) CH<sub>2</sub>OH(CHOH)<sub>4</sub>CH<sub>2</sub>OH<br>(4) CH<sub>2</sub>OH(CHOH)<sub>4</sub>CHO → (enzyme) 2C<sub>2</sub>H<sub>5</sub>OH + 2CO<sub>2</sub><br>Các phản ứng mà glucose chỉ thể hiện tính khử là",
        "lv": 1,
+       "k": "lt",
        "o": [
         "(1), (3).",
         "(1), (4).",
@@ -195,12 +197,12 @@
         "(1), (2)."
        ],
        "a": 3,
-       "e": "Ở (1) và (2) glucose bị oxi hóa nên chỉ thể hiện tính khử; ở (3) glucose bị khử bởi H<sub>2</sub>; ở (4) glucose vừa bị oxi hóa vừa bị khử nên không chỉ thể hiện tính khử.",
-       "n": 14
+       "e": "Ở (1) và (2) glucose bị oxi hóa nên chỉ thể hiện tính khử; ở (3) glucose bị khử bởi H<sub>2</sub>; ở (4) glucose vừa bị oxi hóa vừa bị khử nên không chỉ thể hiện tính khử."
       },
       {
        "t": "mc",
        "s": "Phản ứng nào dưới đây không thể hiện tính base của amine?",
+       "k": "lt",
        "o": [
         "RNH<sub>2</sub> + H<sub>2</sub>O ⇌ RNH<sub>3</sub><sup>+</sup> + OH<sup>-</sup>.",
         "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> + HCl → C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub>Cl.",
@@ -208,13 +210,13 @@
         "RNH<sub>2</sub> + HNO<sub>2</sub> → ROH + N<sub>2</sub>↑ + H<sub>2</sub>O."
        ],
        "a": 3,
-       "e": "Ở các phản ứng a, b, c amine nhận H<sup>+</sup> (tính base); phản ứng d là phản ứng với HNO<sub>2</sub> giải phóng N<sub>2</sub>, không phải nhận H<sup>+</sup> nên không thể hiện tính base.",
-       "n": 15
+       "e": "Ở các phản ứng a, b, c amine nhận H<sup>+</sup> (tính base); phản ứng d là phản ứng với HNO<sub>2</sub> giải phóng N<sub>2</sub>, không phải nhận H<sup>+</sup> nên không thể hiện tính base."
       },
       {
        "t": "mc",
        "s": "Tiến hành lên men m gam tinh bột (hiệu suất toàn quá trình đạt 81%) rồi hấp thụ toàn bộ lượng CO<sub>2</sub> sinh ra vào nước vôi trong dư được 70 gam kết tủa. Giá trị của m là",
        "lv": 2,
+       "k": "tt",
        "o": [
         "45.",
         "90.",
@@ -222,12 +224,12 @@
         "35."
        ],
        "a": 2,
-       "e": "n<sub>CO2</sub> = n<sub>CaCO3</sub> = 0,7 mol nên n<sub>C6H10O5</sub> lý thuyết = 0,35 mol, khối lượng = 0,35 × 162 = 56,7 g; do hiệu suất 81% nên m = 56,7 : 0,81 = 70 g.",
-       "n": 16
+       "e": "n<sub>CO2</sub> = n<sub>CaCO3</sub> = 0,7 mol nên n<sub>C6H10O5</sub> lý thuyết = 0,35 mol, khối lượng = 0,35 × 162 = 56,7 g; do hiệu suất 81% nên m = 56,7 : 0,81 = 70 g."
       },
       {
        "t": "mc",
        "s": "Để rửa sạch chai lọ đựng dung dịch aniline, nên dùng cách nào sau đây?",
+       "k": "lt",
        "o": [
         "Rửa bằng xà phòng.",
         "Rửa bằng nước.",
@@ -235,13 +237,13 @@
         "Rửa bằng dung dịch HCl sau đó rửa lại bằng nước."
        ],
        "a": 3,
-       "e": "Aniline có tính base nên tác dụng với HCl tạo muối tan trong nước, sau đó rửa lại bằng nước là sạch.",
-       "n": 17
+       "e": "Aniline có tính base nên tác dụng với HCl tạo muối tan trong nước, sau đó rửa lại bằng nước là sạch."
       },
       {
        "t": "mc",
        "s": "Cho sơ đồ sau: X(l) + 2NaOH<sub>(aq)</sub> → CH<sub>2</sub>(COONa)<sub>2(aq)</sub> + CH<sub>3</sub>OH<sub>(aq)</sub> + C<sub>2</sub>H<sub>5</sub>OH<sub>(aq)</sub>. Nhận xét nào sau đây không đúng về chất X trong phản ứng trên?",
        "lv": 2,
+       "k": "lt",
        "o": [
         "Công thức cấu tạo của (X) được biểu diễn như sau: [img: de-hoa-12-ghk1-de1-h2]",
         "X là ester no có hai nhóm chức có công thức phân tử C<sub>6</sub>H<sub>10</sub>O<sub>4</sub>.",
@@ -249,13 +251,13 @@
         "X có nhiệt độ sôi cao vì có liên kết hydrogen giữa các phân tử."
        ],
        "a": 3,
-       "e": "X là CH<sub>3</sub>OOC-CH<sub>2</sub>-COOC<sub>2</sub>H<sub>5</sub> (ethyl methyl malonate), công thức phân tử C<sub>6</sub>H<sub>10</sub>O<sub>4</sub>; ester không tạo được liên kết hydrogen giữa các phân tử nên phương án d không đúng.",
-       "n": 18
+       "e": "X là CH<sub>3</sub>OOC-CH<sub>2</sub>-COOC<sub>2</sub>H<sub>5</sub> (ethyl methyl malonate), công thức phân tử C<sub>6</sub>H<sub>10</sub>O<sub>4</sub>; ester không tạo được liên kết hydrogen giữa các phân tử nên phương án d không đúng."
       },
       {
        "t": "mc",
        "s": "Cho các phát biểu sau:<br>(1) Dung dịch ethylamine và dung dịch aniline đều làm xanh giấy quỳ tím.<br>(2) Nhỏ từ từ đến dư dung dịch methylamine vào dung dịch copper (II) sulfate, ban đầu thấy xuất hiện kết tủa màu xanh nhạt, sau đó kết tủa tan tạo thành dung dịch màu xanh lam.<br>(3) Cho dd methylamine vào ống nghiệm đựng dung dịch iron (III) chloride thấy xuất hiện kết tủa nâu đỏ.<br>(4) Nhỏ vài giọt dung dịch aniline vào ống nghiệm đựng nước bromine thấy xuất hiện kết tủa trắng và mất màu nước bromine.<br>Số phát biểu sai là",
        "lv": 1,
+       "k": "lt",
        "o": [
         "1",
         "2",
@@ -263,13 +265,13 @@
         "4"
        ],
        "a": 0,
-       "e": "Chỉ phát biểu (1) sai vì aniline có tính base rất yếu, không làm đổi màu giấy quỳ tím; các phát biểu (2), (3), (4) đúng.",
-       "n": 19
+       "e": "Chỉ phát biểu (1) sai vì aniline có tính base rất yếu, không làm đổi màu giấy quỳ tím; các phát biểu (2), (3), (4) đúng."
       },
       {
        "t": "mc",
        "s": "Để tráng một số lượng gương soi có diện tích bề mặt 0,45 m<sup>2</sup> với độ dày 0,2μm người ta đun nóng dung dịch chứa 45 gam glucose với một lượng dung dịch bạc nitrat trong ammonia. Biết khối lượng riêng của bạc là 10,49 g/cm<sup>3</sup>, hiệu suất phản ứng tráng gương là 70% (tính theo glucose). Số lượng gương soi tối đa sản xuất được là",
        "lv": 2,
+       "k": "tt",
        "o": [
         "20.",
         "34.",
@@ -277,13 +279,13 @@
         "40."
        ],
        "a": 3,
-       "e": "n<sub>glucose</sub> = 0,25 mol nên n<sub>Ag</sub> = 0,25 × 2 × 0,7 = 0,35 mol, m<sub>Ag</sub> = 37,8 g, V<sub>Ag</sub> = 37,8 : 10,49 ≈ 3,603 cm<sup>3</sup>. Mỗi gương cần 4500 × 0,2 × 10<sup>-4</sup> = 0,09 cm<sup>3</sup> bạc nên số gương = 3,603 : 0,09 ≈ 40.",
-       "n": 20
+       "e": "n<sub>glucose</sub> = 0,25 mol nên n<sub>Ag</sub> = 0,25 × 2 × 0,7 = 0,35 mol, m<sub>Ag</sub> = 37,8 g, V<sub>Ag</sub> = 37,8 : 10,49 ≈ 3,603 cm<sup>3</sup>. Mỗi gương cần 4500 × 0,2 × 10<sup>-4</sup> = 0,09 cm<sup>3</sup> bạc nên số gương = 3,603 : 0,09 ≈ 40."
       },
       {
        "t": "tf",
        "s": "Tinh bột là loại lương thực quan trọng và là nguyên liệu chủ yếu để sản xuất bánh, kẹo, rượu, bia, ... Cellulose là loại vật liệu xây dựng, nguyên liệu sản xuất thuốc súng không khói.",
        "lv": 1,
+       "k": "tt",
        "st": [
         [
          "Dung dịch hồ tinh bột tạo với iodine hợp chất màu xanh tím. Cellulose không có tính chất này.",
@@ -305,13 +307,13 @@
          1,
          "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub> + nH<sub>2</sub>O → nC<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, cứ 162n gam polysaccharide tạo ra 180n gam glucose."
         ]
-       ],
-       "n": 21
+       ]
       },
       {
        "t": "tf",
        "s": "Có hai amine đồng phân sau: CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> (1) và CH<sub>3</sub>NHCH<sub>3</sub> (2).",
        "lv": 1,
+       "k": "tt",
        "st": [
         [
          "Công thức cấu (1) và (2) có hai đám phổ liên quan đến liên kết N-H có số sóng khoảng 1740 cm<sup>-1</sup>.",
@@ -333,13 +335,13 @@
          0,
          "Đốt cháy cho n<sub>N2</sub> = 4,958 : 24,79 = 0,2 mol nên n<sub>amine</sub> = 0,4 mol, còn tác dụng với HCl cho n<sub>amine</sub> = n<sub>HCl</sub> = 0,2 mol; hai kết quả mâu thuẫn nên dữ kiện không phù hợp."
         ]
-       ],
-       "n": 22
+       ]
       },
       {
        "t": "tf",
        "s": "Enzyme amylase là một protein có khả năng xúc tác cho phản ứng thủy phân tinh bột. Hoạt tính xúc tác của enzyme càng cao thì phản ứng thủy phân tinh bột diễn ra càng nhanh. Hoạt tính xúc tác của enzyme phụ thuộc vào các yếu tố như nhiệt độ, pH,… Một nhóm học sinh dự đoán \"pH càng tăng thì hoạt tính xúc tác của enzyme amylase càng cao\". Từ đó, học sinh tiến hành thí nghiệm ở nhiệt độ không đổi nhưng thay đổi pH của môi trường để kiểm tra dự đoán trên như sau:<br>Bước 1: Thêm 2,0 mL dung dịch một loại enzyme amylase vào một ống nghiệm chứa 5,0mL dung dịch có vai trò duy trì ổn định pH bằng 5.<br>Bước 2: Thêm tiếp 2,0 mL dung dịch tinh bột vào ống nghiệm trên, lắc đều.<br>Bước 3: Sau khoảng mỗi 10 giây, dùng ống hút lấy 1-2 giọt hỗn hợp phản ứng trong ống nghiệm và cho vào đĩa sứ chứa sẵn dung dịch iodine, quan sát để từ đó xác định thời gian tinh bột thủy phân hết.<br>Lặp lại thí nghiệm theo ba bước trên, chỉ thay đổi pH dung dịch trong Bước 1 lần lượt là 6 ; 7 ; 8 ; 9.<br>Nhóm học sinh ghi lại kết quả thời gian t (giây) mà tinh bột thủy phân hết trong môi trường pH = 5;6;7;8;9 và vẽ đồ thị như hình bên.<br>[img: de-hoa-12-ghk1-de1-h3]",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Ở Bước 3, nếu dung dịch iodine chuyển sang màu xanh tím nghĩa là tinh bột thủy phân hết.",
@@ -361,13 +363,13 @@
          0,
          "Hoạt tính chỉ tăng khi pH tăng từ 5 đến 7, sau đó giảm khi pH tăng từ 7 đến 9 nên kết luận này không đúng với toàn bộ khoảng pH khảo sát."
         ]
-       ],
-       "n": 23
+       ]
       },
       {
        "t": "tf",
-       "s": "Một học sinh tiến hành tổng hợp isoamyl acetate (thành phần chính của dầu chuối) từ acetic acid và isoamyl alcohol theo phương trình hóa học sau:<br>[img: de-hoa-12-ghk1-de1-h4]<br>Sau thí nghiệm, tiến hành phân tách sản phẩm. Ghi phổ hồng ngoại của acetic acid, isoamyl alcohol và isoamyl acetate. Cho biết số sóng hấp thụ đặc trưng của một số liên kết trên phổ hồng ngoại như sau:<br>[table:  ;; Liên kết | O-H (alcohol) | O-H (carboxylic acid) | C=O (ester, carboxylic acid) ;; Số sóng (cm^{-1}) | 3650-3200 | 3300-2500 | 1780-1650]",
+       "s": "Một học sinh tiến hành tổng hợp isoamyl acetate (thành phần chính của dầu chuối) từ acetic acid và isoamyl alcohol theo phương trình hóa học sau:<br>[img: de-hoa-12-ghk1-de1-h4]<br>Sau thí nghiệm, tiến hành phân tách sản phẩm. Ghi phổ hồng ngoại của acetic acid, isoamyl alcohol và isoamyl acetate. Cho biết số sóng hấp thụ đặc trưng của một số liên kết trên phổ hồng ngoại như sau:<br>[table:  ;; Liên kết | O-H (alcohol) | O-H (carboxylic acid) | C=O (ester, carboxylic acid) ;; Số sóng (cm<sup>-1</sup>) | 3650-3200 | 3300-2500 | 1780-1650]",
        "lv": 1,
+       "k": "lt",
        "st": [
         [
          "Phản ứng tổng hợp trong thí nghiệm này là phản ứng thủy phân ester.",
@@ -389,47 +391,46 @@
          1,
          "Acetic acid có O-H (acid) và C=O, isoamyl alcohol chỉ có O-H (alcohol), isoamyl acetate chỉ có C=O nên ba phổ khác nhau."
         ]
-       ],
-       "n": 24
+       ]
       },
       {
        "t": "sa",
        "s": "Cho các chất sau: glucose, fructose, maltose, saccharose, cellulose và tinh bột. Trong số các chất trên, có bao nhiêu chất tạo phức màu xanh lam với Cu(OH)<sub>2</sub> trong môi trường kiềm?",
+       "k": "lt",
        "a": "0004",
-       "e": "Glucose, fructose, maltose và saccharose có nhiều nhóm -OH kề nhau nên tạo phức màu xanh lam với Cu(OH)<sub>2</sub>; cellulose và tinh bột thì không, nên có 4 chất.",
-       "n": 25
+       "e": "Glucose, fructose, maltose và saccharose có nhiều nhóm -OH kề nhau nên tạo phức màu xanh lam với Cu(OH)<sub>2</sub>; cellulose và tinh bột thì không, nên có 4 chất."
       },
       {
        "t": "sa",
        "s": "Dầu hạt hướng dương có thể được sử dụng để làm bơ thực vật bằng phản ứng hydrogen hoá. Triacylglycerol trong dầu hạt hướng dương chứa hai gốc linoleate và một gốc oleate. Có bao nhiêu đồng phân cấu tạo của triacylglycerol trong dầu hạt hướng dương?",
        "lv": 1,
+       "k": "lt",
        "a": "0002",
-       "e": "Có 2 đồng phân cấu tạo: gốc oleate ở giữa (L-O-L) hoặc gốc oleate ở đầu mạch (O-L-L), vì hai gốc linoleate giống nhau.",
-       "n": 26
+       "e": "Có 2 đồng phân cấu tạo: gốc oleate ở giữa (L-O-L) hoặc gốc oleate ở đầu mạch (O-L-L), vì hai gốc linoleate giống nhau."
       },
       {
        "t": "sa",
        "s": "Có bao nhiêu đồng phân cấu tạo amine bậc I ứng với công thức phân tử C<sub>4</sub>H<sub>11</sub>N?",
        "lv": 1,
+       "k": "lt",
        "a": "0004",
-       "e": "Amine bậc I có dạng C<sub>4</sub>H<sub>9</sub>-NH<sub>2</sub>; gốc C<sub>4</sub>H<sub>9</sub>- có 4 đồng phân (butyl, sec-butyl, isobutyl, tert-butyl) nên có 4 amine.",
-       "n": 27
+       "e": "Amine bậc I có dạng C<sub>4</sub>H<sub>9</sub>-NH<sub>2</sub>; gốc C<sub>4</sub>H<sub>9</sub>- có 4 đồng phân (butyl, sec-butyl, isobutyl, tert-butyl) nên có 4 amine."
       },
       {
        "t": "sa",
        "s": "Một nhóm học sinh muốn thử nghiệm phản ứng tráng bạc lên kính bằng nguyên liệu đầu là glucose. Giả sử lớp bạc có diện tích là 100 cm<sup>2</sup> và độ dày là 0,5 μm. Biết rằng khối lượng riêng của bạc là 10,49 g/cm<sup>3</sup> và khối lượng mol của glucose là 180 g/mol. Khối lượng glucose cần dùng là bao nhiêu gam? Giả thiết hiệu suất phản ứng tráng gương là 92%. (Kết quả làm tròn đến hàng phần trăm).",
        "lv": 2,
+       "k": "tt",
        "a": "0,05",
-       "e": "V<sub>Ag</sub> = 100 × 0,5 × 10<sup>-4</sup> = 0,005 cm<sup>3</sup> nên m<sub>Ag</sub> = 0,005 × 10,49 = 0,05245 g, n<sub>Ag</sub> ≈ 4,86 × 10<sup>-4</sup> mol. Khối lượng glucose = (4,86 × 10<sup>-4</sup> : 2 : 0,92) × 180 ≈ 0,0475 g ≈ 0,05 g.",
-       "n": 28
+       "e": "V<sub>Ag</sub> = 100 × 0,5 × 10<sup>-4</sup> = 0,005 cm<sup>3</sup> nên m<sub>Ag</sub> = 0,005 × 10,49 = 0,05245 g, n<sub>Ag</sub> ≈ 4,86 × 10<sup>-4</sup> mol. Khối lượng glucose = (4,86 × 10<sup>-4</sup> : 2 : 0,92) × 180 ≈ 0,0475 g ≈ 0,05 g."
       },
       {
        "t": "sa",
        "s": "Diethylphthalate (DEP) là chất lỏng không màu, có vị đắng và mùi khó chịu được dùng để sản xuất thuốc diệt côn trùng bảo vệ cho vật nuôi. Từ naphthalen điều chế DEP qua 2 bước sau:<br>[img: de-hoa-12-ghk1-de1-h5]<br>Tính khối lượng DEP thu được từ 192 kg naphthalene theo đơn vị kg. Biết hiệu suất các phản ứng (1) và (2) lần lượt là 75% và 60%. (Kết quả làm tròn đến hàng đơn vị).",
        "lv": 2,
+       "k": "tt",
        "a": "0150",
-       "e": "n<sub>naphthalene</sub> = 192 : 128 = 1,5 kmol; cứ 1 mol naphthalene tạo 1 mol DEP (C<sub>12</sub>H<sub>14</sub>O<sub>4</sub>, M = 222) nên m<sub>DEP</sub> = 1,5 × 0,75 × 0,6 × 222 = 149,85 ≈ 150 kg.",
-       "n": 29
+       "e": "n<sub>naphthalene</sub> = 192 : 128 = 1,5 kmol; cứ 1 mol naphthalene tạo 1 mol DEP (C<sub>12</sub>H<sub>14</sub>O<sub>4</sub>, M = 222) nên m<sub>DEP</sub> = 1,5 × 0,75 × 0,6 × 222 = 149,85 ≈ 150 kg."
       }
      ],
      "imgs": {
