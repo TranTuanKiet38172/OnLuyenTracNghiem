@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261102122122142",
+ "version": "20261102122148902",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -105,6 +105,10 @@
   {
    "path": "data/toan-bai-2-gtln-gtnn-advanced.json",
    "v": "20261102122029403"
+  },
+  {
+   "path": "data/toan-bai-1-don-dieu-cuc-tri-advanced.json",
+   "v": "20261102122148902"
   }
  ],
  "figures": {
