@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261102130710068",
+ "version": "20261102132316773",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -120,7 +120,7 @@
   },
   {
    "path": "data/toan-bai-6-vecto-trong-khong-gian-advanced.json",
-   "v": "20261102130358096"
+   "v": "20261102132316773"
   },
   {
    "path": "data/toan-bai-7-he-truc-toa-do-trong-khong-gian-ad.json",
