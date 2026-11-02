@@ -1,0 +1,258 @@
+{
+ "id": "hoa-20-cau-trac-nghiem-ly-thuyet-de-nham-lan-2",
+ "subject": "Hóa học",
+ "name": "20 câu trắc nghiệm lý thuyết dễ nhầm lẫn – Hoá học 12",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "20-cau-trac-nghiem-ly-thuyet-de-nham-lan",
+     "name": "20 câu trắc nghiệm lý thuyết dễ nhầm lẫn – Hoá học 12",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về nhiệt độ sôi và độ tan của ester là đúng?",
+       "o": [
+        "Ester có nhiệt độ sôi cao hơn acid carboxylic có cùng phân tử khối vì liên kết hydrogen giữa các phân tử ester bền hơn.",
+        "Giữa các phân tử ester không có liên kết hydrogen nên nhiệt độ sôi thấp hơn alcohol và acid có phân tử khối tương đương.",
+        "Ester tan tốt trong nước vì các phân tử ester tạo liên kết hydrogen với nhau.",
+        "Tất cả các ester đều nặng hơn nước.<br>Giải thích: Ester không có nguyên tử H linh động (không có O–H) nên không tự tạo liên kết hydrogen."
+       ],
+       "a": 1,
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về phản ứng ester hoá giữa CH₃COOH và C₂H₅OH là đúng?",
+       "o": [
+        "Phản ứng xảy ra hoàn toàn khi đun nóng với H₂SO₄ đặc.",
+        "H₂SO₄ đặc chỉ là chất xúc tác, không ảnh hưởng đến hiệu suất phản ứng.",
+        "H₂SO₄ đặc vừa là chất xúc tác vừa hút nước, giúp cân bằng chuyển dịch về phía tạo ester.",
+        "Để tăng hiệu suất, nên dùng H₂SO₄ loãng thay cho H₂SO₄ đặc.<br>Giải thích: Phản ứng thuận nghịch, nên không thể xảy ra hoàn toàn. H₂SO₄ đặc hút nước làm tăng hiệu suất."
+       ],
+       "a": 2,
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Thủy phân CH₃COOCH=CH₂ trong dung dịch NaOH, đun nóng, thu được sản phẩm hữu cơ là",
+       "o": [
+        "CH₃COONa và CH₃CHO.",
+        "CH₃COONa và CH₂=CH–OH.",
+        "CH₃COONa và C₂H₅OH.",
+        "CH₃COOH và CH₃CHO.<br>Giải thích: CH₂=CH–OH không bền, chuyển ngay thành CH₃CHO. Trong môi trường NaOH thì acid tạo muối, không tồn tại CH₃COOH."
+       ],
+       "a": 0,
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Cho phenyl acetate (CH₃COOC₆H₅) tác dụng với dung dịch NaOH dư, đun nóng. Tỉ lệ mol ester : NaOH phản ứng là",
+       "o": [
+        "1 : 1",
+        "2 : 1",
+        "1 : 3",
+        "1 : 2<br>Giải thích: Sản phẩm là CH₃COONa và C₆H₅ONa (phenol tác dụng tiếp với NaOH), nên cần 2 NaOH."
+       ],
+       "a": 3,
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây có khả năng tham gia phản ứng tráng bạc?",
+       "o": [
+        "CH₃COOCH₃",
+        "HCOOCH₃",
+        "CH₃COOCH=CH₂",
+        "CH₂=CHCOOCH₃<br>Giải thích: Chỉ ester của formic acid (HCOOR) có nhóm –CHO trong phân tử. CH₃COOCH=CH₂ chỉ tạo CH₃CHO sau khi thủy phân, bản thân nó không tráng bạc.<br>II. Chất béo – Xà phòng hoá – Chất giặt rửa"
+       ],
+       "a": 1,
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây là đúng?",
+       "o": [
+        "Dầu bôi trơn máy và dầu thực vật đều là chất béo vì cùng gọi là \"dầu\".",
+        "Mỡ động vật ở thể rắn vì chứa chủ yếu gốc acid béo không no.",
+        "Dầu thực vật thường ở thể lỏng vì chứa chủ yếu gốc acid béo không no.",
+        "Chất béo tan tốt trong nước và nhẹ hơn nước.<br>Giải thích: Dầu bôi trơn máy là hydrocarbon. Mỡ động vật rắn vì chứa nhiều gốc acid béo no."
+       ],
+       "a": 2,
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về phản ứng xà phòng hoá chất béo là đúng?",
+       "o": [
+        "Phản ứng một chiều, sản phẩm gồm muối của acid béo và glycerol.",
+        "Phản ứng thuận nghịch, sản phẩm gồm muối của acid béo và glycerol.",
+        "Phản ứng một chiều, sản phẩm gồm acid béo và glycerol.",
+        "Phản ứng xảy ra trong môi trường acid, sản phẩm gồm acid béo và glycerol.<br>Giải thích: Thủy phân trong môi trường acid mới là thuận nghịch và tạo acid béo. Xà phòng hoá (môi trường kiềm) là một chiều."
+       ],
+       "a": 0,
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về xà phòng và chất giặt rửa tổng hợp là đúng?",
+       "o": [
+        "Xà phòng giặt rửa hiệu quả như nhau trong cả nước mềm lẫn nước cứng.",
+        "Chất giặt rửa tổng hợp được điều chế từ chất béo.",
+        "Cả xà phòng và chất giặt rửa tổng hợp đều là muối sodium của acid carboxylic mạch dài.",
+        "Chất giặt rửa tổng hợp không tạo kết tủa với ion Ca²⁺, Mg²⁺ nên giặt được trong nước cứng, còn xà phòng thì giảm hiệu quả.<br>Giải thích: Xà phòng tạo muối calcium, magnesium khó tan. Chất giặt rửa tổng hợp thường điều chế từ dầu mỏ."
+       ],
+       "a": 3,
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về cơ chế giặt rửa của xà phòng là đúng?",
+       "o": [
+        "Đuôi hydrocarbon ưa nước, đầu –COO⁻Na⁺ kị nước.",
+        "Đuôi hydrocarbon kị nước thấm vào vết dầu mỡ, đầu –COO⁻ ưa nước hướng ra ngoài, kéo vết bẩn phân tán vào nước.",
+        "Xà phòng phản ứng hoá học với dầu mỡ tạo chất tan trong nước.",
+        "Xà phòng làm tăng sức căng bề mặt của nước nên dễ rửa trôi chất bẩn.<br>Giải thích: Đây là tác dụng nhũ hoá (hiện tượng vật lí), xà phòng làm giảm sức căng bề mặt.<br>III. Carbohydrate"
+       ],
+       "a": 1,
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Thuốc thử nào sau đây phân biệt được dung dịch glucose và dung dịch fructose?",
+       "o": [
+        "Cu(OH)₂ ở nhiệt độ thường.",
+        "Dung dịch AgNO₃/NH₃, đun nóng.",
+        "Nước bromine.",
+        "H₂ (xúc tác Ni, t°).<br>Giải thích: Trong môi trường base, fructose chuyển thành glucose nên cũng tráng bạc. Chỉ glucose (có nhóm –CHO) làm mất màu nước bromine."
+       ],
+       "a": 2,
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về glucose là đúng?",
+       "o": [
+        "Trong dung dịch, glucose tồn tại chủ yếu ở dạng mạch vòng và cân bằng với một lượng rất nhỏ dạng mạch hở.",
+        "Dạng mạch vòng của glucose có nhóm –CHO tự do nên tham gia tráng bạc.",
+        "Glucose chỉ tồn tại ở dạng α-glucose.",
+        "Trong dung dịch, glucose chủ yếu ở dạng mạch hở.<br>Giải thích: Dạng mạch vòng không còn nhóm –CHO, nhưng dạng mạch hở (lượng nhỏ) bị tiêu thụ thì cân bằng chuyển dịch nên vẫn tráng bạc."
+       ],
+       "a": 0,
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về saccharose là đúng?",
+       "o": [
+        "Saccharose tham gia phản ứng tráng bạc.",
+        "Phân tử saccharose được tạo từ hai gốc α-glucose.",
+        "Thủy phân saccharose chỉ thu được glucose.",
+        "Saccharose không có tính khử vì không còn nhóm –OH hemiacetal tự do.<br>Giải thích: Saccharose gồm α-glucose và β-fructose, thủy phân cho glucose và fructose."
+       ],
+       "a": 3,
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về tinh bột và cellulose là đúng?",
+       "o": [
+        "Tinh bột và cellulose là đồng phân của nhau vì cùng công thức (C₆H₁₀O₅)ₙ.",
+        "Tinh bột gồm các gốc β-glucose, cellulose gồm các gốc α-glucose.",
+        "Tinh bột và cellulose không phải là đồng phân của nhau dù có cùng công thức (C₆H₁₀O₅)ₙ.",
+        "Cellulose có cả mạch phân nhánh và không phân nhánh.<br>Giải thích: Hệ số n của hai chất khác nhau nên khối lượng phân tử khác nhau. Tinh bột là gốc α-glucose, cellulose là gốc β-glucose (mạch không phân nhánh)."
+       ],
+       "a": 2,
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về phản ứng của hồ tinh bột với iodine là đúng?",
+       "o": [
+        "Dung dịch KI làm hồ tinh bột hoá xanh tím.",
+        "Màu xanh tím biến mất khi đun nóng và xuất hiện trở lại khi để nguội.",
+        "Cellulose cũng làm dung dịch iodine hoá xanh tím.",
+        "Màu xanh tím do tạo hợp chất mới bền, không mất khi đun nóng.<br>Giải thích: Màu xanh tím do phân tử I₂ bị hấp phụ vào lòng xoắn của amylose (không phải ion I⁻ và không phải phản ứng hoá học)."
+       ],
+       "a": 1,
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Dãy gồm các chất đều hoà tan được Cu(OH)₂ ở nhiệt độ thường tạo dung dịch màu xanh lam là",
+       "o": [
+        "glucose, saccharose, glycerol.",
+        "glucose, ethanol, glycerol.",
+        "saccharose, tinh bột, glycerol.",
+        "fructose, ethanol, cellulose.<br>Giải thích: Cần có nhiều nhóm –OH liền kề. Ethanol (1 nhóm –OH), tinh bột và cellulose không hoà tan Cu(OH)₂.<br>IV. Amine"
+       ],
+       "a": 0,
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Chất (CH₃)₃C–NH₂ (tert-butylamine) là amine bậc mấy?",
+       "o": [
+        "Bậc III",
+        "Bậc II",
+        "Bậc IV",
+        "Bậc I<br>Giải thích: Bậc amine = số gốc hydrocarbon liên kết với nguyên tử N (ở đây là 1), không phải bậc của carbon."
+       ],
+       "a": 3,
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Dãy sắp xếp các chất theo thứ tự lực base tăng dần là",
+       "o": [
+        "NH₃ &lt; C₆H₅NH₂ &lt; CH₃NH₂ &lt; (CH₃)₂NH",
+        "C₆H₅NH₂ &lt; NH₃ &lt; (CH₃)₂NH &lt; CH₃NH₂",
+        "C₆H₅NH₂ &lt; NH₃ &lt; CH₃NH₂ &lt; (CH₃)₂NH",
+        "CH₃NH₂ &lt; NH₃ &lt; C₆H₅NH₂ &lt; (CH₃)₂NH<br>Giải thích: Gốc alkyl đẩy electron làm tăng lực base. Gốc phenyl hút electron làm giảm lực base, yếu hơn cả NH₃."
+       ],
+       "a": 2,
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây về aniline là đúng?",
+       "o": [
+        "Aniline không làm đổi màu quỳ tím và tác dụng với nước bromine tạo kết tủa trắng.",
+        "Dung dịch aniline làm quỳ tím hoá xanh.",
+        "Aniline là amine béo, tan tốt trong nước.",
+        "Aniline không phản ứng với dung dịch HCl.<br>Giải thích: Aniline là base rất yếu (không đổi màu quỳ tím) nhưng vẫn phản ứng với HCl tạo C₆H₅NH₃Cl. Nhóm –NH₂ làm vòng benzene hoạt hoá nên thế brom dễ dàng."
+       ],
+       "a": 0,
+       "n": 18
+      },
+      {
+       "t": "mc",
+       "s": "Nguyên nhân gây ra tính base của amine là",
+       "o": [
+        "nhóm –NH₂ phân li ra ion OH⁻ trong nước.",
+        "nguyên tử nitrogen còn cặp electron tự do nên có khả năng nhận proton (H⁺).",
+        "phân tử có chứa gốc alkyl liên kết với nguyên tử nitrogen.",
+        "amine tan trong nước tạo dung dịch có pH &lt; 7.<br>Giải thích: Amine nhận H⁺ từ nước, nên ion OH⁻ sinh ra từ nước chứ không phải từ phân li nhóm –NH₂."
+       ],
+       "a": 1,
+       "n": 19
+      },
+      {
+       "t": "mc",
+       "s": "Số đồng phân cấu tạo là amine ứng với công thức phân tử C₃H₉N là",
+       "o": [
+        "3",
+        "5",
+        "2",
+        "4<br>Giải thích: Gồm CH₃CH₂CH₂NH₂, (CH₃)₂CHNH₂, CH₃NHC₂H₅ và (CH₃)₃N."
+       ],
+       "a": 3,
+       "n": 20
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
