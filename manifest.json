@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261102123504734",
+ "version": "20261102130358096",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -117,6 +117,10 @@
   {
    "path": "data/toan-bai-4-khao-sat-su-bien-thien-va-ve-do-th.json",
    "v": "20261102123504734"
+  },
+  {
+   "path": "data/toan-bai-6-vecto-trong-khong-gian-advanced.json",
+   "v": "20261102130358096"
   }
  ],
  "figures": {
