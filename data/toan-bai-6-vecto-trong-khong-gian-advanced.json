@@ -1,0 +1,290 @@
+{
+ "id": "toan-bai-6-vecto-trong-khong-gian-advanced",
+ "subject": "Toán",
+ "name": "Bài 6: Vectơ trong không gian (Advanced)",
+ "chapters": [
+  {
+   "name": "ÔN GIỮA KÌ 1",
+   "lessons": [
+    {
+     "id": "bai-6-vecto-trong-khong-gian-advanced",
+     "name": "Bài 6: Vectơ trong không gian (Advanced)",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Cho hình hộp ABCD.A'B'C'D'. Đẳng thức nào sau đây SAI?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "→AB + →B'C' + →CC' = →AC'",
+        "→BD' - →BB' = →B'D'",
+        "→AC' + →A'C = 2→AA'",
+        "→AC + →A'C' = 2→AC"
+       ],
+       "a": 2,
+       "e": "Ta có →AC' + →A'C = 2→AC (hai vectơ cùng bằng tổng của hai đường chéo mặt đáy và đường chéo mặt trên), không phải 2→AA'. Ba đẳng thức còn lại đều đúng theo quy tắc hình hộp và →A'C' = →AC.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AB và CD. Bộ ba vectơ nào sau đây đồng phẳng?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "→AB, →AC, →AD",
+        "→MN, →AC, →BD",
+        "→MN, →AB, →CD",
+        "→MN, →AB, →AC"
+       ],
+       "a": 1,
+       "e": "Ta có →MN = (→AC + →BD)/2 nên ba vectơ →MN, →AC, →BD đồng phẳng. Ở các bộ còn lại, hệ số của một vectơ trong cơ sở →AB, →AC, →AD luôn khác 0 nên không đồng phẳng.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Cho tứ diện đều ABCD có cạnh bằng a. Gọi M là trung điểm của CD. Tích vô hướng →AB · →MA bằng",
+       "lv": 1,
+       "k": "tt",
+       "o": [
+        "a<sup>2</sup>/2",
+        "-a<sup>2</sup>/2",
+        "0",
+        "-a<sup>2</sup>/4"
+       ],
+       "a": 1,
+       "e": "Ta có →MA = -(→AC + →AD)/2 và →AB·→AC = →AB·→AD = a<sup>2</sup>/2 nên →AB·→MA = -(a<sup>2</sup>/2 + a<sup>2</sup>/2)/2 = -a<sup>2</sup>/2.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Trong không gian Oxyz, cho A(1;2;-1), B(3;0;1), C(0;m;2). Tổng tất cả các giá trị của m để tam giác ABC vuông là",
+       "lv": 2,
+       "k": "tt",
+       "o": [
+        "4",
+        "-2",
+        "2",
+        "6"
+       ],
+       "a": 2,
+       "e": "Vuông tại A: →AB·→AC = 8 - 2m = 0 nên m = 4. Vuông tại B: →BA·→BC = 4 + 2m = 0 nên m = -2. Vuông tại C: m<sup>2</sup> - 2m + 6 = 0 vô nghiệm. Vậy tổng là 4 + (-2) = 2.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Trong không gian Oxyz, cho A(1;0;0), B(0;1;0), C(0;0;1) và D(m<sup>2</sup>; m; 3m). Tổng tất cả các giá trị của m để bốn điểm A, B, C, D đồng phẳng là",
+       "lv": 2,
+       "k": "tt",
+       "o": [
+        "4",
+        "-4",
+        "-1",
+        "1"
+       ],
+       "a": 1,
+       "e": "Mặt phẳng (ABC) có phương trình x + y + z = 1. D thuộc (ABC) khi m<sup>2</sup> + 4m = 1, tức m<sup>2</sup> + 4m - 1 = 0, có hai nghiệm phân biệt nên tổng bằng -4.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Trong không gian Oxyz, cho A(1;2;3), B(3;-2;1). Điểm M thay đổi trên trục Ox. Giá trị nhỏ nhất của |→MA + →MB| bằng",
+       "lv": 2,
+       "k": "tt",
+       "o": [
+        "2",
+        "4",
+        "2√2",
+        "4√2"
+       ],
+       "a": 1,
+       "e": "Gọi I(2;0;2) là trung điểm AB thì →MA + →MB = 2→MI nên |→MA + →MB| = 2MI. Khoảng cách nhỏ nhất từ I đến Ox là √(0<sup>2</sup> + 2<sup>2</sup>) = 2 nên giá trị nhỏ nhất là 2·2 = 4.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Trong không gian Oxyz, cho A(2;1;-1), B(0;3;1). Điểm M thay đổi trên trục Oz. Giá trị nhỏ nhất của →MA · →MB bằng",
+       "lv": 2,
+       "k": "tt",
+       "o": [
+        "-3",
+        "2",
+        "5",
+        "3"
+       ],
+       "a": 1,
+       "e": "Với M(0;0;t) ta có →MA·→MB = 2·0 + 1·3 + (-1-t)(1-t) = t<sup>2</sup> + 2 ≥ 2, dấu bằng khi t = 0. Giá trị -3 chỉ đạt được khi M trùng trung điểm AB, điểm này không nằm trên Oz.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Cho hình lập phương ABCD.A'B'C'D'. Góc giữa hai vectơ →AB' và →CD bằng",
+       "lv": 1,
+       "k": "tt",
+       "o": [
+        "45°",
+        "135°",
+        "90°",
+        "60°"
+       ],
+       "a": 1,
+       "e": "Vì →CD = -→AB nên cos(→AB', →CD) = -→AB'·→AB/(|→AB'|·|→AB|) = -a<sup>2</sup>/(a√2·a) = -√2/2, suy ra góc bằng 135°. Góc 45° là góc giữa hai đường thẳng AB' và CD, không phải góc giữa hai vectơ.",
+       "n": 8
+      },
+      {
+       "t": "tf",
+       "s": "Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AB và CD, G là trung điểm của MN. Xét tính đúng sai của các phát biểu sau:",
+       "lv": 1,
+       "k": "tt",
+       "st": [
+        [
+         "→MN = (→AD + →BC)/2.",
+         1,
+         "Cộng →MN = →MA + →AD + →DN và →MN = →MB + →BC + →CN, dùng →MA + →MB = →0 và →DN + →CN = →0 được 2→MN = →AD + →BC."
+        ],
+        [
+         "→GA + →GB + →GC + →GD = →0.",
+         1,
+         "G là trung điểm MN nên là trọng tâm của tứ diện: →GA + →GB = 2→GM, →GC + →GD = 2→GN và →GM + →GN = →0."
+        ],
+        [
+         "→AG = (→AB + →AC + →AD)/3.",
+         0,
+         "Với G là trọng tâm tứ diện thì →AG = (→AB + →AC + →AD)/4; hệ số 1/3 chỉ đúng khi G là trọng tâm tam giác BCD."
+        ],
+        [
+         "→MN = (→AD - →BC)/2.",
+         0,
+         "Từ chứng minh trên, →MN = (→AD + →BC)/2; phép trừ làm sai dấu của →BC."
+        ]
+       ],
+       "n": 9
+      },
+      {
+       "t": "tf",
+       "s": "Trong không gian Oxyz, cho A(1;1;0), B(2;3;-1), C(0;2;2). Xét tính đúng sai của các phát biểu sau:",
+       "lv": 2,
+       "k": "tt",
+       "st": [
+        [
+         "Góc BAC là góc nhọn.",
+         0,
+         "→AB·→AC = -1 + 2 - 2 = -1 &lt; 0 nên cos BAC = -1/6 &lt; 0, góc BAC là góc tù."
+        ],
+        [
+         "Điểm D(-1;0;3) làm cho ABCD là hình bình hành.",
+         1,
+         "ABCD là hình bình hành khi →AB = →DC nên D = A + C - B = (-1;0;3)."
+        ],
+        [
+         "Trọng tâm tam giác ABC là G(1;2;1).",
+         0,
+         "Tọa độ trọng tâm là trung bình cộng các tọa độ: G(1;2;1/3), cao độ là (0 - 1 + 2)/3 = 1/3."
+        ],
+        [
+         "Điểm M(0;3;0) thuộc trục Oy và cách đều A, B.",
+         1,
+         "MA<sup>2</sup> = 1 + 4 + 0 = 5 và MB<sup>2</sup> = 4 + 0 + 1 = 5 nên MA = MB."
+        ]
+       ],
+       "n": 10
+      },
+      {
+       "t": "tf",
+       "s": "Cho ba vectơ →a, →b, →c khác →0 trong không gian. Xét tính đúng sai của các phát biểu sau:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Nếu →a·→b = →a·→c thì →b = →c.",
+         0,
+         "Tích vô hướng không có tính giản ước: chỉ suy ra →a·(→b - →c) = 0, tức hai vectơ →b - →c và →a vuông góc hoặc →b - →c = →0."
+        ],
+        [
+         "Nếu →a·→b = →a·→c thì →a vuông góc với (→b - →c) hoặc →b - →c = →0.",
+         1,
+         "→a·→b - →a·→c = →a·(→b - →c) = 0 nên hai vectơ →a và →b - →c vuông góc, hoặc →b - →c là vectơ không."
+        ],
+        [
+         "Nếu |→a + →b| = |→a - →b| thì →a vuông góc với →b.",
+         1,
+         "Bình phương hai vế: |→a|<sup>2</sup> + 2→a·→b + |→b|<sup>2</sup> = |→a|<sup>2</sup> - 2→a·→b + |→b|<sup>2</sup> nên →a·→b = 0."
+        ],
+        [
+         "Nếu →a·→b ≥ 0 thì góc giữa →a và →b là góc nhọn.",
+         0,
+         "→a·→b = 0 ứng với góc 90°, →a·→b &gt; 0 và cùng hướng ứng với góc 0°; góc nhọn chỉ khi 0° &lt; góc &lt; 90°."
+        ]
+       ],
+       "n": 11
+      },
+      {
+       "t": "tf",
+       "s": "Cho hình hộp ABCD.A'B'C'D' có đáy ABCD là hình vuông cạnh 2, AA' = 3 và ∠A'AB = ∠A'AD = 60°. Xét tính đúng sai của các phát biểu sau:",
+       "lv": 2,
+       "k": "tt",
+       "st": [
+        [
+         "|→AC'| = √29.",
+         1,
+         "→AC' = →AB + →AD + →AA' nên |→AC'|<sup>2</sup> = 4 + 4 + 9 + 2(0 + 3 + 3) = 29."
+        ],
+        [
+         "→AC'·→AA' = 12.",
+         0,
+         "→AC'·→AA' = →AB·→AA' + →AD·→AA' + |→AA'|<sup>2</sup> = 3 + 3 + 9 = 15."
+        ],
+        [
+         "|→BD'| = √17.",
+         1,
+         "→BD' = -→AB + →AD + →AA' nên |→BD'|<sup>2</sup> = 4 + 4 + 9 + 2(0 - 3 + 3) = 17."
+        ],
+        [
+         "→AC' vuông góc với →BD'.",
+         0,
+         "→AC'·→BD' = -4 + 0 + 3 + 0 + 4 + 3 - 3 + 3 + 9 = 15 ≠ 0 nên hai vectơ không vuông góc."
+        ]
+       ],
+       "n": 12
+      },
+      {
+       "t": "sa",
+       "s": "Cho tứ diện ABCD. Điểm M thỏa mãn →MA + 2→MB + 3→MC + 4→MD = →0. Biết →AM = x→AB + y→AC + z→AD. Tính x + y + z.",
+       "lv": 1,
+       "k": "tt",
+       "a": "0,9",
+       "e": "Chèn điểm A: -→AM + 2(→AB - →AM) + 3(→AC - →AM) + 4(→AD - →AM) = →0 nên 10→AM = 2→AB + 3→AC + 4→AD, suy ra x + y + z = (2 + 3 + 4)/10 = 0,9.",
+       "n": 13
+      },
+      {
+       "t": "sa",
+       "s": "Trong không gian Oxyz, cho A(1;2;-1), B(3;-2;3). Gọi S là tổng hoành độ của tất cả các điểm M nằm trên đường thẳng AB thỏa mãn MA = 3MB (MA, MB là độ dài các đoạn thẳng). Tính S (kết quả ghi dạng số thập phân).",
+       "lv": 2,
+       "k": "tt",
+       "a": "6,5",
+       "e": "Có hai điểm: M nằm giữa A, B với →AM = (3/4)→AB cho hoành độ 1 + 3/4·2 = 2,5; M nằm ngoài đoạn AB sao cho B ở giữa A và M với →AM = (3/2)→AB cho hoành độ 1 + 3/2·2 = 4. Vậy S = 2,5 + 4 = 6,5.",
+       "n": 14
+      },
+      {
+       "t": "sa",
+       "s": "Cho hình hộp ABCD.A'B'C'D'. Gọi G là trọng tâm tam giác B'CD'. Biết →AC' = k·→AG. Tính k (kết quả ghi dạng số thập phân).",
+       "lv": 1,
+       "k": "tt",
+       "a": "1,5",
+       "e": "→AG = (→AB' + →AC + →AD')/3 = 2(→AB + →AD + →AA')/3 = (2/3)→AC' nên →AC' = (3/2)→AG, suy ra k = 1,5.",
+       "n": 15
+      },
+      {
+       "t": "sa",
+       "s": "Trong không gian Oxyz, cho →a = (m; -2; -1) và →b = (-1; 2m; 1) với m là số nguyên thuộc đoạn [-10; 10]. Có bao nhiêu giá trị của m để góc giữa hai vectơ →a và →b là góc tù?",
+       "lv": 2,
+       "k": "tt",
+       "a": "0010",
+       "e": "→a·→b = -5m - 1 &lt; 0 khi m ≥ 0 nên có 11 giá trị m = 0, 1, ..., 10. Tuy nhiên với m = 1 thì →a = (1;-2;-1) = -→b, góc bằng 180° chứ không phải góc tù, nên loại. Còn 10 giá trị.",
+       "n": 16
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
