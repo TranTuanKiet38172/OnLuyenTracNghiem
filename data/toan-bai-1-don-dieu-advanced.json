@@ -9,6 +9,7 @@
     {
      "id": "bai-1-don-dieu-advanced",
      "name": "Bài 1: Đơn điệu (Advanced)",
+     "src": "",
      "qs": [
       {
        "t": "mc",
@@ -21,8 +22,7 @@
         "Hàm số nghịch biến trên từng khoảng (-∞; 1) và (1; +∞)."
        ],
        "a": 3,
-       "e": "Ta có y' = -2/(x - 1)<sup>2</sup> &lt; 0 với mọi x ≠ 1. Ký hiệu tập hợp ℝ \\ {1} hay (-∞; 1) ∪ (1; +∞) không dùng để kết luận khoảng đơn điệu. Mệnh đề đúng phải dùng từ \"và\" để phân biệt hai khoảng.",
-       "n": 1
+       "e": "Ta có y' = -2/(x - 1)<sup>2</sup> &lt; 0 với mọi x ≠ 1. Ký hiệu tập hợp ℝ \\ {1} hay (-∞; 1) ∪ (1; +∞) không dùng để kết luận khoảng đơn điệu. Mệnh đề đúng phải dùng từ \"và\" để phân biệt hai khoảng."
       },
       {
        "t": "mc",
@@ -36,12 +36,11 @@
         "Hàm số không đồng biến trên ℝ."
        ],
        "a": 2,
-       "e": "Do f(x) liên tục trên ℝ và f'(x) &gt; 0 với mọi x ≠ 0, theo định lý mở rộng về tính đơn điệu, hàm số đồng biến trên toàn bộ khoảng (-∞; +∞). Bẫy phổ biến là chọn câu a hoặc d do thấy f'(0) không xác định.",
-       "n": 2
+       "e": "Do f(x) liên tục trên ℝ và f'(x) &gt; 0 với mọi x ≠ 0, theo định lý mở rộng về tính đơn điệu, hàm số đồng biến trên toàn bộ khoảng (-∞; +∞). Bẫy phổ biến là chọn câu a hoặc d do thấy f'(0) không xác định."
       },
       {
        "t": "mc",
-       "s": "Cho hàm số y = f(x) có đạo hàm f'(x) có đồ thị như hình vẽ bên dưới.<br>[img: de-thi-don-dieu-ham-so-12-h1]<br>[plot: y = (x+1)*(x-1)*(x-2) ; x = -2.2..3.2]<br>Hàm số y = f(x) đồng biến trên khoảng nào dưới đây?",
+       "s": "Cho hàm số y = f(x) có đạo hàm f'(x) có đồ thị như hình vẽ bên dưới.<br>[img: de-thi-don-dieu-ham-so-12-h1]<br>Hàm số y = f(x) đồng biến trên khoảng nào dưới đây?",
        "lv": 1,
        "k": "lt",
        "o": [
@@ -51,8 +50,7 @@
         "(-∞; -1)"
        ],
        "a": 1,
-       "e": "Hàm số f(x) đồng biến khi f'(x) &gt; 0, tương ứng với phần đồ thị y = f'(x) nằm PHÍA TRÊN trục hoành Ox, tức x ∈ (-1; 1) hoặc x ∈ (2; +∞). Bẫy thường gặp là nhìn nhánh đồ thị đang đi lên (tính đơn điệu của f'(x)) thay vì xét phần đồ thị phía trên Ox.",
-       "n": 3
+       "e": "Hàm số f(x) đồng biến khi f'(x) &gt; 0, tương ứng với phần đồ thị y = f'(x) nằm PHÍA TRÊN trục hoành Ox, tức x ∈ (-1; 1) hoặc x ∈ (2; +∞). Bẫy thường gặp là nhìn nhánh đồ thị đang đi lên (tính đơn điệu của f'(x)) thay vì xét phần đồ thị phía trên Ox."
       },
       {
        "t": "mc",
@@ -66,8 +64,7 @@
         "-2 ≤ m ≤ 1"
        ],
        "a": 0,
-       "e": "Ta có y' = x<sup>2</sup> - 2mx + m + 2. Hàm số đồng biến trên ℝ khi và chỉ khi y' ≥ 0 với mọi x ∈ ℝ, tương đương Δ' = m<sup>2</sup> - m - 2 ≤ 0 ⇔ -1 ≤ m ≤ 2. Bẫy phổ biến là bỏ dấu bằng tại Δ' = 0 dẫn đến chọn đáp án b.",
-       "n": 4
+       "e": "Ta có y' = x<sup>2</sup> - 2mx + m + 2. Hàm số đồng biến trên ℝ khi và chỉ khi y' ≥ 0 với mọi x ∈ ℝ, tương đương Δ' = m<sup>2</sup> - m - 2 ≤ 0 ⇔ -1 ≤ m ≤ 2. Bẫy phổ biến là bỏ dấu bằng tại Δ' = 0 dẫn đến chọn đáp án b."
       },
       {
        "t": "mc",
@@ -81,8 +78,7 @@
         "m ≤ -1"
        ],
        "a": 0,
-       "e": "Ta có y' = (1 + m)/(x + 1)<sup>2</sup>. Với hàm nhất biến, đạo hàm y' không thể bằng 0 tại hữu hạn điểm nên điều kiện đồng biến là y' &gt; 0 (strictly), suy ra 1 + m &gt; 0 ⇔ m &gt; -1. Mẫu số có nghiệm x = -1 ∉ (0; +∞) luôn đúng. Bẫy phổ biến là lấy dấu \"=\" chọn đáp án b.",
-       "n": 5
+       "e": "Ta có y' = (1 + m)/(x + 1)<sup>2</sup>. Với hàm nhất biến, đạo hàm y' không thể bằng 0 tại hữu hạn điểm nên điều kiện đồng biến là y' &gt; 0 (strictly), suy ra 1 + m &gt; 0 ⇔ m &gt; -1. Mẫu số có nghiệm x = -1 ∉ (0; +∞) luôn đúng. Bẫy phổ biến là lấy dấu \"=\" chọn đáp án b."
       },
       {
        "t": "mc",
@@ -96,8 +92,7 @@
         "(-1; 1)"
        ],
        "a": 1,
-       "e": "Ta có g'(x) = (2 - x)' · f'(2 - x) = -f'(2 - x). Thay 2 - x vào f'(u) ta được f'(2 - x) = (2 - x)(2 - x - 2) = -x(2 - x). Do đó g'(x) = -[-x(2 - x)] = x(x - 2). Dấu g'(x) &gt; 0 ⇔ x &lt; 0 hoặc x &gt; 2. Do đó hàm số đồng biến trên (2; +∞). Bẫy: quên dấu trừ đạo hàm hàm hợp làm ngược dấu.",
-       "n": 6
+       "e": "Ta có g'(x) = (2 - x)' · f'(2 - x) = -f'(2 - x). Thay 2 - x vào f'(u) ta được f'(2 - x) = (2 - x)(2 - x - 2) = -x(2 - x). Do đó g'(x) = -[-x(2 - x)] = x(x - 2). Dấu g'(x) &gt; 0 ⇔ x &lt; 0 hoặc x &gt; 2. Do đó hàm số đồng biến trên (2; +∞). Bẫy: quên dấu trừ đạo hàm hàm hợp làm ngược dấu."
       },
       {
        "t": "tf",
@@ -125,8 +120,7 @@
          0,
          "f'(x) chỉ đổi dấu khi qua x = -2 và x = 1 (nghiệm bội lẻ), còn x = 0 là nghiệm bội chẵn nên hàm số chỉ có 2 điểm cực trị."
         ]
-       ],
-       "n": 7
+       ]
       },
       {
        "t": "tf",
@@ -154,8 +148,7 @@
          1,
          "Ta có y' &gt; 0 ⇔ (x - m)<sup>2</sup> &gt; 1 ⇔ x - m &gt; 1 hoặc x - m &lt; -1 ⇔ x &gt; m + 1 hoặc x &lt; m - 1."
         ]
-       ],
-       "n": 8
+       ]
       },
       {
        "t": "tf",
@@ -183,8 +176,7 @@
          0,
          "Phương trình f'(x) = 0 chỉ có 2 nghiệm đơn x = -1 và x = 1 nên f(x) chỉ có 2 điểm cực trị."
         ]
-       ],
-       "n": 9
+       ]
       },
       {
        "t": "tf",
@@ -212,8 +204,7 @@
          0,
          "Các giá trị nguyên dương của m là m ∈ {1; 2}, chỉ có 2 giá trị chứ không phải 3."
         ]
-       ],
-       "n": 10
+       ]
       },
       {
        "t": "sa",
@@ -221,8 +212,7 @@
        "lv": 2,
        "k": "tt",
        "a": "0007",
-       "e": "Ta có y' = (m + 3)/(x - m + 3)<sup>2</sup>. Để hàm số đồng biến trên (1; +∞) cần: (1) y' &gt; 0 ⇔ m + 3 &gt; 0 ⇔ m &gt; -3; (2) Mẫu x = m - 3 ∉ (1; +∞) ⇔ m - 3 ≤ 1 ⇔ m ≤ 4. Kết hợp ta được -3 &lt; m ≤ 4. Do m ∈ [-10; 10] nguyên nên m ∈ {-2, -1, 0, 1, 2, 3, 4}, tổng cộng có 7 giá trị.",
-       "n": 11
+       "e": "Ta có y' = (m + 3)/(x - m + 3)<sup>2</sup>. Để hàm số đồng biến trên (1; +∞) cần: (1) y' &gt; 0 ⇔ m + 3 &gt; 0 ⇔ m &gt; -3; (2) Mẫu x = m - 3 ∉ (1; +∞) ⇔ m - 3 ≤ 1 ⇔ m ≤ 4. Kết hợp ta được -3 &lt; m ≤ 4. Do m ∈ [-10; 10] nguyên nên m ∈ {-2, -1, 0, 1, 2, 3, 4}, tổng cộng có 7 giá trị."
       },
       {
        "t": "sa",
@@ -230,8 +220,7 @@
        "lv": 2,
        "k": "tt",
        "a": "0001",
-       "e": "Ta có y' = x<sup>2</sup> - (m + 1)x + m. Hàm số đồng biến trên ℝ khi và chỉ khi y' ≥ 0 với mọi x ∈ ℝ, tương đương Δ = (m + 1)<sup>2</sup> - 4m ≤ 0 ⇔ (m - 1)<sup>2</sup> ≤ 0 ⇔ m = 1. Vậy có đúng 1 giá trị nguyên m = 1 thỏa mãn.",
-       "n": 12
+       "e": "Ta có y' = x<sup>2</sup> - (m + 1)x + m. Hàm số đồng biến trên ℝ khi và chỉ khi y' ≥ 0 với mọi x ∈ ℝ, tương đương Δ = (m + 1)<sup>2</sup> - 4m ≤ 0 ⇔ (m - 1)<sup>2</sup> ≤ 0 ⇔ m = 1. Vậy có đúng 1 giá trị nguyên m = 1 thỏa mãn."
       },
       {
        "t": "sa",
@@ -239,8 +228,7 @@
        "lv": 2,
        "k": "tt",
        "a": "0001",
-       "e": "Ta có y' = -3x<sup>2</sup> + 6x + 3(m<sup>2</sup> - 1) = -3(x<sup>2</sup> - 2x - m<sup>2</sup> + 1). Hàm số nghịch biến trên ℝ ⇔ y' ≤ 0, ∀x ⇔ x<sup>2</sup> - 2x - m<sup>2</sup> + 1 ≥ 0, ∀x ⇔ Δ' = 1 - (1 - m<sup>2</sup>) = m<sup>2</sup> ≤ 0 ⇔ m = 0. Có đúng 1 giá trị m = 0.",
-       "n": 13
+       "e": "Ta có y' = -3x<sup>2</sup> + 6x + 3(m<sup>2</sup> - 1) = -3(x<sup>2</sup> - 2x - m<sup>2</sup> + 1). Hàm số nghịch biến trên ℝ ⇔ y' ≤ 0, ∀x ⇔ x<sup>2</sup> - 2x - m<sup>2</sup> + 1 ≥ 0, ∀x ⇔ Δ' = 1 - (1 - m<sup>2</sup>) = m<sup>2</sup> ≤ 0 ⇔ m = 0. Có đúng 1 giá trị m = 0."
       },
       {
        "t": "sa",
@@ -248,8 +236,7 @@
        "lv": 2,
        "k": "tt",
        "a": "0001",
-       "e": "Ta có g'(x) = -2f'(1 - 2x) = -2(-2x)(3 - 2x)<sup>2</sup>(-2x - 2) = -8x(x + 1)(3 - 2x)<sup>2</sup>. Để g'(x) &gt; 0 ⇔ -8x(x + 1) &gt; 0 ⇔ x(x + 1) &lt; 0 ⇔ -1 &lt; x &lt; 0. Khoảng đồng biến là (-1; 0), độ dài L = 0 - (-1) = 1.",
-       "n": 14
+       "e": "Ta có g'(x) = -2f'(1 - 2x) = -2(-2x)(3 - 2x)<sup>2</sup>(-2x - 2) = -8x(x + 1)(3 - 2x)<sup>2</sup>. Để g'(x) &gt; 0 ⇔ -8x(x + 1) &gt; 0 ⇔ x(x + 1) &lt; 0 ⇔ -1 &lt; x &lt; 0. Khoảng đồng biến là (-1; 0), độ dài L = 0 - (-1) = 1."
       },
       {
        "t": "sa",
@@ -257,8 +244,7 @@
        "lv": 2,
        "k": "tt",
        "a": "0002",
-       "e": "Ta có y' = (-m<sup>2</sup> + 4)/(x - m)<sup>2</sup>. Để hàm đồng biến trên (0; 2) cần: (1) y' &gt; 0 ⇔ -m<sup>2</sup> + 4 &gt; 0 ⇔ -2 &lt; m &lt; 2; (2) Mẫu x = m ∉ (0; 2) ⇔ m ≤ 0 hoặc m ≥ 2. Kết hợp được m ∈ (-2; 0]. Giá trị nguyên m ∈ {-1; 0}, có 2 giá trị.",
-       "n": 15
+       "e": "Ta có y' = (-m<sup>2</sup> + 4)/(x - m)<sup>2</sup>. Để hàm đồng biến trên (0; 2) cần: (1) y' &gt; 0 ⇔ -m<sup>2</sup> + 4 &gt; 0 ⇔ -2 &lt; m &lt; 2; (2) Mẫu x = m ∉ (0; 2) ⇔ m ≤ 0 hoặc m ≥ 2. Kết hợp được m ∈ (-2; 0]. Giá trị nguyên m ∈ {-1; 0}, có 2 giá trị."
       },
       {
        "t": "sa",
@@ -266,8 +252,7 @@
        "lv": 2,
        "k": "tt",
        "a": "0001",
-       "e": "Ta có y' = x<sup>2</sup> - 2mx + m<sup>2</sup> - 4 = (x - m - 2)(x - m + 2). Nghiệm của y' = 0 là x = m - 2 và x = m + 2. Hàm đồng biến trên (m + 2; +∞). Để đồng biến trên (3; +∞) thì m + 2 ≤ 3 ⇔ m ≤ 1. Do m nguyên dương nên m = 1. Số giá trị là 1.",
-       "n": 16
+       "e": "Ta có y' = x<sup>2</sup> - 2mx + m<sup>2</sup> - 4 = (x - m - 2)(x - m + 2). Nghiệm của y' = 0 là x = m - 2 và x = m + 2. Hàm đồng biến trên (m + 2; +∞). Để đồng biến trên (3; +∞) thì m + 2 ≤ 3 ⇔ m ≤ 1. Do m nguyên dương nên m = 1. Số giá trị là 1."
       }
      ],
      "imgs": {
