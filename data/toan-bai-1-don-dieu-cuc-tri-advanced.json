@@ -168,7 +168,7 @@
         ],
         [
          "Hàm số g(x) = f(x + 1) đồng biến trên khoảng (0; 2).",
-         0,
+         1,
          "Ta có g'(x) = f'(x + 1) = (x + 1)<sup>2</sup> - 1 = x<sup>2</sup> + 2x. Trên (0; 2), x<sup>2</sup> + 2x &gt; 0 nên g'(x) &gt; 0, suy ra g(x) đồng biến trên (0; 2)."
         ],
         [
