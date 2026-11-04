@@ -4,11 +4,12 @@
  "name": "Saccharose lý thuyết dễ hiểu nhầm",
  "chapters": [
   {
-   "name": "Chung",
+   "name": "TỔNG HỢP",
    "lessons": [
     {
      "id": "saccharose-ly-thuyet-de-hieu-nham",
      "name": "Saccharose lý thuyết dễ hiểu nhầm",
+     "src": "",
      "qs": [
       {
        "t": "mc",
