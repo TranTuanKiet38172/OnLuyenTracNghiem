@@ -9,6 +9,7 @@
     {
      "id": "20-cau-trac-nghiem-ly-thuyet-de-nham-lan",
      "name": "20 câu trắc nghiệm lý thuyết dễ nhầm lẫn – Hoá học 12",
+     "src": "",
      "qs": [
       {
        "t": "mc",
@@ -250,7 +251,8 @@
        "a": 3,
        "n": 20
       }
-     ]
+     ],
+     "imgs": {}
     }
    ]
   }
