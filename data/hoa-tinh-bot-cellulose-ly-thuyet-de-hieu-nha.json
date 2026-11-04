@@ -4,11 +4,12 @@
  "name": "Tinh bột, Cellulose lý thuyết dễ hiểu nhầm",
  "chapters": [
   {
-   "name": "Chung",
+   "name": "TỔNG HỢP",
    "lessons": [
     {
      "id": "tinh-bot-cellulose-ly-thuyet-de-hieu-nha",
      "name": "Tinh bột, Cellulose lý thuyết dễ hiểu nhầm",
+     "src": "",
      "qs": [
       {
        "t": "mc",
