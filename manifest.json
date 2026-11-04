@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261104054510648",
+ "version": "20261104114518484",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -149,6 +149,10 @@
   {
    "path": "data/hoa-de-hoc-them-thay-quan-de-5.json",
    "v": "20261104053802333"
+  },
+  {
+   "path": "data/hoa-glucose-fructose-ly-thuyet-de-hieu-nham.json",
+   "v": "20261104114518484"
   }
  ],
  "figures": {
