@@ -1,0 +1,335 @@
+{
+ "id": "hoa-de-hoc-them-thay-quan-de-4",
+ "subject": "Hóa học",
+ "name": "ĐỀ HỌC THÊM THẦY QUÂN (ĐỀ 4)",
+ "chapters": [
+  {
+   "name": "ÔN GIỮA KÌ 1",
+   "lessons": [
+    {
+     "id": "de-hoc-them-thay-quan-de-4",
+     "name": "ĐỀ HỌC THÊM THẦY QUÂN (ĐỀ 4)",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Hợp chất nào sau đây là ester?",
+       "k": "lt",
+       "o": [
+        "CH<sub>3</sub>COOH.",
+        "CH<sub>3</sub>CHO.",
+        "CH<sub>3</sub>COOCH<sub>3</sub>.",
+        "CH<sub>3</sub>COCH<sub>3</sub>."
+       ],
+       "a": 2,
+       "e": "CH<sub>3</sub>COOCH<sub>3</sub> có nhóm chức -COO- gắn hai gốc hydrocarbon.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Triolein là chất béo không no, ở trạng thái lỏng. Công thức hóa học của triolein là",
+       "k": "lt",
+       "o": [
+        "(C<sub>17</sub>H<sub>33</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>.",
+        "(C<sub>17</sub>H<sub>35</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>.",
+        "(C<sub>15</sub>H<sub>31</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>.",
+        "(C<sub>17</sub>H<sub>31</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>."
+       ],
+       "a": 0,
+       "e": "Triolein là glyceryl trioleat, gốc oleic C<sub>17</sub>H<sub>33</sub>COO có một liên kết đôi.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây là thành phần chính của xà phòng?",
+       "k": "lt",
+       "o": [
+        "CH<sub>3</sub>[CH<sub>2</sub>]<sub>3</sub>COONa.",
+        "CH<sub>3</sub>[CH<sub>2</sub>]<sub>11</sub>OSO<sub>3</sub>Na.",
+        "CH<sub>3</sub>[CH<sub>2</sub>]<sub>14</sub>COONa.",
+        "CH<sub>3</sub>[CH<sub>2</sub>]<sub>16</sub>COOH."
+       ],
+       "a": 2,
+       "e": "Xà phòng là muối sodium của acid béo có mạch dài, như sodium palmitate.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Fructose là một loại monosaccharide có nhiều trong mật ong, có vị ngọt đậm. Công thức phân tử của fructose là",
+       "k": "lt",
+       "o": [
+        "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub>.",
+        "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>.",
+        "C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>.",
+        "C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>."
+       ],
+       "a": 1,
+       "e": "Fructose là monosaccharide C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Công thức cấu tạo sau mô tả một đoạn mạch carbohydrate gồm các đơn vị glucose liên kết với nhau:<br>[img: de-hoa-on-tap-huu-co-de-1-h5]",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Amylose.",
+        "Cellulose.",
+        "Saccharose.",
+        "Amylopectin."
+       ],
+       "a": 1,
+       "e": "Các đơn vị glucose liên kết β-1,4 xen kẽ quay ngược nhau là cellulose; saccharose là disaccharide, amylose và amylopectin liên kết α.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Khi nghiên cứu carbohydrate X ta nhận thấy:<br>- X thủy phân trong nước được hai sản phẩm.<br>- X không có phản ứng tráng gương. Vậy X là",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Glucose.",
+        "Tinh bột.",
+        "Saccharose.",
+        "Fructose."
+       ],
+       "a": 2,
+       "e": "Saccharose thủy phân tạo glucose và fructose, không có tráng gương.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Amine nào sau đây là amine bậc hai?",
+       "k": "lt",
+       "o": [
+        "trimethylamine.",
+        "aniline.",
+        "ethylphenylamine.",
+        "propylamine."
+       ],
+       "a": 2,
+       "e": "Ethylphenylamine C<sub>6</sub>H<sub>5</sub>NHC<sub>2</sub>H<sub>5</sub> có nguyên tử N gắn với hai gốc hydrocarbon.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Cho một loại chất béo có công thức cấu tạo sau: CH<sub>2</sub>-O-CO-[CH<sub>2</sub>]<sub>14</sub>CH<sub>3</sub>; CH-O-CO-[CH<sub>2</sub>]<sub>7</sub>CH=CH[CH<sub>2</sub>]<sub>7</sub>CH<sub>3</sub>; CH<sub>2</sub>-O-CO-[CH<sub>2</sub>]<sub>7</sub>CH=CH-CH<sub>2</sub>-CH=CH[CH<sub>2</sub>]<sub>4</sub>CH<sub>3</sub>. Phản ứng giữa chất béo trên với hydrogen dư (xt, t°, p) thu được chất béo có công thức là",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "(C<sub>15</sub>H<sub>31</sub>COO)(C<sub>17</sub>H<sub>35</sub>COO)<sub>2</sub>C<sub>3</sub>H<sub>5</sub>.",
+        "(C<sub>15</sub>H<sub>31</sub>COO)<sub>2</sub>(C<sub>17</sub>H<sub>35</sub>COO)C<sub>3</sub>H<sub>5</sub>.",
+        "(C<sub>15</sub>H<sub>31</sub>COO)(C<sub>17</sub>H<sub>33</sub>COO)(C<sub>17</sub>H<sub>35</sub>COO)C<sub>3</sub>H<sub>5</sub>.",
+        "(C<sub>15</sub>H<sub>31</sub>COO)(C<sub>17</sub>H<sub>33</sub>COO)<sub>2</sub>C<sub>3</sub>H<sub>5</sub>."
+       ],
+       "a": 0,
+       "e": "Gốc palmitic giữ nguyên; hai gốc không no hydro hóa thành gốc stearic.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Thủy phân saccharose, thu được hai monosaccharide X và Y. Chất X có trong máu người với nồng độ 4,4–7,2 mmol/L (hay 80–130 mg/dL). Phát biểu nào sau đây đúng?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Y bị thủy phân trong môi trường kiềm.",
+        "X không có phản ứng tráng bạc.",
+        "X có phân tử khối bằng 180.",
+        "Y không tan trong nước."
+       ],
+       "a": 2,
+       "e": "X là glucose, M = 180; Y là fructose, tan tốt trong nước.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Nhận xét nào sau đây không đúng?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Glucose tan tốt trong H<sub>2</sub>O và có vị ngọt.",
+        "Fructose có khả năng tham gia phản ứng tráng bạc.",
+        "Đường glucose không ngọt bằng đường saccharose.",
+        "Cellulose bị thủy phân bởi dung dịch NaOH tạo glucose."
+       ],
+       "a": 3,
+       "e": "Cellulose bị thủy phân trong môi trường acid, không thủy phân trong NaOH.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Amine X đơn chức. X tác dụng với HCl thu được muối Y có công thức là RNH<sub>3</sub>Cl. Trong Y, chlorine chiếm 32,42% về khối lượng. Hãy cho biết X có bao nhiêu công thức cấu tạo?",
+       "lv": 2,
+       "k": "tt",
+       "o": [
+        "3.",
+        "5.",
+        "4.",
+        "2."
+       ],
+       "a": 2,
+       "e": "M(RNH<sub>3</sub>Cl) = 35,5/0,3242 ≈ 109,5, suy ra R = C<sub>4</sub>H<sub>9</sub>; có 4 amine ứng với công thức C<sub>4</sub>H<sub>9</sub>NH<sub>2</sub>.",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Kết quả thí nghiệm của các dung dịch X, Y, Z, T với thuốc thử được ghi ở bảng sau. X và Y tạo dung dịch xanh lam với Cu(OH)<sub>2</sub>; Y cho kết tủa Ag với thuốc thử Tollens; Z tạo kết tủa trắng với nước bromine; T làm quỳ tím chuyển màu xanh. X, Y, Z, T lần lượt là",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Aniline, ethylamine, saccharose, glucose.",
+        "Saccharose, aniline, glucose, ethylamine.",
+        "Saccharose, glucose, aniline, ethylamine.",
+        "Glucose, saccharose, aniline, ethylamine."
+       ],
+       "a": 2,
+       "e": "X là saccharose, Y là glucose (tráng bạc), Z là aniline (kết tủa trắng với Br<sub>2</sub>), T là ethylamine (làm quỳ xanh).",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Tiến hành thí nghiệm theo các bước sau: Bước 1: Cho vào cốc thủy tinh chịu nhiệt khoảng 5 gam mỡ lợn và 10 mL dung dịch NaOH 40%. Bước 2: Đun sôi nhẹ hỗn hợp, liên tục khuấy đều bằng đũa thủy tinh khoảng 30 phút và thỉnh thoảng thêm nước cất để giữ cho thể tích hỗn hợp không đổi. Để nguội hỗn hợp. Bước 3: Rót thêm vào hỗn hợp 15–20 mL dung dịch NaCl bão hòa nóng, khuấy nhẹ. Để yên hỗn hợp. Cho các phát biểu sau:<br>(a) Sau bước 3 thấy có lớp chất rắn màu trắng chứa muối sodium của acid béo nổi lên.<br>(b) Vai trò của dung dịch NaCl bão hòa ở bước 3 là để tách muối sodium của acid béo ra khỏi hỗn hợp.<br>(c) Ở bước 2, nếu không thêm nước cất, hỗn hợp bị cạn khô thì phản ứng thủy phân không xảy ra.<br>(d) Ở bước 1, nếu thay mỡ lợn bằng dầu nhớt thì hiện tượng thí nghiệm sau bước 3 vẫn xảy ra tương tự.<br>(e) Trong công nghiệp, phản ứng ở thí nghiệm trên được ứng dụng để sản xuất xà phòng và glycerol.<br>(f) Sau bước 2, dung dịch trong cốc thủy tinh là đồng nhất.<br>(g) Có thể thay dung dịch NaCl bão hòa bằng dung dịch CaCl<sub>2</sub> bão hòa.<br>Số phát biểu đúng là",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "3.",
+        "4.",
+        "5.",
+        "2."
+       ],
+       "a": 2,
+       "e": "Theo đáp án tham khảo: 5 phát biểu đúng.",
+       "n": 13
+      },
+      {
+       "t": "tf",
+       "s": "Aspirin được sử dụng làm thuốc giảm đau, hạ sốt. Sau khi uống, aspirin bị thủy phân trong cơ thể tạo thành salicylic acid. Salicylic acid ức chế quá trình tổng hợp prostaglandin (chất gây đau, sốt và viêm khi nồng độ trong máu cao hơn mức bình thường). Hình dưới là công thức cấu tạo của aspirin và salicylic acid:<br>[img: de-hoa-on-tap-huu-co-de-1-h6]<br>Hãy cho biết những phát biểu sau là đúng hay sai?",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Aspirin và salicylic acid đều là hợp chất hữu cơ tạp chức và hơn kém nhau 1 liên kết π.",
+         1,
+         "Aspirin có thêm một nhóm C=O của ester so với salicylic acid."
+        ],
+        [
+         "Aspirin và salicylic acid đều chứa hai nhóm chức ở vị trí tương đối meta- trên vòng benzene.",
+         0,
+         "Hai nhóm chức ở vị trí ortho."
+        ],
+        [
+         "Aspirin và salicylic acid đều tác dụng với dung dịch NaOH theo tỉ lệ mol 1:2.",
+         0,
+         "Aspirin phản ứng với 3 mol NaOH, salicylic acid với 2 mol NaOH."
+        ],
+        [
+         "Công thức phân tử của aspirin và salicylic acid lần lượt là C<sub>9</sub>H<sub>8</sub>O<sub>4</sub> và C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>.",
+         1,
+         "Đúng theo cấu tạo của hai chất."
+        ]
+       ],
+       "n": 14
+      },
+      {
+       "t": "tf",
+       "s": "Cho sơ đồ phản ứng sau (X, Y, Z, T là các chất hữu cơ khác nhau): saccharose →(1) (H<sub>2</sub>O, H<sup>+</sup>, t°) X và Y; X →(2) AgNO<sub>3</sub>/NH<sub>3</sub> T; Y →(3) Br<sub>2</sub> + H<sub>2</sub>O → Z. Hãy cho biết những phát biểu sau đây là đúng hay sai?",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Chất T là muối ammonium của gluconic acid.",
+         1,
+         "X là fructose, sau khi chuyển hóa thành ammonium gluconate."
+        ],
+        [
+         "Chất Z thuộc loại hợp chất hữu cơ đơn chức.",
+         0,
+         "Z là gluconic acid, có nhiều nhóm OH và một nhóm COOH, đa chức."
+        ],
+        [
+         "Để chế tạo gương soi, ruột phích, người ta phủ lên thủy tinh một lớp bạc mỏng thường được tạo từ phản ứng (2).",
+         0,
+         "Phản ứng tráng gương thường dùng glucose, không phải phản ứng với X."
+        ],
+        [
+         "Các chất X, Y, Z và T có cùng số nguyên tử carbon.",
+         1,
+         "Đều có 6 nguyên tử carbon."
+        ]
+       ],
+       "n": 15
+      },
+      {
+       "t": "tf",
+       "s": "Cho các amine có công thức cấu tạo dưới đây: (1) xiclohexylamine (vòng no gắn NH<sub>2</sub>); (2) C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>; (3) C<sub>6</sub>H<sub>5</sub>-NH-C<sub>6</sub>H<sub>5</sub>; (4) C<sub>6</sub>H<sub>5</sub>-CH<sub>2</sub>NH<sub>2</sub>; (5) C<sub>6</sub>H<sub>5</sub>-NH-CH<sub>3</sub>. Hãy cho biết những phát biểu sau là đúng hay sai?",
+       "lv": 1,
+       "k": "tt",
+       "st": [
+        [
+         "Trong số các amine trên, có 3 amine bậc một.",
+         1,
+         "Amine bậc một là (1), (2), (4)."
+        ],
+        [
+         "Trong số các amine trên, có 2 amine bậc hai.",
+         1,
+         "Amine bậc hai là (3) và (5)."
+        ],
+        [
+         "Tên gọi của chất (4) là aniline.",
+         0,
+         "Chất (4) là benzylamine; aniline là chất (2)."
+        ],
+        [
+         "Trong chất (2) phần trăm theo khối lượng nitrogen là 15,05%.",
+         1,
+         "M = 93; %N = 14/93 ≈ 15,05%."
+        ]
+       ],
+       "n": 16
+      },
+      {
+       "t": "sa",
+       "s": "Một loại chất béo chứa 89,0% tristearin về khối lượng, còn lại là tạp chất trơ. Thực hiện phản ứng xà phòng hóa loại chất béo trên bằng dung dịch NaOH thì thu được một loại xà phòng chứa 67,32% muối sodium stearate về khối lượng. Giả thiết các tạp chất trơ được loại bỏ trong quá trình nấu xà phòng, hiệu suất của quá trình là 80%. Quy cách đóng gói mỗi bánh xà phòng có khối lượng tịnh là 100 gam. Để sản xuất được một đơn hàng 100000 bánh xà phòng thì khối lượng chất béo tối thiểu cần sử dụng là bao nhiêu kg? (kết quả làm tròn đến hàng đơn vị)",
+       "lv": 2,
+       "k": "tt",
+       "a": "9167",
+       "e": "Sodium stearate trong 10<sup>7</sup> g xà phòng là 6,732.10<sup>6</sup> g, tương ứng 22000 mol; tristearin cần 7333,3 mol, khối lượng 6,527.10<sup>6</sup> g; chia 80% và 89% được khoảng 9167 kg.",
+       "n": 17
+      },
+      {
+       "t": "sa",
+       "s": "Có bao nhiêu ester có công thức phân tử C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> và khi thủy phân thu được alcohol bậc I?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0003",
+       "e": "Các ester thỏa mãn là HCOOC<sub>3</sub>H<sub>7</sub> (n-propyl), CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub> và C<sub>2</sub>H<sub>5</sub>COOCH<sub>3</sub>; HCOOCH(CH<sub>3</sub>)<sub>2</sub> cho alcohol bậc II nên loại.",
+       "n": 18
+      },
+      {
+       "t": "sa",
+       "s": "Cho sơ đồ phản ứng sau: Cellulose →(enzyme) X →(enzyme) Y →(enzyme) Z; Z + Y →(H<sub>2</sub>SO<sub>4</sub> đặc, t°) T. Phân tử khối của T bằng bao nhiêu amu?",
+       "lv": 1,
+       "k": "tt",
+       "a": "0088",
+       "e": "Cellulose → glucose (X) → ethanol (Y) → acetic acid (Z); T là ethyl acetate CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>, M = 88.",
+       "n": 19
+      },
+      {
+       "t": "sa",
+       "s": "Khi vận động mạnh, cơ thể không đủ cung cấp oxygen thì cơ thể sẽ chuyển hoá glucose thành lactic acid từ các tế bào theo phương trình: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2C<sub>3</sub>H<sub>6</sub>O<sub>3</sub> (1 mol glucose chuyển hóa thành lactic acid sẽ cung cấp năng lượng cho cơ thể là 150 kJ). Sự chuyển hoá glucose thành lactic acid giải phóng 2% năng lượng cho cơ thể. Giả sử một người chạy bộ trong một thời gian, tiêu tốn 400 kcal (biết 1 cal = 4,184 J). Khối lượng lactic acid được chuyển hóa bằng bao nhiêu gam? (kết quả làm tròn đến hàng phần mười)",
+       "lv": 2,
+       "k": "tt",
+       "a": "40,2",
+       "e": "400 kcal = 1673,6 kJ; 2% là 33,47 kJ, tương ứng 0,2231 mol glucose; lactic acid = 0,4463 mol × 90 ≈ 40,2 gam.",
+       "n": 20
+      }
+     ],
+     "imgs": {
+      "de-hoa-on-tap-huu-co-de-1-h5": "data:image/webp;base64,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",
+      "de-hoa-on-tap-huu-co-de-1-h6": "data:image/webp;base64,UklGRlAkAABXRUJQVlA4WAoAAAAgAAAAXQIA2gAASUNDUMgBAAAAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADZWUDggYiIAAPDCAJ0BKl4C2wA+YS6TRiQioiSp0mpokAwJaWzLwRiB/awta2qyrZT1hKNMUGiBwVr4xmnRq3/ph4m+XXkFy1Oy/M3+ffnnOp3C/PfUUyM7v7t+/H4LWvrKZ6EJpf22ZZqLrv1uMHh1jlHRoh52U8LLaxkrf2y5lZeuCGWwM1A1DOb1BltB++yDjHTbcDmr/1qj488qMFQUpxndNpslTAYwIG9zj6eoKn+zE9pE4O9RnEwOcEuQTfFfumwBJdcZjTBMg42ytsCZ/ibJzAWY1eK4Dbk+exnl8gix0UKZahvkCxc5Tr81lBOMOpxtcWZ9+9WX75BP6Gx1iPvRGSqklPVNpUZ8cFaPbx+l8zKhhkukYy0tECHJWXy8R54O6jDAtZlhae2rRKZfWQ8VxCcjAQeh1X1KXi/kt1XU8MWr0HrOps5+3FUNUap0tIkqmDi3SI0bJ6oy7y4boGl3Lqu2Zft85H4tlmZ3uzp6ndJ8vG/FmQvhQE8ifCH7x8PsRiFp7uL9waXRzgCy7ai9mid894IBOti5vbbulfoi7+cglbCk55jesnaTr8CIkTAmsggQ1OFItYzcma5KUgwaJDGjhcyR8ahCts+CubHVXbgGcSDVCx1cpfeAUP6LmgYvJciANKy3pdUjB0rf39XyW8sKJhVupST+WTPSqIK7zVe66fTHN64E+2CynBXDOBkYM/gQSr3Z7QgSJTO7n78o9xDTFTm7vaN+SOxqZrbQOFoCwfE7sCdp6a+5nnOeD3faSjs2oFbq9KFJ3tkUGOlHzGQjP12M3tAuFhT5+7lfPNPgdPXisMPEAwnwvTDq5funfzSF6vJv7zJjVOBi3D4gJxgUkGR72T6fpqQJm+WhygBeTPPoXgzDfIYBEbK9XRR7lwA4Q7OUVQTof/SpLrhTlxheWGjotaI0ujrrl4eQ5Eo7UWAxV0DFwskn+GBgwMPLb2eS/GZYJUQvzFDUapuoJhkjqEb9+r26rnyxKQdUBSwj2VlhU4PFqjoRtHeAL2vr320T1q7oy2rmvJyw++40ZHGbiE6u7TKNKg3oRan5xBQylbqLceqew90sn+ErXOk4WDaiQyF5QsqplYukqGgystfyklO/WC1Q2faIAaWKaR1MM7uFtIz/DvxBXopXNhArUYhX4Gvdo13gERLBmAf1IpuwybyO4AQBbkyr+WhFNQ458/00t89q7kwhcj8ds5oIvFPKJcbYG6LvLY4TrxoC6akOzX/SI68SynACffllIQixR+3hXWfnJyU6k+ukbqrlWWf4pUBRWmPWA0n989BGuG9jqEUUr+Q67bk8ojMDX9MMUUuE3YM30JcWpQBrAOccz3K+8cnblWs+vHqdLl7P9m+T0ar4gzeEKTuGGlEKSxd9h2Gu8i8PZZIvcss9jrgZjjp4hpuwdH/cw3TCxRVpIK5Pdm7AxPlApbt2Z8d+rgYl0xtSQ72eNiqTVO+V3AO+h7/ecfFN3ic5yPc+mLp4ZaXRtXWZgF0/WrmaknyBirLc2XQYNT7uXml83DQi2lndI0HX3FmJ9gbv2QKSMuMx8/wJoxymnWoTIn/9bI/6FjvgpTnseYpe4NzC7nJ97q2zIyZ/8s9Wicr7jmhwgnxys089yJHfs0r24qYWBgJngl6roFXsl40dHGX3lYpBwVNQTZL206v49icHArBZO9lGrVNLqSV1vjAoTXymxk2vLtwn5RybkDI3VaLku+Dn+srarg1F04eHRcLhxwEur2coT7b5BWQkdjHBSth76gIjNdCjLO93plmwuRYdYFiVo9kIr/3zBGJrYfv/GFLn/rczA+pMDtKt4nccPBIzPzaeXtHcg2CMSgjEIQBgF/gj1iut+qSDK7QNPqFgZz5+09GogQ5YgZjIfkQuWYH+nEBjzRnEwGV1otE2zKOticQ76C+SId+S9dHEljbXORLDsBB1Qq2l/FASyPNOA0qBjHJsMCFsXpmetJ9xClj6ksmjrayabubhaC2cAEs3emECZVroQSUJTaI1MmpMdvgkH8vZRATiM3z8BNdOepCw+j/vqsQCgH/2EohKJQ/Tl5GSw9dbFopY3WqLLNqW2dXhyjcvTb/p8kIAAM4/7EWa2Qs71ZdO4E0gm7K5dPWv4GhaMTrty18Bg1pZAPq3EzveUPaHu6dq0LrmQi/qh/J/VbAcjCNT6KbzVJ9attEENnr3xeRPbHWOOhQWp81/qC5Oa24C+x3I5KgVF5FD7h6B3r2MeE0O/4edrE5ZGgD5sJq5V1zlTJo8WhqLT3vPst9yLLKUGIpo/EVaY/mFH83HQSldxQriTUrgz1Uxw7D50wMVOrtWooiNIGe+IGwe3O2bs7Hr+G4MgFxnIcbovIb9OntaOovP9w8ApuiovXJnW/6iVupULQE9bK9NVrmCVxAAZ6jhFfYAUQHdLII7LXJlMzBq/heS7SJUIhCbhKEjSs5dzZdsVZ0Av0M+BGzfWIFXYlhceIEr0iYeJG6tM5F86mDZLouZPEWllZaB1yfw1vmtehPqWLpyb8j4Pzambg2o7jupKONGeEWR7w4g1GQIPB2Lz+nQcSCHllHkkjsAqb04A9xW9+JGv8Cc63VPI1YZDGc2iAaDFRVNKUQ+CMoqPPK/I8XAMt+e66nO64sgyHWoXP162h0HZfFtaCIEWGoHyrFaQ4B1w+IejJo4frH09qZBiKwJ7Ee+lOHTvJI4GcwBWvjOLLKWsYnrvxUgjd3uWR7zCycMoDrCYFcJt60/16na8Z6B7r/58nRYVVHGyJTZO01YMF8wcqW5JFOCkJXsEfVTEwtU6K6jpi6x629Pe5d0h21U8MqyVJt7Z0YrlC7KgHCF0/xnTJO0aw6qWRJAGmUGfl6ZlOXmQzeFuM44I5QM3X8DWNcYXZT2XFx0ODZRiPKJiEWn9SbAzIAAvJeX7N0gJei2FSjOHwXSAZgq4sh1k4IUGhbqGxB+IFRr3M5PG/7inPiao3CHJ75B6smb6bzTKc83G7NOOqJtDUsapcgM92qI8He8h2+X5Pe9FmIHDSRiQqMYnhtu9S4DcUbpIn3bleDUV9PCjxzTjg6orBWYMt5V9ouR5kVDhoXRu8oPpB6/0d60fan+Wy9Czch2d3VaIy9eMpF3SWMJkXqX4DRnvLKdXW4YbcL78wHXVUzIcv9QQveu7mXwZH6s5+a27U0QczMKqoC0KZv2lXXm2dfn7vzCovbOB8RRwEicY/5TEJBKhaRCA56IUHeK0eLyUNFS/QrbCb05lywuVD45b2zLFHzpKPmZSURGUmWkOVL8EsnO5qrXd8W4eBjhH3a7G9aOfgIhZWiUryPg6/9xa42fHrqpAZETxyLKVisJ4y2AMVC7GtbPdmOQ54VPScQsZQJz315Nuf0bmuwl0jV6YkzipMJCdsAH8xAxOUDbNX9I5EStR9/Y20iwmqJHgKyeJNtUTny30tTAqRG2Y8lEPy8COgBdTj7LYnUeUErpcNtm+ZbikrKq6eed2ZPL72MmPrcIYsKu/+pz0luO4VPZOQwBfSAo4CnO3tS0xvftEJSx2pU8ZMWjqHrPyX3JkwOFTb0NdM08b7DAYweMe0RT+oZO3crmaFgb/MxZ4pJJPq+9Jg1kdnmW7p+C+zwDJgk2XTy3Ha4eC0BAKQyDcyJ//Jx/VgB8dTUAbrrHEid53c86+6oNLYx+WRwvJolh8XNZsn6MW95OogpJ1P4C7t8sAd18rFifDouYwBmj8pjzVBag9f8ZxTd8iENRzQEFYWxhGkYZQvPq6hBKg3uqvnmU9/z9vzLAV26HPDc4mysytOae2BYHOYZaTvdGh0A8TOgmsSy31BsSpGI8ikiT1iAf6MyDcsLMsk9jjXm3J37UVKCEuZJmmTCFP3gqP20v0qxyGz6bcKqQRlHVpLIU78lTUOBSdTs9v1UkyEEQ0zhJ1uTrInCdYiCdwuvXSi+gqChS5VpyqYbI4RMSAGpxxzZhQja4t0/glXzcSSIRsbmoQmf5b57m0p4gfBSFjE0k8gW0Ih9hECD4Gs9Ap2OWGV7f+cM6ET7AMIief8txBgfxff3tqaizK73NBgEdIBc5s1F7e4rB17nQrNLUlVzbfVCJPYK4XwnNU90K/TqcPf9hDSiP5ySsIUWUm2JwQ5Au9eJ8FWCHfCGoh0lPC0Qjz7EVxPeTA/jhTcZPby4r9B8/AamCnVpqNvEJvaj+ZSCuog7UtnWTcz8ei1z/sHQgWkjJ6EqxahyUoi8l5FFwiz4qOJQUY6+ws+/s1DT39fOtpmySH5hdlLa9OdUSQSbsl2bcaDP/gtTcVTa+lL/rHBJy7cKpjk3JPFpK8c1ab43MdohE8t8buYlfY1g2pvbKEsc2db6YDDX+WJ/CrS0Ly6v/z2dIgaaDlEB77Eznn3gx8ylrnA+y0Fb3VXeH3/HUpltRG0eM8k+3yZvF5ePw21WLZ+MoxE/KkksMFPpWxcoXMAacLkvBF7kXfUf+ebZuRa5xmqZz7ohwf1GjixRt9FkcjVyNeLnl40u2UbBVylVnZJCzt6PgXBPZFhGteo8pcNRpzAf/n8IpCB/tHzqi4Vjw2fwQhZrU25rJAdglek2w2QZAH67UG/nMSPlhYKUCKLzuxu4R4s/mkfylxODw5kQ2Yk8AHvG+7gFhWUs5aAdlmVMc7IuXPa8Dv+mih9zZoeqypLrZrwBSoKQvCE7llL2cD7H6dglRibGFZu3gGUO2jIkvqgl8EjakBnFS6aviOLna2q6a4eTa7bM7UspleqgsStl1yENjyfU5TmoTILtguFdEeenGQJSbn5NApl4GaSQD/Gib2j9ekJEzRQ5lJVjkW6f9hYdYbqw+Po8tS+jrdelJM8d9pbyUzVRrBvhUs+/W+qfPZ5Imo0AtnTqP6+A0n6apK4Dya2CI8dQwaW3uXvMzxJ2mmlKO+I33Ra632BNlIuunwYNiqru98OC5wVhxj8Llb5BtMh2D+EDetQJxxDKR7P0TVUyUXDd3TGqgLagxRzcHz8P8HNNlfrMNwClHa8cUA12vXYpHN94Yvt3lQ9iRyrvekoDlms5RD5RlZtQaM7r8SeXh6m+7JN8SW5sy5yaRjbZxSqNnT/mWgTeFiJLqfrKJdMyR3KQMWC4aCV8zZo4oAZbibhfNAD0/vf/zNF7a/q7TohONcML+3CXm3RUc0FjYxRzC1jTfwCDbwjcHPK4SCq/mbKJ3S4ulp/e6yGYuvkbmL73qWKUSkX6T3Mzw4pb9JvoqjHu60fskEfa8Uzm+xFdb+ttzD3eeMERiGGqrrsJkMXKhcA5bwaEcWiZp0oDJ6v7fa/1prxiyvIOK93NMV9fmdT5I51tWT+B2bwMg6+ta7Jrcq7sU81oQ5cmi1OfHvC6CkpA0PRBOhy2kmRrYZSyLzeOfd9kTsMCxb4ZXFOwSp7QnqowjaZWHiZD5lnodMJjror/x9uBjoL3p3KBJSlDP3wphud35oPoW/jIsum+jOpLeF8ADbGgHCd8ScHNCEKiRviZFwV4kzG7k65dd9HqhgU0wtqX0MglfGTGD/dcnflwEzErFDXqHVtjp13I2l4eqfaWA15POHMq+qa1qOmwC9XikrS7BH5qY+UK3HCROuPlc6YWBh9vLAHKdW+eqToCpWPEjju198ra5/6rJ/m1qa0QBAl8dDmhdVGIcYhLZ04nfxVL38SpHL97DKDBvEks9KAp5bTlwbmOLM7IqC2KHNcSfCuYCyW6b+JQpgC1BeXPSVkB0WQ3oORMizdQNgb28new3OZiHqP9qCtsDU+UIrhNKlB2NTFy2nDe+vZXucAdRd4YxwJww95KHMobniBMEc3ndyM1gGjX2vY+ptloWhxx0TARFNO9eZbZxvayGijLmNiVvdrspArwnoVSGcuCJswg3BwEhXcGu6MUmk06ge5Fi+2bV8Rhe7pXyzzAIsitEZAfbfCn0sFjDyInqxwKykeWwNMAb9JGDNvzJurfOM/4DnGVSoGBSYIo5RQxXZ7inQeW0xLDUZofuQiJGGzOVCjUSx8dFVVAOS6/Z3QEeL03Ka4B5z664S+h3t5O0rq9bTPQQKAefwmA1RbfiQWMdFbhwY32oiaHb13nqF6ZGmEwxqSqoQBHVQTcKI8S6fpBq1ROFZJ4GXdC8bIfyBxez1goUkYCrvj1jPvoEqOs4DzRPv2dNqZXodXA3uxb9MQsfZ09lUuGsbM8uWLIlk+icJ2YNnJq5J5z1Eyg8A/Ff1NFD0EcxkNH0jwF5dwT0RjRAZuV0epMMl2ZT39eLuWl34BRvqebj6+6d5YrrWLFFrg0kHnZqUKU6IclEQv1M0EDdnqELjYlHiQ+iWU0NRRoAeDCCD3vKJ6oCVat0NrLuDSzL9V4WHqDluPZEoexVNKBfXTjw9aDC4G1kTAyqh2SklWjEi8dAT2hxbQ4CqYTt/10yeqgAYGwg9iiibrTDFsdC2o6RAReptrpAlwE8qulTKVZS6f1+QF6VXhYQHxm6irggXMdPeD25Rxrf6Mjh3CDnLE+G5X1sdZk5F/E4cPDDLEH6DXO1ECTTrIKrG1zj9yDJRkUcasmyg0KukV2oKk3ZywnVi5JzasnE75ar1oRfTcoHEN0zJbknBXYE+0Xv+EOyXS+gqx560FRujiMmT936h/Wm6x89gyMRu2sDf0AnBWsz7aouov2UqAa0pHXjnJHSITyuPdFC6suMAp4w0/N6dfzPcWLOxQL4UArdcAXAq5xjpibXE2ScxFWQlyH4hdqAPlal+Ny6LpOasC3qqq+W7VBISZ1NY/ELLITKXOHzyiWIIr4naLVMJAgHDRCYBeD8ugn8Y5+s51M/JxizHtiwWDJo/IHu8OW3U0hDkyl874TsWLcFZYWfNH/g88XhXeqQTYkccvwUS7o5gYXK8kBq12fn1L5oereuC5zUajbxNMTLYspOO8II0DmF7dHgX+dD40RYaZi2fuSvERKuZ0y+YW3emdHp3IgwyRhZzJvpOBmXw7hvSgGKcex0FPAAUce+S47I8MxoiCZtpoSMnRmJGP89DwLh23S/IBRbilU2K3ZE5lp4ppw08SKjYbMAnI9B5M0ms1ex/4SQW5UL5jWDWr2MNDassHCCuq0WixPaQXbzkQ3meWj/dUNdSyhtFWzmRQcgS391V7VoeK/SwZvqySUT4VR36FUlYwQQVXDnRvevLODYJC/hTojM9LdD9Tipi6HQphliXPMa00gWabdrxM6hx26dj6NY3DM9XALBcUTTd9G5QZhUznAGP012x2d5ZTl7NlXqHzRBXp0KBDL+M3Mba/cA5KAzwbqsSOLWmJmhl/4nprZLk6QySjhY0HhjHcfHsVNK0vnQMqLciGreXTf6XNpQ/OEyj0XVZ6YTjulUNTBMriVMTMtq69K2ZOZmYFx69CNVsJQI7kdGJ43cVSIEpN/Sj+LuATgRE/77AlGQpgvDq3LBW7pD6VOeiXi4cSjF6spPvGQPvVbUWfROSPnB1ANH9OFPDgI+MdD/YthdkzG92Arh2kEYsZRNQaCzejD2DqpmO6KHYB04RFoBlFwG+oMJYYOdUcr4qTGxn/BqlJI2db2AIjUAJMY4R2nQ4vYeIPNmI+n6YLsaJVtBZgiPwC4BWewbj/Nzqvze+qFuERYT/uVQNnjX/VgSmswQiVKQBVU1+QUBmgrGjO/UMzjwOe9VMAC0kvIeK7gQNHAv1xwDn5QEH7EwpHQaIXf3wK7SLBhnaAOg0FGG2JMA5xDH7xngNnQDeEATmrPayb7tn8HglM55sl7bgE3U749JR44CqzZ0yqGVzc7KTsErw5yRqOIYSFDnG6YCIowvM2N8opbERbaCJiOcr0s6VM88w0X64ZyybpxV9snBO0i7tolbVTH5NQW2Lab4lAxomiMeyeLrhaCmLSmqYwLlyuilBOoP9hyePcL//GCXOgz+HE1BtYORixzvjlU8Cpys2/PeW1uL9VgEWPUSMaxijwIT21E256+LoVsBs5w8rqQwkwia9qael9OmeMM9aUxF2SS5TYaJ6/N0FQf8vWvBqJq/IMgL1EEvde/z2F2P/2WyQQ8Z3LkPaImfjsXjXy/E/0ui5incjZDC9Bk54zUXU1I7qJOVcXcO6mh6j/6EclsyDT9ON6E6hKEeUMLua6KGQmE8X/hdAKiMgD8l25VkKI6XsdkiijXrVvJTZbRwMP76oGyhHsUQsUoSTg+8RUVwr8NoX2FBLI94Caq2KUZbIrDhiT88t+kmBIRDl1ZtTdMheP5QOJL1bCrH3GxoXrnFpVFCyw8t7ungoVqmmWTSeD/v9oYlnKymheFk5VyoxuVKmH26GIx8ZrjQy1GoBgCMbn0jPkuGRdE5iaO0OrH8RknxbrvxtaqNxgHMM/xd5sQa4pOWk7jxbgCTiLRJZP2KmWUPOVKuN336pqpSzrCsnk4+le2i1lQJxjbFWihpJb/NP/fxnboRyWlPuH8WdL8V0xnBPDWMwgBUSj14/jq3r/qCAmyvltmFGdLDBBJ2EfV5l6bhqCSFsFSnSBRSD/Tq+6cODlM+jnM5NcnHrcVa/Y86T+Q01T+ecPPHrZUJ20jXxoM+FXSbcMuP0D/ooCJZcT0TYGpWbPmWs/HRc4bqujGf2+7y02Msb4BI/LT9v/UUA0zobUoWGtgsvDw+V/ivru+qEnCfqDD/nWStxgfAV6Ls+TPEVVpj9ESWZY0jkmPrRe5FkBW/riiR6SiQM82VkTLK/JGO/eQoY8D3Wc1NlRXDpX+DayMODjktfcAYq67QfMsVZ878GlsekGtFrnDMcX1z5zO1d5V69Sp2yM2YgxhnNy/7bjMccttqRdy34wBJjrKwkhZ5l6hgsIGA4UzpEbimNHKsQPisQpeUSI8KAIV698wAidynwmyXlIsn/SFrv0svLyMD7f/CwE9zdbFuEHfKmKo2m1ZN2Il2YZ7lG0dsQNC0gJxpdJI7sTamKKKQVYwAruVilEZB+8WgRRmFW+Bih9ZK5XgvQI8uSeAiUeLVreyxIMFlAnkgl1Kc5OyH6FUPQfrK8yj557LcHPJnblYLaeZMhtQLub0OR8WMf43sfkCEoOIOVouXVwYO8IWQsaISFYzIBbpnCYSxoMOsB3bTmej5acCCqyJYFWHO+huC6fapbbqPM+Fn7Z/fbbQU9yKAld3mHw1qJbKop6deimc/Svxyj3pRWZ5RcPEgENJwIvGvKdVfAxS/+Avfqe/8AmXq+b006Sdc5AHQPiTSviWPCjSNViApjhuRlgcYF3y20VYk0te225SzPZKuNCWXvXGupKsHzDrRoiwwUsJkYHk+Vy/tSTMftTfUOLwjB3vOfGvOxhtgqNv6Nh9EAdBYwB0RxNOTJaEgaJ3y8H4RiJwinXiXOIp0BuYYttXIg+8174hUDrJU42fXqeK1r2rLSRGx0TqjLnWME1jDBOS3HWYSa1kSG2rE/2wmVI4KEZIc/YdnzG4qLGrXocRDyghkefVBMOhiEu/r8/J5sHDZbtjza3cv4V1Wy9mjDsQYz1lWZyTvXekn5Edb06MyiKCCdnU9Q7SGYIctA1WUVK7GcIs78C4K2P8OcY8FGQ9yZ4Y3U2LGy4VLtRvfwCW0lqRsCMCJL5FJCJ+dF3uoxnX2wZxfupBbDTGsZX+2gjkHpJ7bDPDZrFEDKLFuBibcfrxZLPi1jIBr10o/eU22dGR/EpspwNouELRuA+NKhecrsVmaxSoXISHB3OxxHdijBCNxjkP9tq5et8Gyeath29bC8gZO4GbVZJim4jQ50KbmYS4irMAyyoAcXXgDXCXyiz8mdh5aOeIG/azi/1EpU2TbIQC6QeEp+NtnYnCFZf2DcI8Ef+lDtaEEl6zfwrTrZyP7llGvBqzulPzjZnDMBYqvBWN57IELU9JwlC9K411rqY+zJakLiEhdd9INfufkoGTh/rd6XRDJiVaKAGpgXWbX3/Jtsqh0+8tGSlDnoYM+CrywuOwofxrc2nsV72olvEvYLdbtc2bQZn11SlfDtj4tD83FL6qffKdM61zYHjcM3C2FBM6n8uMdj69R/gKz1MZzavyqsuLnerBoHHkLEsoQgP8Iu1OVswn4mINzSLybJu3r6R1qnNicMgm8kt9IF9Pvca5aZvOLqBDV0lwtvJFewQ3gKug5MXRRmNcI1mhJb6RMgedft2YAVCbnotGptYMXYtg+JCJwRteTc92YYALj5MZO2Nesmhb/RoHKKEClQaT0pQc6O/Q2CAapjYlWvDlXaxwxLu2h1iqIzPT1rzBbuid8dBKxS2KeJAUb9tMovqIJ/CldEeWHYxbukI5opNg2PakJ6tJ8NFFOIOI/9RAGo8qdIn9Gguf+cFQFy1leJXAzyaqve6NutnnFmeDgvhlLsXyG6kUzNzxPc2fmcX03lBH2LESl2iC9e6Jmk6UHo5ALk41mfM7ELq8wSPd74JzwecLk7omlhWLYg7btG2ELQ3xIzZeqgok4S2DS9FMcBX3K5SddaSw1DOoM6/w5qmg2zXjgJYhiEh7fE0YafCKe7dt4CIzfG+22hcmeZ0dFMGbKid/JE45rxh+IMO89xVj8lGEiTfn+4/s2KtoO/5+3IYcWCwxcrk7g7U7NLeP0AHIHB0pyEX8vkVf8u/FvAfUd2FWC/1pi9fwNkCr+UFbYxZMLACi7fh2UXUuC7WEvsOXUedFuJFhyFpT4MWQ8CHXyQ2XE0oIr8NOo7u3GEwGFy6iiQFK2bKqhgIjoR+ur+7Tnmrr5qCu50dvwgbAP++ijmU1uTgotZwO0W2m4kxzMSH9p2GnBs9QfS6xA6PCAQCya9DQ8Tbf7JKbS9xL393X58ds/xwZVLW7ko+GdXA1vrAPtON0+5+3VC+RG7IblfW6jqqoRsOKUy5mBKQD60TpWL79Noi2HdjK1axlMHCPW73OKvDSPoMARgo2xXnHUmfe8WRxnlTbk8j2sHWMha+9Y2vnm3zt69KO1Gu+zfjRAn2q5zygU8J+rzJpRI2NHG5kLEbYO7fmQhUME1nZFLcMj3l4FEp/BhGRo7xweq1h8KkhZEl3w6BY872rbtxe+3M0Ybo5I5rvLVYpuwXOaFjLmG9p2B5IEvdzoV+vxxUQoK7M3eCO2oBomzXFCjQNlYFBB1/lNB6ddiqkpsxFmjev6QEBSw2bGlWBIS4uZdZB/tDuvEEhRETVWF4N/lHW329q2vA4AhYiR4rMJ5o5ba3UVs+xobRB7nU1ObITPplRYaE3crEwNye82wYk7s7NBvSTH6zChUJYugbX5b+8fGvsQLY3xpMfQM76pe8f17oBbai9ub+scfJUWgpL7viLuEpo4sWifXnClBNBQ3wpgYAjxUwrinFOwFCxf5iJZwzuT+/fq5X2Edysife2SSk2nCgdivVrKxjU04pxxJiu0IfyJ0o7bM+ueqTRiHHJDTuiJYX0ek+vXFbOKeSeDgI70Cal5kLnvmPwaH/tPdGdv7B0wbw7+BlrxxoHErbuiGPwTEfofqgR4dXysm1l22AuQ/jDqVwq3qZkbngSA6TXiNMBFRv+TN1sVzdLombmuCsHzDX3t6z2b14FK3c/bYugCbyRcTg/yv/MMtgYfZvjaSTNS1k3SkafvmWJKgyjxzQo9SqtSJaXIGuIggGdt0jYhR3XPmOn0jNzF6KfxYx5dHrOKaI519lCPr0/erj0uBG9vPcxDXBmJmNJoydpky+H+D4WSuM4QKaUhBXy/SbkLaXSTMbcxdYlLp+OtAtSveTFG76K8m3dPtrwh7HpsYQOY5feaFNdm4aRaSoif1WFbvXvfoAAAAA=="
+     }
+    }
+   ]
+  }
+ ]
+}
