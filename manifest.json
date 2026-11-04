@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261103140719027",
+ "version": "20261104045540204",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -129,6 +129,10 @@
   {
    "path": "data/hoa-ester-ly-thuyet-de-hieu-nham.json",
    "v": "20261103140719027"
+  },
+  {
+   "path": "data/hoa-carbohydrates-glucose.json",
+   "v": "20261104045540204"
   }
  ],
  "figures": {
