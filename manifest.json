@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261104114518484",
+ "version": "20261104120109471",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -153,6 +153,10 @@
   {
    "path": "data/hoa-glucose-fructose-ly-thuyet-de-hieu-nham.json",
    "v": "20261104114518484"
+  },
+  {
+   "path": "data/hoa-chat-beo-xa-phong-hoa-ly-thuyet-de-hieu.json",
+   "v": "20261104120109471"
   }
  ],
  "figures": {
