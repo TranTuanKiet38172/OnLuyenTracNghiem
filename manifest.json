@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261104053158205",
+ "version": "20261104053802333",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -145,6 +145,10 @@
   {
    "path": "data/hoa-de-hoc-them-thay-quan-3.json",
    "v": "20261104053158205"
+  },
+  {
+   "path": "data/hoa-de-hoc-them-thay-quan-de-5.json",
+   "v": "20261104053802333"
   }
  ],
  "figures": {
