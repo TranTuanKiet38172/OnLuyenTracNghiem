@@ -4,11 +4,12 @@
  "name": "Ester lý thuyết dễ hiểu nhầm",
  "chapters": [
   {
-   "name": "Chung",
+   "name": "TỔNG HỢP",
    "lessons": [
     {
      "id": "ester-ly-thuyet-de-hieu-nham",
      "name": "Ester lý thuyết dễ hiểu nhầm",
+     "src": "",
      "qs": [
       {
        "t": "mc",
