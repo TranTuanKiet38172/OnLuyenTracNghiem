@@ -1,0 +1,444 @@
+{
+ "id": "hoa-de-hoc-them-thay-quan-3",
+ "subject": "Hóa học",
+ "name": "ĐỀ HỌC THÊM THẦY QUÂN (3)",
+ "chapters": [
+  {
+   "name": "ÔN GIỮA KÌ 1",
+   "lessons": [
+    {
+     "id": "de-hoc-them-thay-quan-3",
+     "name": "ĐỀ HỌC THÊM THẦY QUÂN (3)",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây là amine?",
+       "k": "lt",
+       "o": [
+        "CH<sub>3</sub>OH.",
+        "H<sub>2</sub>NCH<sub>2</sub>COOH.",
+        "CH<sub>3</sub>NH<sub>2</sub>.",
+        "HCOOH."
+       ],
+       "a": 2,
+       "e": "CH<sub>3</sub>NH<sub>2</sub> là amine bậc một, nhóm NH<sub>2</sub> gắn với gốc CH<sub>3</sub>.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Để chứng minh trong phân tử glucose có nhiều nhóm hydroxy liền kề, người ta cho dung dịch glucose phản ứng với",
+       "k": "lt",
+       "o": [
+        "Cu(OH)<sub>2</sub> ở nhiệt độ thường.",
+        "thuốc thử Tollens, đun nóng.",
+        "kim loại Na.",
+        "Cu(OH)<sub>2</sub> trong NaOH, đun nóng."
+       ],
+       "a": 0,
+       "e": "Glucose hòa tan Cu(OH)<sub>2</sub> tạo dung dịch xanh lam, chứng tỏ có nhiều nhóm OH liền kề.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Cho các peptide sau: Gly-Val-Ala-Gly (1); Ala-Gly (2); Val-Gly-Ala (3); Gly-Val-Ala (4). Những peptide nào có phản ứng tạo màu biuret với Cu(OH)<sub>2</sub> trong môi trường kiềm?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "(1), (3) và (4).",
+        "(1), (2).",
+        "(2), (3) và (4).",
+        "(3) và (4)."
+       ],
+       "a": 0,
+       "e": "Phản ứng màu biuret cần từ hai liên kết peptide trở lên; Ala-Gly chỉ có một liên kết nên không cho màu.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Nhận xét nào sau đây không đúng về xà phòng?",
+       "k": "lt",
+       "o": [
+        "Mỗi phân tử xà phòng có một “đầu” ưa nước là nhóm -COONa hoặc -COOK.",
+        "Nước quả bồ kết, bồ hòn không có tác dụng giặt rửa giống xà phòng.",
+        "Mỗi phân tử xà phòng có một “đuôi” dài kị nước là những gốc hydrocarbon của acid béo.",
+        "Hoạt động giặt rửa của xà phòng giống như chất giặt rửa tổng hợp."
+       ],
+       "a": 1,
+       "e": "Bồ kết, bồ hòn có saponin nên có tác dụng giặt rửa tương tự xà phòng.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Phân tử chất nào sau đây có 1 nhóm amino (NH<sub>2</sub>) và 2 nhóm carboxyl (COOH)?",
+       "k": "lt",
+       "o": [
+        "Acid fomic.",
+        "Glutamic acid.",
+        "Alanine.",
+        "Lysine."
+       ],
+       "a": 1,
+       "e": "Glutamic acid có 1 nhóm NH<sub>2</sub> và 2 nhóm COOH.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Amino acid X có phân tử khối bằng 89. Tên gọi của X là",
+       "lv": 1,
+       "k": "tt",
+       "o": [
+        "glycine.",
+        "lysine.",
+        "alanine.",
+        "glutamic acid."
+       ],
+       "a": 2,
+       "e": "Alanine C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub> có phân tử khối 89; glycine là 75, lysine là 146, glutamic acid là 147.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Một loại polymer là nguồn carbohydrate dự trữ có trong cơ thể thực vật và chỉ được tạo thành từ các đơn vị β-glucose là",
+       "k": "lt",
+       "o": [
+        "amylose.",
+        "amylopectin.",
+        "cellulose.",
+        "saccharose."
+       ],
+       "a": 2,
+       "e": "Cellulose được tạo từ các đơn vị β-glucose; amylose và amylopectin tạo từ α-glucose.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Tinh bột là hợp chất thuộc loại",
+       "k": "lt",
+       "o": [
+        "monosaccharide.",
+        "triglyceride.",
+        "disaccharide.",
+        "polysaccharide."
+       ],
+       "a": 3,
+       "e": "Tinh bột là polysaccharide.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Có các phản ứng sau: phản ứng tráng bạc (1); phản ứng tạo màu với dung dịch I<sub>2</sub> (2); phản ứng tạo dung dịch xanh lam với Cu(OH)<sub>2</sub> (3); phản ứng thủy phân (4); phản ứng với Cu(OH)<sub>2</sub> tạo Cu<sub>2</sub>O (5). Tinh bột có phản ứng nào trong các phản ứng trên?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "(4), (5).",
+        "(2), (3).",
+        "(1), (2).",
+        "(2), (4)."
+       ],
+       "a": 3,
+       "e": "Tinh bột tạo màu xanh tím với I<sub>2</sub> và bị thủy phân.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Cho 1,8 gam glucose tác dụng hết với lượng dư dung dịch AgNO<sub>3</sub> trong NH<sub>3</sub>, thu được m gam Ag. Giá trị của m là",
+       "lv": 1,
+       "k": "tt",
+       "o": [
+        "3,24.",
+        "1,08.",
+        "2,16.",
+        "4,32."
+       ],
+       "a": 2,
+       "e": "n glucose = 0,01 mol; tỉ lệ 1 glucose tạo 2 Ag nên n Ag = 0,02 mol, m = 2,16 gam.",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Thành phần chính của chất giặt rửa tổng hợp là",
+       "k": "lt",
+       "o": [
+        "CH<sub>3</sub>[CH<sub>2</sub>]<sub>11</sub>-C<sub>6</sub>H<sub>4</sub>-SO<sub>3</sub>Na.",
+        "C<sub>15</sub>H<sub>31</sub>COONa.",
+        "C<sub>17</sub>H<sub>35</sub>COOK.",
+        "(C<sub>17</sub>H<sub>35</sub>COO)<sub>2</sub>Ca."
+       ],
+       "a": 0,
+       "e": "Chất giặt rửa tổng hợp có gốc sulfonate hoặc sulfate; các chất còn lại là muối của acid béo (xà phòng).",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Saccharose là một loại disaccharide có nhiều trong cây mía, hoa thốt nốt, củ cải đường. Công thức phân tử của saccharose là",
+       "k": "lt",
+       "o": [
+        "C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>.",
+        "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub>.",
+        "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>.",
+        "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>."
+       ],
+       "a": 0,
+       "e": "Saccharose là C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>.",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây phản ứng được với dung dịch HCl và dung dịch NaOH?",
+       "k": "lt",
+       "o": [
+        "H<sub>2</sub>N-CH<sub>2</sub>-COOH.",
+        "CH<sub>3</sub>COOH.",
+        "C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>.",
+        "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>."
+       ],
+       "a": 0,
+       "e": "Amino acid lưỡng tính, phản ứng được cả HCl và NaOH.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Cho dãy các chất: tinh bột, cellulose, glucose, fructose, saccharose. Số chất trong dãy thuộc loại monosaccharide là",
+       "k": "lt",
+       "o": [
+        "1.",
+        "4.",
+        "3.",
+        "2."
+       ],
+       "a": 3,
+       "e": "Monosaccharide trong dãy là glucose và fructose.",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Chất nào sau đây là ester?",
+       "k": "lt",
+       "o": [
+        "HOCH<sub>2</sub>CHO.",
+        "HCOOCH<sub>3</sub>.",
+        "CH<sub>3</sub>COOH.",
+        "CH<sub>3</sub>CH<sub>2</sub>OH."
+       ],
+       "a": 1,
+       "e": "HCOOCH<sub>3</sub> có nhóm chức -COO- gắn hai gốc hydrocarbon.",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Thủy phân 68,4 gam saccharose với hiệu suất 75%, thu được m gam glucose. Giá trị của m là",
+       "lv": 1,
+       "k": "tt",
+       "o": [
+        "54.",
+        "36.",
+        "72.",
+        "27."
+       ],
+       "a": 3,
+       "e": "n saccharose = 68,4/342 = 0,2 mol; n glucose = 0,2 × 75% = 0,15 mol; m = 0,15 × 180 = 27 gam.",
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Amino acid X có tên thường là glycine. Công thức cấu tạo của X là",
+       "k": "lt",
+       "o": [
+        "CH<sub>3</sub>-CH(NH<sub>2</sub>)-COOH.",
+        "H<sub>2</sub>N-CH<sub>2</sub>-CH<sub>2</sub>-COOH.",
+        "H<sub>2</sub>N-CH<sub>2</sub>-COOH.",
+        "H<sub>2</sub>N-C(CH<sub>3</sub>)<sub>2</sub>-COOH."
+       ],
+       "a": 2,
+       "e": "Glycine là H<sub>2</sub>NCH<sub>2</sub>COOH.",
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Cho dung dịch chứa glycine tồn tại ở dạng anion: H<sub>2</sub>N-CH<sub>2</sub>-COO<sup>-</sup>. Đặt dung dịch này trong một điện trường. Khi đó:",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "chất này sẽ di chuyển về phía cực âm của điện trường.",
+        "chất này sẽ di chuyển về phía cực dương của điện trường.",
+        "chất này không di chuyển dưới tác dụng của điện trường.",
+        "chất này chuyển hoàn toàn về dạng H<sub>2</sub>NCH<sub>2</sub>COOH."
+       ],
+       "a": 1,
+       "e": "Anion mang điện âm nên di chuyển về phía cực dương.",
+       "n": 18
+      },
+      {
+       "t": "tf",
+       "s": "Ester X có công thức C<sub>2</sub>H<sub>5</sub>COOC<sub>2</sub>H<sub>5</sub> là một este có hương thơm đặc trưng, được ứng dụng rộng rãi trong nhiều lĩnh vực của đời sống. Trong công nghiệp thực phẩm, X được dùng để tạo mùi hương trái cây trong bánh kẹo, nước ngọt, kem. Trong ngành mỹ phẩm, X góp phần tạo nên hương thơm tự nhiên cho nước hoa và sản phẩm chăm sóc cá nhân. Cho các phát biểu sau:",
+       "lv": 1,
+       "k": "tt",
+       "st": [
+        [
+         "Tên gọi của X là methyl propionate.",
+         0,
+         "Tên đúng của X là ethyl propionate, vì gốc ancol là C<sub>2</sub>H<sub>5</sub>."
+        ],
+        [
+         "Đun nóng ester X với dung dịch sodium hydroxide thu được sản phẩm là sodium propionate và ethanol.",
+         1,
+         "C<sub>2</sub>H<sub>5</sub>COOC<sub>2</sub>H<sub>5</sub> + NaOH tạo C<sub>2</sub>H<sub>5</sub>COONa và C<sub>2</sub>H<sub>5</sub>OH."
+        ],
+        [
+         "X được điều chế từ propanoic acid và ethanol.",
+         1,
+         "Phản ứng este hóa C<sub>2</sub>H<sub>5</sub>COOH với C<sub>2</sub>H<sub>5</sub>OH tạo X."
+        ],
+        [
+         "Trong công thức của X có phần trăm theo khối lượng oxygen là 31,37%.",
+         1,
+         "M = 102; %O = 32/102 ≈ 31,37%."
+        ]
+       ],
+       "n": 19
+      },
+      {
+       "t": "tf",
+       "s": "Một nhóm học sinh tiến hành thí nghiệm thử tính chất của saccharose như sau: Bước 1: Cho khoảng 2 mL dung dịch NaOH 10% vào ống nghiệm, sau đó thêm khoảng 0,5 mL dung dịch CuSO<sub>4</sub> 5% vào, lắc nhẹ. Bước 2: Cho khoảng 3 mL dung dịch saccharose 5% vào ống nghiệm, lắc đều. Sau thí nghiệm nhóm học sinh nhận thấy:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Sau bước 1 thu được kết tủa có màu xanh.",
+         1,
+         "Cu(OH)<sub>2</sub> là kết tủa màu xanh."
+        ],
+        [
+         "Sau bước 2 kết tủa tan, cho dung dịch có màu xanh lam.",
+         1,
+         "Saccharose hòa tan Cu(OH)<sub>2</sub> tạo phức màu xanh lam."
+        ],
+        [
+         "Khi thay CuSO<sub>4</sub> bằng dung dịch FeSO<sub>4</sub> thì hiện tượng xảy ra là tương tự.",
+         0,
+         "Fe(OH)<sub>2</sub> có màu trắng xanh và không tạo phức như vậy."
+        ],
+        [
+         "Tiến hành đun nóng sau bước 2, thấy xuất hiện kết tủa màu đỏ gạch.",
+         0,
+         "Saccharose không có nhóm CHO nên không khử Cu(OH)<sub>2</sub> tạo Cu<sub>2</sub>O."
+        ]
+       ],
+       "n": 20
+      },
+      {
+       "t": "tf",
+       "s": "Cho các amine có công thức cấu tạo dưới đây: (1) xiclohexylamine (vòng no gắn NH<sub>2</sub>); (2) C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>; (3) C<sub>6</sub>H<sub>5</sub>-NH-C<sub>6</sub>H<sub>5</sub>; (4) C<sub>6</sub>H<sub>5</sub>-CH<sub>2</sub>NH<sub>2</sub>; (5) C<sub>6</sub>H<sub>5</sub>-NH-CH<sub>3</sub>.",
+       "lv": 1,
+       "k": "tt",
+       "st": [
+        [
+         "Trong số các amine trên, có 3 amine bậc một.",
+         1,
+         "Amine bậc một là (1), (2), (4)."
+        ],
+        [
+         "Trong số các amine trên, có 2 amine bậc hai.",
+         1,
+         "Amine bậc hai là (3) và (5)."
+        ],
+        [
+         "Tên gọi của chất (4) là aniline.",
+         0,
+         "Chất (4) là benzylamine; aniline là chất (2)."
+        ],
+        [
+         "Trong chất (2) phần trăm theo khối lượng nitrogen là 15,05%.",
+         1,
+         "M = 93; %N = 14/93 ≈ 15,05%."
+        ]
+       ],
+       "n": 21
+      },
+      {
+       "t": "tf",
+       "s": "Cho peptide X có công thức cấu tạo như sau: H<sub>2</sub>N-CH(CH<sub>3</sub>)-CO-NH-CH<sub>2</sub>-CO-NH-CH(CH(CH<sub>3</sub>)<sub>2</sub>)-COOH.",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Tên gọi của X là Ala-Gly-Val.",
+         1,
+         "Từ đầu N đến đầu C: Ala, Gly, Val."
+        ],
+        [
+         "Amino acid đầu C là Ala, đầu N là Val.",
+         0,
+         "Đầu N là Ala, đầu C là Val."
+        ],
+        [
+         "X có 3 liên kết peptide.",
+         0,
+         "X là tripeptide nên có 2 liên kết peptide."
+        ],
+        [
+         "X là một tetrapeptide.",
+         0,
+         "X là tripeptide, gồm 3 gốc amino acid."
+        ]
+       ],
+       "n": 22
+      },
+      {
+       "t": "sa",
+       "s": "Cho các chất: (1) CH<sub>3</sub>[CH<sub>2</sub>]<sub>14</sub>COONa, (2) CH<sub>3</sub>[CH<sub>2</sub>]<sub>10</sub>CH<sub>2</sub>OSO<sub>3</sub>Na, (3) CH<sub>3</sub>[CH<sub>2</sub>]<sub>16</sub>COOK, (4) CH<sub>3</sub>[CH<sub>2</sub>]<sub>11</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>3</sub>Na, (5) CH<sub>3</sub>COONa, (6) CH<sub>3</sub>[CH<sub>2</sub>]<sub>14</sub>COONa, (7) (C<sub>15</sub>H<sub>31</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>. Liệt kê theo số thứ tự tăng dần các chất là chất giặt rửa tổng hợp (ví dụ: 125...).",
+       "k": "lt",
+       "a": "0024",
+       "e": "Chất giặt rửa tổng hợp là (2) và (4); (1), (3), (6) là xà phòng; (5) là muối acetate; (7) là chất béo.",
+       "n": 23
+      },
+      {
+       "t": "sa",
+       "s": "Cho các chất sau: (1) glucose, (2) fructose, (3) maltose, (4) saccharose, (5) cellulose và (6) tinh bột. Trong số các chất trên, có bao nhiêu chất tạo phức màu xanh lam với Cu(OH)<sub>2</sub> trong môi trường kiềm ở nhiệt độ thường?",
+       "k": "lt",
+       "a": "0004",
+       "e": "Glucose, fructose, maltose và saccharose có nhiều nhóm OH liền kề; cellulose và tinh bột không tạo phức này.",
+       "n": 24
+      },
+      {
+       "t": "sa",
+       "s": "Từ 50 kg tinh bột (chứa 20% tạp chất trơ) sản xuất được m kg glucose với hiệu suất toàn bộ quá trình là 80%. Giá trị của m là bao nhiêu? (Kết quả làm tròn đến hàng phần mười.)",
+       "lv": 2,
+       "k": "tt",
+       "a": "35,6",
+       "e": "Tinh bột nguyên chất là 40 kg; m = 40 × 180/162 × 80% ≈ 35,56 ≈ 35,6 kg.",
+       "n": 25
+      },
+      {
+       "t": "sa",
+       "s": "Methylamine (CH<sub>3</sub>NH<sub>2</sub>) là hợp chất amin có vai trò lớn trong công nghiệp. Phần trăm khối lượng của nguyên tố carbon trong methylamine là bao nhiêu? (Kết quả làm tròn đến hàng phần mười.)",
+       "lv": 1,
+       "k": "tt",
+       "a": "38,7",
+       "e": "%C = 12/31 ≈ 38,71% ≈ 38,7.",
+       "n": 26
+      },
+      {
+       "t": "sa",
+       "s": "Cho 15 gam glycine tác dụng vừa đủ với dung dịch HCl thu được m gam muối. Giá trị của m là bao nhiêu?",
+       "lv": 1,
+       "k": "tt",
+       "a": "22,3",
+       "e": "n glycine = 15/75 = 0,2 mol; muối H<sub>3</sub>NCH<sub>2</sub>COOHCl có M = 111,5; m = 0,2 × 111,5 = 22,3 gam.",
+       "n": 27
+      },
+      {
+       "t": "sa",
+       "s": "Một loại chất béo có chứa 75% tripalmitin về khối lượng. Xà phòng hóa hoàn toàn 20 kg chất béo này trong dung dịch NaOH, đun nóng thu được x bánh xà phòng. Biết rằng trong mỗi bánh xà phòng có chứa 60 gam sodium palmitate. Biết hiệu suất phản ứng đạt 80%. Tính giá trị của x (kết quả làm tròn đến hàng đơn vị).",
+       "lv": 2,
+       "k": "tt",
+       "a": "0207",
+       "e": "n tripalmitin = 15000/806 ≈ 18,61 mol; n sodium palmitate = 3 × 18,61 × 80% ≈ 44,67 mol; khối lượng ≈ 12 417 gam; x = 12 417/60 ≈ 206,9 ≈ 207.",
+       "n": 28
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
