@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261124085608000",
+ "version": "20261124085615080",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -125,10 +125,6 @@
   {
    "path": "data/hoa-tinh-bot-cellulose-ly-thuyet-de-hieu-nha.json",
    "v": "20261104054503681"
-  },
-  {
-   "path": "data/hoa-de-hoc-them-thay-quan-de-4.json",
-   "v": "20261104052841405"
   },
   {
    "path": "data/hoa-de-hoc-them-thay-quan-de-5.json",
