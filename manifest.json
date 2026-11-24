@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261104120109471",
+ "version": "20261124085540446",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -93,10 +93,6 @@
   {
    "path": "data/hoa-de-hoc-them-thay-quan-1.json",
    "v": "20261031154017510"
-  },
-  {
-   "path": "data/hoa-de-hoa-12-de9.json",
-   "v": "20261031154532229"
   },
   {
    "path": "data/hoa-20-cau-trac-nghiem-ly-thuyet-de-nham-lan-2.json",
