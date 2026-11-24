@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261124085622184",
+ "version": "20261124085724511",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -133,6 +133,10 @@
   {
    "path": "data/hoa-chat-beo-xa-phong-hoa-ly-thuyet-de-hieu.json",
    "v": "20261104120109471"
+  },
+  {
+   "path": "data/hoa-bai-9-amino-acid-va-peptide.json",
+   "v": "20261124085724511"
   }
  ],
  "figures": {
