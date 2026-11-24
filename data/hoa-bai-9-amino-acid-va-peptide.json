@@ -1,0 +1,235 @@
+{
+ "id": "hoa-bai-9-amino-acid-va-peptide",
+ "subject": "Hóa học",
+ "name": "Bài 9: Amino acid và peptide",
+ "chapters": [
+  {
+   "name": "Chương 3: Hợp chất chứa Nitrogen",
+   "lessons": [
+    {
+     "id": "bai-9-amino-acid-va-peptide",
+     "name": "Bài 9: Amino acid và peptide",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Amino acid là hợp chất hữu cơ, trong phân tử chứa đồng thời những nhóm chức nào?",
+       "o": [
+        "-OH và -CHO",
+        "-COOH và -NH2",
+        "-COOH và -OH",
+        "-NH2 và -CHO"
+       ],
+       "a": 1,
+       "e": "Amino acid chứa đồng thời nhóm carboxyl -COOH và nhóm amino -NH2.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Hợp chất có công thức H2NCH2COOH có tên thường là gì?",
+       "o": [
+        "alanine",
+        "glycine",
+        "valine",
+        "lysine"
+       ],
+       "a": 1,
+       "e": "H2NCH2COOH là amino acid đơn giản nhất, tên thường là glycine (Gly).",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Ở điều kiện thường, amino acid tồn tại ở trạng thái nào?",
+       "o": [
+        "Chất lỏng dễ bay hơi",
+        "Chất khí",
+        "Chất rắn, dạng tinh thể",
+        "Chất lỏng nhớt, không màu"
+       ],
+       "a": 2,
+       "e": "Amino acid là chất rắn kết tinh, nhiệt độ nóng chảy khá cao.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Nguyên nhân khiến amino acid có tính lưỡng tính là gì?",
+       "lv": 1,
+       "o": [
+        "Chỉ có nhóm -COOH có khả năng phản ứng với acid",
+        "Trong phân tử có cả nhóm -NH2 có tính base và nhóm -COOH có tính acid",
+        "Trong phân tử có nhóm -OH làm tăng tính acid",
+        "Chỉ có nhóm -NH2 có khả năng phản ứng với base"
+       ],
+       "a": 1,
+       "e": "Nhóm -NH2 phản ứng với acid, nhóm -COOH phản ứng với base nên amino acid vừa phản ứng được với acid, vừa phản ứng được với base.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Peptide là gì?",
+       "lv": 1,
+       "o": [
+        "Hợp chất hình thành từ các đơn vị α-amino acid liên kết với nhau bằng liên kết peptide -CO-NH-",
+        "Hợp chất hữu cơ có chứa nhóm -OH và nhóm -CHO",
+        "Hợp chất tạo thành từ các ester của glycerol",
+        "Hợp chất có công thức chung CnH2nO2"
+       ],
+       "a": 0,
+       "e": "Peptide được tạo từ các đơn vị α-amino acid nối với nhau qua liên kết peptide.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Peptide được tạo thành từ 3 đơn vị α-amino acid được gọi là gì?",
+       "lv": 1,
+       "o": [
+        "Dipeptide",
+        "Tripeptide",
+        "Tetrapeptide",
+        "Polypeptide"
+       ],
+       "a": 1,
+       "e": "Số đơn vị amino acid 2, 3, 4,... lần lượt gọi là dipeptide, tripeptide, tetrapeptide,...",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Tetrapeptide mạch hở có bao nhiêu liên kết peptide?",
+       "lv": 1,
+       "o": [
+        "2",
+        "3",
+        "4",
+        "1"
+       ],
+       "a": 1,
+       "e": "Peptide có n đơn vị amino acid thì có n - 1 liên kết peptide, nên tetrapeptide có 3 liên kết peptide.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Dung dịch peptide nào sau đây cho phản ứng màu biuret (tạo màu tím) với Cu(OH)2?",
+       "lv": 1,
+       "o": [
+        "Dipeptide",
+        "Glycine",
+        "Tripeptide",
+        "Ethyl acetate"
+       ],
+       "a": 2,
+       "e": "Phản ứng màu biuret đặc trưng cho peptide có từ 2 liên kết peptide trở lên. Dipeptide chỉ có 1 liên kết peptide nên không cho phản ứng này.",
+       "n": 8
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu về amino acid và peptide. Chọn đúng hoặc sai cho mỗi ý.",
+       "lv": 1,
+       "st": [
+        [
+         "Amino acid phản ứng được với cả dung dịch HCl và dung dịch NaOH.",
+         1,
+         "Nhóm -NH2 phản ứng với HCl, nhóm -COOH phản ứng với NaOH."
+        ],
+        [
+         "Dung dịch glycine làm quỳ tím chuyển sang màu xanh.",
+         0,
+         "Glycine có một nhóm -NH2 và một nhóm -COOH nên dung dịch gần như trung tính, quỳ tím không đổi màu."
+        ],
+        [
+         "Peptide mạch hở được tạo từ n đơn vị amino acid có n - 1 liên kết peptide.",
+         1,
+         "Mỗi lần nối hai đơn vị tạo thêm một liên kết peptide."
+        ],
+        [
+         "Mọi peptide đều cho phản ứng màu biuret với Cu(OH)2 tạo màu tím.",
+         0,
+         "Dipeptide chỉ có một liên kết peptide nên không cho phản ứng này."
+        ]
+       ],
+       "n": 9
+      },
+      {
+       "t": "tf",
+       "s": "Cho dipeptide Gly-Ala. Chọn đúng hoặc sai cho mỗi ý.",
+       "lv": 1,
+       "st": [
+        [
+         "Gly-Ala là một dipeptide.",
+         1,
+         "Dipeptide là peptide được tạo từ 2 đơn vị amino acid."
+        ],
+        [
+         "Thủy phân hoàn toàn Gly-Ala trong môi trường acid thu được glycine và alanine.",
+         1,
+         "Thủy phân hoàn toàn peptide cho các amino acid cấu thành."
+        ],
+        [
+         "Trong Gly-Ala, Gly là amino acid đầu C.",
+         0,
+         "Gly có nhóm -NH2 tự do nên là amino acid đầu N."
+        ],
+        [
+         "Gly-Ala có 2 liên kết peptide.",
+         0,
+         "Dipeptide chỉ có 1 liên kết peptide."
+        ]
+       ],
+       "n": 10
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu về tính chất của amino acid và peptide. Chọn đúng hoặc sai cho mỗi ý.",
+       "lv": 1,
+       "st": [
+        [
+         "Amino acid có tính lưỡng tính.",
+         1,
+         "Trong phân tử vừa có nhóm -NH2 có tính base, vừa có nhóm -COOH có tính acid."
+        ],
+        [
+         "Peptide không bị thủy phân trong môi trường acid.",
+         0,
+         "Peptide bị thủy phân trong môi trường acid, base hoặc nhờ enzyme."
+        ],
+        [
+         "Tripeptide có 3 liên kết peptide.",
+         0,
+         "Tripeptide có 3 đơn vị amino acid nên chỉ có 2 liên kết peptide."
+        ],
+        [
+         "Các amino acid trong phân tử peptide được nối với nhau bằng liên kết peptide -CO-NH-.",
+         1,
+         "Đây là đặc điểm cấu tạo của peptide."
+        ]
+       ],
+       "n": 11
+      },
+      {
+       "t": "sa",
+       "s": "Tính phân tử khối của glycine (H2NCH2COOH). Trả lời bằng số.",
+       "lv": 1,
+       "a": "0075",
+       "e": "Phân tử glycine C2H5NO2 có phân tử khối = 2×12 + 5×1 + 14 + 2×16 = 75.",
+       "n": 12
+      },
+      {
+       "t": "sa",
+       "s": "Một pentapeptide mạch hở có bao nhiêu liên kết peptide? Trả lời bằng số.",
+       "lv": 1,
+       "a": "0004",
+       "e": "Pentapeptide có 5 đơn vị amino acid nên có 5 - 1 = 4 liên kết peptide.",
+       "n": 13
+      },
+      {
+       "t": "sa",
+       "s": "Từ hai amino acid là glycine và alanine (mỗi loại dùng một lần), có thể tạo ra bao nhiêu dipeptide khác nhau? Trả lời bằng số.",
+       "lv": 1,
+       "a": "0002",
+       "e": "Hai dipeptide là Gly-Ala và Ala-Gly.",
+       "n": 14
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
