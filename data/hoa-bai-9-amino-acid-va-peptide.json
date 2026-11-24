@@ -9,6 +9,7 @@
     {
      "id": "bai-9-amino-acid-va-peptide",
      "name": "Bài 9: Amino acid và peptide",
+     "src": "",
      "qs": [
       {
        "t": "mc",
@@ -21,7 +22,8 @@
        ],
        "a": 1,
        "e": "Amino acid chứa đồng thời nhóm carboxyl -COOH và nhóm amino -NH2.",
-       "n": 1
+       "n": 1,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -34,7 +36,8 @@
        ],
        "a": 1,
        "e": "H2NCH2COOH là amino acid đơn giản nhất, tên thường là glycine (Gly).",
-       "n": 2
+       "n": 2,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -47,7 +50,8 @@
        ],
        "a": 2,
        "e": "Amino acid là chất rắn kết tinh, nhiệt độ nóng chảy khá cao.",
-       "n": 3
+       "n": 3,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -61,7 +65,8 @@
        ],
        "a": 1,
        "e": "Nhóm -NH2 phản ứng với acid, nhóm -COOH phản ứng với base nên amino acid vừa phản ứng được với acid, vừa phản ứng được với base.",
-       "n": 4
+       "n": 4,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -75,7 +80,8 @@
        ],
        "a": 0,
        "e": "Peptide được tạo từ các đơn vị α-amino acid nối với nhau qua liên kết peptide.",
-       "n": 5
+       "n": 5,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -89,7 +95,8 @@
        ],
        "a": 1,
        "e": "Số đơn vị amino acid 2, 3, 4,... lần lượt gọi là dipeptide, tripeptide, tetrapeptide,...",
-       "n": 6
+       "n": 6,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -103,7 +110,8 @@
        ],
        "a": 1,
        "e": "Peptide có n đơn vị amino acid thì có n - 1 liên kết peptide, nên tetrapeptide có 3 liên kết peptide.",
-       "n": 7
+       "n": 7,
+       "g": "ggcevqgu"
       },
       {
        "t": "mc",
@@ -117,7 +125,8 @@
        ],
        "a": 2,
        "e": "Phản ứng màu biuret đặc trưng cho peptide có từ 2 liên kết peptide trở lên. Dipeptide chỉ có 1 liên kết peptide nên không cho phản ứng này.",
-       "n": 8
+       "n": 8,
+       "g": "ggcevqgu"
       },
       {
        "t": "tf",
@@ -145,7 +154,8 @@
          "Dipeptide chỉ có một liên kết peptide nên không cho phản ứng này."
         ]
        ],
-       "n": 9
+       "n": 9,
+       "g": "ggcevqgu"
       },
       {
        "t": "tf",
@@ -173,7 +183,8 @@
          "Dipeptide chỉ có 1 liên kết peptide."
         ]
        ],
-       "n": 10
+       "n": 10,
+       "g": "ggcevqgu"
       },
       {
        "t": "tf",
@@ -201,7 +212,8 @@
          "Đây là đặc điểm cấu tạo của peptide."
         ]
        ],
-       "n": 11
+       "n": 11,
+       "g": "ggcevqgu"
       },
       {
        "t": "sa",
@@ -209,7 +221,8 @@
        "lv": 1,
        "a": "0075",
        "e": "Phân tử glycine C2H5NO2 có phân tử khối = 2×12 + 5×1 + 14 + 2×16 = 75.",
-       "n": 12
+       "n": 12,
+       "g": "ggcevqgu"
       },
       {
        "t": "sa",
@@ -217,7 +230,8 @@
        "lv": 1,
        "a": "0004",
        "e": "Pentapeptide có 5 đơn vị amino acid nên có 5 - 1 = 4 liên kết peptide.",
-       "n": 13
+       "n": 13,
+       "g": "ggcevqgu"
       },
       {
        "t": "sa",
@@ -225,7 +239,866 @@
        "lv": 1,
        "a": "0002",
        "e": "Hai dipeptide là Gly-Ala và Ala-Gly.",
-       "n": 14
+       "n": 14,
+       "g": "ggcevqgu"
+      }
+     ],
+     "imgs": {},
+     "groups": [
+      {
+       "id": "ggcevqgu",
+       "name": "(1) Đơn giản",
+       "qs": [
+        {
+         "t": "mc",
+         "s": "Amino acid là hợp chất hữu cơ, trong phân tử chứa đồng thời những nhóm chức nào?",
+         "o": [
+          "-OH và -CHO",
+          "-COOH và -NH2",
+          "-COOH và -OH",
+          "-NH2 và -CHO"
+         ],
+         "a": 1,
+         "e": "Amino acid chứa đồng thời nhóm carboxyl -COOH và nhóm amino -NH2."
+        },
+        {
+         "t": "mc",
+         "s": "Hợp chất có công thức H2NCH2COOH có tên thường là gì?",
+         "o": [
+          "alanine",
+          "glycine",
+          "valine",
+          "lysine"
+         ],
+         "a": 1,
+         "e": "H2NCH2COOH là amino acid đơn giản nhất, tên thường là glycine (Gly)."
+        },
+        {
+         "t": "mc",
+         "s": "Ở điều kiện thường, amino acid tồn tại ở trạng thái nào?",
+         "o": [
+          "Chất lỏng dễ bay hơi",
+          "Chất khí",
+          "Chất rắn, dạng tinh thể",
+          "Chất lỏng nhớt, không màu"
+         ],
+         "a": 2,
+         "e": "Amino acid là chất rắn kết tinh, nhiệt độ nóng chảy khá cao."
+        },
+        {
+         "t": "mc",
+         "s": "Nguyên nhân khiến amino acid có tính lưỡng tính là gì?",
+         "lv": 1,
+         "o": [
+          "Chỉ có nhóm -COOH có khả năng phản ứng với acid",
+          "Trong phân tử có cả nhóm -NH2 có tính base và nhóm -COOH có tính acid",
+          "Trong phân tử có nhóm -OH làm tăng tính acid",
+          "Chỉ có nhóm -NH2 có khả năng phản ứng với base"
+         ],
+         "a": 1,
+         "e": "Nhóm -NH2 phản ứng với acid, nhóm -COOH phản ứng với base nên amino acid vừa phản ứng được với acid, vừa phản ứng được với base."
+        },
+        {
+         "t": "mc",
+         "s": "Peptide là gì?",
+         "lv": 1,
+         "o": [
+          "Hợp chất hình thành từ các đơn vị α-amino acid liên kết với nhau bằng liên kết peptide -CO-NH-",
+          "Hợp chất hữu cơ có chứa nhóm -OH và nhóm -CHO",
+          "Hợp chất tạo thành từ các ester của glycerol",
+          "Hợp chất có công thức chung CnH2nO2"
+         ],
+         "a": 0,
+         "e": "Peptide được tạo từ các đơn vị α-amino acid nối với nhau qua liên kết peptide."
+        },
+        {
+         "t": "mc",
+         "s": "Peptide được tạo thành từ 3 đơn vị α-amino acid được gọi là gì?",
+         "lv": 1,
+         "o": [
+          "Dipeptide",
+          "Tripeptide",
+          "Tetrapeptide",
+          "Polypeptide"
+         ],
+         "a": 1,
+         "e": "Số đơn vị amino acid 2, 3, 4,... lần lượt gọi là dipeptide, tripeptide, tetrapeptide,..."
+        },
+        {
+         "t": "mc",
+         "s": "Tetrapeptide mạch hở có bao nhiêu liên kết peptide?",
+         "lv": 1,
+         "o": [
+          "2",
+          "3",
+          "4",
+          "1"
+         ],
+         "a": 1,
+         "e": "Peptide có n đơn vị amino acid thì có n - 1 liên kết peptide, nên tetrapeptide có 3 liên kết peptide."
+        },
+        {
+         "t": "mc",
+         "s": "Dung dịch peptide nào sau đây cho phản ứng màu biuret (tạo màu tím) với Cu(OH)2?",
+         "lv": 1,
+         "o": [
+          "Dipeptide",
+          "Glycine",
+          "Tripeptide",
+          "Ethyl acetate"
+         ],
+         "a": 2,
+         "e": "Phản ứng màu biuret đặc trưng cho peptide có từ 2 liên kết peptide trở lên. Dipeptide chỉ có 1 liên kết peptide nên không cho phản ứng này."
+        },
+        {
+         "t": "tf",
+         "s": "Cho các phát biểu về amino acid và peptide. Chọn đúng hoặc sai cho mỗi ý.",
+         "lv": 1,
+         "st": [
+          [
+           "Amino acid phản ứng được với cả dung dịch HCl và dung dịch NaOH.",
+           1,
+           "Nhóm -NH2 phản ứng với HCl, nhóm -COOH phản ứng với NaOH."
+          ],
+          [
+           "Dung dịch glycine làm quỳ tím chuyển sang màu xanh.",
+           0,
+           "Glycine có một nhóm -NH2 và một nhóm -COOH nên dung dịch gần như trung tính, quỳ tím không đổi màu."
+          ],
+          [
+           "Peptide mạch hở được tạo từ n đơn vị amino acid có n - 1 liên kết peptide.",
+           1,
+           "Mỗi lần nối hai đơn vị tạo thêm một liên kết peptide."
+          ],
+          [
+           "Mọi peptide đều cho phản ứng màu biuret với Cu(OH)2 tạo màu tím.",
+           0,
+           "Dipeptide chỉ có một liên kết peptide nên không cho phản ứng này."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Cho dipeptide Gly-Ala. Chọn đúng hoặc sai cho mỗi ý.",
+         "lv": 1,
+         "st": [
+          [
+           "Gly-Ala là một dipeptide.",
+           1,
+           "Dipeptide là peptide được tạo từ 2 đơn vị amino acid."
+          ],
+          [
+           "Thủy phân hoàn toàn Gly-Ala trong môi trường acid thu được glycine và alanine.",
+           1,
+           "Thủy phân hoàn toàn peptide cho các amino acid cấu thành."
+          ],
+          [
+           "Trong Gly-Ala, Gly là amino acid đầu C.",
+           0,
+           "Gly có nhóm -NH2 tự do nên là amino acid đầu N."
+          ],
+          [
+           "Gly-Ala có 2 liên kết peptide.",
+           0,
+           "Dipeptide chỉ có 1 liên kết peptide."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Cho các phát biểu về tính chất của amino acid và peptide. Chọn đúng hoặc sai cho mỗi ý.",
+         "lv": 1,
+         "st": [
+          [
+           "Amino acid có tính lưỡng tính.",
+           1,
+           "Trong phân tử vừa có nhóm -NH2 có tính base, vừa có nhóm -COOH có tính acid."
+          ],
+          [
+           "Peptide không bị thủy phân trong môi trường acid.",
+           0,
+           "Peptide bị thủy phân trong môi trường acid, base hoặc nhờ enzyme."
+          ],
+          [
+           "Tripeptide có 3 liên kết peptide.",
+           0,
+           "Tripeptide có 3 đơn vị amino acid nên chỉ có 2 liên kết peptide."
+          ],
+          [
+           "Các amino acid trong phân tử peptide được nối với nhau bằng liên kết peptide -CO-NH-.",
+           1,
+           "Đây là đặc điểm cấu tạo của peptide."
+          ]
+         ]
+        },
+        {
+         "t": "sa",
+         "s": "Tính phân tử khối của glycine (H2NCH2COOH). Trả lời bằng số.",
+         "lv": 1,
+         "a": "0075",
+         "e": "Phân tử glycine C2H5NO2 có phân tử khối = 2×12 + 5×1 + 14 + 2×16 = 75."
+        },
+        {
+         "t": "sa",
+         "s": "Một pentapeptide mạch hở có bao nhiêu liên kết peptide? Trả lời bằng số.",
+         "lv": 1,
+         "a": "0004",
+         "e": "Pentapeptide có 5 đơn vị amino acid nên có 5 - 1 = 4 liên kết peptide."
+        },
+        {
+         "t": "sa",
+         "s": "Từ hai amino acid là glycine và alanine (mỗi loại dùng một lần), có thể tạo ra bao nhiêu dipeptide khác nhau? Trả lời bằng số.",
+         "lv": 1,
+         "a": "0002",
+         "e": "Hai dipeptide là Gly-Ala và Ala-Gly."
+        }
+       ]
+      },
+      {
+       "id": "gm6vu2h1",
+       "name": "(2) Khó",
+       "qs": [
+        {
+         "t": "mc",
+         "s": "Ở điều kiện thường, amino acid tồn tại chủ yếu ở dạng ion lưỡng cực. Đặc điểm nào sau đây của amino acid được giải thích trực tiếp từ cấu tạo ion lưỡng cực này?",
+         "lv": 1,
+         "k": "lt",
+         "o": [
+          "Dễ bay hơi và có mùi khai đặc trưng.",
+          "Chất rắn kết tinh, tương đối dễ tan trong nước và có nhiệt độ nóng chảy cao.",
+          "Không tan trong nước nhưng tan tốt trong các dung môi hữu cơ không phân cực.",
+          "Chỉ phản ứng được với dung dịch acid mạnh mà không phản ứng với dung dịch base."
+         ],
+         "a": 1,
+         "e": "Do tồn tại ở dạng ion lưỡng cực nên các phân tử amino acid hút nhau mạnh bằng lực hút tĩnh điện, tạo tinh thể rắn có nhiệt độ nóng chảy cao và dễ tan trong nước phân cực."
+        },
+        {
+         "t": "mc",
+         "s": "Cho hai phát biểu về tính chất điện di của glutamic acid (có điểm đẳng điện pI ≈ 3,2):<br>(a) Ở môi trường có pH = 1,5, glutamic acid nhận proton tạo thành cation và di chuyển về phía cực âm trong điện trường.<br>(b) Ở môi trường có pH = 11,0, glutamic acid nhường proton tạo thành anion và di chuyển về phía cực dương trong điện trường.<br>Nhận xét đúng về hai phát biểu trên là",
+         "lv": 1,
+         "k": "lt",
+         "o": [
+          "Cả (a) và (b) đều đúng.",
+          "(a) đúng, (b) sai.",
+          "(a) sai, (b) đúng.",
+          "Cả (a) và (b) đều sai."
+         ],
+         "a": 0,
+         "e": "Tại pH &lt; pI (pH = 1,5), glutamic acid tồn tại chủ yếu ở dạng cation nên di chuyển về cực âm; tại pH &gt; pI (pH = 11,0), chất này tồn tại ở dạng anion nên di chuyển về cực dương."
+        },
+        {
+         "t": "mc",
+         "s": "Phát biểu nào sau đây đúng khi nói về cấu tạo của tripeptide mạch hở Val-Gly-Ala?",
+         "lv": 1,
+         "k": "lt",
+         "o": [
+          "Đầu N là gốc alanine và đầu C là gốc valine.",
+          "Đầu N là gốc valine và đầu C là gốc alanine.",
+          "Phân tử chứa 3 liên kết peptide và 3 gốc alpha-amino acid.",
+          "Phản ứng thủy phân hoàn toàn chỉ thu được một loại amino acid duy nhất."
+         ],
+         "a": 1,
+         "e": "Theo quy ước viết cấu tạo peptide mạch hở, amino acid đầu N nằm ở bên trái (Val) và amino acid đầu C nằm ở bên phải (Ala); tripeptide có 3 gốc và 2 liên kết peptide."
+        },
+        {
+         "t": "mc",
+         "s": "Khi nhỏ dung dịch CuSO<sub>4</sub> vào ống nghiệm chứa dung dịch NaOH, sau đó thêm tiếp dung dịch lòng trắng trứng (albumin) và lắc đều, hiện tượng quan sát được là",
+         "lv": 1,
+         "k": "lt",
+         "o": [
+          "xuất hiện kết tủa màu trắng ngà không tan.",
+          "có khí không màu thoát ra làm đục nước vôi trong.",
+          "tạo thành dung dịch có màu tím đặc trưng.",
+          "dung dịch chuyển sang màu xanh lam trong suốt."
+         ],
+         "a": 2,
+         "e": "Lòng trắng trứng chứa protein có nhiều liên kết peptide nên tham gia phản ứng màu biuret với Cu(OH)<sub>2</sub> trong môi trường kiềm tạo phức chất màu tím."
+        },
+        {
+         "t": "mc",
+         "s": "Cho bảng thông tin về một số alpha-amino acid tự nhiên thường gặp:<br>[table: Một số alpha-amino acid tự nhiên ;; Tên thường | Kí hiệu | Số nhóm -NH_{2} | Số nhóm -COOH ;; Glycine | Gly | 1 | 1 ;; Alanine | Ala | 1 | 1 ;; Glutamic acid | Glu | 1 | 2 ;; Lysine | Lys | 2 | 1]<br>Dựa vào bảng trên, dung dịch bão hòa của chất nào có giá trị pH nhỏ nhất?",
+         "lv": 1,
+         "k": "lt",
+         "o": [
+          "Glycine.",
+          "Alanine.",
+          "Glutamic acid.",
+          "Lysine."
+         ],
+         "a": 2,
+         "e": "Glutamic acid có 2 nhóm -COOH và 1 nhóm -NH<sub>2</sub> nên dung dịch có tính acid (pH &lt; 7), nhỏ hơn dung dịch gần như trung tính của Gly, Ala và dung dịch có tính base của Lys."
+        },
+        {
+         "t": "mc",
+         "s": "Phân tử khối của tripeptide mạch hở Gly-Ala-Val là bao nhiêu?",
+         "lv": 1,
+         "k": "tt",
+         "o": [
+          "281 amu.",
+          "263 amu.",
+          "245 amu.",
+          "227 amu."
+         ],
+         "a": 2,
+         "e": "Khi tạo tripeptide từ 3 phân tử amino acid (Gly = 75, Ala = 89, Val = 117) sẽ tách ra 2 phân tử H<sub>2</sub>O nên M = 75 + 89 + 117 - 2 × 18 = 245 amu."
+        },
+        {
+         "t": "mc",
+         "s": "Amino acid nào sau đây được dùng làm thuốc hỗ trợ thần kinh, còn muối monosodium của nó được dùng làm gia vị thực phẩm (mì chính hay bột ngọt)?",
+         "lv": 1,
+         "k": "lt",
+         "o": [
+          "Glycine.",
+          "Alanine.",
+          "Glutamic acid.",
+          "Valine."
+         ],
+         "a": 2,
+         "e": "Glutamic acid dùng làm thuốc hỗ trợ thần kinh và muối monosodium glutamate (MSG) của nó là thành phần chính của mì chính (bột ngọt)."
+        },
+        {
+         "t": "mc",
+         "s": "Cho các hợp chất hữu cơ sau: H<sub>2</sub>N-CH<sub>2</sub>-COOH (1), H<sub>2</sub>N-CH<sub>2</sub>-CH<sub>2</sub>-COOH (2), CH<sub>3</sub>-CH(NH<sub>2</sub>)-COOH (3), H<sub>2</sub>N-CH<sub>2</sub>-CO-NH-CH<sub>2</sub>-COOH (4). Có bao nhiêu chất trong dãy trên thuộc loại alpha-amino acid?",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "1.",
+          "2.",
+          "3.",
+          "4."
+         ],
+         "a": 1,
+         "e": "Chỉ có chất (1) và chất (3) có nhóm -NH<sub>2</sub> gắn ở carbon vị trí alpha (C số 2 tính từ nhóm -COOH); chất (2) là beta-amino acid còn chất (4) là dipeptide."
+        },
+        {
+         "t": "mc",
+         "s": "Cho các chất sau: Gly-Ala, Gly-Ala-Val, albumin, Ala-Gly-Gly-Val. Số chất tham gia phản ứng màu biuret tạo sản phẩm màu tím đặc trưng là",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "1.",
+          "2.",
+          "3.",
+          "4."
+         ],
+         "a": 2,
+         "e": "Phản ứng màu biuret xảy ra với peptide có từ 2 liên kết peptide trở lên (tripeptide trở lên) và protein gồm Gly-Ala-Val, albumin, Ala-Gly-Gly-Val; dipeptide Gly-Ala chỉ có 1 liên kết peptide nên không phản ứng."
+        },
+        {
+         "t": "mc",
+         "s": "Phát biểu nào sau đây đúng về tên gọi và kí hiệu của các peptide?",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "Dipeptide Gly-Ala và dipeptide Ala-Gly là cùng một hợp chất hóa học.",
+          "Dipeptide Gly-Ala và dipeptide Ala-Gly là hai đồng phân cấu tạo của nhau.",
+          "Liên kết -CO-NH- trong phân tử H<sub>2</sub>N-CH<sub>2</sub>-CH<sub>2</sub>-CO-NH-CH<sub>2</sub>-COOH được gọi là liên kết peptide.",
+          "Tetrapeptide mạch hở chứa 4 liên kết peptide trong phân tử."
+         ],
+         "a": 1,
+         "e": "Do trật tự sắp xếp gốc alpha-amino acid từ đầu N đến đầu C khác nhau nên Gly-Ala và Ala-Gly là hai đồng phân cấu tạo; liên kết peptide chỉ hình thành giữa các đơn vị alpha-amino acid."
+        },
+        {
+         "t": "mc",
+         "s": "Nhỏ vài giọt dung dịch quỳ tím vào ống nghiệm chứa dung dịch lysine (H<sub>2</sub>N-[CH<sub>2</sub>]<sub>4</sub>-CH(NH<sub>2</sub>)-COOH), sau đó nhỏ tiếp từ từ dung dịch HCl đến dư. Hiện tượng xảy ra theo thứ tự là",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "quỳ tím không đổi màu, sau đó chuyển sang màu đỏ.",
+          "quỳ tím chuyển sang màu đỏ, sau đó chuyển sang màu xanh.",
+          "quỳ tím chuyển sang màu xanh, sau đó mất màu xanh và chuyển dần sang màu đỏ.",
+          "quỳ tím chuyển sang màu xanh và giữ nguyên màu xanh khi thêm HCl dư."
+         ],
+         "a": 2,
+         "e": "Lysine có 2 nhóm -NH<sub>2</sub> và 1 nhóm -COOH nên dung dịch có tính base làm quỳ hóa xanh; khi thêm HCl dư, môi trường acid mạnh làm quỳ tím chuyển sang màu đỏ."
+        },
+        {
+         "t": "mc",
+         "s": "Khi cho glycine tác dụng với ethanol (C<sub>2</sub>H<sub>5</sub>OH) có mặt khí HCl khan đun nóng, sản phẩm hữu cơ chính thu được sau phản ứng có công thức cấu tạo là",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "H<sub>2</sub>N-CH<sub>2</sub>-COOC<sub>2</sub>H<sub>5</sub>.",
+          "ClH<sub>3</sub>N-CH<sub>2</sub>-COOC<sub>2</sub>H<sub>5</sub>.",
+          "H<sub>2</sub>N-CH<sub>2</sub>-COONa.",
+          "ClH<sub>3</sub>N-CH<sub>2</sub>-COOH."
+         ],
+         "a": 1,
+         "e": "Trong môi trường có khí HCl khan xúc tác cho phản ứng ester hóa, nhóm -NH<sub>2</sub> có tính base đồng thời tác dụng với HCl tạo muối ammonium chloride nên sản phẩm chính là ClH<sub>3</sub>N-CH<sub>2</sub>-COOC<sub>2</sub>H<sub>5</sub>."
+        },
+        {
+         "t": "mc",
+         "s": "Thủy phân hoàn toàn 0,1 mol tetrapeptide mạch hở X (tạo nên từ 4 gốc glycine) trong dung dịch NaOH dư, đun nóng. Khối lượng muối khan thu được sau phản ứng là",
+         "lv": 2,
+         "k": "tt",
+         "o": [
+          "37,0 gam.",
+          "38,8 gam.",
+          "40,6 gam.",
+          "31,6 gam."
+         ],
+         "a": 1,
+         "e": "Phương trình phản ứng: (Gly)<sub>4</sub> + 4NaOH → 4H<sub>2</sub>N-CH<sub>2</sub>-COONa + H<sub>2</sub>O; 0,1 mol X tạo ra 0,4 mol muối (M = 97) nên khối lượng muối là 0,4 × 97 = 38,8 gam."
+        },
+        {
+         "t": "mc",
+         "s": "Từ ba alpha-amino acid khác nhau là glycine, alanine và valine có thể tạo thành tối đa bao nhiêu tripeptide mạch hở mà mỗi phân tử chứa đủ cả ba gốc amino acid trên?",
+         "lv": 2,
+         "k": "tt",
+         "o": [
+          "3.",
+          "6.",
+          "9.",
+          "27."
+         ],
+         "a": 1,
+         "e": "Vì mỗi phân tử tripeptide chứa đủ cả 3 gốc khác nhau nên số đồng phân là số hoán vị của 3 gốc: 3! = 6 (nếu không yêu cầu đủ cả 3 gốc mới là 3<sup>3</sup> = 27)."
+        },
+        {
+         "t": "mc",
+         "s": "Thủy phân không hoàn toàn một pentapeptide mạch hở X thu được hỗn hợp sản phẩm trong đó có các dipeptide Gly-Ala, Val-Gly và tripeptide Ala-Val-Gly. Trình tự sắp xếp các gốc amino acid trong X từ đầu N đến đầu C là",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "Val-Gly-Ala-Val-Gly.",
+          "Gly-Ala-Val-Gly-Ala.",
+          "Ala-Val-Gly-Ala-Val.",
+          "Gly-Val-Ala-Val-Gly."
+         ],
+         "a": 1,
+         "e": "Ghép các mảnh theo đúng chiều đầu N → đầu C: từ Gly-Ala và Ala-Val-Gly thu được đoạn Gly-Ala-Val-Gly (4 gốc); gắn thêm mảnh Gly-Ala ở cuối cho pentapeptide Gly-Ala-Val-Gly-Ala."
+        },
+        {
+         "t": "mc",
+         "s": "Thực hiện thí nghiệm điện di hỗn hợp gồm glycine (pI = 6,0), glutamic acid (pI = 3,2) và lysine (pI = 9,7) ở điều kiện pH = 6,0. Kết quả tách các amino acid trong điện trường là",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "cả ba amino acid đều đứng yên tại vạch xuất phát.",
+          "glycine đứng yên, glutamic acid di chuyển về cực âm, lysine di chuyển về cực dương.",
+          "glycine hầu như không dịch chuyển, glutamic acid di chuyển về cực dương, lysine di chuyển về cực âm.",
+          "glycine và lysine di chuyển về cực âm, glutamic acid di chuyển về cực dương."
+         ],
+         "a": 2,
+         "e": "Ở pH = 6,0: glycine có pH = pI nên tồn tại ở dạng ion lưỡng cực trung hòa điện và hầu như không dịch chuyển; glutamic acid (pI = 3,2 &lt; 6,0) tạo anion di chuyển về cực dương; lysine (pI = 9,7 &gt; 6,0) tạo cation di chuyển về cực âm."
+        },
+        {
+         "t": "mc",
+         "s": "Cho sơ đồ chuyển hóa sau: Glutamic acid → (+ NaOH dư) X → (+ HCl dư) Y. Công thức cấu tạo thu gọn của hợp chất hữu cơ Y là",
+         "lv": 2,
+         "k": "lt",
+         "o": [
+          "HOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH(NH<sub>2</sub>)-COOH.",
+          "NaOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH(NH<sub>2</sub>)-COONa.",
+          "HOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH(NH<sub>3</sub>Cl)-COOH.",
+          "NaOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH(NH<sub>3</sub>Cl)-COONa."
+         ],
+         "a": 2,
+         "e": "Glutamic acid tác dụng với NaOH dư tạo muối disodium glutamate (X); khi cho HCl dư vào X, cả hai nhóm -COONa tái tạo -COOH và nhóm -NH<sub>2</sub> nhận H<sup>+</sup> tạo muối ammonium chloride HOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH(NH<sub>3</sub>Cl)-COOH."
+        },
+        {
+         "t": "mc",
+         "s": "Cho 0,15 mol hỗn hợp X gồm glutamic acid và lysine tác dụng vừa đủ với 200 mL dung dịch HCl 1M. Mặt khác, 0,15 mol X tác dụng tối đa với V mL dung dịch NaOH 1M. Giá trị của V là",
+         "lv": 2,
+         "k": "tt",
+         "o": [
+          "150.",
+          "200.",
+          "250.",
+          "300."
+         ],
+         "a": 2,
+         "e": "Giải hệ n<sub>Glu</sub> + n<sub>Lys</sub> = 0,15 và n<sub>Glu</sub> + 2n<sub>Lys</sub> = 0,20 được n<sub>Glu</sub> = 0,10 mol và n<sub>Lys</sub> = 0,05 mol; khi phản ứng với NaOH thì n<sub>NaOH</sub> = 2n<sub>Glu</sub> + n<sub>Lys</sub> = 0,25 mol hay V = 250 mL."
+        },
+        {
+         "t": "mc",
+         "s": "Thủy phân hoàn toàn 36,75 gam tripeptide mạch hở X (tạo nên từ Gly, Ala và Val) bằng dung dịch KOH dư, đun nóng. Khối lượng muối khan thu được sau phản ứng là",
+         "lv": 2,
+         "k": "tt",
+         "o": [
+          "61,95 gam.",
+          "59,25 gam.",
+          "56,55 gam.",
+          "54,45 gam."
+         ],
+         "a": 1,
+         "e": "Ta có M<sub>X</sub> = 75 + 89 + 117 - 36 = 245 nên n<sub>X</sub> = 0,15 mol; phương trình X + 3KOH → muối + H<sub>2</sub>O cho m<sub>muối</sub> = 36,75 + 0,45 × 56 - 0,15 × 18 = 59,25 gam."
+        },
+        {
+         "t": "mc",
+         "s": "Cho 14,7 gam glutamic acid tác dụng với 250 mL dung dịch NaOH 1M, thu được dung dịch X. Cho dung dịch HCl dư vào X, sau khi các phản ứng xảy ra hoàn toàn thu được dung dịch chứa m gam hỗn hợp muối. Giá trị của m là",
+         "lv": 2,
+         "k": "tt",
+         "o": [
+          "28,975.",
+          "30,175.",
+          "32,975.",
+          "34,775."
+         ],
+         "a": 2,
+         "e": "Với n<sub>Glu</sub> = 0,1 mol và n<sub>NaOH</sub> = 0,25 mol, khi cho HCl dư vào X thu được 0,1 mol ClH<sub>3</sub>N-C<sub>3</sub>H<sub>5</sub>(COOH)<sub>2</sub> (M = 183,5) và 0,25 mol NaCl (M = 58,5), tổng khối lượng muối m = 0,1 × 183,5 + 0,25 × 58,5 = 32,975 gam."
+        },
+        {
+         "t": "tf",
+         "s": "Alanine là một alpha-amino acid tự nhiên phổ biến có công thức cấu tạo thu gọn CH<sub>3</sub>-CH(NH<sub>2</sub>)-COOH. Xét các phát biểu về alanine:",
+         "lv": 1,
+         "k": "lt",
+         "st": [
+          [
+           "Tên thay thế của alanine là 2-aminopropanoic acid.",
+           1,
+           "Mạch chính gồm 3 carbon chứa nhóm -COOH và nhóm -NH<sub>2</sub> gắn ở vị trí carbon số 2."
+          ],
+          [
+           "Ở điều kiện thường, alanine là chất rắn kết tinh, không màu, dễ tan trong nước.",
+           1,
+           "Cấu tạo ion lưỡng cực tạo lực hút tĩnh điện mạnh giữa các phân tử và tương tác tốt với nước."
+          ],
+          [
+           "Dung dịch alanine trong nước làm quỳ tím chuyển sang màu xanh rõ rệt.",
+           0,
+           "Phân tử có số nhóm -NH<sub>2</sub> bằng số nhóm -COOH (đều bằng 1) nên dung dịch gần như trung tính, không làm đổi màu quỳ tím."
+          ],
+          [
+           "Alanine vừa tác dụng được với dung dịch HCl, vừa tác dụng được với dung dịch NaOH.",
+           1,
+           "Phân tử chứa đồng thời nhóm -NH<sub>2</sub> có tính base và nhóm -COOH có tính acid nên có tính chất lưỡng tính."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Xét các đặc điểm cấu tạo và tính chất hóa học cơ bản của peptide:",
+         "lv": 1,
+         "k": "lt",
+         "st": [
+          [
+           "Peptide là những hợp chất hữu cơ được cấu tạo từ các đơn vị alpha-amino acid liên kết với nhau qua liên kết peptide (-CO-NH-).",
+           1,
+           "Đây là định nghĩa chuẩn về cấu tạo của phân tử peptide."
+          ],
+          [
+           "Tất cả các peptide đều cho phản ứng màu biuret với Cu(OH)<sub>2</sub> trong môi trường kiềm tạo hợp chất màu tím.",
+           0,
+           "Dipeptide chỉ có 1 liên kết peptide nên không tham gia phản ứng màu biuret."
+          ],
+          [
+           "Khi thủy phân hoàn toàn peptide mạch hở bằng dung dịch acid hoặc dung dịch kiềm đun nóng, sản phẩm cuối cùng thu được là các muối của alpha-amino acid.",
+           1,
+           "Trong môi trường acid tạo muối ammonium của amino acid, còn trong môi trường kiềm tạo muối của gốc acid với cation kim loại."
+          ],
+          [
+           "Phân tử tetrapeptide mạch hở chứa 4 liên kết peptide và 4 gốc alpha-amino acid.",
+           0,
+           "Tetrapeptide mạch hở được tạo thành từ 4 gốc alpha-amino acid nên chỉ chứa 4 - 1 = 3 liên kết peptide."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Bảng dưới đây ghi giá trị điểm đẳng điện (pI) của ba amino acid ở 25 °C:<br>[table: Điểm đẳng điện của một số amino acid ;; Amino acid | Glutamic acid | Glycine | Lysine ;; Giá trị pI | 3,2 | 6,0 | 9,7]<br>Xét các nhận định dựa trên bảng số liệu trên:",
+         "lv": 1,
+         "k": "lt",
+         "st": [
+          [
+           "Ở pH = 3,2, glycine tồn tại chủ yếu ở dạng cation mang điện tích dương.",
+           1,
+           "Vì pH = 3,2 &lt; pI(Gly) = 6,0 nên môi trường dư H<sup>+</sup> so với điểm đẳng điện của glycine, phân tử nhận proton tạo cation."
+          ],
+          [
+           "Ở pH = 6,0, cả ba amino acid đều tồn tại chủ yếu ở dạng ion lưỡng cực không mang điện tích tổng.",
+           0,
+           "Tại pH = 6,0 chỉ có glycine đạt điểm đẳng điện, còn glutamic acid tồn tại ở dạng anion và lysine tồn tại ở dạng cation."
+          ],
+          [
+           "Khi đặt hỗn hợp ba chất trên trong điện trường ở pH = 6,0, lysine di chuyển về phía cực âm.",
+           1,
+           "Ở pH = 6,0 &lt; pI(Lys) = 9,7, lysine tồn tại ở dạng cation mang điện tích dương nên bị hút về phía cực âm."
+          ],
+          [
+           "Giá trị pI của glutamic acid lớn hơn lysine do phân tử glutamic acid có hai nhóm chức carboxyl.",
+           0,
+           "Bảng số liệu cho thấy pI của glutamic acid (3,2) nhỏ hơn rất nhiều so với lysine (9,7)."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Cho tetrapeptide mạch hở X có công thức cấu tạo kí hiệu là Gly-Ala-Val-Glu. Xét các phát biểu sau về X:",
+         "lv": 1,
+         "k": "lt",
+         "st": [
+          [
+           "Amino acid đầu N của X là glycine và amino acid đầu C của X là glutamic acid.",
+           1,
+           "Theo quy ước viết chuỗi peptide, gốc bên trái cùng (Gly) là đầu N và gốc bên phải cùng (Glu) là đầu C."
+          ],
+          [
+           "Phân tử X chứa 3 liên kết peptide.",
+           1,
+           "Chuỗi mạch hở gồm 4 gốc alpha-amino acid liên kết với nhau qua 3 liên kết -CO-NH-."
+          ],
+          [
+           "X không tham gia phản ứng màu biuret vì chỉ chứa một gốc glutamic acid.",
+           0,
+           "Phản ứng màu biuret phụ thuộc vào số lượng liên kết peptide (X có 3 liên kết peptide ≥ 2) nên X có phản ứng màu biuret."
+          ],
+          [
+           "Thủy phân hoàn toàn 1 mol X trong dung dịch NaOH dư cần dùng tối đa 5 mol NaOH.",
+           1,
+           "3 gốc Gly, Ala, Val mỗi gốc phản ứng với 1 mol NaOH, riêng gốc Glu có 2 nhóm -COOH nên phản ứng với 2 mol NaOH, tổng cộng là 5 mol NaOH."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Xét các phát biểu dễ gây nhầm lẫn về phân loại và danh pháp của amino acid:",
+         "lv": 2,
+         "k": "lt",
+         "st": [
+          [
+           "Hợp chất H<sub>2</sub>N-CH<sub>2</sub>-CH<sub>2</sub>-COOH là một alpha-amino acid.",
+           0,
+           "Nhóm -NH<sub>2</sub> gắn ở carbon số 3 (vị trí beta) so với nhóm -COOH nên đây là beta-amino acid."
+          ],
+          [
+           "Hợp chất CH<sub>3</sub>-CH(NH<sub>2</sub>)-COOH có tên bán hệ thống là alpha-aminopropionic acid và tên thường là alanine.",
+           1,
+           "Nhóm -NH<sub>2</sub> gắn tại carbon alpha của mạch chính propionic acid gồm 3 nguyên tử carbon."
+          ],
+          [
+           "Hợp chất H<sub>2</sub>N-CH<sub>2</sub>-COO-CH<sub>3</sub> là một amino acid có tính chất lưỡng tính.",
+           0,
+           "Đây là methyl glycinate (ester của glycine), không còn nhóm -COOH nên không phải amino acid."
+          ],
+          [
+           "Tất cả các alpha-amino acid cấu tạo nên protein tự nhiên đều là chất rắn ở điều kiện thường.",
+           1,
+           "Các alpha-amino acid tự nhiên đều tồn tại ở dạng ion lưỡng cực nên là chất rắn kết tinh ở điều kiện thường."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Cho hợp chất hữu cơ X có công thức cấu tạo: H<sub>2</sub>N-CH<sub>2</sub>-CO-NH-CH(CH<sub>3</sub>)-CO-NH-CH<sub>2</sub>-COOH. Xét các phát biểu về X:",
+         "lv": 2,
+         "k": "lt",
+         "st": [
+          [
+           "X là một tetrapeptide mạch hở.",
+           0,
+           "Phân tử X chỉ gồm 3 gốc alpha-amino acid (Gly, Ala, Gly) nên X là tripeptide mạch hở."
+          ],
+          [
+           "Trong phân tử X có 2 liên kết peptide và 3 nguyên tử nitrogen.",
+           1,
+           "Mỗi gốc alpha-amino acid ban đầu đóng góp 1 nguyên tử N và giữa 3 gốc có 2 liên kết -CO-NH-."
+          ],
+          [
+           "Thủy phân hoàn toàn X trong dung dịch HCl dư thu được hỗn hợp gồm hai muối khác nhau.",
+           1,
+           "Sản phẩm thủy phân hoàn toàn gồm muối ClH<sub>3</sub>N-CH<sub>2</sub>-COOH và muối ClH<sub>3</sub>N-CH(CH<sub>3</sub>)-COOH."
+          ],
+          [
+           "X có phản ứng ester hóa với ethanol nhưng không phản ứng với dung dịch KOH đun nóng.",
+           0,
+           "X vừa có nhóm -COOH tự do phản ứng ester hóa, vừa bị thủy phân các liên kết peptide trong dung dịch KOH đun nóng."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Thủy phân hoàn toàn 1 mol pentapeptide mạch hở X thu được 2 mol glycine, 1 mol alanine, 1 mol valine và 1 mol glutamic acid. Xét các phát biểu về X:",
+         "lv": 2,
+         "k": "tt",
+         "st": [
+          [
+           "Công thức phân tử của X là C<sub>17</sub>H<sub>29</sub>N<sub>5</sub>O<sub>8</sub>.",
+           1,
+           "Tổng công thức 5 amino acid (2 C<sub>2</sub>H<sub>5</sub>NO<sub>2</sub> + C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub> + C<sub>5</sub>H<sub>11</sub>NO<sub>2</sub> + C<sub>5</sub>H<sub>9</sub>NO<sub>4</sub> = C<sub>17</sub>H<sub>37</sub>N<sub>5</sub>O<sub>12</sub>) trừ đi 4 phân tử H<sub>2</sub>O cho C<sub>17</sub>H<sub>29</sub>N<sub>5</sub>O<sub>8</sub>."
+          ],
+          [
+           "Số đồng phân cấu tạo mạch hở của X thỏa mãn dữ kiện trên là 120.",
+           0,
+           "Vì có 2 gốc glycine giống nhau nên số đồng phân cấu tạo mạch hở là 5! / 2! = 60 đồng phân."
+          ],
+          [
+           "Khi cho 1 mol X phản ứng hoàn toàn với dung dịch NaOH dư, đun nóng, số mol NaOH đã phản ứng là 6 mol.",
+           1,
+           "4 gốc Gly, Ala, Val phản ứng tỉ lệ 1:1 với NaOH và 1 gốc Glu phản ứng tỉ lệ 1:2 với NaOH, tổng cộng 4 + 2 = 6 mol."
+          ],
+          [
+           "Khi cho 1 mol X phản ứng hoàn toàn với dung dịch HCl dư, đun nóng, số mol HCl đã phản ứng là 6 mol.",
+           0,
+           "Cả 5 gốc amino acid đều chỉ có 1 nhóm -NH<sub>2</sub> nên 1 mol X phản ứng với 5 mol HCl (cùng 4 mol H<sub>2</sub>O thủy phân)."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Cho 0,1 mol hỗn hợp E gồm hai amino acid no, mạch hở, phân tử chỉ chứa một nhóm -NH<sub>2</sub> và một nhóm -COOH tác dụng vừa đủ với 100 mL dung dịch HCl 1M. Mặt khác, đốt cháy hoàn toàn 0,1 mol E cần dùng vừa đủ 0,375 mol O<sub>2</sub>, thu được CO<sub>2</sub>, H<sub>2</sub>O và N<sub>2</sub>. Xét các phát biểu sau:",
+         "lv": 2,
+         "k": "tt",
+         "st": [
+          [
+           "Số mol H<sub>2</sub>O thu được sau phản ứng đốt cháy 0,1 mol E là 0,35 mol.",
+           1,
+           "Công thức chung của E là C<sub>n</sub>H<sub>2n+1</sub>NO<sub>2</sub>; bảo toàn O cho 0,1 × 2 + 0,375 × 2 = 2n<sub>CO2</sub> + n<sub>H2O</sub> và n<sub>H2O</sub> - n<sub>CO2</sub> = 0,05 nên n<sub>CO2</sub> = 0,30 mol và n<sub>H2O</sub> = 0,35 mol."
+          ],
+          [
+           "Hai amino acid trong hỗn hợp E không thể là đồng đẳng kế tiếp của nhau.",
+           0,
+           "Số nguyên tử C trung bình là 0,30 / 0,1 = 3,0 nên hoàn toàn có thể là cặp đồng đẳng kế tiếp như Gly (C<sub>2</sub>) và Val (C<sub>5</sub>) hoặc Ala (C<sub>3</sub>) và chất C<sub>4</sub>, hay C<sub>2</sub> và C<sub>4</sub>."
+          ],
+          [
+           "Nếu E gồm glycine và một amino acid X với tỉ lệ mol 1 : 1 thì X có công thức phân tử là C<sub>4</sub>H<sub>9</sub>NO<sub>2</sub>.",
+           1,
+           "Với n<sub>Gly</sub> = n<sub>X</sub> = 0,05 mol, tổng số mol C là 0,05 × 2 + 0,05 × n<sub>C(X)</sub> = 0,30 suy ra n<sub>C(X)</sub> = 4."
+          ],
+          [
+           "Khối lượng muối thu được khi cho 0,1 mol E tác dụng hết với dung dịch NaOH dư là 11,1 gam.",
+           1,
+           "Khối lượng E bằng 0,30 × 12 + 0,35 × 2 + 0,1 × 14 + 0,2 × 16 = 8,9 gam; cộng 0,1 mol NaOH (4,0 gam) trừ 0,1 mol H<sub>2</sub>O (1,8 gam) được 11,1 gam."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Thủy phân không hoàn toàn tetrapeptide mạch hở X thu được hỗn hợp các peptide mạch hở ngắn hơn gồm: Ala-Gly, Gly-Val, Val-Ala và Ala-Gly-Val. Xét các phát biểu về cấu tạo của X:",
+         "lv": 2,
+         "k": "lt",
+         "st": [
+          [
+           "Amino acid đầu N của X là alanine.",
+           1,
+           "Ghép các mảnh Ala-Gly-Val và Val-Ala theo đúng trật tự đầu N → đầu C xác định duy nhất cấu tạo X là Ala-Gly-Val-Ala."
+          ],
+          [
+           "Amino acid đầu C của X là valine.",
+           0,
+           "Gốc amino acid nằm ở đầu C của X là alanine (Ala-Gly-Val-Ala)."
+          ],
+          [
+           "Phân tử khối của X là 302 amu.",
+           1,
+           "X gồm 2 gốc Ala, 1 gốc Gly và 1 gốc Val nên M<sub>X</sub> = 2 × 89 + 75 + 117 - 3 × 18 = 302 amu."
+          ],
+          [
+           "Có hai gốc alanine trong mỗi phân tử X.",
+           1,
+           "Công thức cấu tạo của X là Ala-Gly-Val-Ala nên chứa 2 gốc alanine."
+          ]
+         ]
+        },
+        {
+         "t": "tf",
+         "s": "Hỗn hợp M gồm tripeptide X (C<sub>6</sub>H<sub>11</sub>N<sub>3</sub>O<sub>4</sub>) và tetrapeptide Y (C<sub>8</sub>H<sub>14</sub>N<sub>4</sub>O<sub>5</sub>), đều mạch hở. Cho 0,2 mol hỗn hợp M tác dụng vừa đủ với 0,7 mol NaOH trong dung dịch, đun nóng, thu được dung dịch chỉ chứa một muối duy nhất là sodium glycinate (H<sub>2</sub>N-CH<sub>2</sub>-COONa). Xét các phát biểu sau:",
+         "lv": 2,
+         "k": "tt",
+         "st": [
+          [
+           "Số mol của X và Y trong 0,2 mol hỗn hợp M lần lượt là 0,1 mol và 0,1 mol.",
+           1,
+           "X là Gly<sub>3</sub> (tác dụng 3 NaOH) và Y là Gly<sub>4</sub> (tác dụng 4 NaOH); giải hệ x + y = 0,2 và 3x + 4y = 0,7 được x = 0,1 mol và y = 0,1 mol."
+          ],
+          [
+           "Tổng khối lượng muối khan thu được sau phản ứng là 67,9 gam.",
+           1,
+           "Tổng số gốc Gly bằng 0,7 mol nên khối lượng muối H<sub>2</sub>N-CH<sub>2</sub>-COONa (M = 97) là 0,7 × 97 = 67,9 gam."
+          ],
+          [
+           "Nếu thủy phân hoàn toàn 0,2 mol M trong dung dịch HCl dư thì số mol HCl phản ứng là 0,5 mol.",
+           0,
+           "Tổng số gốc amino acid trong 0,2 mol M là 0,1 × 3 + 0,1 × 4 = 0,7 mol nên số mol HCl phản ứng là 0,7 mol."
+          ],
+          [
+           "Khối lượng của 0,2 mol hỗn hợp M ban đầu là 43,5 gam.",
+           1,
+           "M<sub>X</sub> = 189 và M<sub>Y</sub> = 246 nên m<sub>M</sub> = 0,1 × 189 + 0,1 × 246 = 43,5 gam."
+          ]
+         ]
+        },
+        {
+         "t": "sa",
+         "s": "Cho pentapeptide mạch hở Ala-Gly-Val-Glu-Lys. Có bao nhiêu liên kết peptide trong phân tử pentapeptide trên?",
+         "lv": 1,
+         "k": "tt",
+         "a": "0004",
+         "e": "Pentapeptide mạch hở gồm 5 gốc alpha-amino acid liên kết với nhau nên số liên kết peptide là 5 - 1 = 4."
+        },
+        {
+         "t": "sa",
+         "s": "Đốt cháy hoàn toàn 0,1 mol alanine bằng lượng khí O<sub>2</sub> vừa đủ, thu được bao nhiêu mol khí N<sub>2</sub>?",
+         "lv": 1,
+         "k": "tt",
+         "a": "0,05",
+         "e": "Alanine (C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub>) chứa 1 nguyên tử N nên bảo toàn nguyên tố nitrogen cho n<sub>N2</sub> = 0,5 × n<sub>Ala</sub> = 0,05 mol."
+        },
+        {
+         "t": "sa",
+         "s": "Phân tử khối của dipeptide mạch hở Gly-Ala là bao nhiêu amu?",
+         "lv": 1,
+         "k": "tt",
+         "a": "0146",
+         "e": "Phân tử khối của Gly-Ala bằng tổng phân tử khối của glycine (75) và alanine (89) trừ đi 1 phân tử H<sub>2</sub>O (18): 75 + 89 - 18 = 146 amu."
+        },
+        {
+         "t": "sa",
+         "s": "Có bao nhiêu tripeptide mạch hở khác nhau mà khi thủy phân không hoàn toàn đều thu được cả hai dipeptide là Gly-Ala và Ala-Gly?",
+         "lv": 2,
+         "k": "tt",
+         "a": "0002",
+         "e": "Để sản phẩm thủy phân không hoàn toàn chứa đồng thời hai mảnh Gly-Ala và Ala-Gly thì tripeptide mạch hở chỉ có hai cấu tạo thỏa mãn là Gly-Ala-Gly và Ala-Gly-Ala."
+        },
+        {
+         "t": "sa",
+         "s": "Cho 0,1 mol lysine tác dụng vừa đủ với V lít dung dịch HCl 0,5M. Giá trị của V là bao nhiêu?",
+         "lv": 2,
+         "k": "tt",
+         "a": "0,4",
+         "e": "Lysine có 2 nhóm -NH<sub>2</sub> nên tác dụng với HCl theo tỉ lệ mol 1 : 2, suy ra n<sub>HCl</sub> = 0,2 mol và V = 0,2 / 0,5 = 0,4 lít."
+        },
+        {
+         "t": "sa",
+         "s": "Thủy phân hoàn toàn 1 mol tetrapeptide mạch hở X thu được 2 mol glycine, 1 mol alanine và 1 mol valine. Có bao nhiêu đồng phân cấu tạo mạch hở của X thỏa mãn điều kiện trên?",
+         "lv": 2,
+         "k": "tt",
+         "a": "0012",
+         "e": "Số đồng phân cấu tạo của tetrapeptide mạch hở gồm 2 gốc Gly, 1 gốc Ala và 1 gốc Val là 4! / 2! = 12 đồng phân."
+        },
+        {
+         "t": "sa",
+         "s": "Cho các chất sau: glycine, aniline, glutamic acid, lysine, Gly-Ala, albumin. Có bao nhiêu chất trong dãy làm quỳ tím ẩm chuyển sang màu xanh?",
+         "lv": 2,
+         "k": "lt",
+         "a": "0001",
+         "e": "Chỉ có lysine (chứa 2 nhóm -NH<sub>2</sub> và 1 nhóm -COOH) làm quỳ tím chuyển sang màu xanh; aniline có tính base quá yếu không làm đổi màu quỳ tím."
+        },
+        {
+         "t": "sa",
+         "s": "Cho 15,0 gam glycine tác dụng hết với dung dịch NaOH dư, cô cạn cẩn thận dung dịch sau phản ứng thu được m gam muối khan. Giá trị của m là bao nhiêu?",
+         "lv": 2,
+         "k": "tt",
+         "a": "19,4",
+         "e": "Số mol glycine là 15,0 / 75 = 0,2 mol, tạo thành 0,2 mol muối H<sub>2</sub>N-CH<sub>2</sub>-COONa (M = 97) nên m = 0,2 × 97 = 19,4 gam."
+        },
+        {
+         "t": "sa",
+         "s": "Hỗn hợp E gồm 0,1 mol dipeptide Gly-Ala và 0,2 mol tripeptide Ala-Gly-Gly. Thủy phân hoàn toàn E trong dung dịch HCl dư, thu được hỗn hợp chứa m gam muối. Giá trị của m là bao nhiêu?",
+         "lv": 2,
+         "k": "tt",
+         "a": "93,4",
+         "e": "Tổng số mol gốc Gly là 0,1 + 0,2 × 2 = 0,5 mol (muối ClH<sub>3</sub>N-CH<sub>2</sub>-COOH có M = 111,5) và tổng số mol gốc Ala là 0,1 + 0,2 = 0,3 mol (muối ClH<sub>3</sub>N-CH(CH<sub>3</sub>)-COOH có M = 125,5), suy ra m = 0,5 × 111,5 + 0,3 × 125,5 = 93,4 gam."
+        },
+        {
+         "t": "sa",
+         "s": "Thủy phân hoàn toàn 43,4 gam một tripeptide mạch hở X (được tạo nên từ các alpha-amino acid có 1 nhóm -NH<sub>2</sub> và 1 nhóm -COOH) bằng dung dịch NaOH vừa đủ, thu được 63,8 gam hỗn hợp muối. Phân tử khối của X là bao nhiêu amu?",
+         "lv": 2,
+         "k": "tt",
+         "a": "0217",
+         "e": "Gọi số mol X là x; phương trình X + 3NaOH → muối + H<sub>2</sub>O cho bảo toàn khối lượng 43,4 + 120x = 63,8 + 18x, suy ra x = 0,2 mol và M<sub>X</sub> = 43,4 / 0,2 = 217 amu."
+        }
+       ]
       }
      ]
     }
