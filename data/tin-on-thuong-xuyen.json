@@ -1,0 +1,479 @@
+{
+ "id": "tin-on-thuong-xuyen",
+ "subject": "Tin học",
+ "name": "ÔN THƯỜNG XUYÊN",
+ "chapters": [
+  {
+   "name": "Chung",
+   "lessons": [
+    {
+     "id": "on-thuong-xuyen",
+     "name": "ÔN THƯỜNG XUYÊN",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Ngôn ngữ HTML (Hypertext Markup Language) dùng để làm gì?",
+       "k": "lt",
+       "o": [
+        "Thiết lập cấu trúc và hiển thị nội dung trang web.",
+        "Quản trị cơ sở dữ liệu quan hệ trên máy chủ.",
+        "Biên dịch mã nguồn ngôn ngữ bậc cao sang mã máy.",
+        "Cấu hình định tuyến cho các thiết bị kết nối mạng."
+       ],
+       "a": 0,
+       "e": "Theo Bài 7 (Mục 1), HTML là ngôn ngữ đánh dấu siêu văn bản, là bộ quy tắc dùng để thiết lập cấu trúc và hiển thị nội dung trang web.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Trong tệp HTML, dòng khai báo đầu tiên có dạng &lt;!DOCTYPE html&gt; có vai trò gì?",
+       "k": "lt",
+       "o": [
+        "Là phần tử gốc chứa toàn bộ các phần tử HTML còn lại của trang web.",
+        "Thông báo cho trình duyệt biết đây là tệp có định dạng html và không được xem là phần tử HTML.",
+        "Khai báo cách mã hoá văn bản trên trang web theo chuẩn Unicode UTF-8.",
+        "Tạo dòng chú thích giải thích mã nguồn cho người lập trình và không hiển thị trên trình duyệt."
+       ],
+       "a": 1,
+       "e": "Theo Bài 7 (Mục 1b và Mục 2), dòng đầu tiên &lt;!DOCTYPE html&gt; mang ý nghĩa thông báo cho trình duyệt biết đây là tệp có định dạng html và không được coi là phần tử HTML.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Trong cấu trúc cơ bản của một tệp HTML, phần tử nào sau đây là phần tử gốc (root) bắt buộc và chứa tất cả các phần tử HTML còn lại?",
+       "k": "lt",
+       "o": [
+        "&lt;head&gt;",
+        "&lt;body&gt;",
+        "&lt;html&gt;",
+        "&lt;title&gt;"
+       ],
+       "a": 2,
+       "e": "Theo Bài 7 (Mục 2), phần tử &lt;html&gt; là bắt buộc, là phần tử gốc (root) trong sơ đồ hình cây HTML và chứa tất cả các phần tử HTML còn lại của trang web.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Cú pháp nào sau đây dùng để viết một phần tử chú thích trong tệp HTML?",
+       "k": "lt",
+       "o": [
+        "/* đây là dòng chú thích */",
+        "// đây là dòng chú thích",
+        "&lt;!-- đây là dòng chú thích --&gt;",
+        "&lt;! đây là dòng chú thích &gt;"
+       ],
+       "a": 2,
+       "e": "Theo Bài 7 (Mục 1b), phần tử HTML đặc biệt có ý nghĩa chú thích trong tệp HTML có dạng: &lt;!-- đây là dòng chú thích --&gt;.",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Thẻ đơn nào sau đây trong HTML được dùng để tạo một đường kẻ ngang trên trang web?",
+       "k": "lt",
+       "o": [
+        "&lt;br/&gt;",
+        "&lt;hr/&gt;",
+        "&lt;p&gt;",
+        "&lt;div&gt;"
+       ],
+       "a": 1,
+       "e": "Theo Bài 7 (Mục 1a), &lt;hr/&gt; là thẻ đơn dùng để tạo dòng kẻ ngang, còn &lt;br/&gt; dùng để ngắt xuống dòng.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Khi soạn thảo tệp HTML, nếu người dùng gõ nhiều dấu cách liên tiếp hoặc nhấn phím Enter để xuống dòng trong mã nguồn thì trình duyệt web sẽ xử lí như thế nào?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Hiển thị đầy đủ tất cả các dấu cách và tự động ngắt xuống dòng tương ứng trên trang web.",
+        "Chỉ hiểu nhiều dấu cách là một dấu cách duy nhất và không nhận biết dấu xuống dòng do nhấn phím Enter.",
+        "Báo lỗi cú pháp HTML và từ chối hiển thị nội dung của phần tử đó.",
+        "Tự động chuyển đổi các dấu xuống dòng thành đường kẻ ngang phân tách đoạn văn bản."
+       ],
+       "a": 1,
+       "e": "Theo Bài 7 (Mục 1a và Mục 2), HTML và trình duyệt không nhận biết được nhiều dấu cách (hiểu là một dấu cách) và cũng không nhận biết kí tự xuống dòng khi nhấn phím Enter.",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Trong phần mềm soạn thảo chuyên nghiệp Notepad++, để phần mềm hiển thị màu sắc cú pháp và hỗ trợ soạn thảo ngôn ngữ HTML, ta thực hiện thao tác nào?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Language → H → HTML",
+        "View → Syntax → HTML",
+        "Encoding → Convert to UTF-8",
+        "Settings → Preferences → HTML"
+       ],
+       "a": 0,
+       "e": "Theo Bài 7 (Mục 3b), để phần mềm Notepad++ hiển thị và hỗ trợ soạn thảo HTML cần thực hiện lệnh Language → H → HTML (còn Sublime Text là View → Syntax → HTML).",
+       "n": 7
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về cấu trúc và phần tử của tệp HTML:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Phần lớn các thẻ HTML là thẻ đôi gồm thẻ bắt đầu và thẻ kết thúc, trong đó thẻ kết thúc có thêm dấu \"/\".",
+         1,
+         "Theo Bài 7 (Mục 1a), phần lớn các thẻ đều là thẻ đôi có thẻ bắt đầu và thẻ kết thúc (có thêm dấu \"/\", ví dụ &lt;/p&gt;), ngoài ra có một số thẻ đơn như &lt;hr/&gt;, &lt;br/&gt;."
+        ],
+        [
+         "Tên thẻ HTML phân biệt chặt chẽ chữ hoa và chữ thường nên bắt buộc phải viết bằng chữ in hoa.",
+         0,
+         "Theo Bài 7 (Mục 1a), tên thẻ HTML không phân biệt chữ hoa, chữ thường nhưng mặc định tên thẻ được viết chữ thường."
+        ],
+        [
+         "Phần tử &lt;title&gt; nằm trong phần tử &lt;head&gt;, mô tả tên của trang web hiện thời và không được phép chứa các phần tử con.",
+         1,
+         "Theo Bài 7 (Mục 2), phần tử &lt;title&gt; nằm trong &lt;head&gt;, mô tả tên trang web hiện thời, phải là văn bản thường và không được phép chứa các phần tử con."
+        ],
+        [
+         "Phần tử &lt;meta&gt; nằm trong phần tử &lt;body&gt; để hiển thị nội dung chính của trang web cho người đọc.",
+         0,
+         "Theo Bài 7 (Mục 2), phần tử &lt;meta&gt; nằm trong phần tử &lt;head&gt; và dùng để mô tả các thông tin bổ sung như cách mã hoá Unicode, từ khoá, tên tác giả."
+        ]
+       ],
+       "n": 8
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về phần mềm soạn thảo và lịch sử phát triển HTML:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Notepad trên Windows và TextEdit trên MacOS là các phần mềm soạn thảo văn bản đơn giản không định dạng có thể dùng để tạo tệp HTML.",
+         1,
+         "Theo Bài 7 (Mục 3a), Notepad có sẵn trên Windows và TextEdit trên MacOS là phần mềm soạn thảo văn bản đơn giản không định dạng dùng để tạo tệp nguồn HTML."
+        ],
+        [
+         "Khi soạn thảo HTML trên các trang web hỗ trợ trực tuyến như w3schools.com, ta không cần kết nối Internet và không cần trình duyệt web.",
+         0,
+         "Theo Bài 7 (Mục 3c), để sử dụng trang web hỗ trợ soạn thảo HTML trực tuyến, máy tính yêu cầu phải có kết nối Internet và cài đặt trình duyệt chuẩn."
+        ],
+        [
+         "Các chuẩn HTML của trang web hiện nay được nhà vật lí Tim Berners-Lee đưa ra lần đầu tiên vào những năm 1990 của thế kỉ XX tại Trung tâm Vật lí Hạt nhân CERN.",
+         1,
+         "Theo Bài 7 (Đọc thêm trang 45), chuẩn HTML được nhà vật lí Tim Berners-Lee đưa ra lần đầu tiên vào những năm 1990 tại CERN."
+        ],
+        [
+         "Theo sơ đồ cây thông tin của một trang HTML chuẩn, phần tử gốc &lt;html&gt; thường chứa hai phần tử con trực tiếp là &lt;title&gt; và &lt;div&gt;.",
+         0,
+         "Theo Bài 7 (Mục 2), phần tử gốc &lt;html&gt; thường chứa hai phần tử con trực tiếp là &lt;head&gt; và &lt;body&gt;."
+        ]
+       ],
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Trong HTML, thuộc tính của thẻ được viết ở vị trí nào và tuân theo cú pháp cơ bản nào?",
+       "k": "lt",
+       "o": [
+        "Nằm trong thẻ bắt đầu, sau tên thẻ và có dạng tên_thuộc_tính=\"giá trị\".",
+        "Nằm trong thẻ kết thúc, trước dấu \"/\" và có dạng tên_thuộc_tính:giá trị.",
+        "Nằm ở phần nội dung giữa thẻ bắt đầu và thẻ kết thúc, đặt trong cặp ngoặc nhọn.",
+        "Nằm ngay trước tên thẻ bắt đầu và ngăn cách với tên thẻ bằng dấu chấm phẩy."
+       ],
+       "a": 0,
+       "e": "Theo Bài 8 (Mục 1), thuộc tính nằm trong thẻ bắt đầu (không nằm trong thẻ kết thúc), sau tên thẻ, với cú pháp tên_thuộc_tính=\"giá trị\" (trừ trường hợp đặc biệt chỉ cần tên thuộc tính).",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Để định dạng tiêu đề và các tiêu đề con phân cấp theo các mức khác nhau trong văn bản HTML, ta sử dụng nhóm thẻ nào?",
+       "k": "lt",
+       "o": [
+        "Từ &lt;p1&gt; đến &lt;p6&gt;.",
+        "Từ &lt;h1&gt; đến &lt;h6&gt;.",
+        "Từ &lt;t1&gt; đến &lt;t6&gt;.",
+        "Từ &lt;h0&gt; đến &lt;h5&gt;."
+       ],
+       "a": 1,
+       "e": "Theo Bài 8 (Mục 2a), để định dạng tiêu đề và các tiêu đề con xuất hiện trong văn bản, ta sử dụng các thẻ dạng &lt;hx&gt; với x nhận giá trị từ 1 đến 6 (&lt;h1&gt; đến &lt;h6&gt;).",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "Trong HTML, cặp thẻ nào sau đây được dùng để định dạng kiểu chữ đánh dấu (highlight) nổi bật trên nền màu?",
+       "k": "lt",
+       "o": [
+        "&lt;del&gt;...&lt;/del&gt;",
+        "&lt;small&gt;...&lt;/small&gt;",
+        "&lt;mark&gt;...&lt;/mark&gt;",
+        "&lt;sub&gt;...&lt;/sub&gt;"
+       ],
+       "a": 2,
+       "e": "Theo Bài 8 (Bảng 8.1), cặp thẻ &lt;mark&gt;...&lt;/mark&gt; dùng để định dạng kiểu chữ đánh dấu (highlight).",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Để hiển thị công thức hoá học H2O hoặc biểu thức toán học x2 đúng quy cách chỉ số dưới và chỉ số trên trong HTML, ta dùng lần lượt hai cặp thẻ nào?",
+       "k": "lt",
+       "o": [
+        "&lt;sub&gt;...&lt;/sub&gt; và &lt;sup&gt;...&lt;/sup&gt;.",
+        "&lt;sup&gt;...&lt;/sup&gt; và &lt;sub&gt;...&lt;/sub&gt;.",
+        "&lt;small&gt;...&lt;/small&gt; và &lt;strong&gt;...&lt;/strong&gt;.",
+        "&lt;del&gt;...&lt;/del&gt; và &lt;em&gt;...&lt;/em&gt;."
+       ],
+       "a": 0,
+       "e": "Theo Bài 8 (Bảng 8.1 và Mục 4), cặp thẻ &lt;sub&gt;...&lt;/sub&gt; dùng để viết chỉ số dưới (như H2O) và cặp thẻ &lt;sup&gt;...&lt;/sup&gt; dùng để viết chỉ số trên (như x2).",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Trong HTML5, để thiết lập màu sắc, phông chữ và cỡ chữ cho một phần tử HTML, ta thường sử dụng thuộc tính nào?",
+       "k": "lt",
+       "o": [
+        "font",
+        "format",
+        "style",
+        "color"
+       ],
+       "a": 2,
+       "e": "Theo Bài 8 (Mục 1 và Mục 3b), để định dạng phông chữ (màu sắc, phông chữ, cỡ chữ) trong HTML5, ta sử dụng thuộc tính style.",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Điểm khác nhau cơ bản về cách hiển thị giữa cặp thẻ &lt;div&gt;...&lt;/div&gt; và cặp thẻ &lt;span&gt;...&lt;/span&gt; là gì?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "Thẻ &lt;div&gt; chỉ chứa được văn bản thuần túy, còn thẻ &lt;span&gt; chỉ chứa được hình ảnh và liên kết.",
+        "Phần tử &lt;div&gt; tạo một khối bắt đầu trên dòng mới, còn phần tử &lt;span&gt; hiển thị nội dung khối trên cùng dòng đang viết.",
+        "Thẻ &lt;div&gt; dùng cho quy mô nhỏ trong một câu, còn thẻ &lt;span&gt; dùng để bao bọc toàn bộ phần thân trang web.",
+        "Thẻ &lt;div&gt; hỗ trợ thuộc tính style để định dạng, còn thẻ &lt;span&gt; không cho phép gắn thuộc tính style."
+       ],
+       "a": 1,
+       "e": "Theo Bài 8 (Mục 2b), phần tử &lt;div&gt; là một khối bắt đầu trên dòng mới, trong khi phần tử &lt;span&gt; có tác dụng tương tự nhưng sử dụng cho quy mô nhỏ hơn và nội dung khối hiển thị trên cùng dòng đang viết.",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Trong HTML5, cú pháp nào sau đây định dạng đúng cho đoạn văn bản có chữ màu đỏ và cỡ chữ 15px bằng thuộc tính style?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "&lt;p style=\"color=red, font-size=15px\"&gt;Nội dung&lt;/p&gt;",
+        "&lt;p style=\"color: red font-size: 15px\"&gt;Nội dung&lt;/p&gt;",
+        "&lt;p style=\"color: red; font-size: 15px\"&gt;Nội dung&lt;/p&gt;",
+        "&lt;p style=\"color: red\" style=\"font-size: 15px\"&gt;Nội dung&lt;/p&gt;"
+       ],
+       "a": 2,
+       "e": "Theo Bài 8 (Mục 3b), khi thực hiện nhiều định dạng phông đồng thời trong thuộc tính style, ta đặt các cặp tên: giá trị trong phần giá trị của thuộc tính và ngăn cách nhau bởi dấu \";\".",
+       "n": 16
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về các thẻ định dạng văn bản và kiểu chữ trong HTML:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Thẻ &lt;strong&gt; và &lt;em&gt; có cùng tác dụng định dạng chữ đậm, nghiêng giống thẻ &lt;b&gt;, &lt;i&gt; nhưng nhấn mạnh vào ngữ nghĩa của nội dung nên được khuyến khích sử dụng hơn.",
+         1,
+         "Theo Bài 8 (Mục 3a), &lt;strong&gt;, &lt;em&gt; định dạng đậm, nghiêng giống &lt;b&gt;, &lt;i&gt; nhưng mang ý nghĩa nhấn mạnh vào ngữ nghĩa của nội dung và được khuyến khích dùng nhiều hơn."
+        ],
+        [
+         "Nội dung bên trong cặp thẻ &lt;p&gt;...&lt;/p&gt; có thể chứa các thẻ tiêu đề &lt;h1&gt; hoặc các phần tử phân đoạn khác.",
+         0,
+         "Theo Bài 8 (Mục 2b), nội dung đoạn &lt;p&gt; không được chứa tiêu đề, danh sách, phần tử phân đoạn hoặc các phần tử dạng khối khác."
+        ],
+        [
+         "Thẻ &lt;del&gt; dùng để định dạng kiểu chữ đánh dấu xoá bằng một nét gạch ngang ở giữa chữ.",
+         1,
+         "Theo Bài 8 (Bảng 8.1), thẻ &lt;del&gt; định dạng kiểu chữ đánh dấu xoá bằng nét gạch giữa chữ."
+        ],
+        [
+         "HTML5 vẫn hỗ trợ đầy đủ hai thẻ &lt;big&gt; và &lt;u&gt; nên không cần dùng thuộc tính style để thay thế.",
+         0,
+         "Theo Bài 8 (Mục 3a), HTML5 không hỗ trợ thẻ &lt;big&gt; và &lt;u&gt;, nên thay bằng giá trị font-size và text-decoration trong thuộc tính style."
+        ]
+       ],
+       "n": 17
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về thuộc tính thẻ và định dạng phông chữ trong HTML5:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Khi một thẻ HTML có nhiều hơn một thuộc tính, các thuộc tính được viết trong thẻ bắt đầu và ngăn cách nhau bởi dấu cách.",
+         1,
+         "Theo Bài 8 (Mục 1), trong trường hợp thẻ có nhiều hơn một thuộc tính thì các thuộc tính được đặt trong thẻ bắt đầu và ngăn cách bởi dấu cách."
+        ],
+        [
+         "Trong thuộc tính style, giá trị màu sắc có thể được viết bằng tên màu tiếng Anh (như red, blue, green) hoặc giá trị màu trong hệ RGB (như rgb(255,0,0)).",
+         1,
+         "Theo Bài 8 (Mục 3b), giá trị màu sắc được sử dụng theo tiếng Anh hoặc giá trị màu trong hệ RGB."
+        ],
+        [
+         "Khi thiết lập cỡ chữ bằng thuộc tính con font-size trong style, ta chỉ được phép dùng đơn vị px (pixel) và không thể dùng các từ khoá như small, medium, large.",
+         0,
+         "Theo Bài 8 (Mục 3b), ngoài số kèm đơn vị (px, mm, cm,...), font-size còn có thể dùng các cỡ chữ thông dụng như small, medium, large,..."
+        ],
+        [
+         "Trong đoạn văn bản trình bày bằng HTML, khi dùng thẻ &lt;p&gt; thì trình duyệt hiển thị nội dung đoạn trên dòng mới mà không có khoảng trống nào trước và sau đoạn.",
+         0,
+         "Theo Bài 8 (Mục 2b), khi gặp cặp thẻ &lt;p&gt;...&lt;/p&gt;, trình duyệt hiển thị nội dung đoạn trên dòng mới kèm với khoảng trống nhỏ trước và sau đoạn."
+        ]
+       ],
+       "n": 18
+      },
+      {
+       "t": "mc",
+       "s": "Để tạo danh sách có thứ tự và danh sách không có thứ tự trong HTML, ta sử dụng lần lượt các cặp thẻ nào sau đây?",
+       "k": "lt",
+       "o": [
+        "&lt;ol&gt;&lt;/ol&gt; và &lt;ul&gt;&lt;/ul&gt;.",
+        "&lt;ul&gt;&lt;/ul&gt; và &lt;ol&gt;&lt;/ol&gt;.",
+        "&lt;dl&gt;&lt;/dl&gt; và &lt;ul&gt;&lt;/ul&gt;.",
+        "&lt;ol&gt;&lt;/ol&gt; và &lt;dl&gt;&lt;/dl&gt;."
+       ],
+       "a": 0,
+       "e": "Theo Bài 9 (Mục 1a), cặp thẻ &lt;ol&gt;&lt;/ol&gt; dùng để tạo danh sách có thứ tự, còn cặp thẻ &lt;ul&gt;&lt;/ul&gt; dùng để tạo danh sách không có thứ tự.",
+       "n": 19
+      },
+      {
+       "t": "mc",
+       "s": "Trong danh sách có thứ tự &lt;ol&gt;, thuộc tính type dùng để xác định kiểu đánh số có thể nhận giá trị nào trong các giá trị sau?",
+       "k": "lt",
+       "o": [
+        "\"disc\", \"circle\", \"square\", \"none\".",
+        "\"1\", \"A\", \"a\", \"I\", \"i\".",
+        "\"solid\", \"dotted\", \"double\", \"none\".",
+        "\"number\", \"alpha\", \"roman\", \"decimal\"."
+       ],
+       "a": 1,
+       "e": "Theo Bài 9 (Mục 1a), thuộc tính type của thẻ &lt;ol&gt; xác định kiểu đánh số gồm năm giá trị là: \"1\", \"A\", \"a\", \"I\" và \"i\".",
+       "n": 20
+      },
+      {
+       "t": "mc",
+       "s": "Trong danh sách có thứ tự &lt;ol&gt;, thuộc tính nào sau đây dùng để xác định giá trị bắt đầu đánh số (nhận giá trị là các số nguyên)?",
+       "k": "lt",
+       "o": [
+        "begin",
+        "first",
+        "start",
+        "init"
+       ],
+       "a": 2,
+       "e": "Theo Bài 9 (Mục 1a), thuộc tính start của thẻ &lt;ol&gt; dùng để xác định giá trị bắt đầu đánh số và nhận giá trị là các số nguyên.",
+       "n": 21
+      },
+      {
+       "t": "mc",
+       "s": "Để tạo danh sách mô tả liệt kê các mục kèm với phần giải thích cho từng mục trong HTML, ta sử dụng bộ ba thẻ nào?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "&lt;ul&gt;, &lt;li&gt; và &lt;dd&gt;.",
+        "&lt;ol&gt;, &lt;dt&gt; và &lt;li&gt;.",
+        "&lt;dl&gt;, &lt;dt&gt; và &lt;dd&gt;.",
+        "&lt;dl&gt;, &lt;li&gt; và &lt;dt&gt;."
+       ],
+       "a": 2,
+       "e": "Theo Bài 9 (Mục 1b), để tạo danh sách mô tả, ta dùng ba thẻ &lt;dl&gt; (khung danh sách mô tả), &lt;dt&gt; (tên mục) và &lt;dd&gt; (mô tả của mục tương ứng).",
+       "n": 22
+      },
+      {
+       "t": "mc",
+       "s": "Trong HTML, các thành phần tạo bảng gồm bảng, hàng của bảng, ô dữ liệu và ô tiêu đề được định nghĩa lần lượt bởi các thẻ nào?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "&lt;table&gt;, &lt;td&gt;, &lt;tr&gt;, &lt;th&gt;.",
+        "&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, &lt;th&gt;.",
+        "&lt;table&gt;, &lt;th&gt;, &lt;tr&gt;, &lt;td&gt;.",
+        "&lt;table&gt;, &lt;tr&gt;, &lt;th&gt;, &lt;td&gt;."
+       ],
+       "a": 1,
+       "e": "Theo Bài 9 (Mục 2), các thành phần của bảng được định nghĩa lần lượt bởi các thẻ &lt;table&gt; tạo bảng, &lt;tr&gt; tạo hàng, &lt;td&gt; tạo các ô dữ liệu và &lt;th&gt; tạo ô tiêu đề.",
+       "n": 23
+      },
+      {
+       "t": "mc",
+       "s": "Trong HTML5, khi thiết lập viền khung bảng bằng thuộc tính con border của thuộc tính style theo cú pháp \"độ_dày_theo_px kiểu_viền [màu_viền]\", thuộc tính kiểu_viền có thể nhận một trong bốn giá trị nào?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "solid, dotted, double, none.",
+        "disc, circle, square, none.",
+        "solid, dashed, groove, ridge.",
+        "thin, medium, thick, none."
+       ],
+       "a": 0,
+       "e": "Theo Bài 9 (Mục 2), thuộc tính kiểu_viền trong border của style có thể nhận một trong bốn giá trị là: solid, dotted, double, none.",
+       "n": 24
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về tạo danh sách trong HTML:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Để chọn kí tự đầu dòng cho danh sách không có thứ tự &lt;ul&gt;, ta thiết lập đặc tính list-style-type trong thuộc tính style với một trong bốn giá trị disc, circle, square, none.",
+         1,
+         "Theo Bài 9 (Mục 1a), &lt;ul&gt; dùng đặc tính list-style-type trong thuộc tính style với các giá trị disc, circle, square và none."
+        ],
+        [
+         "Có thể tạo danh sách lồng nhau bằng cách đặt toàn bộ mã của danh sách con vào bên trong cặp thẻ &lt;li&gt;&lt;/li&gt; của mục tương ứng thuộc danh sách cha.",
+         1,
+         "Theo Bài 9 (Mục 1b, Lưu ý), ta có thể tạo các danh sách lồng nhau bằng cách đặt danh sách con bên trong cụm thẻ &lt;li&gt;&lt;/li&gt; của mục tương ứng."
+        ],
+        [
+         "Trong danh sách mô tả &lt;dl&gt;, thẻ &lt;dd&gt; dùng để khai báo tên mục (thuật ngữ), còn thẻ &lt;dt&gt; dùng để viết nội dung mô tả cho mục đó.",
+         0,
+         "Theo Bài 9 (Mục 1b), thẻ &lt;dt&gt; dùng để ghi tên mục (thuật ngữ hoặc nhãn), còn thẻ &lt;dd&gt; dùng để ghi mô tả của mục tương ứng."
+        ],
+        [
+         "Mỗi mục trong danh sách có thứ tự &lt;ol&gt; được khai báo bằng cặp thẻ &lt;item&gt;&lt;/item&gt;.",
+         0,
+         "Theo Bài 9 (Mục 1a), mỗi mục trong danh sách &lt;ol&gt; và &lt;ul&gt; đều được khai báo bằng cặp thẻ &lt;li&gt;&lt;/li&gt;."
+        ]
+       ],
+       "n": 25
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về thiết lập và định dạng bảng trong HTML:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Thẻ &lt;caption&gt; dùng để thêm tiêu đề cho bảng và được đặt ngay sau thẻ &lt;table&gt;, trước thẻ &lt;tr&gt; đầu tiên.",
+         1,
+         "Theo Bài 9 (Mục 2), thẻ &lt;caption&gt; thêm tiêu đề cho bảng và đặt ngay sau thẻ &lt;table&gt; và trước thẻ &lt;tr&gt; đầu tiên."
+        ],
+        [
+         "Khi thiết lập kích thước bảng bằng thuộc tính width và height, nên ưu tiên dùng đơn vị px thay vì đơn vị % để bảng hiển thị đồng nhất trên mọi thiết bị.",
+         0,
+         "Theo Bài 9 (Mục 2), không nên sử dụng kích thước theo px do các thiết bị hiển thị có sự khác nhau về kích thước và số điểm ảnh dễ làm bảng hiển thị không như mong đợi."
+        ],
+        [
+         "Để gộp các ô theo hàng dọc qua nhiều hàng ta dùng thuộc tính rowspan, còn để gộp các ô theo cột ngang qua nhiều cột ta dùng thuộc tính colspan.",
+         1,
+         "Theo Bài 9 (Mục 2), rowspan dùng để gộp ô theo hàng (nhiều hàng), còn colspan dùng để gộp ô theo cột (nhiều cột)."
+        ],
+        [
+         "Khi gộp ô bằng rowspan=\"3\" ở hàng đầu tiên thì ở các hàng tiếp theo ta vẫn phải viết đầy đủ các cặp thẻ &lt;td&gt; hoặc &lt;th&gt; ở vị trí cột đã gộp nhưng để trống nội dung.",
+         0,
+         "Theo Bài 9 (Mục 2), khi đặt rowspan=\"3\" ở hàng đầu tiên thì phải bỏ qua cặp thẻ &lt;th&gt; hoặc &lt;td&gt; tại vị trí tương ứng ở 2 hàng tiếp theo."
+        ]
+       ],
+       "n": 26
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
