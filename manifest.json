@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261124102211719",
+ "version": "20261125051631030",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -137,6 +137,10 @@
   {
    "path": "data/hoa-bai-9-amino-acid-va-peptide.json",
    "v": "20261124102211719"
+  },
+  {
+   "path": "data/tin-on-thuong-xuyen.json",
+   "v": "20261125051631030"
   }
  ],
  "figures": {
