@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "20261125052535565",
+ "version": "20261125100351554",
  "collections": [
   {
    "path": "data/sinh12-tkn-2627.json",
@@ -141,6 +141,10 @@
   {
    "path": "data/tin-on-thuong-xuyen.json",
    "v": "20261125052535565"
+  },
+  {
+   "path": "data/hoa-bai-12-dai-cuong-ve-polymer.json",
+   "v": "20261125100351554"
   }
  ],
  "figures": {
