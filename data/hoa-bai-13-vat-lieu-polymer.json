@@ -1,0 +1,770 @@
+{
+ "id": "hoa-bai-13-vat-lieu-polymer",
+ "subject": "Hóa học",
+ "name": "Bài 13: Vật liệu polymer",
+ "chapters": [
+  {
+   "name": "Chương 3: Hợp chất chứa Nitrogen",
+   "lessons": [
+    {
+     "id": "bai-13-vat-lieu-polymer",
+     "name": "Bài 13: Vật liệu polymer",
+     "qs": [
+      {
+       "t": "mc",
+       "s": "Thành phần của chất dẻo chứa",
+       "k": "lt",
+       "o": [
+        "polymer.",
+        "chất hóa dẻo.",
+        "các chất phụ gia khác.",
+        "polymer, chất hóa dẻo và các chất phụ gia khác."
+       ],
+       "a": 3,
+       "e": "Vật liệu chất dẻo gồm thành phần cơ bản là polymer kết hợp với chất hóa dẻo, chất độn và các chất phụ gia khác.",
+       "n": 1
+      },
+      {
+       "t": "mc",
+       "s": "Chất dẻo nào sau đây có khả năng phân huỷ sinh học tốt?",
+       "k": "lt",
+       "o": [
+        "PVC.",
+        "Cao su.",
+        "Poly(lactic acid).",
+        "PS."
+       ],
+       "a": 2,
+       "e": "Poly(lactic acid) (PLA) là polyester được sản xuất từ nguồn tinh bột thực vật, có khả năng phân hủy sinh học tốt trong tự nhiên.",
+       "n": 2
+      },
+      {
+       "t": "mc",
+       "s": "Polypropylene là chất dẻo được sử dụng phổ biến thứ hai sau polyethylene. Trùng hợp chất nào sau đây thu được polypropylene?",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=CH-Cl.",
+        "CH<sub>2</sub>=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CH-C<sub>6</sub>H<sub>5</sub>.",
+        "CH<sub>2</sub>=CH-CH<sub>3</sub>."
+       ],
+       "a": 3,
+       "e": "Trùng hợp propene (CH<sub>2</sub>=CH-CH<sub>3</sub>) thu được polypropylene (-CH<sub>2</sub>-CH(CH<sub>3</sub>)-)<sub>n</sub>.",
+       "n": 3
+      },
+      {
+       "t": "mc",
+       "s": "Trùng hợp monomer CH<sub>2</sub>=CH-Cl thu được chất dẻo nào sau đây?",
+       "k": "lt",
+       "o": [
+        "PE.",
+        "PP.",
+        "PVC.",
+        "PS."
+       ],
+       "a": 2,
+       "e": "Trùng hợp vinyl chloride (CH<sub>2</sub>=CH-Cl) thu được poly(vinyl chloride) (PVC).",
+       "n": 4
+      },
+      {
+       "t": "mc",
+       "s": "Cho các chất sau: (1) CH<sub>2</sub>=CHCl; (2) CH<sub>2</sub>=CHCH<sub>3</sub>; (3) CH<sub>2</sub>=CH-CH=CH<sub>2</sub>; (4) H<sub>2</sub>N[CH<sub>2</sub>]<sub>5</sub>COOH. Số chất có khả năng tham gia phản ứng trùng hợp là",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+       ],
+       "a": 2,
+       "e": "Có 3 chất có liên kết bội kém bền tham gia phản ứng trùng hợp là (1), (2) và (3); chất (4) tham gia phản ứng trùng ngưng.",
+       "n": 5
+      },
+      {
+       "t": "mc",
+       "s": "Trên hộp xốp cách nhiệt, hộp đựng thức ăn mang về, cốc, chén đĩa dùng một lần, ... thường được in kí hiệu như hình bên. Polystyrene (PS) là chất nhiệt dẻo, ở khoảng trên 80 °C, PS bị biến đổi trở nên mềm, dính. Do vậy, nên tránh hâm nóng thực phẩm chứa trong các loại hộp này. Monomer dùng để điều chế PS là<br>[img: de-hoa-12-bai-13-vat-lieu-polymer-v5-h5]",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CHCH<sub>3</sub>.",
+        "CH<sub>2</sub>=CHC<sub>6</sub>H<sub>5</sub>.",
+        "CH<sub>2</sub>=CHCl."
+       ],
+       "a": 2,
+       "e": "Polystyrene (PS) được điều chế bằng phản ứng trùng hợp styrene (CH<sub>2</sub>=CHC<sub>6</sub>H<sub>5</sub>).",
+       "n": 6
+      },
+      {
+       "t": "mc",
+       "s": "Phân tử polymer nào sau đây chỉ chứa hai loại nguyên tố?",
+       "k": "lt",
+       "o": [
+        "Poly(methyl methacrylate).",
+        "Poly(vinyl chloride).",
+        "Polyacrylonitrile.",
+        "Polypropylene."
+       ],
+       "a": 3,
+       "e": "Polypropylene (-CH<sub>2</sub>-CH(CH<sub>3</sub>)-)<sub>n</sub> chỉ gồm hai nguyên tố C và H.",
+       "n": 7
+      },
+      {
+       "t": "mc",
+       "s": "Polymer nào sau đây <b>không</b> thuộc loại chất dẻo?",
+       "k": "lt",
+       "o": [
+        "Poly(methyl methacrylate).",
+        "Poly(vinyl chloride).",
+        "Polystyrene.",
+        "Polybuta-1,3-diene."
+       ],
+       "a": 3,
+       "e": "Polybuta-1,3-diene là polymer có tính đàn hồi, dùng để sản xuất cao su buna chứ không thuộc loại chất dẻo.",
+       "n": 8
+      },
+      {
+       "t": "mc",
+       "s": "Polymer nào sau đây được dùng để chế tạo chất dẻo?",
+       "k": "lt",
+       "o": [
+        "Polybuta-1,3-diene.",
+        "Poly(phenol-formaldehyde).",
+        "Polyisoprene.",
+        "Poly(urea-formaldehyde)."
+       ],
+       "a": 1,
+       "e": "Poly(phenol-formaldehyde) (PPF) là thành phần chính của nhựa bakelite dùng chế tạo chất dẻo; polybuta-1,3-diene và polyisoprene dùng làm cao su, còn poly(urea-formaldehyde) dùng làm keo dán.",
+       "n": 9
+      },
+      {
+       "t": "mc",
+       "s": "Polymer X là chất rắn trong suốt, có khả năng cho ánh sáng truyền qua tốt nên được dùng để chế tạo thủy tinh hữu cơ. Tên gọi của X là",
+       "k": "lt",
+       "o": [
+        "poly(methyl methacrylate).",
+        "poly(phenol-formaldehyde).",
+        "polyethylene.",
+        "poly(vinyl chloride)."
+       ],
+       "a": 0,
+       "e": "Poly(methyl methacrylate) (PMMA) có độ trong suốt cao nên được dùng làm thủy tinh hữu cơ (plexiglas).",
+       "n": 10
+      },
+      {
+       "t": "mc",
+       "s": "Polypropylene (PP) là chất dẻo thường được sử dụng để sản xuất các sản phẩm thiết bị y tế, đồ gia dụng, ... Vật liệu được chế tạo từ PP thường có kí hiệu như hình bên, PP được tổng hợp từ monomer nào sau đây?<br>[img: de-hoa-12-bai-13-vat-lieu-polymer-v5-h6]",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CH-CN.",
+        "CH<sub>3</sub>CH=CH<sub>2</sub>.",
+        "C<sub>6</sub>H<sub>5</sub>OH và HCHO."
+       ],
+       "a": 2,
+       "e": "Polypropylene (nhựa kí hiệu 05 PP) được điều chế từ phản ứng trùng hợp propene (CH<sub>3</sub>CH=CH<sub>2</sub>).",
+       "n": 11
+      },
+      {
+       "t": "mc",
+       "s": "PVC là chất rắn vô định hình, cách điện tốt, bền với acid, được dùng làm vật liệu cách điện, ống dẫn nước, vải che mưa, ... PVC được tổng hợp trực tiếp từ monomer nào sau đây?",
+       "k": "lt",
+       "o": [
+        "Acrylonitrile.",
+        "Vinyl chloride.",
+        "Vinyl acetate.",
+        "Propylene."
+       ],
+       "a": 1,
+       "e": "Poly(vinyl chloride) (PVC) được trùng hợp trực tiếp từ vinyl chloride (CH<sub>2</sub>=CHCl).",
+       "n": 12
+      },
+      {
+       "t": "mc",
+       "s": "Tơ sợi nào sau đây thuộc loại tơ tự nhiên?",
+       "k": "lt",
+       "o": [
+        "Sợi bông.",
+        "Nitron.",
+        "Nylon-6,6.",
+        "Cellulose acetate."
+       ],
+       "a": 0,
+       "e": "Sợi bông là tơ thiên nhiên lấy từ quả cây bông; nitron và nylon-6,6 là tơ tổng hợp; cellulose acetate là tơ bán tổng hợp.",
+       "n": 13
+      },
+      {
+       "t": "mc",
+       "s": "Trùng hợp chất nào sau đây thu được polyacrylonitrile dùng để sản xuất tơ nitron?",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=CH-Cl.",
+        "CH<sub>2</sub>=CH-CN.",
+        "CH<sub>2</sub>=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CH-CH<sub>3</sub>."
+       ],
+       "a": 1,
+       "e": "Trùng hợp acrylonitrile (CH<sub>2</sub>=CH-CN) thu được polyacrylonitrile dùng kéo sợi tơ nitron (olon).",
+       "n": 14
+      },
+      {
+       "t": "mc",
+       "s": "Nylon-6,6 thuộc loại tơ nào sau đây?",
+       "k": "lt",
+       "o": [
+        "Tơ polyester.",
+        "Tơ bán tổng hợp.",
+        "Tơ thiên nhiên.",
+        "Tơ tổng hợp."
+       ],
+       "a": 3,
+       "e": "Nylon-6,6 được tổng hợp hóa học từ hexamethylenediamine và adipic acid nên thuộc loại tơ tổng hợp.",
+       "n": 15
+      },
+      {
+       "t": "mc",
+       "s": "Sợi visco thuộc loại",
+       "k": "lt",
+       "o": [
+        "polymer trùng ngưng.",
+        "polymer bán tổng hợp.",
+        "polymer thiên nhiên.",
+        "polymer tổng hợp."
+       ],
+       "a": 1,
+       "e": "Tơ visco được chế biến hóa học từ polymer thiên nhiên là cellulose nên thuộc loại polymer bán tổng hợp (nhân tạo).",
+       "n": 16
+      },
+      {
+       "t": "mc",
+       "s": "Thể tích dung dịch HNO<sub>3</sub> 67,5% (khối lượng riêng là 1,5 g/mL) cần dùng để tác dụng với cellulose tạo thành 89,1 kg cellulose trinitrate là (biết lượng HNO<sub>3</sub> bị hao hụt là 20%)",
+       "lv": 2,
+       "k": "tt",
+       "o": [
+        "55 lít.",
+        "81 lít.",
+        "49 lít.",
+        "70 lít."
+       ],
+       "a": 3,
+       "e": "Số mol mắt xích [C<sub>6</sub>H<sub>7</sub>O<sub>2</sub>(ONO<sub>2</sub>)<sub>3</sub>] = 89,1 / 297 = 0,3 kmol → n<sub>HNO_{3</sub> phản ứng} = 0,9 kmol. Do hao hụt 20% nên n<sub>HNO_{3</sub> cần dùng} = 0,9 / 0,8 = 1,125 kmol → m<sub>HNO_{3</sub>} = 70,875 kg → V<sub>dd</sub> = 70,875 / (0,675 × 1,5) = 70 lít.",
+       "n": 17
+      },
+      {
+       "t": "mc",
+       "s": "Cao su lưu hóa thu được khi cho cao su tác dụng với chất nào sau đây?",
+       "k": "lt",
+       "o": [
+        "Lưu huỳnh.",
+        "Na<sub>2</sub>SO<sub>3</sub>.",
+        "Na<sub>2</sub>SO<sub>4</sub>.",
+        "Styrene."
+       ],
+       "a": 0,
+       "e": "Đun nóng cao su thô với lưu huỳnh ở khoảng 150 °C thu được cao su lưu hóa có mạng không gian.",
+       "n": 18
+      },
+      {
+       "t": "mc",
+       "s": "Quá trình lưu hóa cao su thuộc loại phản ứng",
+       "k": "lt",
+       "o": [
+        "cắt mạch polymer.",
+        "tăng mạch polymer.",
+        "giữ nguyên mạch polymer.",
+        "phân hủy polymer."
+       ],
+       "a": 1,
+       "e": "Lưu hóa cao su tạo các cầu nối -S-S- liên kết các mạch polymer với nhau nên thuộc loại phản ứng tăng mạch polymer.",
+       "n": 19
+      },
+      {
+       "t": "mc",
+       "s": "Phát biểu nào sau đây là bản chất của sự lưu hóa cao su?",
+       "k": "lt",
+       "o": [
+        "Làm cao su dễ ăn khuôn.",
+        "Giảm giá thành cao su.",
+        "Tạo cầu nối disulfide giữa các mạch phân tử cao su làm cho chúng tạo mạng không gian.",
+        "Tạo loại cao su nhẹ hơn."
+       ],
+       "a": 2,
+       "e": "Bản chất của quá trình lưu hóa là hình thành các cầu nối disulfide (-S-S-) giữa các mạch đại phân tử tạo cấu trúc mạng không gian bền chắc.",
+       "n": 20
+      },
+      {
+       "t": "mc",
+       "s": "Cao su isoprene được tổng hợp từ monomer nào sau đây?",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=C(CH<sub>3</sub>)CH=CH<sub>2</sub>.",
+        "CH<sub>3</sub>CH=C=CH<sub>2</sub>.",
+        "(CH<sub>3</sub>)<sub>2</sub>C=C=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CHCH=CH<sub>2</sub>."
+       ],
+       "a": 0,
+       "e": "Cao su isoprene được điều chế bằng phản ứng trùng hợp isoprene (2-methylbuta-1,3-diene: CH<sub>2</sub>=C(CH<sub>3</sub>)CH=CH<sub>2</sub>).",
+       "n": 21
+      },
+      {
+       "t": "mc",
+       "s": "Trùng hợp chất nào sau đây thu được cao su buna?",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=CH-CH=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CH-CH<sub>3</sub>.",
+        "CH<sub>2</sub>=C(CH<sub>3</sub>)-CH=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=C(CH<sub>3</sub>)-CCl=CH<sub>2</sub>."
+       ],
+       "a": 0,
+       "e": "Cao su buna là sản phẩm của phản ứng trùng hợp buta-1,3-diene (CH<sub>2</sub>=CH-CH=CH<sub>2</sub>) có xúc tác Na.",
+       "n": 22
+      },
+      {
+       "t": "mc",
+       "s": "Cao su buna-N được tổng hợp bằng cách trùng hợp buta-1,3-diene với chất nào sau đây?",
+       "k": "lt",
+       "o": [
+        "Isoprene.",
+        "Natri.",
+        "Acrylonitrile.",
+        "Styrene."
+       ],
+       "a": 2,
+       "e": "Đồng trùng hợp buta-1,3-diene với acrylonitrile (CH<sub>2</sub>=CH-CN) thu được cao su buna-N có tính chống dầu cao.",
+       "n": 23
+      },
+      {
+       "t": "mc",
+       "s": "Cao su buna-S (hay còn gọi là cao su SBR) là loại cao su tổng hợp được sử dụng rất phổ biến, ước tính 50% lốp xe được làm từ SBR. Thực hiện phản ứng trùng hợp các chất nào dưới đây thu được sản phẩm là cao su buna-S?",
+       "k": "lt",
+       "o": [
+        "CH<sub>2</sub>=CHCH=CH<sub>2</sub> và C<sub>6</sub>H<sub>5</sub>CH=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=CHCH=CH<sub>2</sub> và sulfur.",
+        "CH<sub>2</sub>=CHCH=CH<sub>2</sub> và CH<sub>2</sub>=CHCl.",
+        "CH<sub>2</sub>=CHCH=CH<sub>2</sub> và CH<sub>2</sub>=CHCN."
+       ],
+       "a": 0,
+       "e": "Cao su buna-S được tổng hợp bằng phản ứng đồng trùng hợp buta-1,3-diene (CH<sub>2</sub>=CHCH=CH<sub>2</sub>) và styrene (C<sub>6</sub>H<sub>5</sub>CH=CH<sub>2</sub>).",
+       "n": 24
+      },
+      {
+       "t": "mc",
+       "s": "Cao su buna-S thuộc loại nào sau đây?",
+       "k": "lt",
+       "o": [
+        "Cao su thiên nhiên được lưu hóa.",
+        "Cao su buna đã lưu hóa.",
+        "Cao su tổng hợp, sản phẩm trùng hợp isoprene.",
+        "Cao su tổng hợp, sản phẩm đồng trùng hợp của buta-1,3-diene và styrene."
+       ],
+       "a": 3,
+       "e": "Cao su buna-S là cao su tổng hợp điều chế từ phản ứng đồng trùng hợp buta-1,3-diene và styrene.",
+       "n": 25
+      },
+      {
+       "t": "mc",
+       "s": "Cao su butyl có khả năng chống thấm khí tốt, chống chịu hóa chất nên được sử dụng làm lớp lót trong săm lốp, găng tay cao su, ... Cao su butyl thường được sản xuất bằng cách trùng hợp 98% monomer X với 2% monomer Y. Dưới đây là một đoạn mạch của cao su butyl:<br>[img: de-hoa-12-bai-13-vat-lieu-polymer-v5-h7]<br>X và Y lần lượt là các chất nào sau đây?",
+       "lv": 1,
+       "k": "lt",
+       "o": [
+        "C(CH<sub>3</sub>)<sub>2</sub>=CH-CH=CH<sub>2</sub> và CH<sub>2</sub>=CH(CH<sub>3</sub>).",
+        "CH<sub>2</sub>=C(CH<sub>3</sub>)<sub>2</sub> và CH<sub>2</sub>=C(CH<sub>3</sub>)-CH=CH<sub>2</sub>.",
+        "CH<sub>2</sub>=C(CH<sub>3</sub>)-CH=CH<sub>2</sub> và CH<sub>2</sub>=C(CH<sub>3</sub>)<sub>2</sub>.",
+        "CH<sub>2</sub>=C(CH<sub>3</sub>)<sub>2</sub> và C(CH<sub>3</sub>)<sub>2</sub>=CH-CH=CH<sub>2</sub>."
+       ],
+       "a": 1,
+       "e": "Đoạn mạch gồm các mắt xích -CH<sub>2</sub>-C(CH<sub>3</sub>)<sub>2</sub>- (chiếm 98%, từ isobutylene CH<sub>2</sub>=C(CH<sub>3</sub>)<sub>2</sub>) kết hợp với mắt xích -CH<sub>2</sub>-C(CH<sub>3</sub>)=CH-CH<sub>2</sub>- (chiếm 2%, từ isoprene CH<sub>2</sub>=C(CH<sub>3</sub>)-CH=CH<sub>2</sub>).",
+       "n": 26
+      },
+      {
+       "t": "mc",
+       "s": "Vật liệu nào sau đây được chế tạo từ polymer trùng ngưng?",
+       "k": "lt",
+       "o": [
+        "Cao su isoprene.",
+        "Polyethylene.",
+        "Tơ nitron.",
+        "Nylon-6,6."
+       ],
+       "a": 3,
+       "e": "Nylon-6,6 được điều chế bằng phản ứng trùng ngưng hexamethylenediamine và adipic acid; ba chất còn lại đều điều chế bằng phản ứng trùng hợp.",
+       "n": 27
+      },
+      {
+       "t": "mc",
+       "s": "Keo dán là vật liệu polymer",
+       "k": "lt",
+       "o": [
+        "có khả năng kết dính hai mảnh vật liệu rắn với nhau.",
+        "có khả năng tạo liên kết hydrogen giữa các vật liệu được kết dính.",
+        "có thành phần gồm vật liệu cốt và vật liệu nền là chất kết dính.",
+        "có khả năng kết dính khi thêm chất đóng rắn."
+       ],
+       "a": 0,
+       "e": "Theo định nghĩa, keo dán là vật liệu polymer có khả năng kết dính hai mảnh vật liệu rắn tương tự hoặc khác nhau mà không làm biến đổi bản chất các vật liệu được kết dính.",
+       "n": 28
+      },
+      {
+       "t": "tf",
+       "s": "Với nhu cầu chế tạo vật liệu an toàn với môi trường, năm 2005 sản phẩm “hộp bã mía” - bao bì từ thực vật và an toàn cho sức khoẻ với nhiều tính năng vượt trội so với hộp xốp đã ra đời. Đây là loại bao bì có thành phần hoàn toàn tự nhiên, phần lớn là sợi bã mía từ nhà máy đường, với khả năng chịu nhiệt rộng từ -40 đến 200 °C, bền nhiệt trong lò vi sóng, lò nướng nên an toàn với sức khoẻ con người.",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Thành phần chính của hộp bã mía là cellulose.",
+         1,
+         "Sợi bã mía từ cây mía có thành phần cấu tạo chính là cellulose."
+        ],
+        [
+         "Hộp bã mía phân huỷ sinh học được nên thân thiện với môi trường.",
+         1,
+         "Cellulose là polymer thiên nhiên dễ bị vi sinh vật phân hủy sinh học trong môi trường đất."
+        ],
+        [
+         "Hộp xốp đựng thức ăn nhanh làm từ chất dẻo PS cũng là vật liệu dễ phân huỷ sinh học.",
+         0,
+         "Polystyrene (PS) là nhựa tổng hợp rất bền trong tự nhiên, khó bị phân hủy sinh học và gây ô nhiễm môi trường."
+        ],
+        [
+         "Hộp bã mía có thành phần chính là polymer thiên nhiên, hộp xốp từ chất dẻo là polymer tổng hợp.",
+         1,
+         "Cellulose trong bã mía là polymer thiên nhiên, còn polystyrene (PS) làm hộp xốp được tổng hợp từ styrene."
+        ]
+       ],
+       "n": 29
+      },
+      {
+       "t": "tf",
+       "s": "Poly(butylene adipate terephthalate) (PBAT) là một polymer có khả năng phân huỷ sinh học, có tên thương mại là Ecoflex. PBAT có đặc tính tương tự như polyethylene mật độ thấp (LDPE) nên nó được sử dụng làm túi nylon, bao bì thực phẩm phân huỷ sinh học. PBAT được điều chế từ ba monomer sau đây:<br>[img: de-hoa-12-bai-13-vat-lieu-polymer-v5-h8]",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "PBAT thuộc loại polyester.",
+         1,
+         "PBAT được tạo thành từ các monomer diol và dicarboxylic acid nên các mắt xích liên kết với nhau bằng nhóm chức ester (-COO-)."
+        ],
+        [
+         "Phản ứng tổng hợp PBAT thuộc loại phản ứng trùng hợp.",
+         0,
+         "Phản ứng giữa các nhóm -OH của butane-1,4-diol với nhóm -COOH của terephthalic acid và adipic acid giải phóng H<sub>2</sub>O nên thuộc loại phản ứng trùng ngưng."
+        ],
+        [
+         "Một mắt xích PBAT gồm 3 nhóm ester.",
+         0,
+         "Một mắt xích lặp lại đầy đủ của PBAT được tạo từ 2 phân tử butane-1,4-diol, 1 phân tử terephthalic acid và 1 phân tử adipic acid nên chứa 4 nhóm chức ester (-COO-)."
+        ],
+        [
+         "Túi nylon làm từ PBAT thân thiện môi trường hơn so với LDPE.",
+         1,
+         "PBAT có khả năng phân hủy sinh học hoàn toàn thành CO<sub>2</sub>, H<sub>2</sub>O và sinh khối, trong khi LDPE rất khó phân hủy."
+        ]
+       ],
+       "n": 30
+      },
+      {
+       "t": "tf",
+       "s": "Với sự phát triển của công nghệ hiện đại, vật liệu composite đã nhanh chóng được đưa vào sử dụng ở nhiều lĩnh vực khác nhau, nhất là ngành vật liệu mới. Đặc biệt là các vật liệu composite polymer với các đặc tính ưu việt như nhẹ, bền với môi trường ăn mòn, độ dẫn nhiệt và dẫn điện thấp. Do vậy, loại vật liệu này được sử dụng rộng rãi trong hàng không, xây dựng, ... Ví dụ, 50% vật liệu chế tạo máy bay Boeing 787 là vật liệu composite.",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Sợi carbon được dùng làm vật liệu cốt trong composite do độ bền cao, nhẹ, kháng hóa chất, chịu được nhiệt độ cao và giãn nở nhiệt thấp.",
+         1,
+         "Sợi carbon có khối lượng riêng nhỏ nhưng độ bền kéo và độ cứng rất cao nên thường dùng làm vật liệu cốt gia cường."
+        ],
+        [
+         "Vật liệu nền là chất dẻo giúp các pha gián đoạn liên kết được với nhau để tạo một khối kết dính và thống nhất, giúp bảo vệ vật liệu cốt, ổn định màu sắc, giữ được độ dẻo dai, ...",
+         1,
+         "Vật liệu nền polymer bao bọc và liên kết vật liệu cốt thành khối thống nhất, bảo vệ cốt khỏi tác động môi trường."
+        ],
+        [
+         "Thành phần của các vật liệu composite gồm một vật liệu nền và một vật liệu cốt.",
+         1,
+         "Cấu tạo cơ bản của vật liệu composite luôn gồm pha liên tục (vật liệu nền) và pha gián đoạn (vật liệu cốt)."
+        ],
+        [
+         "Vật liệu composite với cốt là bột gỗ được sử dụng làm ván lát sàn, cánh cửa, tấm ốp trong nội thất.",
+         1,
+         "Vật liệu gỗ nhựa composite (WPC) kết hợp bột gỗ với nền nhựa nhiệt dẻo được ứng dụng phổ biến làm sàn gỗ, cửa và tấm ốp."
+        ]
+       ],
+       "n": 31
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về vật liệu polymer:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Chất dẻo dễ bị biến dạng ở nhiệt độ cao.",
+         1,
+         "Đa số chất dẻo thông dụng là polymer nhiệt dẻo nên bị mềm và dễ biến dạng khi đun nóng."
+        ],
+        [
+         "Tơ polyamide thuộc loại tơ bán tổng hợp.",
+         0,
+         "Các tơ polyamide như nylon-6,6, capron được điều chế bằng con đường tổng hợp hóa học nên thuộc loại tơ tổng hợp."
+        ],
+        [
+         "Cao su là những vật liệu polymer bị biến dạng dưới tác dụng của lực bên ngoài và vẫn giữ nguyên biến dạng đó khi thôi tác dụng.",
+         0,
+         "Tính chất đặc trưng của cao su là tính đàn hồi: bị biến dạng khi chịu lực và phục hồi lại hình dạng ban đầu khi thôi tác dụng lực."
+        ],
+        [
+         "Vật liệu composite thường gồm hai thành phần chính là vật liệu cốt và vật liệu nền.",
+         1,
+         "Đây là cấu tạo cơ bản của vật liệu composite."
+        ]
+       ],
+       "n": 32
+      },
+      {
+       "t": "tf",
+       "s": "Cho các phát biểu sau về tính chất và ứng dụng của vật liệu polymer:",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Các polymer nhiệt dẻo đều có thể tái chế do chúng bị nóng chảy ở nhiệt độ cao.",
+         1,
+         "Polymer nhiệt dẻo khi đun nóng sẽ mềm và nóng chảy, khi để nguội lại đóng rắn nên có thể nấu chảy để tái chế."
+        ],
+        [
+         "Các polymer có mạch không phân nhánh đều có thể dùng làm tơ.",
+         0,
+         "Nhiều polymer mạch không nhánh như PE, PVC chỉ dùng làm chất dẻo vì không đáp ứng các yêu cầu của tơ như độ mềm dẻo, dai và khả năng nhuộm màu."
+        ],
+        [
+         "Cao su lưu hóa có cấu trúc mạng lưới không gian.",
+         1,
+         "Quá trình lưu hóa tạo các cầu nối -S-S- giữa các mạch polymer hình thành cấu trúc mạng không gian."
+        ],
+        [
+         "Vật liệu nền đảm bảo cho composite có được các đặc tính cơ học cần thiết.",
+         0,
+         "Vật liệu cốt mới là thành phần chính đảm bảo cho composite có được các đặc tính cơ học cần thiết như độ bền và độ cứng."
+        ]
+       ],
+       "n": 33
+      },
+      {
+       "t": "tf",
+       "s": "Tơ sợi là một nguyên liệu quan trọng trong ngành dệt may và sản xuất vật liệu. Tơ sợi được sản xuất từ các nguồn nguyên liệu tự nhiên hoặc tổng hợp. Các loại tơ sợi phổ biến bao gồm tơ sợi tự nhiên như tơ tằm, lông cừu, sợi cotton và tơ sợi tổng hợp như nylon, ...",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Tơ nylon-6,6 và tơ capron thuộc loại tơ polyamide.",
+         1,
+         "Cả hai loại tơ này đều chứa nhiều nhóm amide (-CO-NH-) trong mạch polymer."
+        ],
+        [
+         "Tơ nylon, tơ tằm, tơ visco đều bền với nhiệt độ.",
+         0,
+         "Tơ nylon và tơ tằm kém bền với nhiệt độ cao, dễ bị biến dạng hoặc phân hủy khi ủi ở nhiệt độ cao."
+        ],
+        [
+         "Quần áo được dệt bằng sợi len lông cừu, tơ tằm không nên giặt với xà phòng có độ kiềm cao.",
+         1,
+         "Len lông cừu và tơ tằm bản chất là protein chứa liên kết peptide (-CO-NH-) dễ bị thủy phân trong môi trường kiềm làm hỏng sợi vải."
+        ],
+        [
+         "Tơ capron và tơ olon đều có thành phần chứa nhóm -CO-NH-.",
+         0,
+         "Tơ olon (nitron) được điều chế từ acrylonitrile có công thức (-CH<sub>2</sub>-CH(CN)-)<sub>n</sub> nên chứa nhóm -CN chứ không chứa nhóm -CO-NH-."
+        ]
+       ],
+       "n": 34
+      },
+      {
+       "t": "tf",
+       "s": "Tơ visco được sản xuất phổ biến từ đầu thế kỉ XX, là một loại chất liệu được làm từ bột gỗ của cây như tre, đậu nành, mía, ..., qua quá trình xử lí hóa học được sợi visco. Sợi visco thấm hút mồ hôi và thoáng khí, mềm mại nên rất phổ biến trong việc sản xuất quần áo, đặc biệt là trang phục mùa hè vì nó giúp người mặc cảm thấy mát mẻ và thoải mái.",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Tơ visco thuộc loại tơ thiên nhiên.",
+         0,
+         "Tơ visco trải qua quá trình chế biến hóa học từ cellulose nên thuộc loại tơ bán tổng hợp."
+        ],
+        [
+         "Tơ visco thuộc loại tơ bán tổng hợp.",
+         1,
+         "Tơ visco được sản xuất từ nguồn polymer tự nhiên (cellulose) qua xử lí hóa học nên là tơ bán tổng hợp."
+        ],
+        [
+         "Sợi visco có thành phần chính là cellulose đã được xử lí hóa chất.",
+         1,
+         "Quá trình hòa tan cellulose bằng NaOH và CS<sub>2</sub> rồi kéo sợi trong môi trường acid tạo ra sợi visco có bản chất là cellulose tái sinh."
+        ],
+        [
+         "Tơ là vật liệu polymer hình sợi, dài, mảnh, có độ bền nhất định, mạch không nhánh.",
+         1,
+         "Đây là định nghĩa và đặc điểm cấu tạo chung của tơ."
+        ]
+       ],
+       "n": 35
+      },
+      {
+       "t": "tf",
+       "s": "Năm 1839, Charles Goodyear đã được cấp bằng sáng chế cho phát minh về quy trình hóa học để chế tạo ra cao su lưu hóa - một loại cao su có cấu trúc đặc biệt, bền cơ học, chịu được sự ma sát, va chạm, đàn hồi tốt và có thể đúc được.",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Cao su lưu hóa còn có tên gọi là cao su buna-S.",
+         0,
+         "Cao su buna-S là sản phẩm đồng trùng hợp buta-1,3-diene và styrene, khác với cao su lưu hóa."
+        ],
+        [
+         "Bản chất của việc lưu hóa cao su là tạo ra cầu nối disulfide -S-S- giữa các mạch cao su nên cao su lưu hóa có tính chất cơ lí nổi trội hơn.",
+         1,
+         "Các cầu nối -S-S- khâu mạch làm tăng độ bền cơ học, tính đàn hồi và khả năng chịu nhiệt của cao su."
+        ],
+        [
+         "Trong mủ cao su thiên nhiên, polymer có tính đàn hồi là polyisoprene.",
+         1,
+         "Cao su thiên nhiên được lấy từ mủ cây cao su có thành phần chính là polyisoprene ở dạng cấu hình cis."
+        ],
+        [
+         "Cao su lưu hóa có cấu trúc mạng không gian nên bền hơn cao su chưa lưu hóa.",
+         1,
+         "Cấu trúc mạng không gian giúp cao su lưu hóa bền hơn với nhiệt, dung môi và lực cơ học."
+        ]
+       ],
+       "n": 36
+      },
+      {
+       "t": "tf",
+       "s": "Keo dán dùng để kết dính các vật liệu và được sử dụng rộng rãi trong đời sống, sản xuất. Những phát biểu nào sau đây là đúng?",
+       "lv": 1,
+       "k": "lt",
+       "st": [
+        [
+         "Nhựa vá săm là dung dịch keo của cao su trong dung môi hữu cơ dùng để vá săm xe.",
+         1,
+         "Khi bôi nhựa vá săm lên chỗ thủng, dung môi bay hơi để lại lớp cao su kết dính chặt miếng vá với săm."
+        ],
+        [
+         "Keo dán epoxy gồm hai thành phần là hợp chất có chứa hai nhóm epoxy ở hai đầu và chất đóng rắn.",
+         1,
+         "Keo epoxy gồm phần keo chứa oligomer có hai nhóm epoxy ở hai đầu và phần chất đóng rắn thường là các amine như triethylenetetramine."
+        ],
+        [
+         "Bản chất của keo dán epoxy là tạo ra polymer có cấu trúc mạng không gian bền chắc, giúp gắn kết tốt hai vật liệu lại với nhau.",
+         1,
+         "Phản ứng giữa nhóm epoxy và chất đóng rắn tạo mạng lưới không gian ba chiều có độ bám dính và chịu lực rất cao."
+        ],
+        [
+         "Khi sử dụng keo dán poly(urea-formaldehyde) cần bổ sung chất đóng rắn để tạo polymer có mạch phân nhánh.",
+         0,
+         "Khi thêm chất đóng rắn (như oxalic acid, lactic acid), poly(urea-formaldehyde) chuyển thành polymer có cấu trúc mạng không gian chứ không phải mạch phân nhánh."
+        ]
+       ],
+       "n": 37
+      },
+      {
+       "t": "sa",
+       "s": "Cho các polymer sau: poly(vinyl chloride); polyacrylonitrile; polyethylene; poly(methyl methacrylate). Số polymer dùng để sản xuất chất dẻo là bao nhiêu?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0003",
+       "e": "Có 3 polymer dùng để sản xuất chất dẻo là poly(vinyl chloride) (PVC), polyethylene (PE) và poly(methyl methacrylate) (PMMA); polyacrylonitrile dùng để sản xuất tơ nitron.",
+       "n": 38
+      },
+      {
+       "t": "sa",
+       "s": "Cho dãy gồm các hợp chất cao phân tử: (1) polystyrene, (2) poly(vinyl chloride), (3) poly(phenol formaldehyde), (4) polybuta-1,3-diene. Số hợp chất trong dãy được dùng để sản xuất vật liệu polymer có tính dẻo là bao nhiêu?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0003",
+       "e": "Có 3 hợp chất dùng để sản xuất chất dẻo là (1) polystyrene, (2) poly(vinyl chloride) và (3) poly(phenol formaldehyde); (4) polybuta-1,3-diene dùng để sản xuất cao su buna.",
+       "n": 39
+      },
+      {
+       "t": "sa",
+       "s": "Cho các polymer sau: PE, PP, poly(methyl methacrylate) và PPF. Hãy xác định polymer nào được tạo thành từ phản ứng trùng hợp, polymer nào được tạo thành từ phản ứng trùng ngưng?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0003",
+       "e": "Phản ứng trùng hợp: PE, PP, poly(methyl methacrylate)",
+       "n": 40
+      },
+      {
+       "t": "sa",
+       "s": "Trong công nghiệp, người ta điều chế PVC từ ethylene (thu được từ dầu mỏ) theo sơ đồ sau:<br>ethylene →(+Cl<sub>2</sub>, (1)) 1,2-dichloroethane →(500 °C, (2)) vinyl chloride →(t°, p, xt, (3)) PVC<br>Giả sử hiệu suất mỗi quá trình (1), (2) và (3) tương ứng là 50%, 65% và 60%, hãy tính số kg PVC thu được khi dùng 1 000 m<sup>3</sup> khí ethylene (ở 25 °C và 1 bar).",
+       "lv": 2,
+       "k": "tt",
+       "a": "0492",
+       "e": "Số mol C<sub>2</sub>H<sub>4</sub> = 10<sup>6</sup> / 24,79 mol; hiệu suất chung H = 0,50 × 0,65 × 0,60 = 0,195, nên m<sub>PVC</sub> = (10<sup>6</sup> / 24,79) × 0,195 × 62,5 / 1000 = 491,63 kg ≈ 492 kg.",
+       "n": 41
+      },
+      {
+       "t": "sa",
+       "s": "Trong công nghiệp, PVC dùng làm chất dẻo được sản xuất từ ethylene với hiệu suất giả định cho từng bước theo sơ đồ sau:<br>C<sub>2</sub>H<sub>4</sub> →(85%, (1)) C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub> →(68%, (2)) CH<sub>2</sub>=CHCl →(79%, (3)) PVC<br>Cần bao nhiêu tấn ethylene để sản xuất 1 tấn PVC theo sơ đồ và hiệu suất trên.",
+       "lv": 2,
+       "k": "tt",
+       "a": "0,98",
+       "e": "Hiệu suất chung H = 0,85 × 0,68 × 0,79 = 0,45662, suy ra m<sub>C_{2</sub>H<sub>4</sub>} = (1 × 28) / (62,5 × 0,45662) = 0,981 tấn ≈ 0,98 tấn.",
+       "n": 42
+      },
+      {
+       "t": "sa",
+       "s": "Cho các tơ: tơ nitron; tơ nylon-6,6; tơ visco; tơ cellulose triacetate. Có bao nhiêu tơ được sản xuất từ cellulose?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0002",
+       "e": "Có 2 tơ bán tổng hợp được sản xuất từ cellulose là tơ visco và tơ cellulose triacetate.",
+       "n": 43
+      },
+      {
+       "t": "sa",
+       "s": "Cho dãy gồm các tơ: tơ nitron; tơ tằm; tơ nylon-6,6; tơ capron; sợi bông. Có bao nhiêu tơ thuộc loại tơ thiên nhiên?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0002",
+       "e": "Có 2 tơ thiên nhiên có sẵn trong tự nhiên là tơ tằm và sợi bông.",
+       "n": 44
+      },
+      {
+       "t": "sa",
+       "s": "(Đề TN THPT QG - 2020) Có bao nhiêu tơ tổng hợp trong các tơ: capron, cellulose acetate, visco, nylon-6,6?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0002",
+       "e": "Có 2 tơ tổng hợp là capron và nylon-6,6; cellulose acetate và visco là tơ bán tổng hợp.",
+       "n": 45
+      },
+      {
+       "t": "sa",
+       "s": "(Đề TSĐH B - 2011) Cho các tơ sau: tơ cellulose acetate, tơ capron, tơ nitron, tơ visco, tơ nylon-6,6. Có bao nhiêu tơ thuộc loại tơ polyamide?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0002",
+       "e": "Có 2 tơ thuộc loại tơ polyamide (chứa nhiều nhóm -CO-NH- trong phân tử) là tơ capron và tơ nylon-6,6.",
+       "n": 46
+      },
+      {
+       "t": "sa",
+       "s": "Cho dãy gồm các vật liệu: (1) tơ nitron, (2) cao su thiên nhiên, (3) cao su buna, (4) keo dán poly(urea-formaldehyde). Số vật liệu có tính đàn hồi là bao nhiêu?",
+       "lv": 1,
+       "k": "lt",
+       "a": "0002",
+       "e": "Có 2 vật liệu có tính đàn hồi đặc trưng của cao su là (2) cao su thiên nhiên và (3) cao su buna.",
+       "n": 47
+      }
+     ],
+     "imgs": {
+      "de-hoa-12-bai-13-vat-lieu-polymer-v5-h5": "data:image/png;base64,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",
+      "de-hoa-12-bai-13-vat-lieu-polymer-v5-h6": "data:image/png;base64,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",
+      "de-hoa-12-bai-13-vat-lieu-polymer-v5-h7": "data:image/png;base64,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+EGnj+C7JaDKjxh1yz6k66oyT0LKF7EigAACeRGgwM9LJhmHnwJEhQACCCCAAAIIdFiAAr/D4FwOAQQQQAABE2BBAAEEshKgwM9Kln4RQAABBBBAAAEEEEgu0PYZFPhtE9IBAggggAACCCCAAAL+CFDgdykXmzdvlueff15GjRolV111lQwYMEAuu+wyGTFihEybNk1WrVpVNbI333xTVNUt+/btq9omvnP69OmurarGdwe33qpXcAOtCLjVcbt58m3OVVWYJ43/f1XBnttN5lOy1LbqlewqrbduNb68vD4UffxJZk6rVkmuQVu/BCjwO5yPI0eOyCOPPCJ33HGHvP7667J+/XrZv3+/nDlzRo4ePSrbt2+XDz74QO69914ZPXq0bNmypcMR+nW5onoVddytzj686svhU9+n8qjvXmnEVznmkLaLPv4kucIqiVa+2lLgdzCfe/bskZEjR8rChQvF7pM9fvx4mT9/vuzevVtOnjwpBw8elLVr18qTTz4pgwcPlnXr1skTTzzRwQj9ulRRvYo67lZnH1715fCp71N51Hcv3+Or9Ex7u+jjT+KJVRKt/LVto8BPF0O19yMkqr3P7fau2tuPau9zt/uzd+gnTZokO3fulP79+8ucOXNk5cqVMmXKFOnp6ZGBAwfK0KFD3bv277zzjnvnfsyYMe2GHez5RfUq6rhbnah41ZfDp75P5VHfvXyPjdwDdAAAEABJREFUr9Iz7e2ijz+JZzesVNWFqNr77DbaeFDt7Ue197mNrtypqr39qPY+u505fvCiwFftxVbt+9yqu2rfflR7t7vZnxX0GzdudCHMnDnTfc7ebdR4uO6662TZsmUyceLEGi3yvbuoXrkZd4emJ171ofGp71N51Hcv3+Or9Ex7u+jjT+LZaSvV3jpLte9zkpjjbVX79qPaux1vk2Rdtfd81b7PSfoIrW3XC3zVXmyDs4+t2LMtquX9tt3solo+z6f+3nrrLTeEK6+8Up577jm33ujB3tW3L+I2apfH40X1Kuq4W53DeNWXw6e+T+VR3718j6/Ss9Z2q/uLPv4kbp20UvWz7oq8VNONL+rX9+euFfiq6u7uYkBWiNtSua5abmPH6i2q5bbWly3W3p5tsXXVchvbrreoltva+bZYe3u2xdZVy21su9aybds29zl7Oz558mS58MILbbXry//+9z+ZN2+e/OQnP5Hhw4e7O/lcffXV8vOf/1w2bdrUtfh89coaxNdxM0+yznw2/TOfkrn66hWNwvf4ojizevZx/EV/bVQt10BWF9li+bdnW2xdtdzGtustquW2dr4t1t6ebbF11XIb2663qJbb2vm2WHt7tsXWVcttbDtPS1cKfFUtGUbIpR3frcT3q5bb9x7u+6haPh4/L94qvl+13D7eJlpXLR+Pnxcdt+f4ftVyeztWudidcqJ9dmecaL3bz6+99pr84he/kD//+c/uDxD7zN6///1v+eMf/yh33XWXLFmypCshpumlqu4PSdV0nyMY1eb7jc6p9ZzmuGtdo5X9RZgnrbg0e45q83NEtf22UVzMp0iiuec0vew2x6rt5fLUqVN9Ak8zvj4dB7Lh4/iL/NqoqqWZE6+HSju/XYnvVy23//bQef9TLR+PnxdvGN+vWm4fbxOtq5aPx8+LjttzfL9qub0dy8PS8QJftYwYx62GGT+uWj4v3la1vD/ePt4mWo8fVy2fFx23Z9Xy/nh7O1a5xI+rls+rbHfgwIHSrmHDhpXW21255pprGhav9oXdWte5+OKLSwX+v/71Lzlx4oR75/6BBx6Qs2fPyq9//etap2a6PyuvTINOofOsxl24eZJCLvLQBfMpWRaz8koWRe3WWcXX7utD7YjTPeLj+Iv671DVcr0Tr4OqZTx+XLV8Xrytanl/vH28TbQeP65aPi86bs+q5f3x9nascokfVy2fV9kuxO2OFviqZbw4aj24eDvV8vl2jmp5O97OjtVa4u1Uy+dbe9XydrydHau1xNupls+Ptz927Fhp86KLLiqtd3vl2Weflblz58qPf/xjsS/1Dho0SG6//Xb505/+JD/4wQ/Eiv5Dhw51PMw0vSw/WSwRSpK+o3NqPac57lrXaGV/EeZJKy7NnpNkjqTRNoqL+RRJNPecppfdArndXNp3sOKRpxlfvN9Q1tMaf5rjLeJro2q5zrE53oxnvJ1q+Xw7V7W8HW9nx2ot8Xaq5fOtvWp5O97OjtVa4u1Uy+fXah/K/o4U+Krq3mk2FIO0xdabXay9LdZetbcvVbVNdz/56Jjb0cSDtbfFmqqqi01VbTO1/lxn3z3YX/nfrcrx48ej1baf9+7dW4rXxlNteeqppxJf5/vf/767def3vvc9dz/+xB20eUJWXm2GlfnpWY2beZJ56ry8APMpWVqy8koWRe3WWcWX1etD7ZG0diSk8efx36Gq6moly15Ua9h6s0v8HNXevlTVnR4/5nY08RA/R1VdbKrqzowfczuaeIifo6quvyZO87pJ5gW+qpYADLC00cJK5fmV20m7rDy/crt6f7X3xs9XLY/b7pwTnbVv375o1dvnf/zjH+4+/Pbl2/i7SPfff7+b9Kqa+rP1HYGE5hXF3e5zaONmnrSb8WzPZz41fp0K6XXH13yaoWpja9Xkbazv6P8lvo4/ii/+nLfXRlUtDS9e55R2JlipPL9yO0FXrmnl+ZXbrlGCh/j5quVxJ+jCm6aZF/gRVvTc7sijfqLnEPobNWpUKUz7ddrShocrdleARx99VC699FL57W9/25UIQ/JKEyikcTNPamTeo93Mp2TJSNMriy/ZphlfMhk/Wocy/jy+Nkb1VvTc7oyI+ome895fu+Nr9fzMC3wLLK0kWl+2hNbfiBEj5Nprr7XQZcGCBe4LrG7Dswd7YfrpT38qO3bscJ/DHz58eJ8Ily9f3vAjQZabVhbrO7pYKF5RvGk9hzJu5klaGc+2H+bTNw1fr0J63fE1n2bYymt+M+dY39H/S3wdfxSfPTd6bbTxNDPuVtpY3xaDLVlYWUzWd1pL0fpLyy1JPx0p8JMElNe2Tz/9tBva/v375Y033nDrjR7sNml2G65G7dI4fuTIEbG759h/YVi8eLGMHTs2jW5b7sN3r5YH1uBE38fNPGmQQM8OM5+SJSQtryy+ZGsjSSs+6yvExefx89oY4ozKd8wU+B3K77Rp0+TOO+90V3vppZfko48+cuu1Hnbv3i0TJkyQpUuXxppks2r3vh83bpz73P1f/vIXsfVsrtR8rz57NT+K5C19HjfzJHk+u30G8ylZBnz2spH4Hp/FmOXi6/h5bcwy6/TdqgAFfqtyCc8bMGCALFq0SG644QY5d+6cTJ06Ve677z73kR27i8Hp06fF3gGwH/OwdyluueUWWbNmTcKrJG++a9cuufvuu90PXdkfE/fcc0/yTjI4w1evDIbap0tfx8086ZMmPzeqRMV8qoJSZ5evXlHIvscXxZnVs4/j57Uxq2zTb7sCFPjtCiY4v6enRzZs2CCTJk1yd6FZsWKFTJkyxd2S0u5WM2TIELEvEr399tvudpr2q7fvvfdegiska7p161YZM2aM+8Ni2bJl8qMf/ShZBxm39s0r4+GWuvdt3MyTUmqCXGE+JUubb16V0fseX2W8aW/7NP6QXhtVVbpdc6Q9F+ivvgAFfn2f1I9aEb9w4ULZtGmTzJgxQ0aOHCl2+68LLrhALrnkErEvx9h/hly9erWsXbtWbr311tRjiDqcPXu22HcC/vOf/8hdd93l/uhQ1T7Pf//736PmXXn2yauTAD6Nm3nSycxncy3mUzJXn7yqRe57fNViTnOfL+PntTHNrNJX2gL90u6Q/poTuO2222TWrFliH8mxIvvMmTNy9OhRsXcE5syZU/NLrs8880zpzhDDhg1reDF7AbJvq9vSsHHdBt092KpXd6Nu/+qtjpt5st798drs/6/az1QYPTCfkuWpVa9kV2m9davx5eX1oejjTzJzWrVKcg3a+iVAge9XPjoaze9///vSHwv2B0C15fbbb+9oTKFczKxCibXdOJknrQsWZp4kIGI+JcCiqdcCzGWv01P44CjwCz8FAGhHQFXbOZ1zcyqgyrzIaWoZFgIIJBSgeXcEKPC7485VEUAAAQQQQAABBBDIRIACPxNWOk1XgN4QQAABBBBAAAEEmhWgwG9WinYIIIAAAv4JEBECCCCAwHkCFPjnkbADAQQQQAABBBBAIHSBIsdPgV/k7DN2BBBAAAEEEEAAgdwJUODnLqUMKF0BekMAAQQQQAABBMISoMAPK19E+62Aqrpf2/12lf8hUFNAlXlSE4cDVQVUE86Zqr2wEwG/BVSZ535nKJ3oKPDTcaSXAgrwI0YFTHqCITM/EmDRFAEEEMiZQLeHQ4Hf7Qxw/eAFVDX4MTCA9ARUmQ/padITAggggEArAhT4rahxDgIdEeAiCCCAAAIIIIBAcgEK/ORmnIEAAggggEB3Bbg6AgggUEeAAr8ODocQQAABBBBAAAEEEAhJwGKlwDcFFgQQQAABBBBAAAEEciJAgZ+TRDKM7gjk904p3fHMy1WZF3nJJONAAAEEwhSgwA8zb0TtmYAqd07xLCVdCUeVedAVeC7aWQGuhgAC3gtQ4HufIgJEAAEEEEAAAQQQQKB5gW4V+M1HSEsEEEAgBwJLliwRVZXZs2fLunXrZPz48TJ48GAZOnSo/PKXv5TDhw/nYJQMAQEEEEDAB4F+PgRBDAiELMDnrdPOXtj9NZoPGzdudMX96tWr5cSJE66w/8Mf/iA/+9nPwh440SOAAAIIeCNAge9NKggkdAFVPn8deg7biV+1ufzPnz9ffvWrX8k///lPV+D/7W9/k56eHvnrX/8qmzdvbicEzkUg/wKMEAEEmhKgwG+KiUYIIIBAOgITJkyQ3/3ud/LDH/5QBg0aJHfffbfMmDFD7B8KfFNgQQABBBBoV6CIBX67ZpyPwHkC0ccyVJt7F/e8DtgRtIBqb96jeVBvMPbZ+8rj119/vdv13//+1z3zgAACCCCAQDsCFPjt6HEuAgjkTCD74di79pVXUW3+D4TKc9lGAAEEEECgUoACv1KEbQRaFIjevVXtLdZa7IbTAhNQ7c13lP/AwidcBBBoVoB2CAQkQIEfULIIFQEEEEAAAQQQQACBRgIU+I2E0j1ObzkXiN7FVVV3z/OcD7fQw1Mt5zjKe6FBGDwCCCCAgDcCFPjepIJA8iJAsZeXTDY3jvTy3dz1aIUAAggggEAjAQr8RkIcR6AFASv6bGnhVE4JRMDya0uz4T744INi7adPn37eKdGx3/zmN+cdYwcCCCAgECCQUIACPyEYzRFAAAEEEEAAAQQQ8FmAAt/n7KQbG70hgAACCCCAAAIIFECAAr8ASWaICCCAQH0BjiKAAAII5EmAAj9P2WQsCCCAAAIIIIBAmgL0FaQABX6QaSNoBBBAAAEEEEAAAQSqC1DgV3dhb7oC9IYAAggggAACCCDQIQEK/A5Bc5n0BOxWg7ak1yM95VHA5ogteRxbvsbkz2hsvtjiT0REgkD6AjbHbUm/Z3r0SYAC36dsEAsCCCCAAAIIIIBArwCPLQtQ4LdMx4kIIIAAAggggAACCPgnQIHvX06IKF0BekMAAQQQQAABBAolQIFfqHQzWAQQQACBsgBrCCCAQD4FKPDzmVdGhQACCCCAAAIIINCqQODnUeAHnkDCRwABBBBAAAEEEEAgLkCBH9dgHYF0BegNAQQQQAABBBDouAAFfsfJuSACCCCAAAIIIIAAAtkJUOBnZ0vPNQQ2b94szz//vIwaNUquuuoqGTBggFx22WUyYsQImTZtmqxatarqmW+++aaoqlv27dtXtU185/Tp011bVY3vZj0QAeZJIInyKEzmjEfJIJTMBJjnmdH603EKkVDgp4BIF80JHDlyRB555BG544475PXXX5f169fL/v375cyZM3L06FHZvn27fPDBB3LvvffK6NGjZcuWLc11TKtcCTBPcpXOjgyGOdMRZi7SZQHmeZcTENjlKfADS1io4e7Zs0dGjhwpCxcuFPuJ7PHjx8v8+fNl9+7dcvLkSTl48KCsXbtWnnzySRk8eLCsW7dOnnjiiVCH60PcQcbAPAkybV0NmjnTVX4u3iEB5nmHoHN0GQr8HCXT16HYO/STJk2SnTt3Sv/+/WXOnDmycuVKmTJlivT09DQGJXEAAAkFSURBVMjAgQNl6NCh7l37d955x71zP2bMGF+HQ1wZCTBPMoLNcbfMmVaTy3khCTDPQ8qWP7FS4PuTi9xGYgX9xo0b3fhmzpzpPmfvNmo8XHfddbJs2TKZOHFijRbszqMA8ySPWc12TMyZbH3p3Q8B5rkfeQgtipYL/NAGSrzdE3jrrbfcxa+88kp57rnn3HqjB3tX376I26gdx/MjwDzJTy47NRLmTKekuU43BZjn3dQP99oU+OHmLojIt23b5j5nb8FOnjxZLrzwQlv1YlmzZo1MnTpVbr75Zhk0aJAMGTJEHnjgAfnkk0+Ef9oSSHwy8yQxWeFPYM4UfgoUAoB5Xog0ZzJICvxMWOk0ErA75UTrdmecaL3bz/Z9gLFjx8pHH30kO3bskFOnTondoWD58uXy8MMPS/SOSbfjLMr1mSdFyXR642TOpGfZ2Z64WhIB5nkSLdrGBSjw4xqspy5w4MCBUp/Dhg0rrbe7cs0115Tuca+qVdftC7u1rtOvXz/3Gf958+bJF1984e7k8+WXX8qMGTPcKS+88IIcO3bMrfOQvQDzJHvjvF2BOZO3jDKeagLM82oq7GtGIMgCv5mB0cYPgXiRfNFFF/kR1LdRXH/99bJkyRJ59NFH5cYbb3R38hk+fLjMmjVLxo0bJ6dPn5bPP//825b8rxMCzJNOKOfrGsyZfOWT0VQXYJ5Xd2FvYwEK/MZGtGhD4OKLLy6dffz48dJ6uyt79+5199O3e+rXWp566qmWLnPBBRe486644gr3zEP2AinOkz7BMk/6cORqgzmTq3QymBoCzPMaMOxuKECB35CIBu0I2J1zovP37dsXrXr3/PXXX8tXX30lL7/8stjn8B988EGx23V6F2hOA2Ke5DSxGQ6LOZMhbm67Dm9gzPPwcuZLxBT4vmQip3GMGjWqNLJ169aV1n1ZsS/Yqqr7AS77jsArr7wijz/+uCxcuFD4p3MCzJPOWeflSsyZvGSScdQTYJ7X0+FYPQEK/Ho6VY6xK5nAiBEj5Nprr3UnLViwQM6ePevWfX2wu+l8+umn8tlnn/kaYi7jYp7kMq2ZDoo5kykvnXsiwDz3JBEBhkGBH2DSQgv56aefdiHv379f3njjDbfe6MEK7ddee61Rs7aP33TTTe6z/OfOnXMf0fnwww9l165dcv/994vdVaftC9BB0wI5mCdNj5WG6QgwZ9JxpBe/BZjnfufH1+go8H3NTI7imjZtmtx5551uRC+99JK797zbqPGwe/dumTBhgixdurRGi/R39+/fX66++mr3w1f2MZ2TJ0/yMZ30mev2yDypy8PBKgLMmSoo7PJUoPWwmOet2xX5TAr8Ime/Q2MfMGCALFq0SG644Qaxd8qnTp0q9913n9hHduwuJ3ZLSvuRKftBD3un4pZbbpE1a9Z0KLrzL2Px2N747clsmyVbAeZJtr557J05k8esMqZKAeZ5pQjbzQhQ4Dej5EmbkMPo6emRDRs2yKRJk9yPUq1YsUKmTJkitn/gwIEyZMgQsS8Tvf3222K30xw9erS89957mQ351VdflWeffVY2btwohw4dEvtIkH0k591335WZM2e6695zzz3umYfOCdh8YJ50zjsPV2LO5CGLjKGRAPO8kRDHKwUo8CtF2M5MwIp4uzvNpk2b3C/Gjhw5UuwWYHbf+UsuuUTsy0T2nyJXr14ta9eulVtvvTWzWA4fPuy+D2AxXH755TJo0CCxH7+ye+efOHFCHnvsMfdLt5kFQMc1BZgnNWnqHSj0MeZModNfmMEzzwuT6lQGSoGfCiOdJBG47bbb3C/G2kdy7Iu3Z86ckaNHj8rWrVtlzpw5Mnbs2KrdPfPMM+4LsfbDVnZLy6qNYjtnz55dah/b7VZffPFFef/998V+tdZ+0Mr+yLA/Nh566CH5+OOPZe7cua4dD90TYJ50zz7UKzNnQs0ccScRSD7Pe3vn36G9DkV5pMAvSqYZZx+BSy+91N3vftWqVXLgwAGxPzLsj43FixfL5MmT3ceI+pzARiEFmCeFTHtbg2bOtMXHyYEIMM/9TxQFvv858iJCgkAAAQQQQAABBBAIQ4ACP4w8ESUCCCDgqwBxIYAAAgh4JkCB71lCCAcBBBBAAAEEEMiHAKPolgAFfrfkuS4CCCCAAAIIIIAAAhkIUOBngEqX6QrQGwIIIIAAAggggEDzAhT4zVvREgEEEEDALwGiQQABBBCoIkCBXwWFXQgggAACCCCAAAIhCxQ7dgr8Yuef0SOAAAIIIIAAAgjkTIACP2cJZTjpCtAbAggggAACCCAQmgAFfmgZI14EEEAAAR8EiAEBBBDwVoAC39vUEBgCCCCAAAIIIIBAeALdj5gCv/s5IAIEEEAAAQQQQAABBFIToMBPjZKOEEhXgN4QQAABBBBAAIFWBCjwW1HjHAQQQAABBLonwJURQACBugIU+HV5OIgAAggggAACCCCAQCgCvXFS4Pc68IgAAggggAACCCCAQC4EKPBzkUYGgUC6AvSGAAIIIIAAAuEKUOCHmzsiRwABBBBAoNMCXA8BBAIQoMAPIEmEiAACCCCAAAIIIIBAswLdKfCbjY52CCCAAAIIIIAAAgggkEiAAj8RF40RQCBrAfpHAAEEEEAAgfYEKPDb8+NsBBBAAAEEEOiMAFdBAIEmBSjwm4SiGQIIIIAAAggggAACIQgUr8APISvEiAACCCCAAAIIIIBAiwIU+C3CcRoCCORPgBEhgAACCCCQBwEK/DxkkTEggAACCCCAQJYC9I1AUAIU+EGli2ARQAABBBBAAAEEEKgvQIFf3yfdo/SGAAIIIIAAAggggEDGAhT4GQPTPQIIINCMAG0QQAABBBBIS4ACPy1J+kEAAQQQQAABBNIXoEcEEgtQ4Ccm4wQEEEAAAQQQQAABBPwVoMD3NzfpRkZvCCCAAAIIIIAAAoUQoMAvRJoZJAIIIFBbgCMIIIAAAvkSoMDPVz4ZDQIIIIAAAgggkJYA/QQqQIEfaOIIGwEEEEAAAQQQQACBagIU+NVU2JeuAL0hgAACCCCAAAIIdEyAAr9j1FwIAQQQQKBSgG0EEEAAgfQF/g8AAP//oL88ZwAAAAZJREFUAwDPKXQiMeMVRwAAAABJRU5ErkJggg==",
+      "de-hoa-12-bai-13-vat-lieu-polymer-v5-h8": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAACwCAYAAABXTaAdAAAQAElEQVR4AeydC/xVU9rHn13KUC65VpIoUS5TjJFRiRq3QgkJQ71kXEZSk8rrUlQuRe6vjFLTaJJqGtdBlEqDRI3rkJEwruVWSsjbd7FzOp19Lv+zzzl7n/Pr0/6fc/Zee12+e+21nmc9z1qr2g/6JwIiIAIiIAIiIAIiIAIiIAIiUJEEqpn+VRABFVUEREAEREAEREAEREAEREAEfiYghfBnFvomAuVFQKURAREQAREQAREQAREQgQwEpBBmAKTLIiACIhAHAsqjCIiACIiACIiACFSFgBTCqlDTPSIgAiIgAiJQOgJKWQREQAREQARCIyCFMDSUikgEREAEREAEREAEwiag+ERABESgsASkEBaWr2IXAREQAREQAREQAREQgewIKJQIlICAFMISQFeSIiACIiACIiACIiACIiAClU0gKqWXQhiVJ6F8iIAIiIAIiIAIiIAIiIAIiECRCUghLApwJSICIiACIiACIiACIiACIiAC0SMghTB6z0Q5ijsB5V8EREAEREAEREAEREAEYkJACmFMHpSyKQIiEE0CypUIiIAIiIAIiIAIxJmAFMI4Pz3lXQREQAREoJgElJYIiIAIiIAIlB0BKYRl90hVIBEQAREQAREQgfwJKAYREAERqAwCUggr4zmrlCIgAiIgAiIgAiIgAkEEdF4EKpiAFMIKfvgqugiIgAiIgAiIgAiIgAhUGgGVd0MCUgg35KFfIiACIiACIiACIiACIiACIlAxBMpcIayY56iCioAIiIAIiIAIiIAIiIAIiEDOBKQQ5oxMN0SWgDImAiIgAiIgAiIgAiIgAiKQEwEphDnhUmAREIGoEFA+REAEREAEREAEREAE8icghTB/hopBBERABESgsAQUuwiIgAiIgAiIQIEISCEsEFhFKwIiIAIiIAIiUBUCukcEREAERKCYBKQQFpO20hIBERABERABERABEfiZgL6JgAiUnIAUwpI/AmVABERABERABERABERABMqfgEoYTQJSCKP5XJQrERABERABERABERABERABESg4gQIphAXPtxIQAREQAREQAREQAREQAREQARHIk4AUwjwB6nYzEwQREAEREAEREAEREAEREIFYEpBCGMvHpkyLQOkIKGUREAEREAEREAEREIHyISCFsHyepUoiAiIgAmETUHwiIAIiIAIiIAJlTkAKYZk/YBVPBERABERABLIjoFAiIAIiIAKVSKCsFMK1a9fa+++/b+PGjbO+ffvaaaedZt26dbNzzjnHRowYYfPmzbNvvvmmEp+zyiwCIiACIiACIiACPxPQNxEQARH4iUDZKISrVq2yKVOmWM+ePe3KK6+0MWPG2OTJk23q1Kk2YcIEu+GGG6xPnz521VVX2eLFi38qvj5EQAREQAREQAREQAREoLwJqHQikI5AWSiEq1evtnvuuccuueQSmzNnjm2xxRbWv39/mzRpkk2fPt0pg23atLE333zTRo8ebddee629/vrr6bjomgiIgAiIgAiIgAiIgAiIgAjEjUDO+Y29Qvj999/b/PnzbdiwYc5d9PDDD7exY8faueeea8ccc4wdddRRduqpp7rrl112mdWsWdOmTZtmd999t33++ec5A9MNIiACIiACIiACIiACIiACIlAuBGKvEH799dd2880327vvvmtNmzZ1it9+++1n2267rdWoUcOqV69utWvXtiZNmtgpp5xiZ511lq1YscIee+wxe+qpp+L9HJV7ERABERABERABERABERABEciDQKwVQhaRefvtt+2RRx6xWrVqWffu3a1Zs2bmed5GSDzPsx122ME6dOhg+++/v/373/92CuGaNWs2CqsTIhBFAsqTCIiACIiACIiACIiACIRNINYKIe6izzzzjK1cudIphLiIYhEMglStWjXbbbfd7MADDzQWoUGZfO+994KC67wIiIAIlIqA0hUBERABERABERCBohCItUKIhfDVV191FsGtttrKuYxmooYraePGjV2w5cuX2wcffOC+648IiIAIiIAIlIaAUhUBERABERCB0hGIvUL46aefGpa/OnXquDmDmVBuuummtuWWW7p7mH/41Vdfmf6JgAiIgAiIgAiIQFEIKBEREAERiBiBWCuEsMRtlE+UQj4zHZ7nOWXQ1v374YcfDCvjuq/6LwIiIAIiIAIiIAIiIAKhElBkIhAHArFWCD3Ps6233topdV988UVWvL/99ls35xBFEGvh5ptvntV9CiQCIiACIiACIiACIiACIiACAQRiezrWCiFWwd13392w9LGnYDYLxBCOLSp4YriZ7rjjjnzVIQIiIAIiIAIiIAIiIAIiIAIVRyDWCuEmm2xiv/nNb9xDY6VR9hZ0P9L8QRlkI3uUyfr161ujRo3ShA64pNMiIAIiIAIiIAIiIAIiIAIiUAYEYq0QotSx72CrVq3syy+/tDFjxtiKFSsCHwuLyKAMzp49220/gTK52WabBYbXBRGAgA4REAEREAEREAEREAERKFcCsVYIeSjMARw0aJDbemLRokXWr18/W716tXMj5ToHLqVr1qyxJ5980kaMGGHfffedoUQeffTRXNYhAiIgAj4BfYqACIiACIiACIhARRGIvUJYo0YNO+ywwwylEKVv/PjxdsQRR9i0adOMOYVsS/Hcc8/ZwIEDrWfPnrZkyRJr27atXXDBBbbNNtsYi8xU1BNXYUVABERABH4ioA8REAEREAEREIHYK4Q8wtq1a9vFF19sV199tW211Vb27LPPWrdu3axhw4a2ww47uHmGt956q7MMHnfccTZy5Ehr0aKF3Xzzzda7d29nUSQeHSIgAiIgAiIgAmVKQMUSAREQARFISaAsFEJKhlLYp08fmzt3rg0YMMDatGnj5gk2aNDAKX+nnXaajRs3ziZMmGAtW7a0++67z6644gq74447rH///sb8QuLRIQIiIAIiIAIiIAIiEG8Cyr0IiED2BMpGIaTI1atXN7ahGDJkiM2cOdMWL15sS5cutQULFtjYsWMN6yBzDgl76qmn2m233eYsilgPcTn96quvuKRDBERABERABERABERABEQgHgSUyzwJlJVCmCuL008/3UaNGmXsR4j76OWXX25ffPFFrtEovAiIgAiIgAiIgAiIgAiIgAjEkkC8FMICIGahmeuuu8622247u/HGG+3KK6+0zz77rAApKUoREAEREAEREAEREAEREAERiBaBilcIeRxnnXWWDR8+3C1Ac8MNN9iwYcNs2bJlXNJRQgJKWgREQAREQAREQAREQAREoLAEpBD+xLdXr1527rnnul/XX3+9XXvttcaWFe6E/mxA4JtvvrHXXnttg3P6IQJ5EtDtIiACIiACIiACIiACJSAghTABOiuS1q9f350ZMWKE257ik08+cb/1x4x9HtnS44EHHrBOnTq57T1eeeUVoREBERCBHAkouAiIgAiIgAiIQFQISCFMeBK4jrIVBYohp7ESYi38+OOP+Vmxx/fff29z5syxhx56yA455BC3f+NOO+1k5513np144onu2r/+9a+K5aOCi4AIiIAIpCGgSyIgAiIgApEmIIUw6fGcffbZdumll9rOO+/srqAU/uMf/3DfK/HP2rVr7eGHH7b27du7bTq6du1qs2fPdsfkyZMNi+pFF11kZ5xxhi1cuLASEanMIiACIiACIiACPxHQhwiIQPwISCFM8cx+//vf2yWXXGINGzZ0V1966SX74IMP3PdK+vPII48Y7qHHH3+8ccyYMcPuueee9QgaN25snBs/frzVrFnTsLByzwsvvLA+jL6IgAiIgAiIgAiIgAiUJQEVqkwISCEMeJDnnHOODRo0yHbZZRc3l5DVR//73/8GhC6v0w8++KD9/e9/t44dO9rdd9/t3EInTZoUWMi99trL7rrrLsPVdsiQIfaHP/zB3S/FMBCZLoiACIiACIiACIiACIhAJAhkpxBGIqvFzwRK4YABA9YrhaNGjSprSyHWwClTphhuoRMmTHCK4PTp023ixIkZ4e+zzz5G2FtvvdWYX3j11Vdb3759jfikGGbEpwAiIAIiIAIiIAIiIAIiUBICUggzYGcrikSlEEthObqP/u1vf7NTTz3VmBd4wgknuM977703A52NL//qV7+y++67z1CeUQxHjhxp8EOpfPHFFze+QWdEQAREQAREQAREQAREQARKRkAKYRboUymFH374YRZ3Rj/ItGnTbNy4cfY///M/bisJ5gMyT7BatfyqxkEHHeTmG1533XXOlfSmm26y//3f/3VpafGZSNULZUYEREAEREAEREAERKCCCeQn9VcQOJTCgQMHrncfxfIVZ6Vw6tSpdueddxrlevzxx+2kk05yvzfbbLNQn2rbtm3dPMThw4e7lVtvv/12u/zyy03WwlAxKzIRyJKAgomACIiACIiACIjAhgSkEG7II+0v5hSy0Ayrj7I/Idavjz76KO09UbuIIsg8vz59+thTTz3lFMFbbrnFRo8ebbVr1y5Ydtm2gjSuuuoqgxn7PZKPRYsWFSxNRSwCIiACFU1AhRcBERABERCBLAhIIcwCUmIQtqRo1qyZO8U8OfYp/OSTT9zvKP/BNZT8XnzxxTZv3jy3YAxKLcrgNttsU7SsH3HEEXbllVdakyZNDPfUIUOGuPmGL7/8ctHyoIREQAREQAREoNwIqDwiIAIiUFUCUgirQO7EE09cv0chStawYcPs008/rUJMxbkFqyCWzeeee84pgiixLI5Tt27d4mQgKRWUQtJHGWzatKmxoungwYONfL322mtJofVTBERABERABERABEQggYC+ikCoBKQQVgHnmWeeabg87rzzzu5uFkzB6rV8+XL3Oyp/sAriosliLqz+ieJ6zTXXuLl8Ucjj0UcfbeQHxbB58+ZuewsUQ/L8xhtvRCGLBc/DypUrbc6cOW6eJUoy23VQn/76178a23WsWbOm4HlQAiIgAiIgAiIgAiIgAlElUPh8SSGsImNW5UQJbNCggYsB18tly5a576X+M336dLdwC4u3YHFjOwnyuttuu5U6aynTP+aYY5wbKXnce++9bdKkSevz//bbb6e8pxxOsrAOi+1cdtll5h88Mw5+M+hw2223WTkzKIfnqDKIgAiIgAiIgAiIQJwJSCHM4+n16NHDsLrVr1/fxcLKo5999pn7XpU/+d5z//3328CBA531Egvb7373O/cd5aJx48b5Rl/w+4877jinGMG0ZcuWxj6IWDeXLFlS8LSLnQDzOFH4mMeJ0s5qrH379rXBgwcb81T32GMPmz17tmFBJQzPs9h5VHoiIAIiIAIiIAIiIALlT0AKYZ7P+PTTT3dz35iPxzYO/fv3ty+++CLPWHO/HWUQZeKtt94yFFWUDTaER7HIPbYN71i9erWhrKQ7sGRteFfVf3Xu3NltZo/75Pz5852SS9rvv/9+1SON0J3vvvuuDR061B566CFr1KiRYSXEKjhwnTLPcckllzjFQbDvRwAAEABJREFUsF+/flatWjW755577I477ihJvYoQNmVFBERABERABERABESgAASkEIYA9bTTTjOsONtvv72NGTPGLrroIrvgggsKfjzwwAP28MMPu3RQBrECogiSvr8Saj7F88tw4YUXupVAWUAn6EB588P/6U9/yifZ9fcef/zxxtYerVu3NuZD/vGPf3RlJZ2ozddcn+ksvvz5z3+2mTNnum0+eF491lma99xzT6tVq5ZVr17dtt56a2POJ3tEYi38+uuvDYV/xowZWcSuINEkoFyJgAiIgAiIgAiIQDQJSCEM6bmccsopxjzCbbfd1u6++25jj71CHygTWJawnLFHIr+Zg5dvkf7whz84t0U//ygw7CGY7jj55JPXlxnlEEUGDvnmpUuXLkZ+brzxRjv00EOdYki+vvrqq3yjLsn9zDOdOHGiffPNN9axY0ejfCiByZnxPM+oS926dbP99tvP/vvf/xqrxWqRmWRS+i0CESSgLImACIiACIhAjAhIIQzxYbFICIJ+YpQoUShGYR4sEkMaO+20k1OWsA6effbZlq8yiOWtZ8+ezj0R91c/z3fddZcRf7oD650fvlOnTsb9zAUkPhRK8pvPgRsp6depUyefaEp+L3Xkvffesx9++MGwLG+66aaBecJdtF69esZqrKtWrbJ///vftnTp0sDwuiACIiACIlB8AkpRBERABOJOQAphSE+Q+Xq33367rVixwlnKtthiC0ORYosKXALDPA444ACX63333deIl093Io8/WOFw9Rw3bpzLN/PWiJvDV0DTRc8cSsJyMI+S+w8//HAjvqFDh1oYSmG69ONy7V//+pd999139otf/MJ4jp7npc365ptv7iyEBMIqunjxYr7qEAEREAEREAERKD4BpSgCZUlACmEIjxUFiEU/ENhRCtmSAoWIBWdSuQOGkGSoUZx33nk2duxY58aI4sbqpLjAVjUR9mfkfpRk5sG9+eabxt6CEyZMqGqUZXPfhx9+aGvXrjXmCTJokKlgNWrUsB133NEtLoO76KeffprpFl0XAREQAREQAREQARHIm0DlRCCFMM9njTKIZe3LL780lMEzzjjDNttsM2NvPYT5PKMv+O0og+PHjzdWCZ0+fbp1797dLWwSRsK77LKLWy2UeNu1a+f2Gqx0pfDbb7917qI1a9bMCrHneUY98jzPKZLcn9WNCiQCIiACIiACIiACIiACWRCQQmhmWXAKDMJecWwz8X//93+GRRAXv8DAEbuA9Q6LIIosFj32Adxkk01CzSVKIfGyn+AhhxxiQ4YMcdsohJpIjCJjJVHP8wxrcjbZxprIKqN8Ym2OU/3KpnwKIwIiIAIiIAIiIAIiUFoCUgjz4N+nTx97/fXXXQxt2rRx2wa4HzH4wyqgWOtQBlnJMt3iJmEUp1GjRm7TeSyFbJTPSpthxFuFOEp6y6677uossFiUWTk0U2ZYpOjtt992VkUszywklOkeXRcBERABERABERABERCBbAlIIcyWVFI4lEFW1USwZ+9BBP2kIJH9iTLIHMeVK1faQQcd5BY4KUZmsRbutttuhoKDxfCvf/1rMZKNVBrsL4gL6Pfff2+PP/64U/TSZZBFiubMmWOe59lWW21l7FeYLryuJRPQbxEQAREQAREQAREQgXQEpBCmoxNwLVEZZDEW9uCL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AoFq1aoZ2yywYijbLDC/sFWrVsaB1RAFCJfQv/zlL4aVbK+99kq4u3K+NmvWzMaOHeu4vPTSS/bll19WTuFVUhEQAREQAREQgegRUI5EIEsCUgizBFXJwapXr24HHnig4UrKqpqDBg1yC6msWbPGXnjhBZs8ebKhEFUyI8retGlT22qrrfhqZ555pr388svuu/6IgAiIgAiIgAiIgAiIQCEJ5BO3FMJ86FXYvTVq1LCWLVsacwOxgj344IPuN4pQhaEILO4dd9zhlOc33njDOnfubMyxDAysCyIgAiIgAiIgAiIgAiJQYgJSCEv8AHJPvvR3sHAM8+aaNGlS+sxELAeNGjWyKVOmGHsVvvXWW3bkkUcacy0jlk1lRwREQAREQAREQAREQAQcASmEDoP+iEB4BBo0aGBYT5lb+c4777i9CpcsWVK1BHSXCIiACIiACIiACIiACBSQgBTCAsJV1JVLoG7dusa2HSyy8/777zs30vfee69ygajkWRFQIBEQAREQAREQAREoNgEphMUmrvQqhsD2229vc+fOtT333NPYtqN+/foblf3TTz+1kSNHOtdSwmFdxLLYrVs3+/Of/2wrVqzY6B7/BPsddurUydjrkbmL/vlUnxMnTrRf/epXzlpJnlKF0TkREIGiElBiIiACIiACIhAJAlIII/EYlIlyJbD11lvb/PnznTLGFh6J5URJY5Geyy67zGbMmGEsRIM1kdVJp02bZueff75b2ZUtPxLv879/99139sUXX9jy5ctt1apV/umUn99884199tln9vnnn9u3336bMoxOioAIiIAIFIqA4hUBERCB6BKQQhjdZ6OclQmB2rVrW7IyiEWvV69ehhvpLrvsYmPGjLH//Oc/TmlbtGiRDRkyxGrVquW29yAcCmOZ4FAxREAEREAERKC8Cah0IhAzAlIIY/bAlN34E3j++edt4MCB9vXXX9tvf/tbt5fj6aefbqxQikWRFVwHDBhgjz32mHM3Xbx4sV1++eWG9TD+pVcJREAEREAEREAERKB8CJRDSaQQlsNTVBliRWDo0KG2cuVKq1evnk2aNMk233xz8zxvgzJUr17dmjdvbrfccottuummzp307rvv3iCMfoiACIiACIiACIiACIhAvgSkEGZNUAFFIH8CuIXOnj3bmP/Xu3dvq1OnTmCkm2yyiVMKO3fu7OYJPvroo06RDLxBF0RABERABERABERABEQgRwJSCHMEpuAVQqBAxZw3b55b1MXzPDv22GM3sgwmJ7vlllta+/bt7YcffnDzC1955ZXkIPotAiIgAiIgAiIgAiIgAlUmIIWwyuh0owjkToD5gN9//71tscUWtttuu2WMAHfRpk2bunDMOVy6dKn7nvhn7dq1znLIFhZBx1dffWWkm3ifvv9MQN9EQAREQAREQAREoFIJSCGs1CevcpeEANtEoMCxeEw2GWAuIcojn7iZotgl3/fhhx8aW1ew72HQceGFF9o777yTfKt+i0AlElCZRUAEREAEREAEEghIIUyAoa8iUGgCnuc5N1GUwmzT8sN6nrfR9hW27h/KInMRWaU06Nhuu+2MOYnrguu/CIiACFQQARVVBERABEQgEwEphJkI6boIhEgAC57neW6RmDVr1mSMGavg8uXLnbtnjRo1LJVlcccdd3QWwrffftuCjuuuu84aNmyYMT0FEAEREAEREIHYElDGRUAEqkRACmGVsOkmEagagWbNmjlLHfMBX331VbdYTLqYVq1aZS+99JILUqtWrazmHbrA+iMCIiACIiACIiACZUxARQuPgBTC8FgqJhHISOCAAw5wVj7P82zy5Mlu+4mgm1hZdNmyZfbYY485JbJBgwa2++67BwXXeREQAREQAREQAREQARHImUAMFMKcy6QbRCCyBHbaaSfr2LGj4f45YcIEW7hwYaCVcOXKlTZz5kx34BbKNhW/+MUvIls2ZUwEREAEREAEREAERCB+BKQQxu+ZlXeOK6B0F1xwge2xxx6G9a9379727LPP2ieffGLMKWQBmdWrV9u7775rDz/8sA0dOtQtQnPQQQdZly5dKoCOiigCIiACIiACIiACIlBMAlIIi0lbaYnAOgLNmze3K664wvbee297/vnn7eSTT7abbrrJ7r//fuceet9999mwYcPs/PPPt48//tjatWtn/fv3tx122GHd3eX1X6URAREQAREQAREQAREoLQEphKXlr9QrlEDXrl1txIgRduSRRzr30dtuu81OOeUU507aq1cvmzp1qtWrV8+6d+9uw4cPt1//+tcVSkrFLiMCKooIiIAIiIAIiEAECUghjOBDUZYqg8ARRxxhzCO86qqrDCWwW7duzi0UxRDrIAojlsMWLVqkBMIWFK1btzbiady4ccow/km2nOjQoYOzNrInoX9enyIgAiJQGAKKVQREQAREIC4EpBDG5Ukpn2VJAKUOl1H2CUQ5nDJlio0dO9YGDx7sFL3NNtsssNysOHr11Ve78Cw4Exhw3YX27dvb6NGjbdSoUbbPPvusO6P/IiACIiACIhASAUUjAiIQawJSCGP9+JR5ERABERABERABERABESgeAaVUfgSkEJbfM1WJREAEREAEREAEREAEREAERCArAmkUwqzuVyAREAEREAEREAEREAEREAEREIGYEpBCGNMHF3q2FaEIiIAIiIAIiIAIiIAIiEDFEZBCWHGPXAUWATMxEAEREAEREAEREAEREAEISCGEgg4REAERKF8CKpkIiIAIiIAIiIAIBBKQQhiIRhdEQAREQAREIG4ElF8REAEREAERyI2AFMLceCm0CIiACIiACIiACESDgHIhAiIgAiEQkEIYAkRFIQIiIAIiIAIiIAIiIAKFJKC4RaBQBKQQFoqs4hUBERABERABERABERABERCB3AkU9Q4phEXFrcREQAREQAREQAREQAREQAREIDoEpBCW+lkofREQAREQAREQAREQAREQAREoEQEphCUCr2Qrk4BKLQIiIAIiIAIiIAIiIAJRIiCFMEpPQ3kRAREoJwIqiwiIgAiIgAiIgAhEnoAUwsg/ImVQBERABEQg+gSUQxEQAREQARGIJwEphPF8bsq1CIiACIiACIhAqQgoXREQAREoIwJSCMvoYaooIiACIiACIiACIiAC4RJQbCJQ7gSkEJb7E1b5REAEREAEREAEREAEREAEsiFQkWGkEFbkY1ehRUAEREAEREAEREAEREAERMCschVCPX0REAEREAEREAEREAEREAERqHACUggrvAJUSvFVThEQAREQAREQAREQAREQgY0JSCHcmInOiIAIxJuAci8CIiACIiACIiACIpAlASmEWYJSMBEQAREQgSgSUJ5EQAREQAREQATyISCFMB96ulcEREAEREAERKB4BJSSCIiACIhA6ASkEIaOVBGKgAiIgFwA3G0AAACDSURBVAiIgAiIgAjkS0D3i4AIFIeAFMLicFYqIiACIiACIiACIiACIiACqQnobAkJSCEsIXwlLQIiIAIiIAIiIAIiIAIiIAKlJFB8hbCUpVXaIiACIiACIiACIiACIiACIiAC6wlIIVyPQl8KQUBxioAIiIAIiIAIiIAIiIAIRJfA/wMAAP//hwoT2QAAAAZJREFUAwBzcadO6vkgwgAAAABJRU5ErkJggg=="
+     }
+    }
+   ]
+  }
+ ]
+}
